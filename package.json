@@ -1,0 +1,40 @@
+{
+  "name": "communication-journal-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "homepage": "https://zbl1637.github.io/communication-journal-tracker/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZBL1637/communication-journal-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZBL1637/communication-journal-tracker/issues"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build && node scripts/postbuild.mjs",
+    "preview": "vite preview",
+    "check": "tsc --noEmit",
+    "data:bootstrap": "tsx scripts/bootstrap.ts",
+    "data:incremental": "tsx scripts/update.ts"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "dayjs": "^1.11.13",
+    "fast-xml-parser": "^5.0.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.0",
+    "recharts": "^2.15.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "@types/node": "^22.13.10",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2",
+    "vite": "^6.2.2"
+  }
+}

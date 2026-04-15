@@ -1,0 +1,63 @@
+name: Bootstrap Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: Days to look back during bootstrap
+        required: false
+        default: "180"
+      limit_per_journal:
+        description: Optional limit per journal for testing
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run bootstrap pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+        run: |
+          if [ -n "${{ github.event.inputs.limit_per_journal }}" ]; then
+            npm run data:bootstrap -- --days=${{ github.event.inputs.days_back }} --limit=${{ github.event.inputs.limit_per_journal }}
+          else
+            npm run data:bootstrap -- --days=${{ github.event.inputs.days_back }}
+          fi
+
+      - name: Type-check and build
+        env:
+          VITE_APP_BASE: /${{ github.event.repository.name }}/
+        run: npm run build
+
+      - name: Commit generated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then
+            echo "No data changes detected."
+          else
+            git commit -m "chore(data): bootstrap communication journal dataset"
+            git push
+          fi

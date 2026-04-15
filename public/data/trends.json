@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-04-15T12:00:00.000Z",
+  "snapshots": [
+    {
+      "key": "7d",
+      "label_en": "Last 7 days",
+      "label_zh": "Last 7 days",
+      "paperCount": 3,
+      "overview_en": "Recent papers cluster around AI-and-work narratives, selective news use, and climate communication assets built for social platforms. The most common methods are content analysis, survey research, and experiments.",
+      "overview_zh": "Recent papers cluster around AI-and-work narratives, selective news use, and climate communication assets built for social platforms. The most common methods are content analysis, survey research, and experiments.",
+      "hot_topics_en": ["artificial intelligence", "news avoidance", "climate communication", "visual framing", "labor communication"],
+      "hot_topics_zh": ["artificial intelligence", "news avoidance", "climate communication", "visual framing", "labor communication"],
+      "high_frequency_keywords": [
+        { "label_en": "artificial intelligence", "label_zh": "artificial intelligence", "count": 1 },
+        { "label_en": "news avoidance", "label_zh": "news avoidance", "count": 1 },
+        { "label_en": "climate communication", "label_zh": "climate communication", "count": 1 },
+        { "label_en": "visual framing", "label_zh": "visual framing", "count": 1 },
+        { "label_en": "labor communication", "label_zh": "labor communication", "count": 1 }
+      ],
+      "high_frequency_methods": [
+        { "label_en": "content analysis", "label_zh": "content analysis", "count": 2 },
+        { "label_en": "survey", "label_zh": "survey", "count": 1 },
+        { "label_en": "experiment", "label_zh": "experiment", "count": 1 },
+        { "label_en": "interview", "label_zh": "interview", "count": 1 }
+      ]
+    },
+    {
+      "key": "30d",
+      "label_en": "Last 30 days",
+      "label_zh": "Last 30 days",
+      "paperCount": 4,
+      "overview_en": "Over the past month, communication research has focused on platform governance, public trust, AI-and-labor anxiety, and why people step away from the news. Mixed-method designs dominate, with case studies and computational analysis appearing more often.",
+      "overview_zh": "Over the past month, communication research has focused on platform governance, public trust, AI-and-labor anxiety, and why people step away from the news. Mixed-method designs dominate, with case studies and computational analysis appearing more often.",
+      "hot_topics_en": ["platform governance", "news avoidance", "artificial intelligence", "health communication", "climate communication"],
+      "hot_topics_zh": ["platform governance", "news avoidance", "artificial intelligence", "health communication", "climate communication"],
+      "high_frequency_keywords": [
+        { "label_en": "platform governance", "label_zh": "platform governance", "count": 2 },
+        { "label_en": "news avoidance", "label_zh": "news avoidance", "count": 1 },
+        { "label_en": "artificial intelligence", "label_zh": "artificial intelligence", "count": 1 },
+        { "label_en": "health communication", "label_zh": "health communication", "count": 1 },
+        { "label_en": "climate communication", "label_zh": "climate communication", "count": 1 }
+      ],
+      "high_frequency_methods": [
+        { "label_en": "content analysis", "label_zh": "content analysis", "count": 2 },
+        { "label_en": "experiment", "label_zh": "experiment", "count": 2 },
+        { "label_en": "survey", "label_zh": "survey", "count": 2 },
+        { "label_en": "case study", "label_zh": "case study", "count": 1 }
+      ]
+    },
+    {
+      "key": "180d",
+      "label_en": "Last 6 months",
+      "label_zh": "Last 6 months",
+      "paperCount": 6,
+      "overview_en": "Across the last six months, the strongest themes are platform governance, public trust, science reporting transparency, and audience adaptation to information overload. Researchers repeatedly combine experiments, surveys, content analysis, and case-study logic.",
+      "overview_zh": "Across the last six months, the strongest themes are platform governance, public trust, science reporting transparency, and audience adaptation to information overload. Researchers repeatedly combine experiments, surveys, content analysis, and case-study logic.",
+      "hot_topics_en": ["platform governance", "science journalism", "news avoidance", "health communication", "artificial intelligence"],
+      "hot_topics_zh": ["platform governance", "science journalism", "news avoidance", "health communication", "artificial intelligence"],
+      "high_frequency_keywords": [
+        { "label_en": "platform governance", "label_zh": "platform governance", "count": 2 },
+        { "label_en": "science journalism", "label_zh": "science journalism", "count": 1 },
+        { "label_en": "news avoidance", "label_zh": "news avoidance", "count": 1 },
+        { "label_en": "health communication", "label_zh": "health communication", "count": 1 },
+        { "label_en": "artificial intelligence", "label_zh": "artificial intelligence", "count": 1 },
+        { "label_en": "preprints", "label_zh": "preprints", "count": 1 }
+      ],
+      "high_frequency_methods": [
+        { "label_en": "content analysis", "label_zh": "content analysis", "count": 2 },
+        { "label_en": "experiment", "label_zh": "experiment", "count": 3 },
+        { "label_en": "survey", "label_zh": "survey", "count": 3 },
+        { "label_en": "case study", "label_zh": "case study", "count": 1 },
+        { "label_en": "interview", "label_zh": "interview", "count": 1 }
+      ]
+    }
+  ],
+  "journal_bias": [
+    {
+      "journalName": "New Media & Society",
+      "journalSlug": "new-media-and-society",
+      "paperCount": 2,
+      "topic_bias_en": ["platform governance", "artificial intelligence", "labor communication", "political communication"],
+      "topic_bias_zh": ["platform governance", "artificial intelligence", "labor communication", "political communication"],
+      "method_bias_en": ["content analysis", "discourse analysis", "case study", "computational analysis"],
+      "method_bias_zh": ["content analysis", "discourse analysis", "case study", "computational analysis"]
+    },
+    {
+      "journalName": "Communication Research",
+      "journalSlug": "communication-research",
+      "paperCount": 2,
+      "topic_bias_en": ["news avoidance", "health communication", "audience behavior", "trust"],
+      "topic_bias_zh": ["news avoidance", "health communication", "audience behavior", "trust"],
+      "method_bias_en": ["survey", "interview", "experiment"],
+      "method_bias_zh": ["survey", "interview", "experiment"]
+    },
+    {
+      "journalName": "Science Communication",
+      "journalSlug": "science-communication",
+      "paperCount": 2,
+      "topic_bias_en": ["science journalism", "climate communication", "preprints", "visual framing"],
+      "topic_bias_zh": ["science journalism", "climate communication", "preprints", "visual framing"],
+      "method_bias_en": ["experiment", "content analysis", "survey"],
+      "method_bias_zh": ["experiment", "content analysis", "survey"]
+    }
+  ],
+  "high_frequency_keywords": [
+    { "label_en": "platform governance", "label_zh": "platform governance", "count": 2 },
+    { "label_en": "artificial intelligence", "label_zh": "artificial intelligence", "count": 1 },
+    { "label_en": "news avoidance", "label_zh": "news avoidance", "count": 1 },
+    { "label_en": "health communication", "label_zh": "health communication", "count": 1 },
+    { "label_en": "science journalism", "label_zh": "science journalism", "count": 1 },
+    { "label_en": "preprints", "label_zh": "preprints", "count": 1 },
+    { "label_en": "climate communication", "label_zh": "climate communication", "count": 1 }
+  ],
+  "high_frequency_methods": [
+    { "label_en": "experiment", "label_zh": "experiment", "count": 3 },
+    { "label_en": "survey", "label_zh": "survey", "count": 3 },
+    { "label_en": "content analysis", "label_zh": "content analysis", "count": 2 },
+    { "label_en": "case study", "label_zh": "case study", "count": 1 },
+    { "label_en": "interview", "label_zh": "interview", "count": 1 }
+  ]
+}

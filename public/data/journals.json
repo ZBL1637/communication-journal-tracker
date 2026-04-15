@@ -1,0 +1,44 @@
+[
+  {
+    "name": "New Media & Society",
+    "slug": "new-media-and-society",
+    "issn": "1461-4448",
+    "publisher": "SAGE Publications",
+    "homepage": "https://journals.sagepub.com/home/nms",
+    "tocUrl": "https://journals.sagepub.com/toc/nmsa/current",
+    "rssUrl": "https://journals.sagepub.com/action/showFeed?jc=nms&type=axatoc&feed=rss",
+    "sourceType": "hybrid",
+    "paperCount": 2,
+    "latestPublishedAt": "2026-04-14T00:00:00.000Z",
+    "topKeywordsEn": ["artificial intelligence", "platform governance", "labor communication", "political communication"],
+    "topKeywordsZh": ["artificial intelligence", "platform governance", "labor communication", "political communication"]
+  },
+  {
+    "name": "Communication Research",
+    "slug": "communication-research",
+    "issn": "0093-6502",
+    "publisher": "SAGE Publications",
+    "homepage": "https://journals.sagepub.com/home/crx",
+    "tocUrl": "https://journals.sagepub.com/toc/crxa/current",
+    "rssUrl": "https://journals.sagepub.com/action/showFeed?jc=crx&type=axatoc&feed=rss",
+    "sourceType": "hybrid",
+    "paperCount": 2,
+    "latestPublishedAt": "2026-04-06T00:00:00.000Z",
+    "topKeywordsEn": ["news avoidance", "audience behavior", "health communication", "influencers"],
+    "topKeywordsZh": ["news avoidance", "audience behavior", "health communication", "influencers"]
+  },
+  {
+    "name": "Science Communication",
+    "slug": "science-communication",
+    "issn": "1075-5470",
+    "publisher": "SAGE Publications",
+    "homepage": "https://journals.sagepub.com/home/scx",
+    "tocUrl": "https://journals.sagepub.com/toc/scxa/current",
+    "rssUrl": "https://journals.sagepub.com/action/showFeed?jc=scx&type=axatoc&feed=rss",
+    "sourceType": "hybrid",
+    "paperCount": 2,
+    "latestPublishedAt": "2026-04-10T00:00:00.000Z",
+    "topKeywordsEn": ["climate communication", "science journalism", "preprints", "visual framing"],
+    "topKeywordsZh": ["climate communication", "science journalism", "preprints", "visual framing"]
+  }
+]

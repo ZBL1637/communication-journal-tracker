@@ -1,0 +1,47 @@
+[
+  {
+    "name": "New Media & Society",
+    "slug": "new-media-and-society",
+    "issn": "1461-4448",
+    "publisher": "SAGE Publications",
+    "homepage": "https://journals.sagepub.com/home/nms",
+    "tocUrl": "https://journals.sagepub.com/toc/nmsa/current",
+    "rssUrl": "https://journals.sagepub.com/action/showFeed?jc=nms&type=axatoc&feed=rss",
+    "sourceType": "hybrid",
+    "tocArticleSelectors": [
+      "a[href*='/doi/']",
+      ".issue-item__title a",
+      ".articleEntry a"
+    ]
+  },
+  {
+    "name": "Communication Research",
+    "slug": "communication-research",
+    "issn": "0093-6502",
+    "publisher": "SAGE Publications",
+    "homepage": "https://journals.sagepub.com/home/crx",
+    "tocUrl": "https://journals.sagepub.com/toc/crxa/current",
+    "rssUrl": "https://journals.sagepub.com/action/showFeed?jc=crx&type=axatoc&feed=rss",
+    "sourceType": "hybrid",
+    "tocArticleSelectors": [
+      "a[href*='/doi/']",
+      ".issue-item__title a",
+      ".articleEntry a"
+    ]
+  },
+  {
+    "name": "Science Communication",
+    "slug": "science-communication",
+    "issn": "1075-5470",
+    "publisher": "SAGE Publications",
+    "homepage": "https://journals.sagepub.com/home/scx",
+    "tocUrl": "https://journals.sagepub.com/toc/scxa/current",
+    "rssUrl": "https://journals.sagepub.com/action/showFeed?jc=scx&type=axatoc&feed=rss",
+    "sourceType": "hybrid",
+    "tocArticleSelectors": [
+      "a[href*='/doi/']",
+      ".issue-item__title a",
+      ".articleEntry a"
+    ]
+  }
+]
