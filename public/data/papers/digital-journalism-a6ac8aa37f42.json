@@ -1,0 +1,63 @@
+{
+  "id": "digital-journalism-a6ac8aa37f42",
+  "doi": "10.1080/21670811.2026.2636912",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2026.2636912?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-03-12T01:36:58.000Z",
+  "authors": [
+    "Jonas C. L. Valente Renata de Oliveira Miranda Gomes Fernando Oliveira Paulino a Oxford Internet Institute",
+    "Oxford",
+    "UKb Commnications",
+    "University of Illinois Urbana-Champaign",
+    "Champaign",
+    "IL",
+    "USAc Commnications",
+    "Universidade de Brasilia",
+    "Brasilia",
+    "Brazil"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:54:26.340Z",
+  "language": "en",
+  "raw_title": "Efforts for Counterbalancing Platform Power Through Regulation: Online News Bills and Platform Dependency Disentanglement Lawmaking Initiatives in Brazil Between 2019 and 2025",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "Efforts for Counterbalancing Platform Power Through Regulation: Online News Bills and Platform Dependency Disentanglement Lawmaking Initiatives in Brazil Between 2019 and 2025",
+  "title_zh": "通过监管平衡平台权力的努力：2019年至2025年巴西的在线新闻法案与平台依赖解绑立法倡议",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "platform regulation",
+    "digital journalism",
+    "Brazilian legislation",
+    "news media",
+    "platform dependency",
+    "lawmaking initiatives",
+    "2019-2025"
+  ],
+  "inferred_keywords_zh": [
+    "平台监管",
+    "数字新闻",
+    "巴西立法",
+    "新闻媒体",
+    "平台依赖",
+    "立法倡议",
+    "2019-2025"
+  ],
+  "plain_summary_zh": "这项研究探讨了巴西在2019年至2025年间如何通过立法来减少新闻媒体对大型数字平台的依赖，并平衡平台权力。",
+  "plain_summary_en": "This research examines how Brazil has used legislation from 2019 to 2025 to reduce news media dependency on large digital platforms and balance platform power.",
+  "research_direction_zh": "研究数字平台监管与新闻媒体独立性之间的立法互动，特别是在新兴市场国家的政策制定。",
+  "research_direction_en": "Investigating legislative interactions between digital platform regulation and news media independence, particularly in emerging market policy-making contexts.",
+  "method_tags_zh": [
+    "案例研究",
+    "政策分析"
+  ],
+  "method_tags_en": [
+    "case study",
+    "policy analysis"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "digital-journalism-13286a833c7a",
+  "doi": "10.1080/21670811.2025.2562143",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2562143?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2025-09-23T08:48:15.000Z",
+  "authors": [
+    "Dominika Betakova Hajo Boomgaarden Sophie Lecheler a Department of Communication",
+    "University of Vienna",
+    "Vienna",
+    "Austriab Centre for Journalism",
+    "Department of Political Science and Public Management",
+    "University of Southern Denmark",
+    "Odense",
+    "Denmark"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:56:44.108Z",
+  "language": "en",
+  "raw_title": "The Role of Choice Architecture in Mitigating News Avoidance",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "The Role of Choice Architecture in Mitigating News Avoidance",
+  "title_zh": "选择架构在缓解新闻回避中的作用",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "choice architecture",
+    "news avoidance",
+    "digital journalism",
+    "media consumption",
+    "behavioral design"
+  ],
+  "inferred_keywords_zh": [
+    "选择架构",
+    "新闻回避",
+    "数字新闻",
+    "媒体消费",
+    "行为设计"
+  ],
+  "plain_summary_zh": "这项研究探讨了如何通过设计新闻平台的选择方式（选择架构）来减少人们回避新闻的现象。它关注数字新闻环境中，通过调整呈现方式影响用户行为，从而鼓励更多人接触新闻。",
+  "plain_summary_en": "This research explores how designing the way choices are presented on news platforms (choice architecture) can reduce news avoidance. It focuses on influencing user behavior in digital news environments to encourage more people to engage with news.",
+  "research_direction_zh": "数字新闻环境中的行为干预研究，关注通过界面设计和信息呈现策略改善公众新闻消费习惯。",
+  "research_direction_en": "Behavioral intervention research in digital news environments, focusing on improving public news consumption habits through interface design and information presentation strategies.",
+  "method_tags_zh": [
+    "实验",
+    "调查"
+  ],
+  "method_tags_en": [
+    "experiment",
+    "survey"
+  ]
+}

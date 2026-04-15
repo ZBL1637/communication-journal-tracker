@@ -1,0 +1,56 @@
+{
+  "id": "policy-and-internet-480de90fef15",
+  "doi": "10.1002/poi3.70022",
+  "url": "https://doi.org/10.1002/poi3.70022",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "authors": [
+    "Shih‐chan Dai"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:15:32.593Z",
+  "language": "en",
+  "raw_title": "Conceptualizing Digital Democracy: A Policy‐Oriented Approach Through Computational Text Analysis",
+  "raw_abstract": "ABSTRACT This article proposes an empirically grounded conceptualization of digital democracy by analyzing policy documents from two countries (the United States and the United Kingdom) and two international organizations (the UN and the EU). Moving beyond idealized visions, I employ a policy‐oriented approach, utilizing computational text analysis (BERTopic and keyATM models) to identify salient themes and nuances in how digital democracy is framed and addressed in diverse policy contexts. I then compare these computationally derived insights with the established coding scheme of the Digital Society Project (DSP), identifying areas of convergence and divergence. This comparative analysis informs concrete recommendations for revising and expanding existing coding frameworks to better capture the evolving characteristics and policy dimensions of digital democracy across different national and international settings. The findings contribute to a more nuanced and data‐driven understanding of digital democracy's conceptualization, offering insights for both academic research and policy design.",
+  "raw_keywords": [],
+  "title_en": "Conceptualizing Digital Democracy: A Policy‐Oriented Approach Through Computational Text Analysis",
+  "title_zh": "概念化数字民主：通过计算文本分析的政策导向方法",
+  "abstract_en": "ABSTRACT This article proposes an empirically grounded conceptualization of digital democracy by analyzing policy documents from two countries (the United States and the United Kingdom) and two international organizations (the UN and the EU). Moving beyond idealized visions, I employ a policy‐oriented approach, utilizing computational text analysis (BERTopic and keyATM models) to identify salient themes and nuances in how digital democracy is framed and addressed in diverse policy contexts. I then compare these computationally derived insights with the established coding scheme of the Digital Society Project (DSP), identifying areas of convergence and divergence. This comparative analysis informs concrete recommendations for revising and expanding existing coding frameworks to better capture the evolving characteristics and policy dimensions of digital democracy across different national and international settings. The findings contribute to a more nuanced and data‐driven understanding of digital democracy's conceptualization, offering insights for both academic research and policy design.",
+  "abstract_zh": "摘要 本文通过分析来自两个国家（美国和英国）和两个国际组织（联合国和欧盟）的政策文件，提出了一个基于实证的数字民主概念化方法。超越理想化的愿景，我采用了一种政策导向的方法，利用计算文本分析（BERTopic和keyATM模型）来识别数字民主在不同政策背景下如何被框架化和处理的重要主题和细微差别。然后，我将这些通过计算得出的见解与数字社会项目（DSP）的既定编码方案进行比较，识别出趋同和分歧的领域。这种比较分析为修订和扩展现有编码框架提供了具体建议，以更好地捕捉数字民主在不同国家和国际环境中的演变特征和政策维度。这些发现有助于对数字民主的概念化提供更细致和数据驱动的理解，为学术研究和政策设计提供见解。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "digital democracy",
+    "computational text analysis",
+    "policy analysis",
+    "BERTopic",
+    "keyATM",
+    "Digital Society Project",
+    "comparative study",
+    "conceptualization"
+  ],
+  "inferred_keywords_zh": [
+    "数字民主",
+    "计算文本分析",
+    "政策分析",
+    "BERTopic",
+    "keyATM",
+    "数字社会项目",
+    "比较研究",
+    "概念化"
+  ],
+  "plain_summary_zh": "这篇文章研究数字民主的概念，通过分析美国和英国以及联合国和欧盟的政策文件，使用计算机工具找出数字民主在政策中的主要话题和细节。然后，将计算机分析的结果与一个现有项目（数字社会项目）的编码方案比较，找出相同和不同的地方。基于比较，文章提出改进现有编码框架的建议，以更好地理解数字民主在不同地方的变化。这有助于更准确地理解数字民主，对研究和政策制定都有帮助。",
+  "plain_summary_en": "This article explores the concept of digital democracy by analyzing policy documents from the US, UK, UN, and EU using computer tools to identify key topics and details about how digital democracy is discussed in policies. It then compares these computer-generated insights with an existing project's coding scheme (Digital Society Project) to find similarities and differences. Based on the comparison, the article suggests ways to improve existing coding frameworks to better understand how digital democracy evolves in different contexts. This helps provide a more accurate understanding of digital democracy, useful for both research and policy-making.",
+  "research_direction_zh": "数字民主的实证概念化研究，通过跨国家和国际组织的政策文本分析，结合计算方法和现有框架比较，推动数字民主理论和政策工具的完善。",
+  "research_direction_en": "Empirical conceptualization of digital democracy through cross-national and international policy text analysis, integrating computational methods and comparison with existing frameworks to advance digital democracy theory and policy tools.",
+  "method_tags_zh": [
+    "内容分析",
+    "比较研究"
+  ],
+  "method_tags_en": [
+    "content analysis",
+    "comparative study"
+  ]
+}

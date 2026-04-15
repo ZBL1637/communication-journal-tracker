@@ -1,0 +1,68 @@
+{
+  "id": "political-communication-7beb5832b7e4",
+  "doi": "10.1080/10584609.2026.2618486",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2618486?af=R",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-02-20T09:52:42.000Z",
+  "authors": [
+    "Cologne",
+    "Germanyb Department of Communication and Technology",
+    "National Yang Ming Chiao Tung University",
+    "Hsinchu",
+    "Taiwanc School of Social Sciences and Technology",
+    "Science and Crisis Communication",
+    "Technical University of Munich",
+    "Munich",
+    "Germanyd Government Department",
+    "Dartmouth College",
+    "Hanover",
+    "USAe Political Science Department",
+    "Tulane University",
+    "New Orleans",
+    "USAf Section of Data Science",
+    "IT University of Copenhagen",
+    "Copenhagen",
+    "Denmarkg Department of Computer Science",
+    "University of Copenhagen"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:44:28.494Z",
+  "language": "en",
+  "raw_title": "Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research",
+  "title_zh": "更新、更大、更好？对传播研究中不加反思采用大语言模型的批判",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "large language models",
+    "communication research",
+    "methodological critique",
+    "AI adoption",
+    "research methodology"
+  ],
+  "inferred_keywords_zh": [
+    "大语言模型",
+    "传播研究",
+    "方法论批判",
+    "人工智能采用",
+    "研究方法"
+  ],
+  "plain_summary_zh": "这篇文章批评了传播研究领域不加思考地采用大语言模型的做法。作者认为，仅仅因为模型更新、更大就认为它们更好，这种想法是有问题的。文章呼吁研究者在使用这些工具时要更加谨慎和有批判性。",
+  "plain_summary_en": "This article criticizes the unreflective adoption of large language models in communication research. The authors argue that assuming newer and larger models are automatically better is problematic. The paper calls for more careful and critical use of these tools by researchers.",
+  "research_direction_zh": "探讨人工智能工具在社会科学研究中的合理应用，强调方法论反思和批判性评估的重要性，推动传播研究方法的创新发展。",
+  "research_direction_en": "Examining the appropriate application of AI tools in social science research, emphasizing methodological reflection and critical evaluation, and promoting innovation in communication research methods.",
+  "method_tags_zh": [
+    "文献分析",
+    "理论批判"
+  ],
+  "method_tags_en": [
+    "literature analysis",
+    "theoretical critique"
+  ]
+}

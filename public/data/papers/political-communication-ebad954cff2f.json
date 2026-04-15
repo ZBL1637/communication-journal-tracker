@@ -1,0 +1,57 @@
+{
+  "id": "political-communication-ebad954cff2f",
+  "doi": "10.1080/10584609.2026.2613661",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2613661?af=R",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-02-04T12:10:59.000Z",
+  "authors": [
+    "Yuehong Cassandra Tai Yu-Ru Lin Bruce A. Desmarais a Center for Social Data Analytics",
+    "Pennsylvania State University",
+    "United Statesb School of Computing and Information",
+    "University of Pittsburgh",
+    "United States",
+    "Pittsburghc Political Science"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:43:47.645Z",
+  "language": "en",
+  "raw_title": "Elected officials’ Online Sharing of Misinformation: Institutional and Ideological Checks",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "Elected officials’ Online Sharing of Misinformation: Institutional and Ideological Checks",
+  "title_zh": "民选官员在线分享错误信息：制度与意识形态制约",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "misinformation",
+    "elected officials",
+    "social media",
+    "political communication",
+    "institutional constraints",
+    "ideological factors"
+  ],
+  "inferred_keywords_zh": [
+    "错误信息",
+    "民选官员",
+    "社交媒体",
+    "政治传播",
+    "制度约束",
+    "意识形态因素"
+  ],
+  "plain_summary_zh": "这项研究探讨了民选官员在社交媒体上分享错误信息的行为，并分析了制度和意识形态因素如何影响这种行为。研究发现，某些制度安排和意识形态倾向可能会限制或促进官员传播不实信息。",
+  "plain_summary_en": "This study examines how elected officials share misinformation on social media and analyzes how institutional and ideological factors influence this behavior. The research finds that certain institutional arrangements and ideological tendencies may either constrain or facilitate the spread of false information by officials.",
+  "research_direction_zh": "政治传播中错误信息传播机制研究，特别关注权力持有者的行为模式及其制约因素。",
+  "research_direction_en": "Research on misinformation dissemination mechanisms in political communication, with particular focus on behavior patterns of power holders and their constraints.",
+  "method_tags_zh": [
+    "内容分析",
+    "案例研究"
+  ],
+  "method_tags_en": [
+    "content analysis",
+    "case study"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "digital-journalism-000cb01f7916",
+  "doi": "10.1080/21670811.2025.2493759",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2493759?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2025-05-01T11:01:07.000Z",
+  "authors": [
+    "Dominic Lammar Maja Horst Ruth Müller a Department of Science",
+    "Technology and Society",
+    "School of Social Sciences and Technology",
+    "Technical University of Munich",
+    "Arcisstraße 21",
+    "Munich 80333",
+    "Germanyb Institute for Advanced Study",
+    "Lichtenbergstrasse 2 a, 85748Garching",
+    "Germanyc Dean of Arts",
+    "Aarhus University",
+    "Ndr Ringgade 1",
+    "Aarhus8000",
+    "Denmarkd Department of Economics and Policy",
+    "School of Management",
+    "Arcisstraße 21, 80333 Munich",
+    "Germany"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:44:38.957Z",
+  "language": "en",
+  "raw_title": "AI in the German Media: Narratives of AI-in-Particular and AI-in-General in German Media Reporting About Artificial Intelligence",
+  "raw_abstract": "Volume 14, Issue 2, March 2026 .",
+  "raw_keywords": [],
+  "title_en": "AI in the German Media: Narratives of AI-in-Particular and AI-in-General in German Media Reporting About Artificial Intelligence",
+  "title_zh": "德国媒体中的AI：德国媒体关于人工智能报道中的特定AI与一般AI叙事",
+  "abstract_en": "Volume 14, Issue 2, March 2026 .",
+  "abstract_zh": "第14卷，第2期，2026年3月。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "artificial intelligence",
+    "media reporting",
+    "narratives",
+    "German media",
+    "content analysis"
+  ],
+  "inferred_keywords_zh": [
+    "人工智能",
+    "媒体报道",
+    "叙事",
+    "德国媒体",
+    "内容分析"
+  ],
+  "plain_summary_zh": "这项研究分析了德国媒体如何报道人工智能，特别关注媒体如何区分报道具体的AI应用（如特定技术或产品）和一般性的AI概念（如AI的整体影响或伦理问题）。",
+  "plain_summary_en": "This study examines how German media reports on artificial intelligence, focusing specifically on how media distinguishes between reporting on specific AI applications (like particular technologies or products) and general AI concepts (such as overall impacts or ethical issues).",
+  "research_direction_zh": "媒体与传播研究中的叙事分析，特别关注技术报道中的框架构建和公众理解。",
+  "research_direction_en": "Narrative analysis in media and communication studies, particularly focusing on framing and public understanding in technology reporting.",
+  "method_tags_zh": [
+    "内容分析"
+  ],
+  "method_tags_en": [
+    "content analysis"
+  ]
+}

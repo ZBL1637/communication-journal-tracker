@@ -1,0 +1,50 @@
+{
+  "id": "journal-of-communication-e01ae07b5f9c",
+  "doi": "10.1093/joc/jqaf045",
+  "url": "https://doi.org/10.1093/joc/jqaf045",
+  "journalName": "JOURNAL OF COMMUNICATION",
+  "journalSlug": "journal-of-communication",
+  "issn": "0021-9916",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "authors": [
+    "Sara Bannerman"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T22:37:29.407Z",
+  "language": "en",
+  "raw_title": "How to fight the data grab",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "How to fight the data grab",
+  "title_zh": "如何对抗数据掠夺",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "data privacy",
+    "digital rights",
+    "data governance",
+    "resistance strategies",
+    "communication policy"
+  ],
+  "inferred_keywords_zh": [
+    "数据隐私",
+    "数字权利",
+    "数据治理",
+    "抵抗策略",
+    "传播政策"
+  ],
+  "plain_summary_zh": "这篇文章探讨了如何应对大规模数据收集和利用的问题，为普通读者解释了数据掠夺的概念以及个人和社会可以采取的应对措施。",
+  "plain_summary_en": "This article explores how to address the issue of large-scale data collection and exploitation, explaining the concept of data grabbing and the countermeasures individuals and society can take.",
+  "research_direction_zh": "数字时代的数据权利与治理研究，关注个人和社会对数据控制的策略与政策应对。",
+  "research_direction_en": "Research on data rights and governance in the digital age, focusing on strategies and policy responses for individual and societal control over data.",
+  "method_tags_zh": [
+    "案例分析",
+    "政策分析"
+  ],
+  "method_tags_en": [
+    "case study",
+    "policy analysis"
+  ]
+}

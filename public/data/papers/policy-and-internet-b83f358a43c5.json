@@ -1,0 +1,55 @@
+{
+  "id": "policy-and-internet-b83f358a43c5",
+  "doi": "10.1002/poi3.70032",
+  "url": "https://doi.org/10.1002/poi3.70032",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-03-01T00:00:00.000Z",
+  "authors": [
+    "Xintong Yao",
+    "Yipeng Xi"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:12:03.049Z",
+  "language": "en",
+  "raw_title": "Where Risk Travels: A Dual‐Path Model of Media and Governance in the Perception of AI Hallucination",
+  "raw_abstract": "ABSTRACT Existing research on AI hallucinations has largely framed them as technical flaws undermining user experience, with little attention to their role as emergent risk signals in sociocognitive processes. To address this gap, this study applies the Social Amplification of Risk Framework to examine how hallucination‐driven risk perception relates to perceptions of media narratives and government performance. Using survey data from 811 generative‐AI users in mainland China, we test a dual‐path mediation model exploring the associations between perceived hallucination, perceptions of media hype and governance ineffectiveness, and subsequent risk perception and information behaviors. Results show an asymmetrical pattern: hallucination is linked to elevated risk through the media hype pathway, which is further associated with higher information‐sharing intention, whereas the governance pathway shows no direct association unless moderated by perceived behavioral control. Neither pathway is related to enhanced verification, revealing a decoupling of risk perception from epistemic vigilance. Implications for theorizing risk processing in opaque AI environments and for designing responsive governance strategies are discussed.",
+  "raw_keywords": [],
+  "title_en": "Where Risk Travels: A Dual‐Path Model of Media and Governance in the Perception of AI Hallucination",
+  "title_zh": "风险如何传播：媒体与治理在AI幻觉感知中的双路径模型",
+  "abstract_en": "ABSTRACT Existing research on AI hallucinations has largely framed them as technical flaws undermining user experience, with little attention to their role as emergent risk signals in sociocognitive processes. To address this gap, this study applies the Social Amplification of Risk Framework to examine how hallucination‐driven risk perception relates to perceptions of media narratives and government performance. Using survey data from 811 generative‐AI users in mainland China, we test a dual‐path mediation model exploring the associations between perceived hallucination, perceptions of media hype and governance ineffectiveness, and subsequent risk perception and information behaviors. Results show an asymmetrical pattern: hallucination is linked to elevated risk through the media hype pathway, which is further associated with higher information‐sharing intention, whereas the governance pathway shows no direct association unless moderated by perceived behavioral control. Neither pathway is related to enhanced verification, revealing a decoupling of risk perception from epistemic vigilance. Implications for theorizing risk processing in opaque AI environments and for designing responsive governance strategies are discussed.",
+  "abstract_zh": "摘要 现有关于AI幻觉的研究大多将其视为损害用户体验的技术缺陷，很少关注其作为社会认知过程中新兴风险信号的作用。为填补这一空白，本研究应用风险社会放大框架，探讨幻觉驱动的风险感知如何与媒体叙事和政府绩效的感知相关联。利用来自中国大陆811名生成式AI用户的调查数据，我们测试了一个双路径中介模型，探索感知到的幻觉、媒体炒作感知和治理无效感知，以及随后的风险感知和信息行为之间的关联。结果显示了一种不对称模式：幻觉通过媒体炒作路径与风险升高相关，这进一步与更高的信息分享意愿相关，而治理路径除非受到感知行为控制的调节，否则没有直接关联。两条路径均与增强验证无关，揭示了风险感知与认知警惕之间的脱节。讨论了在模糊AI环境中理论化风险处理以及设计响应性治理策略的意义。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "AI hallucination",
+    "risk perception",
+    "media hype",
+    "governance",
+    "Social Amplification of Risk Framework",
+    "information behavior",
+    "generative AI",
+    "survey research"
+  ],
+  "inferred_keywords_zh": [
+    "AI幻觉",
+    "风险感知",
+    "媒体炒作",
+    "治理",
+    "风险社会放大框架",
+    "信息行为",
+    "生成式AI",
+    "调查研究"
+  ],
+  "plain_summary_zh": "这项研究探讨了当AI产生错误信息（称为“AI幻觉”）时，人们如何感知风险。研究发现，当人们认为媒体过度炒作AI问题时，他们会感到风险更大，并更愿意分享相关信息。但政府治理的好坏对风险感知没有直接影响，除非人们觉得自己能控制情况。有趣的是，即使感到风险，人们也不会更仔细地核实信息。研究建议需要更好的策略来管理AI风险。",
+  "plain_summary_en": "This study examines how people perceive risk when AI generates false information (called 'AI hallucinations'). It found that when people think media exaggerates AI problems, they feel more at risk and are more likely to share information. However, government effectiveness doesn't directly affect risk perception unless people feel they can control the situation. Interestingly, even when feeling at risk, people don't verify information more carefully. The research suggests better strategies are needed to manage AI risks.",
+  "research_direction_zh": "探索AI技术风险的社会认知过程，特别是媒体和治理因素如何影响公众对AI错误的感知和行为反应。",
+  "research_direction_en": "Investigating the sociocognitive processes of AI technology risks, particularly how media and governance factors influence public perception of and behavioral responses to AI errors.",
+  "method_tags_zh": [
+    "调查"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

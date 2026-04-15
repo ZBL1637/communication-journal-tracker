@@ -1,0 +1,56 @@
+{
+  "id": "digital-journalism-29d644d00f49",
+  "doi": "10.1080/21670811.2024.2435579",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2024.2435579?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2025-01-13T06:07:31.000Z",
+  "authors": [
+    "Sophie Morosoli Valeria Resendez Laurens Naudts Natali Helberger Claes de Vreese a Amsterdam School of Communication Research",
+    "University of Amsterdam",
+    "Amsterdam",
+    "The Netherlandsb Department of Information Law",
+    "The Netherlands"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:59:40.802Z",
+  "language": "en",
+  "raw_title": "“I Resist”. A Study of Individual Attitudes Towards Generative AI in Journalism and Acts of Resistance, Risk Perceptions, Trust and Credibility",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "“I Resist”. A Study of Individual Attitudes Towards Generative AI in Journalism and Acts of Resistance, Risk Perceptions, Trust and Credibility",
+  "title_zh": "“我抵制”。关于新闻业中个体对生成式人工智能的态度、抵制行为、风险感知、信任与可信度的研究",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "Generative AI",
+    "Journalism",
+    "Resistance",
+    "Risk Perception",
+    "Trust",
+    "Credibility",
+    "Attitudes"
+  ],
+  "inferred_keywords_zh": [
+    "生成式人工智能",
+    "新闻业",
+    "抵制",
+    "风险感知",
+    "信任",
+    "可信度",
+    "态度"
+  ],
+  "plain_summary_zh": "这项研究探讨了新闻工作者对生成式人工智能的态度，包括他们如何抵制AI、如何看待相关风险，以及AI如何影响他们对新闻的信任和可信度。",
+  "plain_summary_en": "This study explores journalists' attitudes towards generative AI, including how they resist it, perceive risks, and how AI affects trust and credibility in news.",
+  "research_direction_zh": "研究新闻业中技术采纳与抵抗的个体心理因素，关注生成式AI对职业实践和新闻可信度的影响。",
+  "research_direction_en": "Investigating individual psychological factors in technology adoption and resistance in journalism, focusing on generative AI's impact on professional practices and news credibility.",
+  "method_tags_zh": [
+    "调查"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

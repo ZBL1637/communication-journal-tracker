@@ -1,0 +1,53 @@
+{
+  "id": "international-journal-of-press-politics-fffda81963e2",
+  "doi": "10.1177/19401612251388182",
+  "url": "https://doi.org/10.1177/19401612251388182",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2025-11-14T00:00:00.000Z",
+  "authors": [
+    "Anna-Luisa Sacher",
+    "Carsten Reinemann"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:19:35.891Z",
+  "language": "en",
+  "raw_title": "What is Freedom of Speech? How Citizens Define and Perceive the “Bulwark of Liberty”",
+  "raw_abstract": "Freedom of speech is an essential pillar of democracy. Despite constitutional protections, citizens in some liberal democracies increasingly feel the “bulwark of liberty” under pressure. While the underlying causes of these developments remain largely ambiguous, a fundamental question persists: What exactly do citizens have in mind when assessing the concept of “freedom of speech” – and who do they believe is restricting it? Clarifying this is essential for interpreting survey data, understanding underlying causes, and developing effective strategies to counter this trend. A quota-representative national survey of German citizens ( N = 1,490) reveals (1) that most respondents perceive free speech in both legal and social terms. Additionally, (2) a notable portion perceives freedom of speech as too restricted, driven by both dimensions, slightly emphasizing the legal aspect. Finally, (3) perceptions of the general status quo and both dimensions are – at least partly – shaped by different actors, underscoring the need to distinguish the social and the legal dimensions of freedom of speech.",
+  "raw_keywords": [],
+  "title_en": "What is Freedom of Speech? How Citizens Define and Perceive the “Bulwark of Liberty”",
+  "title_zh": "什么是言论自由？公民如何定义和感知“自由的堡垒”",
+  "abstract_en": "Freedom of speech is an essential pillar of democracy. Despite constitutional protections, citizens in some liberal democracies increasingly feel the “bulwark of liberty” under pressure. While the underlying causes of these developments remain largely ambiguous, a fundamental question persists: What exactly do citizens have in mind when assessing the concept of “freedom of speech” – and who do they believe is restricting it? Clarifying this is essential for interpreting survey data, understanding underlying causes, and developing effective strategies to counter this trend. A quota-representative national survey of German citizens ( N = 1,490) reveals (1) that most respondents perceive free speech in both legal and social terms. Additionally, (2) a notable portion perceives freedom of speech as too restricted, driven by both dimensions, slightly emphasizing the legal aspect. Finally, (3) perceptions of the general status quo and both dimensions are – at least partly – shaped by different actors, underscoring the need to distinguish the social and the legal dimensions of freedom of speech.",
+  "abstract_zh": "言论自由是民主的重要支柱。尽管有宪法保护，一些自由民主国家的公民越来越感到“自由的堡垒”面临压力。虽然这些发展的根本原因在很大程度上仍不明确，但一个基本问题依然存在：公民在评估“言论自由”概念时究竟在想什么——他们认为是谁在限制它？澄清这一点对于解释调查数据、理解根本原因以及制定有效策略来应对这一趋势至关重要。一项对德国公民进行的配额代表性全国调查（N = 1,490）显示：（1）大多数受访者从法律和社会两个层面理解言论自由。此外，（2）相当一部分人认为言论自由受到过多限制，这由两个层面共同驱动，略微强调法律层面。最后，（3）对总体现状以及两个层面的感知——至少部分地——由不同的行为者塑造，这强调了区分言论自由的社会和法律层面的必要性。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "freedom of speech",
+    "public perception",
+    "democracy",
+    "legal dimension",
+    "social dimension",
+    "survey research",
+    "Germany"
+  ],
+  "inferred_keywords_zh": [
+    "言论自由",
+    "公众认知",
+    "民主",
+    "法律层面",
+    "社会层面",
+    "调查研究",
+    "德国"
+  ],
+  "plain_summary_zh": "这项研究调查了德国公民如何理解言论自由。研究发现，人们通常从法律（如宪法权利）和社会（如日常表达是否受限制）两个角度看待言论自由。许多人觉得言论自由受到过多限制，这主要来自法律和社会两方面的影响，但法律因素稍显突出。研究还发现，不同的人或群体（如政府、媒体、社会压力）对人们如何看待言论自由有不同影响，因此需要区分法律和社会两个层面来全面理解这个问题。",
+  "plain_summary_en": "This study examines how German citizens understand freedom of speech. It finds that people typically view it in two ways: legally (like constitutional rights) and socially (like whether daily expression is restricted). Many feel freedom of speech is too limited, driven by both legal and social factors, with legal aspects slightly more emphasized. The research also shows that different actors (e.g., government, media, social pressures) shape these perceptions differently, highlighting the need to separate legal and social dimensions to fully grasp the issue.",
+  "research_direction_zh": "探索公民对民主价值观（如言论自由）的认知结构及其影响因素，特别是在多元社会背景下如何维护和促进这些价值观。",
+  "research_direction_en": "Investigating the cognitive structures of citizens' perceptions of democratic values (e.g., freedom of speech) and their influencing factors, particularly in diverse societal contexts for maintaining and promoting these values.",
+  "method_tags_zh": [
+    "调查"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

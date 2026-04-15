@@ -1,0 +1,54 @@
+{
+  "id": "review-of-communication-research-bba42cfbd6ea",
+  "doi": "10.52152//RCR.V14.1",
+  "url": "https://doi.org/10.52152//rcr.v14.1",
+  "journalName": "Review of Communication Research",
+  "journalSlug": "review-of-communication-research",
+  "issn": "2255-4165",
+  "publishedAt": "2026-01-13T00:00:00.000Z",
+  "authors": [
+    "Madeline M. Jupina"
+  ],
+  "source": "crossref+detail",
+  "fetchedAt": "2026-04-15T23:24:10.406Z",
+  "language": "en",
+  "raw_title": "Family Emotional Support and Outcomes for People with Opioid Use Disorder: A Systematic Review",
+  "raw_abstract": "Millions of people worldwide live with opioid use disorder (OUD). Family members of people living with OUD may decide to provide or deny emotional support, and these choices have important implications for the well-being of individuals with OUD. This study investigated the impact of family emotional support, or lack thereof, on people’ s ability to reduce their drug use and pursue sobriety. This study uses systematic review, a method that allows for the systematic collection of articles about a particular topic, even when they have diverse disciplinary backgrounds and methodologies. Eighteen studies about the impact of emotional support from family members on drug use reduction were identified from MEDLINE and Sociology Abstracts primarily, as well as Directory of Open Access Journals, ProQuest Social Sciences, and Toxicology Abstracts. These articles were then synthesized into four outcome categories: treatment adherence and retention, sobriety and abstinence, treatment seeking, and recovery. Across the studies, family emotional support was generally beneficial for reducing drug use, although people living with OUD sometimes grappled with complex feelings of guilt or pressure in their supportive interactions with family members. Strengths, limitations, and future directions for studies about family emotional support in the context of OUD are discussed.",
+  "raw_keywords": [
+    "Emotional Support",
+    "Family Communication",
+    "Opioid Use Disorder",
+    "Sobriety",
+    "Systematic Review"
+  ],
+  "title_en": "Family Emotional Support and Outcomes for People with Opioid Use Disorder: A Systematic Review",
+  "title_zh": "家庭情感支持与阿片类药物使用障碍患者结局：一项系统综述",
+  "abstract_en": "Millions of people worldwide live with opioid use disorder (OUD). Family members of people living with OUD may decide to provide or deny emotional support, and these choices have important implications for the well-being of individuals with OUD. This study investigated the impact of family emotional support, or lack thereof, on people’s ability to reduce their drug use and pursue sobriety. This study uses systematic review, a method that allows for the systematic collection of articles about a particular topic, even when they have diverse disciplinary backgrounds and methodologies. Eighteen studies about the impact of emotional support from family members on drug use reduction were identified from MEDLINE and Sociology Abstracts primarily, as well as Directory of Open Access Journals, ProQuest Social Sciences, and Toxicology Abstracts. These articles were then synthesized into four outcome categories: treatment adherence and retention, sobriety and abstinence, treatment seeking, and recovery. Across the studies, family emotional support was generally beneficial for reducing drug use, although people living with OUD sometimes grappled with complex feelings of guilt or pressure in their supportive interactions with family members. Strengths, limitations, and future directions for studies about family emotional support in the context of OUD are discussed.",
+  "abstract_zh": "全球有数百万人患有阿片类药物使用障碍（OUD）。OUD患者的家庭成员可能决定提供或拒绝情感支持，这些选择对OUD患者的福祉有重要影响。本研究调查了家庭情感支持（或缺乏支持）对人们减少药物使用和追求清醒能力的影响。本研究采用系统综述方法，该方法允许系统收集关于特定主题的文章，即使这些文章具有不同的学科背景和方法论。主要从MEDLINE和社会学文摘，以及开放获取期刊目录、ProQuest社会科学和毒理学文摘中确定了18项关于家庭成员情感支持对减少药物使用影响的研究。这些文章随后被综合为四个结果类别：治疗依从性和保留率、清醒和戒断、寻求治疗以及康复。在所有研究中，家庭情感支持通常对减少药物使用有益，尽管OUD患者有时在与家庭成员的支持性互动中会面临复杂的愧疚感或压力感。讨论了OUD背景下家庭情感支持研究的优势、局限性和未来方向。",
+  "keywords_en": [
+    "Emotional Support",
+    "Family Communication",
+    "Opioid Use Disorder",
+    "Sobriety",
+    "Systematic Review"
+  ],
+  "keywords_zh": [
+    "情感支持",
+    "家庭沟通",
+    "阿片类药物使用障碍",
+    "清醒",
+    "系统综述"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_zh": "这项研究回顾了18项关于家庭情感支持如何影响阿片类药物成瘾者减少用药和保持清醒的研究。研究发现，家人的情感支持通常有助于成瘾者更好地坚持治疗、减少用药和寻求康复，但有时也会让成瘾者感到愧疚或压力。研究总结了支持对治疗依从性、戒断、寻求帮助和康复四个方面的影响。",
+  "plain_summary_en": "This study reviewed 18 studies on how family emotional support affects people with opioid addiction in reducing drug use and staying sober. It found that family support generally helps with treatment adherence, reducing drug use, and seeking recovery, but can sometimes cause feelings of guilt or pressure. The research summarized effects on treatment adherence, abstinence, help-seeking, and recovery.",
+  "research_direction_zh": "探索家庭沟通在物质使用障碍康复中的作用，特别是情感支持对治疗过程和长期结局的影响机制。",
+  "research_direction_en": "Exploring the role of family communication in substance use disorder recovery, particularly the mechanisms through which emotional support influences treatment processes and long-term outcomes.",
+  "method_tags_zh": [
+    "系统综述"
+  ],
+  "method_tags_en": [
+    "systematic review"
+  ]
+}

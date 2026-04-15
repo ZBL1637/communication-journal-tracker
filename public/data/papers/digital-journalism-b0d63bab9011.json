@@ -1,0 +1,52 @@
+{
+  "id": "digital-journalism-b0d63bab9011",
+  "doi": "10.1080/21670811.2026.2638939",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2026.2638939?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-03-11T05:26:40.000Z",
+  "authors": [
+    "Ståle Grut Department of Media and Communication",
+    "University of Oslo",
+    "Norway"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:54:16.573Z",
+  "language": "en",
+  "raw_title": "Convergent Epistemic Practices in Visual Fact-Checking",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "Convergent Epistemic Practices in Visual Fact-Checking",
+  "title_zh": "视觉事实核查中的趋同认知实践",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "visual fact-checking",
+    "epistemic practices",
+    "digital journalism",
+    "media verification",
+    "convergence"
+  ],
+  "inferred_keywords_zh": [
+    "视觉事实核查",
+    "认知实践",
+    "数字新闻",
+    "媒体验证",
+    "趋同"
+  ],
+  "plain_summary_zh": "这篇研究探讨了在数字新闻环境中，人们如何通过趋同的方法来核查视觉内容的真实性。它关注的是不同实践者（如记者、研究人员）在验证图像和视频时共享的认知方式。",
+  "plain_summary_en": "This research explores how people use convergent methods to verify the truthfulness of visual content in digital journalism. It focuses on the shared ways of knowing among different practitioners (like journalists and researchers) when checking images and videos.",
+  "research_direction_zh": "研究数字新闻中事实核查的认知过程，特别是视觉媒体的验证方法和趋同实践。",
+  "research_direction_en": "Investigating the cognitive processes in fact-checking within digital journalism, especially verification methods and convergent practices for visual media.",
+  "method_tags_zh": [
+    "案例研究",
+    "内容分析"
+  ],
+  "method_tags_en": [
+    "case study",
+    "content analysis"
+  ]
+}

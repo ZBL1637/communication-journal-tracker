@@ -1,0 +1,53 @@
+{
+  "id": "journal-of-communication-2889ae72aae7",
+  "doi": "10.1093/joc/jqaf047",
+  "url": "https://doi.org/10.1093/joc/jqaf047",
+  "journalName": "JOURNAL OF COMMUNICATION",
+  "journalSlug": "journal-of-communication",
+  "issn": "0021-9916",
+  "publishedAt": "2026-02-01T00:00:00.000Z",
+  "authors": [
+    "Jonathan J H Zhu",
+    "Wei Lin",
+    "Jingwei Gao",
+    "Heng Lu"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T22:36:15.560Z",
+  "language": "en",
+  "raw_title": "Conceptualization, operationalization, and performance of longitudinal studies in communication research: a systematic review",
+  "raw_abstract": "Abstract We report a systematic review of longitudinal studies published in SSCI-Communication journals over the 50 years, focusing on how time is conceived, measured, and analyzed as a scientific concept. To facilitate the review, we devised two novel classification schemes to distinguish between longitudinal and non-longitudinal studies and to measure how time is treated. We manually coded a random sample of 1,080 research articles, supplemented with computerized keyword scanning of the study population. The results show that longitudinal studies have steadily accounted for about 9% of the publications. Panel data studies outnumber time-series studies in a ratio of 3:2. Three-fourths of the longitudinal studies treat time as a timing index and aim to test causal effects, whereas a quarter treat time as a parameter to capture temporal dynamics. Longitudinal studies make more conceptual contributions and receive more citations than non-longitudinal studies. We offer practical recommendations for longitudinal communication research.",
+  "raw_keywords": [],
+  "title_en": "Conceptualization, operationalization, and performance of longitudinal studies in communication research: a systematic review",
+  "title_zh": "Conceptualization, operationalization, and performance of longitudinal studies in communication research: a systematic review",
+  "abstract_en": "Abstract We report a systematic review of longitudinal studies published in SSCI-Communication journals over the 50 years, focusing on how time is conceived, measured, and analyzed as a scientific concept. To facilitate the review, we devised two novel classification schemes to distinguish between longitudinal and non-longitudinal studies and to measure how time is treated. We manually coded a random sample of 1,080 research articles, supplemented with computerized keyword scanning of the study population. The results show that longitudinal studies have steadily accounted for about 9% of the publications. Panel data studies outnumber time-series studies in a ratio of 3:2. Three-fourths of the longitudinal studies treat time as a timing index and aim to test causal effects, whereas a quarter treat time as a parameter to capture temporal dynamics. Longitudinal studies make more conceptual contributions and receive more citations than non-longitudinal studies. We offer practical recommendations for longitudinal communication research.",
+  "abstract_zh": "Abstract We report a systematic review of longitudinal studies published in SSCI-Communication journals over the 50 years, focusing on how time is conceived, measured, and analyzed as a scientific concept. To facilitate the review, we devised two novel classification schemes to distinguish between longitudinal and non-longitudinal studies and to measure how time is treated. We manually coded a random sample of 1,080 research articles, supplemented with computerized keyword scanning of the study population. The results show that longitudinal studies have steadily accounted for about 9% of the publications. Panel data studies outnumber time-series studies in a ratio of 3:2. Three-fourths of the longitudinal studies treat time as a timing index and aim to test causal effects, whereas a quarter treat time as a parameter to capture temporal dynamics. Longitudinal studies make more conceptual contributions and receive more citations than non-longitudinal studies. We offer practical recommendations for longitudinal communication research.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "Longitudinal",
+    "Studies",
+    "And",
+    "The",
+    "Time",
+    "Review"
+  ],
+  "inferred_keywords_zh": [
+    "Longitudinal",
+    "Studies",
+    "And",
+    "The",
+    "Time",
+    "Review"
+  ],
+  "plain_summary_en": "This paper studies Conceptualization, operationalization, and performance of longitudinal studies in communication research: a systematic review. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Longitudinal, Studies, And, The. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Conceptualization, operationalization, and performance of longitudinal studies in communication research: a systematic review. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Longitudinal, Studies, And, The. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Longitudinal, Studies, And, The, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Longitudinal, Studies, And, The, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "review"
+  ],
+  "method_tags_en": [
+    "review"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "social-media-and-society-9cb84fbfbbcb",
+  "doi": "10.1177/20563051261433500",
+  "url": "https://doi.org/10.1177/20563051261433500",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-01-01T00:00:00.000Z",
+  "authors": [
+    "Dong Jing",
+    "Xu Gao",
+    "Jianwei Liu",
+    "Kee-Hung Lai"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:02:34.757Z",
+  "language": "en",
+  "raw_title": "Coping With Digital Hostility: How Witnessing and Receiving Hate Speech Elicit Divergent Responses",
+  "raw_abstract": "Online hate speech is a pervasive form of digital aggression that shapes engagement and communication in online communities. Prior studies have seldom differentiated exposure pathways within the same context, limiting understanding of how distinct experiences shape user behavior. This study distinguishes between indirect exposure, where users witness hate speech directed at others, and direct victimization, where users personally receive it. Using large-scale user behavioral data from a major Chinese social platform, we analyze how these experiences affect content production, social interaction, and antisocial expression. The findings show that witnessing and receiving hate speech trigger distinct and lasting behavioral patterns, with the intensity of hate speech further moderating these effects. User tenure also differentiates these dynamics: new users show a higher propensity for hate expression, while long-term users display stronger persistence in behavioral adjustments. These results extend Stress and Coping Theory to the domain of online hate speech, emphasizing exposure mode as a key factor in stress appraisal and offering insights for community governance.",
+  "raw_keywords": [],
+  "title_en": "Coping With Digital Hostility: How Witnessing and Receiving Hate Speech Elicit Divergent Responses",
+  "title_zh": "应对数字敌意：目睹和接收仇恨言论如何引发不同反应",
+  "abstract_en": "Online hate speech is a pervasive form of digital aggression that shapes engagement and communication in online communities. Prior studies have seldom differentiated exposure pathways within the same context, limiting understanding of how distinct experiences shape user behavior. This study distinguishes between indirect exposure, where users witness hate speech directed at others, and direct victimization, where users personally receive it. Using large-scale user behavioral data from a major Chinese social platform, we analyze how these experiences affect content production, social interaction, and antisocial expression. The findings show that witnessing and receiving hate speech trigger distinct and lasting behavioral patterns, with the intensity of hate speech further moderating these effects. User tenure also differentiates these dynamics: new users show a higher propensity for hate expression, while long-term users display stronger persistence in behavioral adjustments. These results extend Stress and Coping Theory to the domain of online hate speech, emphasizing exposure mode as a key factor in stress appraisal and offering insights for community governance.",
+  "abstract_zh": "在线仇恨言论是一种普遍存在的数字攻击形式，影响着在线社区的参与和沟通。先前的研究很少在同一背景下区分暴露途径，限制了我们对不同经历如何塑造用户行为的理解。本研究区分了间接暴露（用户目睹针对他人的仇恨言论）和直接受害（用户亲自接收仇恨言论）。利用来自中国主要社交平台的大规模用户行为数据，我们分析了这些经历如何影响内容生产、社交互动和反社会表达。研究结果表明，目睹和接收仇恨言论会引发不同且持久的行为模式，仇恨言论的强度进一步调节了这些效应。用户使用时长也区分了这些动态：新用户表现出更高的仇恨表达倾向，而长期用户则表现出更强的行为调整持久性。这些结果将压力与应对理论扩展到在线仇恨言论领域，强调暴露模式是压力评估的关键因素，并为社区治理提供了见解。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "online hate speech",
+    "digital aggression",
+    "exposure pathways",
+    "user behavior",
+    "social media",
+    "stress and coping theory",
+    "community governance"
+  ],
+  "inferred_keywords_zh": [
+    "在线仇恨言论",
+    "数字攻击",
+    "暴露途径",
+    "用户行为",
+    "社交媒体",
+    "压力与应对理论",
+    "社区治理"
+  ],
+  "plain_summary_zh": "这项研究探讨了人们在网上看到或收到仇恨言论时的不同反应。研究发现，看到别人被骂和自己被骂会让人做出不同的行为改变，比如发帖、互动或表达负面情绪的方式。新用户更容易跟着骂人，而老用户则更可能长期调整自己的行为。研究结果可以帮助平台更好地管理社区，减少网络暴力。",
+  "plain_summary_en": "This study looks at how people react differently when they see hate speech online versus when they receive it themselves. It finds that witnessing and receiving hate speech lead to distinct changes in behavior, such as how users post content, interact with others, or express negativity. New users are more likely to join in with hateful expressions, while long-term users tend to make more lasting adjustments to their behavior. The findings can help social platforms improve community management and reduce online aggression.",
+  "research_direction_zh": "研究在线环境中用户行为对负面社交互动的响应机制，特别是基于压力与应对理论，探索不同暴露模式如何影响数字社区中的适应策略和治理方法。",
+  "research_direction_en": "Investigating user behavior responses to negative social interactions in online environments, particularly through the lens of Stress and Coping Theory, to explore how different exposure modes influence adaptation strategies and governance approaches in digital communities.",
+  "method_tags_zh": [
+    "内容分析",
+    "大数据分析"
+  ],
+  "method_tags_en": [
+    "content analysis",
+    "big data analysis"
+  ]
+}

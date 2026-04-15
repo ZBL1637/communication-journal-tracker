@@ -12,7 +12,7 @@
       "a[href*='/article-abstract/']",
       "a[href*='/doi/']"
     ],
-    "paperCount": 1,
+    "paperCount": 11,
     "latestPublishedAt": "2026-02-07T00:00:00.000Z",
     "topKeywordsEn": [
       "And",
@@ -43,21 +43,21 @@
       ".meta__title a",
       "h5 a"
     ],
-    "paperCount": 2,
-    "latestPublishedAt": "2025-11-27T12:17:32.000Z",
+    "paperCount": 39,
+    "latestPublishedAt": "2026-04-06T09:46:21.000Z",
     "topKeywordsEn": [
-      "Propaganda",
-      "Performative",
-      "Engagement",
-      "How",
-      "Celebrity"
+      "disinformation",
+      "cultural narrative",
+      "cross-platform",
+      "identity",
+      "political communication"
     ],
     "topKeywordsZh": [
-      "Propaganda",
-      "Performative",
-      "Engagement",
-      "How",
-      "Celebrity"
+      "虚假信息",
+      "文化叙事",
+      "跨平台",
+      "身份认同",
+      "政治传播"
     ]
   },
   {
@@ -74,21 +74,21 @@
       ".meta__title a",
       "h5 a"
     ],
-    "paperCount": 2,
-    "latestPublishedAt": "2025-01-30T04:36:18.000Z",
+    "paperCount": 97,
+    "latestPublishedAt": "2026-04-10T03:21:53.000Z",
     "topKeywordsEn": [
-      "The",
-      "Hype",
-      "And",
-      "Its",
-      "Function"
+      "journalism",
+      "social media",
+      "professional wellbeing",
+      "digital journalism",
+      "mental health"
     ],
     "topKeywordsZh": [
-      "The",
-      "Hype",
-      "And",
-      "Its",
-      "Function"
+      "新闻业",
+      "社交媒体",
+      "职业幸福感",
+      "数字新闻",
+      "心理健康"
     ]
   },
   {
@@ -105,21 +105,21 @@
       ".meta__title a",
       "h5 a"
     ],
-    "paperCount": 2,
+    "paperCount": 4,
     "latestPublishedAt": "2026-01-12T09:29:48.000Z",
     "topKeywordsEn": [
-      "Morally",
-      "Preferred",
-      "Contrasts",
-      "Troubles",
-      "Talk"
+      "conversation analysis",
+      "Hebrew language",
+      "discourse markers",
+      "interactional linguistics",
+      "minimal responses"
     ],
     "topKeywordsZh": [
-      "Morally",
-      "Preferred",
-      "Contrasts",
-      "Troubles",
-      "Talk"
+      "会话分析",
+      "希伯来语",
+      "话语标记",
+      "互动语言学",
+      "最小回应"
     ]
   },
   {
@@ -136,7 +136,7 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 2,
+    "paperCount": 30,
     "latestPublishedAt": "2026-04-01T00:00:00.000Z",
     "topKeywordsEn": [
       "News",
@@ -167,21 +167,21 @@
       ".issue-item a",
       "h2 a"
     ],
-    "paperCount": 1,
+    "paperCount": 21,
     "latestPublishedAt": "2026-06-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "The",
       "And",
-      "Imaginaries",
-      "Ambiguity",
-      "Policy"
+      "Compliance",
+      "Enforcement",
+      "Data",
+      "Regimes"
     ],
     "topKeywordsZh": [
-      "The",
       "And",
-      "Imaginaries",
-      "Ambiguity",
-      "Policy"
+      "Compliance",
+      "Enforcement",
+      "Data",
+      "Regimes"
     ]
   },
   {
@@ -198,7 +198,7 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 2,
+    "paperCount": 18,
     "latestPublishedAt": "2026-04-14T00:00:00.000Z",
     "topKeywordsEn": [
       "The",
@@ -229,7 +229,7 @@
       ".obj_article_summary h3 a",
       ".cmp_article_list__item h3 a"
     ],
-    "paperCount": 2,
+    "paperCount": 15,
     "latestPublishedAt": "2026-04-12T16:00:00.000Z",
     "topKeywordsEn": [
       "Dream of Red Mansion",

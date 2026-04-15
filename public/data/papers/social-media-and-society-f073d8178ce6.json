@@ -1,0 +1,58 @@
+{
+  "id": "social-media-and-society-f073d8178ce6",
+  "doi": "10.1177/20563051261419392",
+  "url": "https://doi.org/10.1177/20563051261419392",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-01-01T00:00:00.000Z",
+  "authors": [
+    "Lei Chen",
+    "Kun Zhou",
+    "Sang Jung Kim"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:03:17.783Z",
+  "language": "en",
+  "raw_title": "“You Are Not Fat”: The Postfeminist Contradiction in #RejectBodyAnxiety—A Computationally Assisted Critical Thematic Analysis",
+  "raw_abstract": "Digital platforms have facilitated body-positive discourses that challenge appearance norms, yet these often intertwine with postfeminist elements, creating paradoxes that both resist and reinforce hegemonic ideals. By deploying computationally assisted critical thematic analysis across 1915 #RejectBodyAnxiety posts on RedNote, this study reveals both the breadth —the full variety of user-generated discursive elements and their articulation patterns—and the depth —the discursive meanings configured through these articulations, of this feminist digital activism site. The findings show that body-positivity discourses under #RejectBodyAnxiety are profoundly reconfigured through their articulation with localized postfeminist formations and platform-mediated empowering mechanisms, reframing body positivity as ideal positivity —a postfeminist discourse that refines hegemonic beauty ideals by shedding their extreme traits ( Selective Subversion ) and making them appear attainable ( Tactical Conformity ), thereby transforming them into seemingly positive forms. While fostering empowerment, this discourse risks new exclusions, marginalizing some women and intensifying postfeminist contradictions. Tracing these sensibilities through social media, the study highlights their new forms in non-Western contexts and underscores the need to address emerging discourses in body image promotion.",
+  "raw_keywords": [],
+  "title_en": "“You Are Not Fat”: The Postfeminist Contradiction in #RejectBodyAnxiety—A Computationally Assisted Critical Thematic Analysis",
+  "title_zh": "“你不胖”：#拒绝身体焦虑中的后女性主义矛盾——一项计算辅助的批判性主题分析",
+  "abstract_en": "Digital platforms have facilitated body-positive discourses that challenge appearance norms, yet these often intertwine with postfeminist elements, creating paradoxes that both resist and reinforce hegemonic ideals. By deploying computationally assisted critical thematic analysis across 1915 #RejectBodyAnxiety posts on RedNote, this study reveals both the breadth —the full variety of user-generated discursive elements and their articulation patterns—and the depth —the discursive meanings configured through these articulations, of this feminist digital activism site. The findings show that body-positivity discourses under #RejectBodyAnxiety are profoundly reconfigured through their articulation with localized postfeminist formations and platform-mediated empowering mechanisms, reframing body positivity as ideal positivity —a postfeminist discourse that refines hegemonic beauty ideals by shedding their extreme traits (Selective Subversion) and making them appear attainable (Tactical Conformity), thereby transforming them into seemingly positive forms. While fostering empowerment, this discourse risks new exclusions, marginalizing some women and intensifying postfeminist contradictions. Tracing these sensibilities through social media, the study highlights their new forms in non-Western contexts and underscores the need to address emerging discourses in body image promotion.",
+  "abstract_zh": "数字平台促进了挑战外貌规范的身体积极话语，但这些话语常常与后女性主义元素交织，创造出既抵制又强化霸权理想的悖论。通过对RedNote上1915条#拒绝身体焦虑帖子进行计算辅助的批判性主题分析，本研究揭示了这一女性主义数字行动主义网站的广度——用户生成的话语元素及其表达模式的全部多样性——和深度——通过这些表达配置的话语意义。研究发现，#拒绝身体焦虑下的身体积极话语通过与本地化后女性主义形态和平台中介的赋权机制的结合，被深刻重构，将身体积极重新定义为理想积极——一种后女性主义话语，通过剥离霸权审美理想的极端特征（选择性颠覆）并使其显得可实现（战术性顺从），从而将其转化为看似积极的形式。虽然这种话语促进了赋权，但它也带来了新的排斥风险，边缘化了一些女性并加剧了后女性主义矛盾。通过社交媒体追踪这些情感，本研究强调了它们在非西方背景下的新形式，并强调了解决身体形象推广中新兴话语的必要性。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "body positivity",
+    "postfeminism",
+    "social media",
+    "digital activism",
+    "body image",
+    "critical thematic analysis",
+    "RedNote",
+    "non-Western contexts"
+  ],
+  "inferred_keywords_zh": [
+    "身体积极",
+    "后女性主义",
+    "社交媒体",
+    "数字行动主义",
+    "身体形象",
+    "批判性主题分析",
+    "RedNote",
+    "非西方背景"
+  ],
+  "plain_summary_zh": "这项研究分析了社交媒体上#拒绝身体焦虑标签下的帖子，发现虽然这些内容旨在推广积极的身体形象，但它们常常与后女性主义思想混合，导致矛盾：既挑战又强化了社会对美的标准。研究指出，这种混合可能让某些女性感到被排除在外，并呼吁关注非西方地区的类似现象。",
+  "plain_summary_en": "This study analyzes posts under the #RejectBodyAnxiety hashtag on social media, finding that while they aim to promote positive body image, they often mix with postfeminist ideas, creating contradictions: both challenging and reinforcing societal beauty standards. It notes that this mix may exclude some women and calls for attention to similar phenomena in non-Western regions.",
+  "research_direction_zh": "探索数字平台中身体积极话语与后女性主义的互动，及其在全球不同文化背景下的演变和影响。",
+  "research_direction_en": "Exploring the interaction between body-positive discourses and postfeminism on digital platforms, and their evolution and impact across diverse cultural contexts globally.",
+  "method_tags_zh": [
+    "内容分析",
+    "计算辅助分析"
+  ],
+  "method_tags_en": [
+    "content analysis",
+    "computationally assisted analysis"
+  ]
+}

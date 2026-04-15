@@ -1,0 +1,69 @@
+{
+  "id": "review-of-communication-research-f7ba61828e09",
+  "doi": "10.52152/RCR.V14.6",
+  "url": "https://doi.org/10.52152/rcr.v14.6",
+  "journalName": "Review of Communication Research",
+  "journalSlug": "review-of-communication-research",
+  "issn": "2255-4165",
+  "publishedAt": "2026-03-16T00:00:00.000Z",
+  "authors": [
+    "Zhao Peng",
+    "Emily S. Zhan",
+    "Zhehao Liang",
+    "Soo Young Shin"
+  ],
+  "source": "crossref+detail",
+  "fetchedAt": "2026-04-15T23:23:11.367Z",
+  "language": "en",
+  "raw_title": "Rethinking the Trade-Off: A Systematic Review of Current Research on the Privacy Calculus Model",
+  "raw_abstract": "As one of the most popular theoretical models explaining mechanisms of information disclosure behavior, the Privacy Calculus Model (PCM) has received significant academic interest and criticism. While numerous studies have offered explanations countering criticism of the privacy calculus model, none have synthesized existing findings on benefit and cost variables or systematically reviewed moderators and other factors to address the model's limitations. Drawing on the principle of compatibility and the Privacy Process Model's four-dimensional framework of privacy context, this study conducted a systematic review of 119 PCM studies published between 2018 and 2023. Results revealed that among studies reporting non-significant cost-disclosure relationships, 66% exhibited dimensional misalignment between cost and disclosure variables, compared to only 32% among studies with significant results. Additionally, we identified inconsistencies in how disclosure behaviors, perceived risks, and privacy concerns are conceptualized and operationalized, along with an underutilization of moderating variables. Based on these findings, we propose an integrated framework recommending that future PCM research align the dimensions of costs, benefits, and disclosure variables within their specific privacy contexts to improve predictive validity.",
+  "raw_keywords": [
+    "Privacy Calculus Model",
+    "Compatibility Principle",
+    "Four-Dimensional Framework",
+    "Privacy Concerns",
+    "Perceived Benefits"
+  ],
+  "title_en": "Rethinking the Trade-Off: A Systematic Review of Current Research on the Privacy Calculus Model",
+  "title_zh": "重新思考权衡：隐私计算模型当前研究的系统综述",
+  "abstract_en": "As one of the most popular theoretical models explaining mechanisms of information disclosure behavior, the Privacy Calculus Model (PCM) has received significant academic interest and criticism. While numerous studies have offered explanations countering criticism of the privacy calculus model, none have synthesized existing findings on benefit and cost variables or systematically reviewed moderators and other factors to address the model's limitations. Drawing on the principle of compatibility and the Privacy Process Model's four-dimensional framework of privacy context, this study conducted a systematic review of 119 PCM studies published between 2018 and 2023. Results revealed that among studies reporting non-significant cost-disclosure relationships, 66% exhibited dimensional misalignment between cost and disclosure variables, compared to only 32% among studies with significant results. Additionally, we identified inconsistencies in how disclosure behaviors, perceived risks, and privacy concerns are conceptualized and operationalized, along with an underutilization of moderating variables. Based on these findings, we propose an integrated framework recommending that future PCM research align the dimensions of costs, benefits, and disclosure variables within their specific privacy contexts to improve predictive validity.",
+  "abstract_zh": "作为解释信息披露行为机制最流行的理论模型之一，隐私计算模型（PCM）受到了学术界的高度关注和批评。尽管许多研究提供了反驳隐私计算模型批评的解释，但尚未有研究综合现有关于收益和成本变量的发现，或系统性地综述调节变量和其他因素以解决该模型的局限性。本研究基于兼容性原则和隐私过程模型的四维隐私情境框架，对2018年至2023年间发表的119项PCM研究进行了系统综述。结果显示，在报告成本-披露关系不显著的研究中，66%存在成本变量与披露变量之间的维度不匹配，而在结果显著的研究中这一比例仅为32%。此外，我们发现信息披露行为、感知风险和隐私关注在概念化和操作化方面存在不一致性，同时调节变量的使用不足。基于这些发现，我们提出了一个整合框架，建议未来的PCM研究在特定隐私情境中调整成本、收益和披露变量的维度，以提高预测效度。",
+  "keywords_en": [
+    "Privacy Calculus Model",
+    "Compatibility Principle",
+    "Four-Dimensional Framework",
+    "Privacy Concerns",
+    "Perceived Benefits"
+  ],
+  "keywords_zh": [
+    "隐私计算模型",
+    "兼容性原则",
+    "四维框架",
+    "隐私关注",
+    "感知收益"
+  ],
+  "inferred_keywords_en": [
+    "Systematic Review",
+    "Information Disclosure",
+    "Perceived Risks",
+    "Moderating Variables",
+    "Predictive Validity"
+  ],
+  "inferred_keywords_zh": [
+    "系统综述",
+    "信息披露",
+    "感知风险",
+    "调节变量",
+    "预测效度"
+  ],
+  "plain_summary_zh": "这项研究回顾了最近五年关于隐私计算模型的研究。隐私计算模型解释人们如何在分享个人信息时权衡利弊。研究发现，很多研究在测量成本和披露时维度不匹配，导致结果不准确。同时，不同研究对隐私风险的定义和测量方式不一致，而且很少考虑其他影响因素。作者建议未来研究应该更仔细地匹配变量维度，考虑具体情境，以提高模型的预测能力。",
+  "plain_summary_en": "This study reviews research from the past five years on the Privacy Calculus Model, which explains how people weigh pros and cons when sharing personal information. The research found that many studies have mismatched dimensions when measuring costs and disclosure, leading to inaccurate results. Additionally, different studies define and measure privacy risks inconsistently, and rarely consider other influencing factors. The authors recommend that future research should more carefully align variable dimensions and consider specific contexts to improve the model's predictive power.",
+  "research_direction_zh": "隐私计算模型的改进与验证研究，关注变量维度匹配、情境因素整合和调节机制探索。",
+  "research_direction_en": "Research on improving and validating the Privacy Calculus Model, focusing on variable dimension alignment, contextual factor integration, and exploration of moderating mechanisms.",
+  "method_tags_zh": [
+    "系统综述"
+  ],
+  "method_tags_en": [
+    "systematic review"
+  ]
+}

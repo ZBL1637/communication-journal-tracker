@@ -1,0 +1,50 @@
+{
+  "id": "digital-journalism-60c04c0b6686",
+  "doi": "10.1080/21670811.2025.2502129",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2502129?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2025-05-19T03:04:49.000Z",
+  "authors": [
+    "Kate Wright Dani Madrid-Morales Christopher Barrie a University of Edinburghb University of Sheffieldc New York University"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:47:55.349Z",
+  "language": "en",
+  "raw_title": "Beyond “Emergencies?\" Reporting on Humanitarian Issues Around the World",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "Beyond “Emergencies?” Reporting on Humanitarian Issues Around the World",
+  "title_zh": "超越“紧急情况”？全球人道主义议题报道研究",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "humanitarian journalism",
+    "global reporting",
+    "media coverage",
+    "crisis communication",
+    "international news"
+  ],
+  "inferred_keywords_zh": [
+    "人道主义新闻",
+    "全球报道",
+    "媒体报道",
+    "危机传播",
+    "国际新闻"
+  ],
+  "plain_summary_zh": "这篇研究探讨了新闻报道如何超越简单的紧急事件报道，更全面地呈现全球人道主义议题。",
+  "plain_summary_en": "This research examines how news reporting can move beyond simple emergency coverage to present global humanitarian issues more comprehensively.",
+  "research_direction_zh": "探索新闻媒体如何改进人道主义议题的报道框架和叙事方式，促进更深入、更持久的公众关注。",
+  "research_direction_en": "Exploring how news media can improve reporting frameworks and narrative approaches for humanitarian issues to foster deeper and more sustained public engagement.",
+  "method_tags_zh": [
+    "内容分析",
+    "案例研究"
+  ],
+  "method_tags_en": [
+    "content analysis",
+    "case study"
+  ]
+}

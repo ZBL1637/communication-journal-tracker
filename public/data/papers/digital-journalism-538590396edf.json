@@ -1,0 +1,59 @@
+{
+  "id": "digital-journalism-538590396edf",
+  "doi": "10.1080/21670811.2025.2505981",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2505981?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2025-05-15T10:25:13.000Z",
+  "authors": [
+    "Allie Kosterich Adam Saffer Matthew S. Weber Daniel Kreiss a Communications and Media Management",
+    "Fordham University Gabelli School of Business",
+    "New York",
+    "USAb University of Minnesota Hubbard School of Journalism and Mass Communication",
+    "Minneapolis",
+    "USAc Rutgers University School of Communication and Information",
+    "New Brunswick",
+    "USA"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:47:37.107Z",
+  "language": "en",
+  "raw_title": "Network Histories: Methods and Measures for Studying Interdependence and Interconnectedness Within Digital Journalism",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "Network Histories: Methods and Measures for Studying Interdependence and Interconnectedness Within Digital Journalism",
+  "title_zh": "网络历史：研究数字新闻业内部相互依赖与互联互通的方法与测量",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "network analysis",
+    "digital journalism",
+    "interdependence",
+    "interconnectedness",
+    "research methods",
+    "media studies"
+  ],
+  "inferred_keywords_zh": [
+    "网络分析",
+    "数字新闻",
+    "相互依赖",
+    "互联互通",
+    "研究方法",
+    "媒体研究"
+  ],
+  "plain_summary_zh": "这篇文章探讨了如何研究数字新闻业中不同部分如何相互连接和依赖。它介绍了分析这些关系的方法和工具，帮助人们理解新闻机构、平台和内容之间的网络结构。",
+  "plain_summary_en": "This article explores how to study how different parts of digital journalism are connected and dependent on each other. It introduces methods and tools for analyzing these relationships, helping to understand the network structures among news organizations, platforms, and content.",
+  "research_direction_zh": "该研究属于数字新闻和媒体网络分析领域，旨在开发和应用网络科学方法来理解新闻生态系统的结构和动态。",
+  "research_direction_en": "This research falls within the field of digital journalism and media network analysis, aiming to develop and apply network science methods to understand the structure and dynamics of news ecosystems.",
+  "method_tags_zh": [
+    "网络分析",
+    "案例研究"
+  ],
+  "method_tags_en": [
+    "network analysis",
+    "case study"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "social-media-and-society-47b3c42547bc",
+  "doi": "10.1177/20563051261432035",
+  "url": "https://doi.org/10.1177/20563051261432035",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-01-01T00:00:00.000Z",
+  "authors": [
+    "Zizi Papacharissi"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:06:41.500Z",
+  "language": "en",
+  "raw_title": "We Have Always Been Machines",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "We Have Always Been Machines",
+  "title_zh": "我们一直都是机器",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "posthumanism",
+    "technology",
+    "identity",
+    "social media",
+    "digital culture"
+  ],
+  "inferred_keywords_zh": [
+    "后人类主义",
+    "技术",
+    "身份认同",
+    "社交媒体",
+    "数字文化"
+  ],
+  "plain_summary_zh": "这篇文章探讨了人类与技术的关系，认为人类本质上与机器相似，特别是在数字时代，我们的身份和行为越来越受到技术的影响。",
+  "plain_summary_en": "This article explores the relationship between humans and technology, arguing that humans are essentially similar to machines, especially in the digital age where our identities and behaviors are increasingly shaped by technology.",
+  "research_direction_zh": "研究数字时代中人类与技术融合的方向，关注身份、社会互动和文化变迁。",
+  "research_direction_en": "Research on the integration of humans and technology in the digital age, focusing on identity, social interaction, and cultural change.",
+  "method_tags_zh": [
+    "理论分析",
+    "文献综述"
+  ],
+  "method_tags_en": [
+    "theoretical analysis",
+    "literature review"
+  ]
+}

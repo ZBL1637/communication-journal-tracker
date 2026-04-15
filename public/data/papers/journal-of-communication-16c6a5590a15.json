@@ -1,0 +1,53 @@
+{
+  "id": "journal-of-communication-16c6a5590a15",
+  "doi": "10.1093/joc/jqaf050",
+  "url": "https://doi.org/10.1093/joc/jqaf050",
+  "journalName": "JOURNAL OF COMMUNICATION",
+  "journalSlug": "journal-of-communication",
+  "issn": "0021-9916",
+  "publishedAt": "2026-02-01T00:00:00.000Z",
+  "authors": [
+    "Tai-Quan Peng",
+    "Zheng Wang"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T22:35:53.859Z",
+  "language": "en",
+  "raw_title": "Time in communication research and theories",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "Time in communication research and theories",
+  "title_zh": "传播研究与理论中的时间",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "temporal analysis",
+    "communication theory",
+    "time perception",
+    "media effects",
+    "longitudinal studies"
+  ],
+  "inferred_keywords_zh": [
+    "时间分析",
+    "传播理论",
+    "时间感知",
+    "媒体效果",
+    "纵向研究"
+  ],
+  "plain_summary_zh": "这篇文章探讨了时间在传播研究中的重要性，包括人们如何感知时间、媒体如何影响时间观念，以及如何通过长期研究来理解传播效果的变化。",
+  "plain_summary_en": "This article explores the importance of time in communication research, covering how people perceive time, how media influences time concepts, and how longitudinal studies help understand changes in communication effects.",
+  "research_direction_zh": "传播学中的时间维度研究，关注时间因素在信息传播、媒体使用和效果评估中的作用。",
+  "research_direction_en": "Research on temporal dimensions in communication studies, focusing on the role of time factors in information dissemination, media usage, and effect evaluation.",
+  "method_tags_zh": [
+    "调查",
+    "实验",
+    "内容分析"
+  ],
+  "method_tags_en": [
+    "survey",
+    "experiment",
+    "content analysis"
+  ]
+}

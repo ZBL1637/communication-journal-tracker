@@ -1,0 +1,67 @@
+{
+  "id": "review-of-communication-research-58fa58b87afa",
+  "doi": "10.52152/RCR.V14.11",
+  "url": "https://doi.org/10.52152/rcr.v14.11",
+  "journalName": "Review of Communication Research",
+  "journalSlug": "review-of-communication-research",
+  "issn": "2255-4165",
+  "publishedAt": "2026-04-07T00:00:00.000Z",
+  "authors": [
+    "Linlin Chen",
+    "Lidan Dang",
+    "Canfa Wang"
+  ],
+  "source": "crossref+detail",
+  "fetchedAt": "2026-04-15T23:21:55.463Z",
+  "language": "en",
+  "raw_title": "Digital Media Strategies for the Global Dissemination of Intangible Cultural Heritage: A Systematic Review of Communication Approaches",
+  "raw_abstract": "Due to the development of new media technologies, global dissemination of actual examples of intangible cultural heritage (ICH) has become easier and faster. Due to its diverse traditional arts and cultural practices, China presents a case showing how ICH is being preserved and disseminated via new technologies such as social media, virtual reality, and artificial intelligence. However, concerns of authenticity, commercialization, and elasticity, especially regarding access, are valid and persist. This study aimed to: (1) identify and critically analyze digital media strategies used in the global dissemination of ICH in China, (2) explore how digital media shapes audience reception and engagement with ICH across cultures, and (3) examine theoretical frameworks and methodologies used in existing literature. This research paper used a systematic literature review to collect information from Web of Science, Google Scholar and JSTOR. Twelve articles were included following the PRISMA guidelines, and a thematic analysis was conducted. Social media and other digital tools, such as VR, helped to improve the level of interaction and involvement of the audience. Nevertheless, cultural, sample, and algorithm biases were identified as risks. It emerged that both AI and holographic technologies are efficient tools for expanding the dissemination horizons internationally, and grounded theory and bibliometric analysis were identified as efficient approaches for creating dissemination frameworks. Digital media strategies offer promising solutions for ICH dissemination but require culturally sensitive approaches to protect authenticity and equitable access.",
+  "raw_keywords": [
+    "Global Dissemination",
+    "Intangible Cultural Heritage",
+    "Digital Media",
+    "Communication Approaches"
+  ],
+  "title_en": "Digital Media Strategies for the Global Dissemination of Intangible Cultural Heritage: A Systematic Review of Communication Approaches",
+  "title_zh": "非物质文化遗产全球传播的数字媒体策略：传播方法的系统综述",
+  "abstract_en": "Due to the development of new media technologies, global dissemination of actual examples of intangible cultural heritage (ICH) has become easier and faster. Due to its diverse traditional arts and cultural practices, China presents a case showing how ICH is being preserved and disseminated via new technologies such as social media, virtual reality, and artificial intelligence. However, concerns of authenticity, commercialization, and elasticity, especially regarding access, are valid and persist. This study aimed to: (1) identify and critically analyze digital media strategies used in the global dissemination of ICH in China, (2) explore how digital media shapes audience reception and engagement with ICH across cultures, and (3) examine theoretical frameworks and methodologies used in existing literature. This research paper used a systematic literature review to collect information from Web of Science, Google Scholar and JSTOR. Twelve articles were included following the PRISMA guidelines, and a thematic analysis was conducted. Social media and other digital tools, such as VR, helped to improve the level of interaction and involvement of the audience. Nevertheless, cultural, sample, and algorithm biases were identified as risks. It emerged that both AI and holographic technologies are efficient tools for expanding the dissemination horizons internationally, and grounded theory and bibliometric analysis were identified as efficient approaches for creating dissemination frameworks. Digital media strategies offer promising solutions for ICH dissemination but require culturally sensitive approaches to protect authenticity and equitable access.",
+  "abstract_zh": "由于新媒体技术的发展，非物质文化遗产（ICH）实际案例的全球传播变得更加容易和快速。中国拥有多样化的传统艺术和文化实践，展示了如何通过社交媒体、虚拟现实和人工智能等新技术来保护和传播非物质文化遗产。然而，关于真实性、商业化和弹性（尤其是访问方面）的担忧仍然存在且合理。本研究旨在：（1）识别并批判性分析中国非物质文化遗产全球传播中使用的数字媒体策略；（2）探讨数字媒体如何塑造跨文化受众对非物质文化遗产的接受和参与；（3）审查现有文献中使用的理论框架和方法。本研究采用系统文献综述方法，从Web of Science、Google Scholar和JSTOR收集信息。遵循PRISMA指南，纳入了12篇文章，并进行了主题分析。社交媒体和其他数字工具（如VR）有助于提高受众的互动和参与水平。然而，文化、样本和算法偏差被识别为风险。研究发现，人工智能和全息技术是扩大国际传播视野的有效工具，而扎根理论和文献计量分析被确定为创建传播框架的有效方法。数字媒体策略为非物质文化遗产传播提供了有前景的解决方案，但需要文化敏感的方法来保护真实性和公平访问。",
+  "keywords_en": [
+    "Global Dissemination",
+    "Intangible Cultural Heritage",
+    "Digital Media",
+    "Communication Approaches"
+  ],
+  "keywords_zh": [
+    "全球传播",
+    "非物质文化遗产",
+    "数字媒体",
+    "传播方法"
+  ],
+  "inferred_keywords_en": [
+    "Social Media",
+    "Virtual Reality",
+    "Artificial Intelligence",
+    "Cultural Preservation",
+    "Systematic Review"
+  ],
+  "inferred_keywords_zh": [
+    "社交媒体",
+    "虚拟现实",
+    "人工智能",
+    "文化保护",
+    "系统综述"
+  ],
+  "plain_summary_zh": "这篇研究文章探讨了如何利用数字媒体（如社交媒体、虚拟现实和人工智能）在全球范围内传播中国的非物质文化遗产。研究发现，这些技术可以提高人们的参与度，但也存在文化偏差和访问不平等的问题。文章建议采用文化敏感的方法来保护文化遗产的真实性。",
+  "plain_summary_en": "This research article explores how digital media (like social media, virtual reality, and artificial intelligence) can be used to spread China's intangible cultural heritage worldwide. The study found that these technologies can increase audience engagement but also pose risks like cultural bias and unequal access. It recommends using culturally sensitive approaches to protect the authenticity of cultural heritage.",
+  "research_direction_zh": "探索数字技术在文化遗产传播中的应用，关注跨文化沟通、技术伦理和公平访问问题。",
+  "research_direction_en": "Investigating the application of digital technologies in cultural heritage dissemination, focusing on cross-cultural communication, technological ethics, and equitable access.",
+  "method_tags_zh": [
+    "系统综述",
+    "主题分析"
+  ],
+  "method_tags_en": [
+    "systematic review",
+    "thematic analysis"
+  ]
+}

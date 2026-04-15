@@ -1,0 +1,58 @@
+{
+  "id": "policy-and-internet-3ad31973ba5d",
+  "doi": "10.1002/poi3.70034",
+  "url": "https://doi.org/10.1002/poi3.70034",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-03-01T00:00:00.000Z",
+  "authors": [
+    "Sirui Li",
+    "Ping Xu",
+    "Yue Guo"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:10:53.462Z",
+  "language": "en",
+  "raw_title": "Location, Location, Reaction: How Mandatory IP Disclosure Silences Critics and Sparks Backlash",
+  "raw_abstract": "ABSTRACT Previous research has identified two competing outcomes of regulatory disclosure for negative online sentiment: chilling effects, which suppress negative online sentiment, and reactance effects, which intensify it. In this study, we apply these theories to examine the impact of mandatory IP location disclosure on citizens' negative online sentiment expressed on Sina Weibo, a leading Chinese social media platform. We argue that the mandatory IP location disclosure can have opposite effects on negative online sentiment depending on the type of social media context. To test this, we use a quasi‐natural experiment and analyze more than 160,000 comments posted before and after the implementation of the mandatory IP location disclosure policy. Employing a regression discontinuity design (RDD), we find that mandatory IP location disclosure reduces negative sentiment under government accounts while amplifying it under non‐government accounts, particularly in the re‐post section. These findings reveal the heterogeneous effects of regulatory disclosure and shed light on how citizens adapt their online expression strategies in response. More broadly, the study advances our understanding of the interplay among citizens, platforms, and governments in regulated social media environments.",
+  "raw_keywords": [],
+  "title_en": "Location, Location, Reaction: How Mandatory IP Disclosure Silences Critics and Sparks Backlash",
+  "title_zh": "位置、位置、反应：强制IP地址披露如何压制批评者并引发反弹",
+  "abstract_en": "ABSTRACT Previous research has identified two competing outcomes of regulatory disclosure for negative online sentiment: chilling effects, which suppress negative online sentiment, and reactance effects, which intensify it. In this study, we apply these theories to examine the impact of mandatory IP location disclosure on citizens' negative online sentiment expressed on Sina Weibo, a leading Chinese social media platform. We argue that the mandatory IP location disclosure can have opposite effects on negative online sentiment depending on the type of social media context. To test this, we use a quasi‐natural experiment and analyze more than 160,000 comments posted before and after the implementation of the mandatory IP location disclosure policy. Employing a regression discontinuity design (RDD), we find that mandatory IP location disclosure reduces negative sentiment under government accounts while amplifying it under non‐government accounts, particularly in the re‐post section. These findings reveal the heterogeneous effects of regulatory disclosure and shed light on how citizens adapt their online expression strategies in response. More broadly, the study advances our understanding of the interplay among citizens, platforms, and governments in regulated social media environments.",
+  "abstract_zh": "摘要 先前研究已识别出监管披露对负面网络情绪的两种竞争性结果：寒蝉效应（抑制负面网络情绪）和逆反效应（加剧负面网络情绪）。在本研究中，我们应用这些理论来检验强制IP地址披露对中国领先社交媒体平台新浪微博上公民表达的负面网络情绪的影响。我们认为，强制IP地址披露可能对负面网络情绪产生相反的影响，具体取决于社交媒体环境的类型。为验证这一点，我们使用准自然实验，分析了强制IP地址披露政策实施前后发布的超过16万条评论。采用断点回归设计（RDD），我们发现强制IP地址披露减少了政府账号下的负面情绪，同时放大了非政府账号下的负面情绪，特别是在转发部分。这些发现揭示了监管披露的异质性效应，并阐明了公民如何相应地调整其在线表达策略。更广泛地说，该研究增进了我们对受监管社交媒体环境中公民、平台和政府之间相互作用的理解。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "IP disclosure",
+    "online sentiment",
+    "chilling effect",
+    "reactance effect",
+    "social media regulation",
+    "Sina Weibo",
+    "quasi-natural experiment",
+    "regression discontinuity design"
+  ],
+  "inferred_keywords_zh": [
+    "IP地址披露",
+    "网络情绪",
+    "寒蝉效应",
+    "逆反效应",
+    "社交媒体监管",
+    "新浪微博",
+    "准自然实验",
+    "断点回归设计"
+  ],
+  "plain_summary_zh": "这项研究探讨了强制显示用户IP地址如何影响人们在微博上的负面评论。研究发现，在政府账号下，强制显示IP地址会让人们减少负面评论；但在非政府账号下，尤其是转发内容中，负面评论反而会增加。这说明同样的规定在不同地方效果不同，人们会根据情况调整自己的发言方式。",
+  "plain_summary_en": "This study examines how forcing users to show their IP addresses affects negative comments on Weibo. It found that under government accounts, mandatory IP disclosure reduces negative comments, but under non-government accounts, especially in reposts, negative comments increase. This shows the same rule has different effects in different places, and people adjust how they express themselves accordingly.",
+  "research_direction_zh": "研究监管政策在社交媒体上的异质性影响，以及公民、平台和政府之间的动态互动。",
+  "research_direction_en": "Investigating the heterogeneous effects of regulatory policies on social media and the dynamic interactions among citizens, platforms, and governments.",
+  "method_tags_zh": [
+    "准自然实验",
+    "内容分析"
+  ],
+  "method_tags_en": [
+    "quasi-natural experiment",
+    "content analysis"
+  ]
+}

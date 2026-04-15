@@ -1,0 +1,53 @@
+{
+  "id": "digital-journalism-f4d8fa92d1dd",
+  "doi": "10.1080/21670811.2025.2490604",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2490604?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2025-04-09T08:22:38.000Z",
+  "authors": [
+    "Nik Usher Department of Communication",
+    "University of San Diego",
+    "San Diego",
+    "USA"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:45:58.818Z",
+  "language": "en",
+  "raw_title": "Generative AI and Journalism: Hype, The Always Already New, and Directions for Scholarly Imagination",
+  "raw_abstract": "Volume 14, Issue 2, March 2026 .",
+  "raw_keywords": [],
+  "title_en": "Generative AI and Journalism: Hype, The Always Already New, and Directions for Scholarly Imagination",
+  "title_zh": "生成式人工智能与新闻业：炒作、始终如新的现象及学术想象方向",
+  "abstract_en": "Volume 14, Issue 2, March 2026.",
+  "abstract_zh": "第14卷，第2期，2026年3月。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "Generative AI",
+    "Journalism",
+    "Technology",
+    "Innovation",
+    "Research Directions"
+  ],
+  "inferred_keywords_zh": [
+    "生成式人工智能",
+    "新闻业",
+    "技术",
+    "创新",
+    "研究方向"
+  ],
+  "plain_summary_zh": "这篇文章探讨了生成式人工智能在新闻业中的应用，分析了相关的炒作现象和持续的技术更新，并提出了未来学术研究的方向。",
+  "plain_summary_en": "This article explores the application of generative AI in journalism, analyzes related hype and ongoing technological updates, and suggests directions for future academic research.",
+  "research_direction_zh": "研究生成式人工智能如何影响新闻业的实践、伦理和未来发展，探索技术创新与新闻专业主义的平衡。",
+  "research_direction_en": "Investigating how generative AI impacts journalism practices, ethics, and future development, exploring the balance between technological innovation and journalistic professionalism.",
+  "method_tags_zh": [
+    "文献综述",
+    "案例分析"
+  ],
+  "method_tags_en": [
+    "Literature Review",
+    "Case Study"
+  ]
+}

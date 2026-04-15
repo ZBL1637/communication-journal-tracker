@@ -1,0 +1,55 @@
+{
+  "id": "international-journal-of-press-politics-277a9e6d2fed",
+  "doi": "10.1177/19401612251370924",
+  "url": "https://doi.org/10.1177/19401612251370924",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2025-10-17T00:00:00.000Z",
+  "authors": [
+    "Alyaa Anter",
+    "Nermeen Ibrahim"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:21:34.269Z",
+  "language": "en",
+  "raw_title": "New/s Gatekeepers: The Impact of Social Media Algorithms on Arab TV News Coverage",
+  "raw_abstract": "Drawing on gatekeeping theory and platform governance, this study examined Arab journalists’ perspectives on news gatekeeping via social media, the challenges they faced when covering politically sensitive events, and the strategies they employed to address those challenges. A mixed-methods approach was employed, combining in-depth interviews with twenty-four Arab multimedia journalists, social media specialists, and managers, along with an online survey of 171 Arab journalists from four Arab countries. The results revealed that the participants perceived algorithms as powerful intermediaries that considerably influenced their professional practices and news values on social media. They reported their experiences of shadow banning and content removal, particularly when reporting on Arab political issues such as the Palestinian issue. Journalists have reported that they must either adapt to the algorithmic dynamics or employ strategies to circumvent the algorithmic restrictions on Arab news coverage. This study underscores the need for greater transparency in algorithmic curation to ensure the fair representation of diverse voices in political news coverage.",
+  "raw_keywords": [],
+  "title_en": "New/s Gatekeepers: The Impact of Social Media Algorithms on Arab TV News Coverage",
+  "title_zh": "新闻/守门人：社交媒体算法对阿拉伯电视新闻报道的影响",
+  "abstract_en": "Drawing on gatekeeping theory and platform governance, this study examined Arab journalists’ perspectives on news gatekeeping via social media, the challenges they faced when covering politically sensitive events, and the strategies they employed to address those challenges. A mixed-methods approach was employed, combining in-depth interviews with twenty-four Arab multimedia journalists, social media specialists, and managers, along with an online survey of 171 Arab journalists from four Arab countries. The results revealed that the participants perceived algorithms as powerful intermediaries that considerably influenced their professional practices and news values on social media. They reported their experiences of shadow banning and content removal, particularly when reporting on Arab political issues such as the Palestinian issue. Journalists have reported that they must either adapt to the algorithmic dynamics or employ strategies to circumvent the algorithmic restrictions on Arab news coverage. This study underscores the need for greater transparency in algorithmic curation to ensure the fair representation of diverse voices in political news coverage.",
+  "abstract_zh": "本研究基于守门人理论和平台治理，探讨了阿拉伯记者对社交媒体新闻守门的看法、他们在报道政治敏感事件时面临的挑战以及应对这些挑战的策略。采用混合方法，结合对24名阿拉伯多媒体记者、社交媒体专家和管理人员的深度访谈，以及对来自四个阿拉伯国家的171名阿拉伯记者的在线调查。结果显示，参与者认为算法是强大的中介，显著影响了他们在社交媒体上的专业实践和新闻价值观。他们报告了影子禁令和内容删除的经历，尤其是在报道阿拉伯政治问题（如巴勒斯坦问题）时。记者们表示，他们必须适应算法动态或采用策略来规避对阿拉伯新闻报道的算法限制。本研究强调需要提高算法策展的透明度，以确保政治新闻报道中多样声音的公平呈现。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "social media algorithms",
+    "gatekeeping theory",
+    "Arab journalism",
+    "platform governance",
+    "political news coverage",
+    "shadow banning",
+    "algorithmic transparency"
+  ],
+  "inferred_keywords_zh": [
+    "社交媒体算法",
+    "守门人理论",
+    "阿拉伯新闻业",
+    "平台治理",
+    "政治新闻报道",
+    "影子禁令",
+    "算法透明度"
+  ],
+  "plain_summary_zh": "这项研究调查了阿拉伯记者如何应对社交媒体算法对新闻报道的影响。记者们发现，算法像“守门人”一样控制着新闻的传播，尤其是在报道敏感政治话题时，他们的内容可能被隐藏或删除。为了应对这些挑战，记者们要么调整自己的报道方式以适应算法，要么想办法绕过限制。研究呼吁社交媒体平台提高算法的透明度，让更多不同的声音能被听到。",
+  "plain_summary_en": "This study explores how Arab journalists deal with the impact of social media algorithms on news reporting. Journalists found that algorithms act like 'gatekeepers' controlling news distribution, especially when covering sensitive political topics, where their content might be hidden or removed. To address these challenges, journalists either adapt their reporting to fit the algorithms or find ways to bypass restrictions. The research calls for social media platforms to make algorithms more transparent, allowing diverse voices to be heard.",
+  "research_direction_zh": "本研究关注社交媒体算法如何重塑新闻守门机制，特别是在政治敏感语境下，探讨算法对新闻专业实践和多元声音表达的影响，并指向平台治理和算法透明度的改进方向。",
+  "research_direction_en": "This research focuses on how social media algorithms reshape news gatekeeping mechanisms, particularly in politically sensitive contexts, exploring the impact of algorithms on journalistic practices and diverse voice representation, and pointing towards improvements in platform governance and algorithmic transparency.",
+  "method_tags_zh": [
+    "访谈",
+    "调查"
+  ],
+  "method_tags_en": [
+    "interview",
+    "survey"
+  ]
+}

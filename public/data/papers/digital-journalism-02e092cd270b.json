@@ -1,0 +1,58 @@
+{
+  "id": "digital-journalism-02e092cd270b",
+  "doi": "10.1080/21670811.2025.2591417",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2591417?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2025-11-19T07:55:25.000Z",
+  "authors": [
+    "Emmanuel Maduneme Seth C. Lewis a Department of Mass Media",
+    "Southeast Missouri State University",
+    "Cape Girardeau",
+    "MO",
+    "USAb School of Journalism and Communication",
+    "University of Oregon",
+    "Eugene",
+    "OR",
+    "USA"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:59:11.576Z",
+  "language": "en",
+  "raw_title": "What Makes for a Good News Experience: Developing a UX Perspective to Advance Audience Studies in Journalism",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "What Makes for a Good News Experience: Developing a UX Perspective to Advance Audience Studies in Journalism",
+  "title_zh": "什么造就了良好的新闻体验：发展用户体验视角以推进新闻学中的受众研究",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "user experience",
+    "audience studies",
+    "journalism",
+    "news consumption",
+    "UX design"
+  ],
+  "inferred_keywords_zh": [
+    "用户体验",
+    "受众研究",
+    "新闻学",
+    "新闻消费",
+    "UX设计"
+  ],
+  "plain_summary_zh": "这篇文章探讨了如何通过引入用户体验（UX）的视角来改进新闻学中的受众研究，旨在理解什么因素能让人们获得更好的新闻阅读或观看体验。",
+  "plain_summary_en": "This article explores how to improve audience studies in journalism by introducing a user experience (UX) perspective, aiming to understand what factors contribute to a better news reading or viewing experience.",
+  "research_direction_zh": "该研究致力于将用户体验理论应用于新闻学领域，以深化对新闻受众行为和偏好的理解，推动新闻内容和服务的设计优化。",
+  "research_direction_en": "This research aims to apply user experience theory to the field of journalism to deepen the understanding of news audience behavior and preferences, and to promote the optimization of news content and service design.",
+  "method_tags_zh": [
+    "文献综述",
+    "理论分析"
+  ],
+  "method_tags_en": [
+    "literature review",
+    "theoretical analysis"
+  ]
+}

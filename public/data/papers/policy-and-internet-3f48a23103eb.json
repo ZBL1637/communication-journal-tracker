@@ -1,0 +1,54 @@
+{
+  "id": "policy-and-internet-3f48a23103eb",
+  "doi": "10.1002/poi3.70036",
+  "url": "https://doi.org/10.1002/poi3.70036",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-06-01T00:00:00.000Z",
+  "authors": [
+    "Shoukui Cui",
+    "Mengting Cheng",
+    "Haohan Yuan",
+    "Yuhan Deng",
+    "Kuan Li"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:10:10.512Z",
+  "language": "en",
+  "raw_title": "Public Opinion, Sentiment, and Policy Feedback: An Exploratory Computational Text Analysis of Debates on Leave Compensation Policies on Chinese Social Media",
+  "raw_abstract": "ABSTRACT Existing research has predominantly focused on institutionalized feedback mechanisms in democratic systems, leaving insufficient exploration of how public opinion influences policymaking in nondemocratic regimes, especially where formal feedback channels are limited. This study proposes a conceptual framework of informal feedback mechanisms, illustrating how social media functions as a vital tool for public influence within the context of China's consultative authoritarianism. By analyzing 99,924 Weibo comments from 2019 to 2024 related to the Leave Compensation Policy ( tiaoxiu ), we apply BERTopic topic modeling and GPT‐assisted sentiment annotation to identify seven core themes in public discourse, with Optimizing Leave Policy, Rejecting Overtime emerging as the most prominent. All themes exhibit stable and significantly negative sentiment. Furthermore, using text analysis, we identify substantial convergence between government policy texts and public discourse around the core themes, and show that subsequent policy adjustments ultimately responded to the public's central demands. The study also highlights the differentiated discursive strategies adopted by national media, commercial media, and experts in amplifying, filtering, and translating public opinion. By foregrounding the interpretive effects within informal feedback loops, this research extends the theoretical framework of policy feedback pathways and reveals how social media facilitates public mobilization and policy adaptation under authoritarian governance.",
+  "raw_keywords": [],
+  "title_en": "Public Opinion, Sentiment, and Policy Feedback: An Exploratory Computational Text Analysis of Debates on Leave Compensation Policies on Chinese Social Media",
+  "title_zh": "Public Opinion, Sentiment, and Policy Feedback: An Exploratory Computational Text Analysis of Debates on Leave Compensation Policies on Chinese Social Media",
+  "abstract_en": "ABSTRACT Existing research has predominantly focused on institutionalized feedback mechanisms in democratic systems, leaving insufficient exploration of how public opinion influences policymaking in nondemocratic regimes, especially where formal feedback channels are limited. This study proposes a conceptual framework of informal feedback mechanisms, illustrating how social media functions as a vital tool for public influence within the context of China's consultative authoritarianism. By analyzing 99,924 Weibo comments from 2019 to 2024 related to the Leave Compensation Policy ( tiaoxiu ), we apply BERTopic topic modeling and GPT‐assisted sentiment annotation to identify seven core themes in public discourse, with Optimizing Leave Policy, Rejecting Overtime emerging as the most prominent. All themes exhibit stable and significantly negative sentiment. Furthermore, using text analysis, we identify substantial convergence between government policy texts and public discourse around the core themes, and show that subsequent policy adjustments ultimately responded to the public's central demands. The study also highlights the differentiated discursive strategies adopted by national media, commercial media, and experts in amplifying, filtering, and translating public opinion. By foregrounding the interpretive effects within informal feedback loops, this research extends the theoretical framework of policy feedback pathways and reveals how social media facilitates public mobilization and policy adaptation under authoritarian governance.",
+  "abstract_zh": "ABSTRACT Existing research has predominantly focused on institutionalized feedback mechanisms in democratic systems, leaving insufficient exploration of how public opinion influences policymaking in nondemocratic regimes, especially where formal feedback channels are limited. This study proposes a conceptual framework of informal feedback mechanisms, illustrating how social media functions as a vital tool for public influence within the context of China's consultative authoritarianism. By analyzing 99,924 Weibo comments from 2019 to 2024 related to the Leave Compensation Policy ( tiaoxiu ), we apply BERTopic topic modeling and GPT‐assisted sentiment annotation to identify seven core themes in public discourse, with Optimizing Leave Policy, Rejecting Overtime emerging as the most prominent. All themes exhibit stable and significantly negative sentiment. Furthermore, using text analysis, we identify substantial convergence between government policy texts and public discourse around the core themes, and show that subsequent policy adjustments ultimately responded to the public's central demands. The study also highlights the differentiated discursive strategies adopted by national media, commercial media, and experts in amplifying, filtering, and translating public opinion. By foregrounding the interpretive effects within informal feedback loops, this research extends the theoretical framework of policy feedback pathways and reveals how social media facilitates public mobilization and policy adaptation under authoritarian governance.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "And",
+    "The",
+    "Public",
+    "Policy",
+    "Feedback",
+    "Opinion"
+  ],
+  "inferred_keywords_zh": [
+    "And",
+    "The",
+    "Public",
+    "Policy",
+    "Feedback",
+    "Opinion"
+  ],
+  "plain_summary_en": "This paper studies Public Opinion, Sentiment, and Policy Feedback: An Exploratory Computational Text Analysis of Debates on Leave Compensation Policies on Chinese Social Media. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, The, Public, Policy. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Public Opinion, Sentiment, and Policy Feedback: An Exploratory Computational Text Analysis of Debates on Leave Compensation Policies on Chinese Social Media. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, The, Public, Policy. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around And, The, Public, Policy, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around And, The, Public, Policy, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "computational analysis"
+  ]
+}

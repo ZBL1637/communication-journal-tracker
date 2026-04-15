@@ -1,0 +1,65 @@
+{
+  "id": "journal-of-communication-de2ffda4716a",
+  "doi": "10.1093/joc/jqaf048",
+  "url": "https://doi.org/10.1093/joc/jqaf048",
+  "journalName": "JOURNAL OF COMMUNICATION",
+  "journalSlug": "journal-of-communication",
+  "issn": "0021-9916",
+  "publishedAt": "2025-11-20T00:00:00.000Z",
+  "authors": [
+    "Hee Jung Cho",
+    "Sue Lim",
+    "Miriya Saenz",
+    "Ralf Schmälzle"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T22:38:05.993Z",
+  "language": "en",
+  "raw_title": "Memory inception through gaze-contingent message exposure: using virtual reality to study media influence",
+  "raw_abstract": "Abstract Media messages shape our knowledge about the world, but measuring individual exposure and attention remains challenging. Emerging media offer a solution to studying message reception in simulated real-world environments, which may soon become the actual media environments in which we encounter messages. Here, we utilized virtual reality (VR) and eye-tracking to investigate message processing in a realistic virtual city environment populated with billboards. We introduced an inception-style manipulation where billboards initially overlooked by participants were covertly reintroduced based on real-time gaze tracking. Our findings show this algorithmic manipulation, undetected by participants, significantly boosted message memory retention for the targeted messages. This study reveals a path of media influence, demonstrating how undetected algorithmic manipulations can shape individual and collective memory. The findings carry practical and theoretical implications for diverse communication contexts, from advertising and public health to political messaging in the emerging metaverse ecosystem.",
+  "raw_keywords": [],
+  "title_en": "Memory inception through gaze-contingent message exposure: using virtual reality to study media influence",
+  "title_zh": "通过视线相关消息暴露实现记忆植入：利用虚拟现实研究媒体影响",
+  "abstract_en": "Abstract Media messages shape our knowledge about the world, but measuring individual exposure and attention remains challenging. Emerging media offer a solution to studying message reception in simulated real-world environments, which may soon become the actual media environments in which we encounter messages. Here, we utilized virtual reality (VR) and eye-tracking to investigate message processing in a realistic virtual city environment populated with billboards. We introduced an inception-style manipulation where billboards initially overlooked by participants were covertly reintroduced based on real-time gaze tracking. Our findings show this algorithmic manipulation, undetected by participants, significantly boosted message memory retention for the targeted messages. This study reveals a path of media influence, demonstrating how undetected algorithmic manipulations can shape individual and collective memory. The findings carry practical and theoretical implications for diverse communication contexts, from advertising and public health to political messaging in the emerging metaverse ecosystem.",
+  "abstract_zh": "摘要 媒体信息塑造我们对世界的认知，但测量个体暴露和注意力仍然具有挑战性。新兴媒体为研究模拟真实环境中的信息接收提供了解决方案，这些环境可能很快成为我们遇到信息的实际媒体环境。在这里，我们利用虚拟现实（VR）和眼动追踪技术，在一个充满广告牌的真实虚拟城市环境中研究信息处理。我们引入了一种植入式操纵，即根据实时视线追踪，将参与者最初忽略的广告牌秘密地重新引入。我们的研究结果表明，这种未被参与者察觉的算法操纵显著提高了目标信息的记忆保留。这项研究揭示了一条媒体影响的路径，展示了未被察觉的算法操纵如何塑造个体和集体记忆。这些发现对从广告和公共卫生到新兴元宇宙生态系统中的政治信息传递等多样化的传播情境具有实践和理论意义。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "virtual reality",
+    "eye-tracking",
+    "memory retention",
+    "algorithmic manipulation",
+    "media influence",
+    "gaze-contingent exposure",
+    "metaverse",
+    "advertising",
+    "public health messaging",
+    "political communication"
+  ],
+  "inferred_keywords_zh": [
+    "虚拟现实",
+    "眼动追踪",
+    "记忆保留",
+    "算法操纵",
+    "媒体影响",
+    "视线相关暴露",
+    "元宇宙",
+    "广告",
+    "公共卫生信息传递",
+    "政治传播"
+  ],
+  "plain_summary_zh": "研究人员使用虚拟现实和眼动追踪技术，在一个虚拟城市中研究人们如何记住广告牌信息。他们偷偷地重新显示人们最初没看到的广告牌，结果发现这能显著提高人们对这些信息的记忆。这表明算法可以在不被察觉的情况下影响我们的记忆，对广告、健康宣传和政治信息传递都有重要影响。",
+  "plain_summary_en": "Researchers used virtual reality and eye-tracking to study how people remember billboard messages in a virtual city. They secretly re-displayed billboards that people initially missed, and found this significantly improved memory of those messages. This shows algorithms can influence our memory without us noticing, with implications for advertising, health campaigns, and political messaging.",
+  "research_direction_zh": "探索新兴媒体技术（如虚拟现实和眼动追踪）如何用于研究信息处理和心理影响，特别是在算法操纵和沉浸式环境中的媒体效应。",
+  "research_direction_en": "Investigating how emerging media technologies (like virtual reality and eye-tracking) can be used to study message processing and psychological influence, particularly regarding algorithmic manipulation and media effects in immersive environments.",
+  "method_tags_zh": [
+    "实验",
+    "眼动追踪",
+    "虚拟现实"
+  ],
+  "method_tags_en": [
+    "experiment",
+    "eye-tracking",
+    "virtual reality"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "international-journal-of-press-politics-6b69670889b8",
+  "doi": "10.1177/19401612251378969",
+  "url": "https://doi.org/10.1177/19401612251378969",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2025-10-29T00:00:00.000Z",
+  "authors": [
+    "Sacha Altay",
+    "Emma Hoes",
+    "Magdalena Wojcieszak"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:20:56.535Z",
+  "language": "en",
+  "raw_title": "News Informs and Boosts Discernment: A Replication in France and Germany",
+  "raw_abstract": "Can the news help people be more resilient to misinformation? Altay et al. found that news use increases surveillance knowledge and awareness of true and false news, while decreasing belief in false news. We conducted a two-wave panel survey ( N = 3,395) to replicate these findings in two new countries: France and Germany. The replication reinforces the conclusions of the original study: we found that higher news consumption predicted greater surveillance knowledge acquisition across the waves, as well as greater awareness of and belief in true news stories. News consumption also increased awareness of false news stories without increasing belief in false news stories. These findings strengthen the idea that news helps people become more informed and better at discerning truth from falsehoods.",
+  "raw_keywords": [],
+  "title_en": "News Informs and Boosts Discernment: A Replication in France and Germany",
+  "title_zh": "新闻提供信息并提升辨别力：在法国和德国的复制研究",
+  "abstract_en": "Can the news help people be more resilient to misinformation? Altay et al. found that news use increases surveillance knowledge and awareness of true and false news, while decreasing belief in false news. We conducted a two-wave panel survey ( N = 3,395) to replicate these findings in two new countries: France and Germany. The replication reinforces the conclusions of the original study: we found that higher news consumption predicted greater surveillance knowledge acquisition across the waves, as well as greater awareness of and belief in true news stories. News consumption also increased awareness of false news stories without increasing belief in false news stories. These findings strengthen the idea that news helps people become more informed and better at discerning truth from falsehoods.",
+  "abstract_zh": "新闻能否帮助人们更好地抵御错误信息？Altay等人发现，新闻使用能增加监督知识和对真假新闻的认识，同时减少对假新闻的信任。我们进行了一项两波面板调查（N = 3,395），在两个新国家（法国和德国）复制这些发现。复制研究强化了原始研究的结论：我们发现，更高的新闻消费预测了跨波次的更大监督知识获取，以及对真实新闻故事的更大认识和信任。新闻消费还增加了对假新闻故事的认识，但没有增加对假新闻故事的信任。这些发现加强了新闻帮助人们变得更知情、更好地区分真假的观点。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "news consumption",
+    "misinformation resilience",
+    "surveillance knowledge",
+    "panel survey",
+    "replication study",
+    "France",
+    "Germany"
+  ],
+  "inferred_keywords_zh": [
+    "新闻消费",
+    "错误信息抵御力",
+    "监督知识",
+    "面板调查",
+    "复制研究",
+    "法国",
+    "德国"
+  ],
+  "plain_summary_zh": "这项研究调查了新闻如何帮助人们对抗假新闻。研究人员在法国和德国调查了近3400人，发现经常看新闻的人能学到更多知识，更好地识别真假新闻，并且不会轻易相信假新闻。这表明新闻不仅能提供信息，还能提高人们的辨别能力。",
+  "plain_summary_en": "This study examines how news helps people combat fake news. Researchers surveyed nearly 3,400 people in France and Germany and found that those who consume news regularly learn more, better distinguish between true and false news, and are less likely to believe false news. This shows that news not only informs but also improves people's ability to discern truth.",
+  "research_direction_zh": "探索新闻媒体在提升公众信息素养和抵御错误信息方面的作用，特别是在不同文化背景下的效果验证。",
+  "research_direction_en": "Exploring the role of news media in enhancing public information literacy and resilience to misinformation, particularly through cross-cultural validation of effects.",
+  "method_tags_zh": [
+    "调查"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

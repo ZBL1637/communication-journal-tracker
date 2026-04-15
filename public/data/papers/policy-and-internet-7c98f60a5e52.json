@@ -1,0 +1,54 @@
+{
+  "id": "policy-and-internet-7c98f60a5e52",
+  "doi": "10.1002/poi3.70029",
+  "url": "https://doi.org/10.1002/poi3.70029",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-03-01T00:00:00.000Z",
+  "authors": [
+    "Eungjoon Kim"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:13:28.640Z",
+  "language": "en",
+  "raw_title": "Institutionalizing Predictive AI in Public Administration: Algorithmic Governance and the Case of a Wildfire Forecasting System",
+  "raw_abstract": "ABSTRACT This study explores how predictive artificial intelligence (AI) becomes institutionalized in public administration, using a wildfire risk‐prediction system implemented by a Korean forestry agency as a case. Moving beyond technical performance, the study conceptualizes predictive AI as a dynamic policy instrument that reshapes administrative routines, authority, and accountability. Drawing on Scott's institutional theory, Salamon's policy‐instrument framework, and Ziewitz's algorithmic governance model, it employs a mixed‐methods design combining surveys and semi‐structured interviews with frontline officials. The findings reveal three insights. First, predictive AI influences decision‐making by offering real‐time quantitative justification, especially in field‐level operations. Second, successful institutionalization depends on the alignment of regulatory (e.g., SOPs), normative (e.g., leadership support), and cognitive (e.g., trust) pillars. Third, organizational context—such as agency size and leadership orientation—mediates how these factors interact. Despite high technical accuracy, institutionalization remains uneven due to unclear accountability and weak integration mechanisms. The study identifies a structural tension between AI‐driven efficiency and traditional accountability norms. Theoretically, it bridges policy‐instrument theory and algorithmic governance within an institutional framework. Practically, it proposes design principles for responsible AI implementation in government. While focused on wildfire management, the framework is transferable to other predictive technologies in public administration.",
+  "raw_keywords": [],
+  "title_en": "Institutionalizing Predictive AI in Public Administration: Algorithmic Governance and the Case of a Wildfire Forecasting System",
+  "title_zh": "Institutionalizing Predictive AI in Public Administration: Algorithmic Governance and the Case of a Wildfire Forecasting System",
+  "abstract_en": "ABSTRACT This study explores how predictive artificial intelligence (AI) becomes institutionalized in public administration, using a wildfire risk‐prediction system implemented by a Korean forestry agency as a case. Moving beyond technical performance, the study conceptualizes predictive AI as a dynamic policy instrument that reshapes administrative routines, authority, and accountability. Drawing on Scott's institutional theory, Salamon's policy‐instrument framework, and Ziewitz's algorithmic governance model, it employs a mixed‐methods design combining surveys and semi‐structured interviews with frontline officials. The findings reveal three insights. First, predictive AI influences decision‐making by offering real‐time quantitative justification, especially in field‐level operations. Second, successful institutionalization depends on the alignment of regulatory (e.g., SOPs), normative (e.g., leadership support), and cognitive (e.g., trust) pillars. Third, organizational context—such as agency size and leadership orientation—mediates how these factors interact. Despite high technical accuracy, institutionalization remains uneven due to unclear accountability and weak integration mechanisms. The study identifies a structural tension between AI‐driven efficiency and traditional accountability norms. Theoretically, it bridges policy‐instrument theory and algorithmic governance within an institutional framework. Practically, it proposes design principles for responsible AI implementation in government. While focused on wildfire management, the framework is transferable to other predictive technologies in public administration.",
+  "abstract_zh": "ABSTRACT This study explores how predictive artificial intelligence (AI) becomes institutionalized in public administration, using a wildfire risk‐prediction system implemented by a Korean forestry agency as a case. Moving beyond technical performance, the study conceptualizes predictive AI as a dynamic policy instrument that reshapes administrative routines, authority, and accountability. Drawing on Scott's institutional theory, Salamon's policy‐instrument framework, and Ziewitz's algorithmic governance model, it employs a mixed‐methods design combining surveys and semi‐structured interviews with frontline officials. The findings reveal three insights. First, predictive AI influences decision‐making by offering real‐time quantitative justification, especially in field‐level operations. Second, successful institutionalization depends on the alignment of regulatory (e.g., SOPs), normative (e.g., leadership support), and cognitive (e.g., trust) pillars. Third, organizational context—such as agency size and leadership orientation—mediates how these factors interact. Despite high technical accuracy, institutionalization remains uneven due to unclear accountability and weak integration mechanisms. The study identifies a structural tension between AI‐driven efficiency and traditional accountability norms. Theoretically, it bridges policy‐instrument theory and algorithmic governance within an institutional framework. Practically, it proposes design principles for responsible AI implementation in government. While focused on wildfire management, the framework is transferable to other predictive technologies in public administration.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "And",
+    "The",
+    "Predictive",
+    "Public",
+    "Administration",
+    "Algorithmic"
+  ],
+  "inferred_keywords_zh": [
+    "And",
+    "The",
+    "Predictive",
+    "Public",
+    "Administration",
+    "Algorithmic"
+  ],
+  "plain_summary_en": "This paper studies Institutionalizing Predictive AI in Public Administration: Algorithmic Governance and the Case of a Wildfire Forecasting System. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, The, Predictive, Public. The abstract suggests a survey, interview, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Institutionalizing Predictive AI in Public Administration: Algorithmic Governance and the Case of a Wildfire Forecasting System. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, The, Predictive, Public. The abstract suggests a survey, interview, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around And, The, Predictive, Public, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around And, The, Predictive, Public, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "survey",
+    "interview",
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "survey",
+    "interview",
+    "computational analysis"
+  ]
+}

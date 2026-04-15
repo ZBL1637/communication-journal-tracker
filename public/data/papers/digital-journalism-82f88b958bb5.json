@@ -1,0 +1,67 @@
+{
+  "id": "digital-journalism-82f88b958bb5",
+  "doi": "10.1080/21670811.2025.2559370",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2559370?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2025-09-16T11:04:41.000Z",
+  "authors": [
+    "Constanza Gajardo David Domingo Irene Costera Meijer a Department of Communication Sciences",
+    "Vrije Universiteit Brussel",
+    "Brussels",
+    "Belgiumb Department of Social Communication",
+    "Universidad de Concepción",
+    "Concepción",
+    "Chilec Department of Information and Communication Sciences",
+    "Université Libre de Bruxelles",
+    "Belgiumd Department of Language and Communication",
+    "Vrije Universiteit Amsterdam",
+    "Amsterdam",
+    "The Netherlands"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:49:47.630Z",
+  "language": "en",
+  "raw_title": "Examining Platforms’ Affordances: Bridging Journalists’ and Users’ Practices of Online Engagement",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "Examining Platforms’ Affordances: Bridging Journalists’ and Users’ Practices of Online Engagement",
+  "title_zh": "审视平台可供性：连接记者与用户的在线参与实践",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "digital journalism",
+    "platform affordances",
+    "online engagement",
+    "journalistic practices",
+    "user practices",
+    "social media platforms",
+    "media studies"
+  ],
+  "inferred_keywords_zh": [
+    "数字新闻学",
+    "平台可供性",
+    "在线参与",
+    "新闻实践",
+    "用户实践",
+    "社交媒体平台",
+    "媒体研究"
+  ],
+  "plain_summary_zh": "这项研究探讨了数字平台如何影响记者和用户的在线互动方式。它关注平台提供的功能如何连接新闻生产和公众参与，帮助理解现代新闻业中的协作模式。",
+  "plain_summary_en": "This study explores how digital platforms shape the ways journalists and users interact online. It focuses on how platform features connect news production with public engagement, helping understand collaborative patterns in modern journalism.",
+  "research_direction_zh": "研究数字媒体环境中平台技术如何中介新闻实践与公众参与，探索新闻业与用户互动的动态关系。",
+  "research_direction_en": "Investigating how platform technologies mediate journalistic practices and public engagement in digital media environments, exploring the dynamic relationship between journalism and user interaction.",
+  "method_tags_zh": [
+    "案例研究",
+    "访谈",
+    "内容分析"
+  ],
+  "method_tags_en": [
+    "case study",
+    "interview",
+    "content analysis"
+  ]
+}

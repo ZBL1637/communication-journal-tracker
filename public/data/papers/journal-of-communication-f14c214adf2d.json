@@ -1,0 +1,53 @@
+{
+  "id": "journal-of-communication-f14c214adf2d",
+  "doi": "10.1093/joc/jqaf049",
+  "url": "https://doi.org/10.1093/joc/jqaf049",
+  "journalName": "JOURNAL OF COMMUNICATION",
+  "journalSlug": "journal-of-communication",
+  "issn": "0021-9916",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "authors": [
+    "Stewart M Coles",
+    "Daniel Kreiss",
+    "Daniel S Lane",
+    "Shannon C McGregor"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T22:37:46.299Z",
+  "language": "en",
+  "raw_title": "Toward a group theory of political communication",
+  "raw_abstract": "Abstract Recent political communication scholarship finds that groups and identities play a central role in the crises faced by political and media systems globally, particularly in democracies. Yet an individualist orientation in the literature has resulted in key theoretical and conceptual limitations, preventing a broader group-centric theoretical framework from emerging. We synthesize disparate bodies of theory on groups, politics, and communication to offer three basic propositions underlying a group theory of political communication. First, it is the group—not the individual—that is the fundamental organizing unit of social and political life. Second, groups are constituted through communication, which is central to how they define their politics. Third, groups and politics are reciprocally influencing forces through political communication, oriented around power. We offer a framework for studying the role of groups in political communication at the micro, meso, and macro levels, providing a concrete agenda for the study of groups in political communication.",
+  "raw_keywords": [],
+  "title_en": "Toward a group theory of political communication",
+  "title_zh": "迈向政治传播的群体理论",
+  "abstract_en": "Abstract Recent political communication scholarship finds that groups and identities play a central role in the crises faced by political and media systems globally, particularly in democracies. Yet an individualist orientation in the literature has resulted in key theoretical and conceptual limitations, preventing a broader group-centric theoretical framework from emerging. We synthesize disparate bodies of theory on groups, politics, and communication to offer three basic propositions underlying a group theory of political communication. First, it is the group—not the individual—that is the fundamental organizing unit of social and political life. Second, groups are constituted through communication, which is central to how they define their politics. Third, groups and politics are reciprocally influencing forces through political communication, oriented around power. We offer a framework for studying the role of groups in political communication at the micro, meso, and macro levels, providing a concrete agenda for the study of groups in political communication.",
+  "abstract_zh": "摘要 近期的政治传播研究发现，群体和身份认同在全球政治和媒体系统面临的危机中扮演着核心角色，尤其是在民主国家。然而，文献中的个人主义导向导致了关键的理论和概念限制，阻碍了更广泛的以群体为中心的理论框架的出现。我们综合了关于群体、政治和传播的不同理论体系，提出了构成政治传播群体理论的三个基本命题。首先，群体——而非个人——是社会和政治生活的基本组织单位。其次，群体通过传播构成，传播对于他们如何定义其政治至关重要。第三，群体和政治是通过政治传播相互影响的力量，围绕权力展开。我们提供了一个研究群体在政治传播中作用的微观、中观和宏观层面的框架，为群体在政治传播中的研究提供了具体议程。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "political communication",
+    "group theory",
+    "social identity",
+    "power dynamics",
+    "theoretical framework"
+  ],
+  "inferred_keywords_zh": [
+    "政治传播",
+    "群体理论",
+    "社会身份",
+    "权力动态",
+    "理论框架"
+  ],
+  "plain_summary_zh": "这篇文章认为，在研究政治传播时，应该把重点放在群体而不是个人上。它指出，群体是社会和政治生活的基础，通过传播形成，并与政治相互影响。文章提出了一个理论框架，帮助研究者从不同层面分析群体在政治传播中的作用。",
+  "plain_summary_en": "This article argues that when studying political communication, the focus should be on groups rather than individuals. It states that groups are the foundation of social and political life, are formed through communication, and interact with politics. The article proposes a theoretical framework to help researchers analyze the role of groups in political communication at different levels.",
+  "research_direction_zh": "探索群体在政治传播中的核心作用，发展以群体为中心的理论框架，以应对全球政治和媒体系统的危机。",
+  "research_direction_en": "Exploring the central role of groups in political communication and developing a group-centric theoretical framework to address crises in global political and media systems.",
+  "method_tags_zh": [
+    "理论综合",
+    "框架构建"
+  ],
+  "method_tags_en": [
+    "theoretical synthesis",
+    "framework development"
+  ]
+}

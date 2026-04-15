@@ -1,0 +1,71 @@
+{
+  "id": "digital-journalism-e393134caae5",
+  "doi": "10.1080/21670811.2025.2466029",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2466029?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2025-02-17T01:56:05.000Z",
+  "authors": [
+    "Jaewon Royce Choi Su Jung Kim Yayu Zhou Edward C. Malthouse a Manship School of Mass Communication",
+    "Louisiana State University",
+    "Baton Rouge",
+    "LA",
+    "USAb Annenberg School for Communication and Journalism",
+    "University of Southern California",
+    "Los Angeles",
+    "CA",
+    "USAc Department of Industrial Engineering and Management Sciences",
+    "McCormick School of Engineering",
+    "Northwestern University",
+    "Evanston",
+    "IL",
+    "USAd Spiegel Research Center",
+    "Medill School of Journalism",
+    "Media",
+    "Integrated Marketing Communications",
+    "USA"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:46:48.874Z",
+  "language": "en",
+  "raw_title": "The Role of Syndicated Content in Retaining Digital Newspaper Subscribers: Evidence from Clickstream and Subscription Data",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "The Role of Syndicated Content in Retaining Digital Newspaper Subscribers: Evidence from Clickstream and Subscription Data",
+  "title_zh": "联合内容在保留数字报纸订阅者中的作用：来自点击流和订阅数据的证据",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "syndicated content",
+    "digital newspaper",
+    "subscriber retention",
+    "clickstream data",
+    "subscription data",
+    "media consumption",
+    "content strategy"
+  ],
+  "inferred_keywords_zh": [
+    "联合内容",
+    "数字报纸",
+    "订阅者保留",
+    "点击流数据",
+    "订阅数据",
+    "媒体消费",
+    "内容策略"
+  ],
+  "plain_summary_zh": "这项研究探讨了数字报纸如何使用来自其他媒体的联合内容来保持订阅者。研究人员分析了用户点击数据和订阅记录，以了解联合内容是否有助于减少订阅者流失。",
+  "plain_summary_en": "This study examines how digital newspapers use syndicated content from other media to retain subscribers. Researchers analyzed user clickstream data and subscription records to understand whether syndicated content helps reduce subscriber churn.",
+  "research_direction_zh": "探索数字媒体环境中内容聚合和分发策略对用户忠诚度和商业可持续性的影响。",
+  "research_direction_en": "Exploring the impact of content aggregation and distribution strategies on user loyalty and business sustainability in digital media environments.",
+  "method_tags_zh": [
+    "数据分析",
+    "实证研究"
+  ],
+  "method_tags_en": [
+    "data analysis",
+    "empirical study"
+  ]
+}

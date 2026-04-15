@@ -1,0 +1,56 @@
+{
+  "id": "policy-and-internet-6ab45d3d3827",
+  "doi": "10.1002/poi3.70026",
+  "url": "https://doi.org/10.1002/poi3.70026",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-03-01T00:00:00.000Z",
+  "authors": [
+    "Shuaishuai Wang",
+    "Jing Meng",
+    "Yitong Li"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:14:10.299Z",
+  "language": "en",
+  "raw_title": "From Douyin Shop to TikTok Shop: The Platformized Supply Chain, Spatialized Business Model, and Regional Partnership in Cross‐Border e‐Commerce",
+  "raw_abstract": "ABSTRACT This article investigates how TikTok Shop reproduces the e‐commerce model of Douyin Shop against a backdrop of divergent regulatory challenges and geopolitical distrust. One of the strategic changes we observe in TikTok Shop is the shift of consumer goods suppliers from local merchants to China‐based sellers. The Chinese supply chain is thereby platformized into TikTok's global e‐commerce ecosystem through partnerships with local shipping, warehousing, and international settlements providers. Building on the paradigm shift from location analysis to spatial analysis, as proposed in existing scholarship, we argue that an analytical approach centered on the national origin of platforms obscures the corporate‐led, cross‐border deployment of resources, which scopes value spatially. Although transnational platforms may appear subordinate to state power under which they operate, there is a generative interplay between border‐bound components and borderless intangible assets such as data‐based digital intelligence. This interplay extends digital platforms both geographically and spatially by incorporating territory‐bound business actors into a reconfigured transnational space in pursuit of global profit.",
+  "raw_keywords": [],
+  "title_en": "From Douyin Shop to TikTok Shop: The Platformized Supply Chain, Spatialized Business Model, and Regional Partnership in Cross‐Border e‐Commerce",
+  "title_zh": "从抖音小店到TikTok小店：平台化供应链、空间化商业模式与跨境电商的区域合作",
+  "abstract_en": "ABSTRACT This article investigates how TikTok Shop reproduces the e‐commerce model of Douyin Shop against a backdrop of divergent regulatory challenges and geopolitical distrust. One of the strategic changes we observe in TikTok Shop is the shift of consumer goods suppliers from local merchants to China‐based sellers. The Chinese supply chain is thereby platformized into TikTok's global e‐commerce ecosystem through partnerships with local shipping, warehousing, and international settlements providers. Building on the paradigm shift from location analysis to spatial analysis, as proposed in existing scholarship, we argue that an analytical approach centered on the national origin of platforms obscures the corporate‐led, cross‐border deployment of resources, which scopes value spatially. Although transnational platforms may appear subordinate to state power under which they operate, there is a generative interplay between border‐bound components and borderless intangible assets such as data‐based digital intelligence. This interplay extends digital platforms both geographically and spatially by incorporating territory‐bound business actors into a reconfigured transnational space in pursuit of global profit.",
+  "abstract_zh": "摘要 本文探讨了TikTok小店如何在不同的监管挑战和地缘政治不信任背景下复制抖音小店的电商模式。我们在TikTok小店观察到的一个战略变化是消费品供应商从本地商家转向中国卖家。中国供应链通过与本地物流、仓储和国际结算提供商的合作，被平台化整合到TikTok的全球电商生态系统中。基于现有学术研究中提出的从位置分析到空间分析的范式转变，我们认为以平台国籍为中心的分析方法掩盖了企业主导的跨境资源配置，这种配置在空间上界定价值。尽管跨国平台在其运营的国家权力下可能显得从属，但边界约束的组件与无边界无形资产（如基于数据的数字智能）之间存在生成性互动。这种互动通过将地域约束的商业参与者纳入重新配置的跨国空间来追求全球利润，从而在地理和空间上扩展数字平台。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "cross-border e-commerce",
+    "platformization",
+    "supply chain",
+    "spatial analysis",
+    "TikTok",
+    "digital platforms",
+    "geopolitics",
+    "globalization"
+  ],
+  "inferred_keywords_zh": [
+    "跨境电商",
+    "平台化",
+    "供应链",
+    "空间分析",
+    "TikTok",
+    "数字平台",
+    "地缘政治",
+    "全球化"
+  ],
+  "plain_summary_zh": "这篇文章研究了TikTok小店如何在全球不同监管和地缘政治环境下，复制中国抖音小店的电商模式。研究发现，TikTok小店将供应商从本地转向中国卖家，通过合作整合物流和结算服务，把中国供应链平台化到全球。文章指出，不应只关注平台来自哪个国家，而要看企业如何跨境调配资源创造价值。尽管平台受国家监管，但数据等无形资产能跨越边界，帮助平台在全球扩展业务。",
+  "plain_summary_en": "This article examines how TikTok Shop replicates Douyin Shop's e-commerce model amid varying regulations and geopolitical tensions. It finds that TikTok Shop shifts suppliers from local to Chinese sellers, integrating China's supply chain into its global system through partnerships with logistics and payment providers. The study argues that focusing on a platform's national origin misses how companies deploy resources across borders to create value. While platforms are subject to state control, intangible assets like data can cross boundaries, enabling global expansion.",
+  "research_direction_zh": "研究数字平台在全球化和地缘政治背景下的商业模式演变，特别是供应链平台化和空间资源配置。",
+  "research_direction_en": "Investigating the evolution of business models in digital platforms under globalization and geopolitics, focusing on supply chain platformization and spatial resource deployment.",
+  "method_tags_zh": [
+    "案例研究"
+  ],
+  "method_tags_en": [
+    "case study"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "digital-journalism-24d93c16b518",
+  "doi": "10.1080/21670811.2025.2510967",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2510967?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2025-06-10T03:18:51.000Z",
+  "authors": [
+    "Gregory P. Perreault Seth C. Lewis Maxwell Ely a University of South Florida",
+    "Tampa Bay",
+    "Florida",
+    "USAb University of Oregon",
+    "Eugene",
+    "Oregon",
+    "USA"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:48:05.636Z",
+  "language": "en",
+  "raw_title": "ChatGPT, Generative AI, and an Epistemic Opportunity for Journalistic Authority",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "ChatGPT, Generative AI, and an Epistemic Opportunity for Journalistic Authority",
+  "title_zh": "ChatGPT、生成式人工智能与新闻权威的认知机遇",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "ChatGPT",
+    "Generative AI",
+    "Journalistic Authority",
+    "Epistemology",
+    "Digital Journalism",
+    "Artificial Intelligence",
+    "Media Trust",
+    "Technology Adoption"
+  ],
+  "inferred_keywords_zh": [
+    "ChatGPT",
+    "生成式人工智能",
+    "新闻权威",
+    "认识论",
+    "数字新闻",
+    "人工智能",
+    "媒体信任",
+    "技术采用"
+  ],
+  "plain_summary_zh": "这篇论文探讨了像ChatGPT这样的生成式人工智能工具如何为新闻行业带来新的机遇，帮助记者和媒体机构重新建立和巩固他们的权威地位。文章认为，人工智能可以成为新闻工作者提升可信度和影响力的工具。",
+  "plain_summary_en": "This paper explores how generative AI tools like ChatGPT create new opportunities for journalism to rebuild and strengthen its authority. It argues that AI can help journalists enhance their credibility and influence.",
+  "research_direction_zh": "研究数字时代新闻权威的演变，特别是人工智能技术如何影响媒体信任和职业身份。",
+  "research_direction_en": "Examining the evolution of journalistic authority in the digital age, particularly how AI technologies affect media trust and professional identity.",
+  "method_tags_zh": [
+    "理论分析",
+    "文献综述"
+  ],
+  "method_tags_en": [
+    "theoretical analysis",
+    "literature review"
+  ]
+}

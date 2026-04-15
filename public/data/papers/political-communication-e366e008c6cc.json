@@ -1,0 +1,57 @@
+{
+  "id": "political-communication-e366e008c6cc",
+  "doi": "10.1080/10584609.2025.2532584",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2532584?af=R",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2025-07-23T06:02:57.000Z",
+  "authors": [
+    "R. Kelly Garrett Robert M. Bond Erik C. Nisbet a School of Communication",
+    "Ohio State University",
+    "Columbus",
+    "Ohio",
+    "USAb School of Communication",
+    "Northwestern University",
+    "Evanston",
+    "Illinois"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:39:18.568Z",
+  "language": "en",
+  "raw_title": "Self-Reported Exposure and Beliefs About Misinformation Across a U.S. Presidential Election Cycle: Expressive Responding and Motivated Reasoning",
+  "raw_abstract": "Volume 43, Issue 1, null 2026, Page 1-17 .",
+  "raw_keywords": [],
+  "title_en": "Self-Reported Exposure and Beliefs About Misinformation Across a U.S. Presidential Election Cycle: Expressive Responding and Motivated Reasoning",
+  "title_zh": "美国大选周期中自我报告的错误信息接触与信念：表达性回应与动机性推理",
+  "abstract_en": "Volume 43, Issue 1, null 2026, Page 1-17 .",
+  "abstract_zh": "第43卷，第1期，2026年，第1-17页。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "misinformation",
+    "political communication",
+    "election cycle",
+    "expressive responding",
+    "motivated reasoning",
+    "survey research"
+  ],
+  "inferred_keywords_zh": [
+    "错误信息",
+    "政治传播",
+    "选举周期",
+    "表达性回应",
+    "动机性推理",
+    "调查研究"
+  ],
+  "plain_summary_zh": "这项研究调查了美国大选期间人们如何报告自己接触错误信息的情况以及他们对这些信息的看法。研究发现，人们可能会出于表达自己政治立场或维护既有信念的动机，而调整自己的回答或看法。",
+  "plain_summary_en": "This study examines how people report their exposure to misinformation and their beliefs about it during a U.S. presidential election cycle. It finds that individuals may adjust their responses or views due to motivations like expressing political identity or protecting existing beliefs.",
+  "research_direction_zh": "探索政治传播中个体如何因心理动机（如表达立场或维护信念）而影响对错误信息的认知与报告行为。",
+  "research_direction_en": "Investigating how psychological motivations (e.g., expressing identity or defending beliefs) shape individuals' perceptions and reporting of misinformation in political communication.",
+  "method_tags_zh": [
+    "调查"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "social-media-and-society-f86119b8f521",
+  "doi": "10.1177/20563051261419393",
+  "url": "https://doi.org/10.1177/20563051261419393",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-01-01T00:00:00.000Z",
+  "authors": [
+    "Patrícia Rossini",
+    "Antonis Kalogeropoulos",
+    "Camila Mont’Alverne"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:07:51.561Z",
+  "language": "en",
+  "raw_title": "Amplifying Division: Electoral Misinformation and Political Intolerance in Brazil",
+  "raw_abstract": "This study examines the relationship between misinformation and political intolerance during the 2022 Brazilian Election. Using a three-wave survey, we show that citizens who believe false claims about electoral fraud become more intolerant toward political opponents over time. Beliefs in electoral misinformation consistently predicted increases in intolerance over the course of the election. We find an indirect effect for using messaging apps for news and intolerance, mediated by beliefs in electoral misinformation, suggesting that citizens who rely on messaging apps for news are not only more susceptible to believing misinformation but also to its detrimental effects on democracy. These findings highlight electoral misinformation as a key driver of intolerant attitudes in polarized democracies, operating not only by eroding trust in institutions but also by undermining citizens’ commitment to democratic norms.",
+  "raw_keywords": [],
+  "title_en": "Amplifying Division: Electoral Misinformation and Political Intolerance in Brazil",
+  "title_zh": "放大分裂：巴西选举虚假信息与政治不容忍",
+  "abstract_en": "This study examines the relationship between misinformation and political intolerance during the 2022 Brazilian Election. Using a three-wave survey, we show that citizens who believe false claims about electoral fraud become more intolerant toward political opponents over time. Beliefs in electoral misinformation consistently predicted increases in intolerance over the course of the election. We find an indirect effect for using messaging apps for news and intolerance, mediated by beliefs in electoral misinformation, suggesting that citizens who rely on messaging apps for news are not only more susceptible to believing misinformation but also to its detrimental effects on democracy. These findings highlight electoral misinformation as a key driver of intolerant attitudes in polarized democracies, operating not only by eroding trust in institutions but also by undermining citizens’ commitment to democratic norms.",
+  "abstract_zh": "本研究探讨了2022年巴西选举期间虚假信息与政治不容忍之间的关系。通过一项三波次调查，我们发现相信选举舞弊虚假说法的公民会随着时间的推移对政治对手变得更加不容忍。在整个选举过程中，对选举虚假信息的信念持续预测了不容忍程度的增加。我们发现使用即时通讯应用获取新闻与不容忍之间存在间接效应，这一效应由对选举虚假信息的信念所中介，表明依赖即时通讯应用获取新闻的公民不仅更容易相信虚假信息，也更容易受到其对民主的有害影响。这些发现突显了选举虚假信息是极化民主国家中不容忍态度的关键驱动因素，不仅通过侵蚀对机构的信任，还通过削弱公民对民主规范的承诺来发挥作用。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "misinformation",
+    "political intolerance",
+    "Brazilian election",
+    "electoral fraud",
+    "messaging apps",
+    "democracy",
+    "survey research"
+  ],
+  "inferred_keywords_zh": [
+    "虚假信息",
+    "政治不容忍",
+    "巴西选举",
+    "选举舞弊",
+    "即时通讯应用",
+    "民主",
+    "调查研究"
+  ],
+  "plain_summary_zh": "这项研究发现，在巴西选举期间，相信选举舞弊虚假信息的人会变得更加不容忍政治对手。研究还显示，通过即时通讯应用获取新闻的人更容易相信这些虚假信息，进而导致对民主的负面影响。这说明了虚假信息如何加剧社会分裂。",
+  "plain_summary_en": "This study found that during Brazil's election, people who believed false claims about electoral fraud became more intolerant of political opponents. It also showed that those who get news from messaging apps are more likely to believe this misinformation, which then harms democracy. This highlights how misinformation fuels social division.",
+  "research_direction_zh": "探索虚假信息在民主社会中的传播机制及其对政治态度和社会凝聚力的影响，特别是在高度极化环境中。",
+  "research_direction_en": "Investigating how misinformation spreads in democratic societies and affects political attitudes and social cohesion, particularly in highly polarized contexts.",
+  "method_tags_zh": [
+    "调查"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

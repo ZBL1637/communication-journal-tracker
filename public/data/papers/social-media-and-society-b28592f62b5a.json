@@ -1,0 +1,57 @@
+{
+  "id": "social-media-and-society-b28592f62b5a",
+  "doi": "10.1177/20563051261417301",
+  "url": "https://doi.org/10.1177/20563051261417301",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-01-01T00:00:00.000Z",
+  "authors": [
+    "Matthew J. A. Craig",
+    "Mina Choi",
+    "Ying Zhu",
+    "Toqa Hassan",
+    "Samuel Mensah Noi",
+    "David E. Silva"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:07:13.762Z",
+  "language": "en",
+  "raw_title": "It Listens to Me So I Feel Well and Connected: Investigating the Influence of TikTok users’ Perceived Algorithm Responsiveness and (In)sensitivity on Well-Being Via Self-Determination",
+  "raw_abstract": "Social media has grown to be a large part of our virtual connectedness online. However, with this growth in digital connection, we have also become connected with digital entities that run them (social media). Borrowing from the concept of interpersonal responsiveness, researchers have found that users perceive their algorithm to be responsive to their needs and sensitive to their identity have a greater sense of well-being online and media enjoyment. However, the mechanisms for which these connect with one another (responsiveness predicting subjective well-being) remain to be disentangled. Guided by self-determination theory, this study examines whether autonomy, competence, and relatedness satisfaction through TikTok use mediate the associations between perceived algorithm responsiveness and insensitivity and satisfaction with life. With an online survey ( N = 385), our study found that greater responsiveness is associated with greater life satisfaction mediated through greater relatedness satisfaction. However, greater competence satisfaction was associated with lower life satisfaction. Future research and current limitations in light of our findings are discussed.",
+  "raw_keywords": [],
+  "title_en": "It Listens to Me So I Feel Well and Connected: Investigating the Influence of TikTok users’ Perceived Algorithm Responsiveness and (In)sensitivity on Well-Being Via Self-Determination",
+  "title_zh": "它倾听我，所以我感到幸福和连接：通过自我决定理论探究TikTok用户感知算法响应性和（不）敏感性对幸福感的影响",
+  "abstract_en": "Social media has grown to be a large part of our virtual connectedness online. However, with this growth in digital connection, we have also become connected with digital entities that run them (social media). Borrowing from the concept of interpersonal responsiveness, researchers have found that users perceive their algorithm to be responsive to their needs and sensitive to their identity have a greater sense of well-being online and media enjoyment. However, the mechanisms for which these connect with one another (responsiveness predicting subjective well-being) remain to be disentangled. Guided by self-determination theory, this study examines whether autonomy, competence, and relatedness satisfaction through TikTok use mediate the associations between perceived algorithm responsiveness and insensitivity and satisfaction with life. With an online survey ( N = 385), our study found that greater responsiveness is associated with greater life satisfaction mediated through greater relatedness satisfaction. However, greater competence satisfaction was associated with lower life satisfaction. Future research and current limitations in light of our findings are discussed.",
+  "abstract_zh": "社交媒体已成为我们在线虚拟连接的重要组成部分。然而，随着数字连接的增长，我们也与运行这些社交媒体的数字实体建立了联系。借鉴人际响应性的概念，研究人员发现，用户认为算法响应其需求并对其身份敏感时，会有更强的在线幸福感和媒体享受感。然而，这些因素相互关联的机制（响应性预测主观幸福感）仍有待厘清。在自我决定理论的指导下，本研究探讨了通过TikTok使用获得的自主性、能力和关系满足感是否中介了感知算法响应性和不敏感性与生活满意度之间的关联。通过一项在线调查（N = 385），我们的研究发现，更高的响应性通过更高的关系满足感与更高的生活满意度相关。然而，更高的能力满足感与更低的生活满意度相关。根据我们的发现，讨论了未来研究和当前局限性。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "TikTok",
+    "algorithm responsiveness",
+    "self-determination theory",
+    "well-being",
+    "social media",
+    "online survey",
+    "life satisfaction"
+  ],
+  "inferred_keywords_zh": [
+    "TikTok",
+    "算法响应性",
+    "自我决定理论",
+    "幸福感",
+    "社交媒体",
+    "在线调查",
+    "生活满意度"
+  ],
+  "plain_summary_zh": "这项研究调查了TikTok用户如何感知算法的响应性（即算法是否理解并满足他们的需求）以及这如何影响他们的幸福感。研究发现，当用户觉得算法更响应时，他们会感到更连接他人，从而更满意生活。但有趣的是，当用户觉得通过使用TikTok提升了能力时，反而可能对生活更不满意。研究基于一项385人的在线调查，使用自我决定理论来解释这些关系。",
+  "plain_summary_en": "This study investigates how TikTok users perceive algorithm responsiveness (whether the algorithm understands and meets their needs) and how this affects their well-being. It found that when users feel the algorithm is more responsive, they feel more connected to others, leading to greater life satisfaction. However, interestingly, when users feel more competent through TikTok use, they may be less satisfied with life. The study is based on an online survey of 385 people and uses self-determination theory to explain these relationships.",
+  "research_direction_zh": "探索社交媒体算法如何影响用户心理体验，特别是通过自我决定理论框架研究算法响应性与用户幸福感之间的中介机制，为数字时代的心理健康研究提供新视角。",
+  "research_direction_en": "Exploring how social media algorithms influence users' psychological experiences, particularly through the self-determination theory framework to study the mediating mechanisms between algorithm responsiveness and user well-being, offering new perspectives for mental health research in the digital age.",
+  "method_tags_zh": [
+    "调查"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

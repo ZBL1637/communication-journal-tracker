@@ -1,0 +1,60 @@
+{
+  "id": "international-journal-of-press-politics-1c8a328e0617",
+  "doi": "10.1177/19401612251395434",
+  "url": "https://doi.org/10.1177/19401612251395434",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2025-11-14T00:00:00.000Z",
+  "authors": [
+    "Gregory Gondwe"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:18:54.344Z",
+  "language": "en",
+  "raw_title": "AI-Driven Disinformation and Political Influence on WhatsApp in South Africa’s 2024 Elections",
+  "raw_abstract": "This study investigates the role of encrypted messaging apps, specifically WhatsApp, in disseminating political disinformation during South Africa’s 2024 general elections. Drawing on a dataset of 22,384 messages from 47 politically active WhatsApp groups and 6,283 unique users, the study identifies how AI-generated deepfakes, emotional manipulation, and ideological group structures facilitated the spread of false political narratives. Using MyFactChecker, an AI-powered sentiment and verification tool, we reveal that disinformation most frequently relied on fear-based appeals (41%), identity-driven rhetoric (32%), and content mimicking credible journalism (27%). The findings show that disinformation gained traction not through factual accuracy but through emotional resonance and relational trust within ideologically cohesive groups. Even when flagged as false, corrective content was often dismissed as propaganda or foreign interference, thus underscoring how truth contests unfold within closed, affective networks.",
+  "raw_keywords": [],
+  "title_en": "AI-Driven Disinformation and Political Influence on WhatsApp in South Africa’s 2024 Elections",
+  "title_zh": "南非2024年选举中WhatsApp上的AI驱动虚假信息与政治影响",
+  "abstract_en": "This study investigates the role of encrypted messaging apps, specifically WhatsApp, in disseminating political disinformation during South Africa’s 2024 general elections. Drawing on a dataset of 22,384 messages from 47 politically active WhatsApp groups and 6,283 unique users, the study identifies how AI-generated deepfakes, emotional manipulation, and ideological group structures facilitated the spread of false political narratives. Using MyFactChecker, an AI-powered sentiment and verification tool, we reveal that disinformation most frequently relied on fear-based appeals (41%), identity-driven rhetoric (32%), and content mimicking credible journalism (27%). The findings show that disinformation gained traction not through factual accuracy but through emotional resonance and relational trust within ideologically cohesive groups. Even when flagged as false, corrective content was often dismissed as propaganda or foreign interference, thus underscoring how truth contests unfold within closed, affective networks.",
+  "abstract_zh": "本研究探讨了加密通讯应用（特别是WhatsApp）在南非2024年大选期间传播政治虚假信息的作用。基于来自47个政治活跃WhatsApp群组的22,384条消息和6,283名独特用户的数据集，本研究识别了AI生成的深度伪造、情感操纵和意识形态群体结构如何促进虚假政治叙事的传播。使用AI驱动的情绪和验证工具MyFactChecker，我们发现虚假信息最常依赖基于恐惧的诉求（41%）、身份驱动的言论（32%）以及模仿可信新闻的内容（27%）。研究结果表明，虚假信息的传播并非基于事实准确性，而是通过情感共鸣和意识形态一致群体内的关系信任。即使被标记为虚假，纠正性内容也常被斥为宣传或外国干预，从而突显了真相争夺如何在封闭的情感网络中展开。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "disinformation",
+    "WhatsApp",
+    "political influence",
+    "AI-generated content",
+    "deepfakes",
+    "emotional manipulation",
+    "South Africa elections",
+    "encrypted messaging",
+    "sentiment analysis",
+    "fact-checking"
+  ],
+  "inferred_keywords_zh": [
+    "虚假信息",
+    "WhatsApp",
+    "政治影响",
+    "AI生成内容",
+    "深度伪造",
+    "情感操纵",
+    "南非选举",
+    "加密通讯",
+    "情绪分析",
+    "事实核查"
+  ],
+  "plain_summary_zh": "这项研究分析了在南非2024年选举期间，人们如何在WhatsApp上传播虚假政治信息。研究发现，AI制作的假视频、煽动情绪的内容和志同道合的群组让假消息更容易传播。假消息通常利用人们的恐惧（41%）、身份认同（32%）或伪装成可靠新闻（27%）来吸引关注。真相往往被忽视，因为人们更相信朋友和群组里的情感共鸣，而不是事实。",
+  "plain_summary_en": "This study looks at how false political information spread on WhatsApp during South Africa's 2024 elections. It found that AI-made fake videos, emotional content, and like-minded groups made it easier for misinformation to spread. False messages often used fear (41%), identity (32%), or fake news that looked real (27%) to get attention. People tended to trust emotional connections in their groups more than facts, making it hard to correct false information.",
+  "research_direction_zh": "探索加密通讯平台在政治虚假信息传播中的作用，重点关注AI技术、情感因素和群体动态如何影响公众认知和选举过程。",
+  "research_direction_en": "Investigating the role of encrypted messaging platforms in political disinformation dissemination, with a focus on how AI technologies, emotional factors, and group dynamics influence public perception and electoral processes.",
+  "method_tags_zh": [
+    "内容分析",
+    "案例研究"
+  ],
+  "method_tags_en": [
+    "content analysis",
+    "case study"
+  ]
+}

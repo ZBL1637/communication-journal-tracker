@@ -1,0 +1,52 @@
+{
+  "id": "international-journal-of-press-politics-9f5f2fcc382f",
+  "doi": "10.1177/19401612251405014",
+  "url": "https://doi.org/10.1177/19401612251405014",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2025-12-24T00:00:00.000Z",
+  "authors": [
+    "Lanabi La Lova"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:18:16.847Z",
+  "language": "en",
+  "raw_title": "Priming for War: Ukraine in Russian Domestic Television News, 2009–2019",
+  "raw_abstract": "This study investigates Russian television coverage of Ukraine between 2009 and 2019, drawing on a dataset of over 2.3 million news episodes from eight major television networks and one news agency (Interfax), including both state-controlled and relatively independent outlets. Combining natural language processing techniques with a quasi-experimental design, the analysis traces changes in content patterns over time. The results provide strong evidence consistent with the first hypothesis: following a state-enforced management change at RBC TV in 2016, the network increased the share of news coverage primarily focused on Ukraine by up to 40 percent, depending on the assumed treatment date. Evidence for the second hypothesis—which posits that RBC’s reporting would become more similar to state-controlled outlets—remains only partial. Cosine similarity analysis shows that RBC’s content became more similar to several state-controlled outlets while diverging from relatively independent TV Rain (Dozhd). Sentiment-polarity analysis indicates that RBC’s coverage became modestly more negative after the takeover. These findings suggest that content changes following institutional intervention may reflect increased alignment with state-linked narratives while preserving outlet-specific variation. The study contributes to research on media alignment in autocratic contexts by analyzing a single-case pattern and highlights both the potential and limitations of computational text analysis in examining large-scale trends in state media coverage.",
+  "raw_keywords": [],
+  "title_en": "Priming for War: Ukraine in Russian Domestic Television News, 2009–2019",
+  "title_zh": "Priming for War: Ukraine in Russian Domestic Television News, 2009–2019",
+  "abstract_en": "This study investigates Russian television coverage of Ukraine between 2009 and 2019, drawing on a dataset of over 2.3 million news episodes from eight major television networks and one news agency (Interfax), including both state-controlled and relatively independent outlets. Combining natural language processing techniques with a quasi-experimental design, the analysis traces changes in content patterns over time. The results provide strong evidence consistent with the first hypothesis: following a state-enforced management change at RBC TV in 2016, the network increased the share of news coverage primarily focused on Ukraine by up to 40 percent, depending on the assumed treatment date. Evidence for the second hypothesis—which posits that RBC’s reporting would become more similar to state-controlled outlets—remains only partial. Cosine similarity analysis shows that RBC’s content became more similar to several state-controlled outlets while diverging from relatively independent TV Rain (Dozhd). Sentiment-polarity analysis indicates that RBC’s coverage became modestly more negative after the takeover. These findings suggest that content changes following institutional intervention may reflect increased alignment with state-linked narratives while preserving outlet-specific variation. The study contributes to research on media alignment in autocratic contexts by analyzing a single-case pattern and highlights both the potential and limitations of computational text analysis in examining large-scale trends in state media coverage.",
+  "abstract_zh": "This study investigates Russian television coverage of Ukraine between 2009 and 2019, drawing on a dataset of over 2.3 million news episodes from eight major television networks and one news agency (Interfax), including both state-controlled and relatively independent outlets. Combining natural language processing techniques with a quasi-experimental design, the analysis traces changes in content patterns over time. The results provide strong evidence consistent with the first hypothesis: following a state-enforced management change at RBC TV in 2016, the network increased the share of news coverage primarily focused on Ukraine by up to 40 percent, depending on the assumed treatment date. Evidence for the second hypothesis—which posits that RBC’s reporting would become more similar to state-controlled outlets—remains only partial. Cosine similarity analysis shows that RBC’s content became more similar to several state-controlled outlets while diverging from relatively independent TV Rain (Dozhd). Sentiment-polarity analysis indicates that RBC’s coverage became modestly more negative after the takeover. These findings suggest that content changes following institutional intervention may reflect increased alignment with state-linked narratives while preserving outlet-specific variation. The study contributes to research on media alignment in autocratic contexts by analyzing a single-case pattern and highlights both the potential and limitations of computational text analysis in examining large-scale trends in state media coverage.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "The",
+    "State",
+    "And",
+    "News",
+    "Coverage",
+    "Analysis"
+  ],
+  "inferred_keywords_zh": [
+    "The",
+    "State",
+    "And",
+    "News",
+    "Coverage",
+    "Analysis"
+  ],
+  "plain_summary_en": "This paper studies Priming for War: Ukraine in Russian Domestic Television News, 2009–2019. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, State, And, News. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Priming for War: Ukraine in Russian Domestic Television News, 2009–2019. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, State, And, News. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around The, State, And, News, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around The, State, And, News, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "experiment",
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "experiment",
+    "computational analysis"
+  ]
+}

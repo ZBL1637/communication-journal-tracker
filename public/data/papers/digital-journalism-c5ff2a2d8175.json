@@ -1,0 +1,55 @@
+{
+  "id": "digital-journalism-c5ff2a2d8175",
+  "doi": "10.1080/21670811.2026.2633623",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2026.2633623?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-02-26T05:02:50.000Z",
+  "authors": [
+    "Yixue Wang Aaron Shaw Stephanie Edgerly Darren Gergle Nicholas Diakopoulos a School of Communication",
+    "Northwestern University",
+    "Evanston",
+    "IL",
+    "USAb Medill School of Journalism",
+    "USA"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:53:39.741Z",
+  "language": "en",
+  "raw_title": "Algorithmic News Content Personalization and Readers’ Attitudes",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "Algorithmic News Content Personalization and Readers’ Attitudes",
+  "title_zh": "算法新闻内容个性化与读者态度",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "algorithmic personalization",
+    "news consumption",
+    "reader attitudes",
+    "digital journalism",
+    "media effects"
+  ],
+  "inferred_keywords_zh": [
+    "算法个性化",
+    "新闻消费",
+    "读者态度",
+    "数字新闻",
+    "媒体效果"
+  ],
+  "plain_summary_zh": "这项研究探讨了算法如何个性化新闻内容，以及这如何影响读者的态度和看法。",
+  "plain_summary_en": "This study examines how algorithms personalize news content and how this affects readers' attitudes and perceptions.",
+  "research_direction_zh": "研究数字新闻中算法个性化对用户行为和媒体信任的影响。",
+  "research_direction_en": "Investigating the impact of algorithmic personalization in digital journalism on user behavior and media trust.",
+  "method_tags_zh": [
+    "调查",
+    "实验"
+  ],
+  "method_tags_en": [
+    "survey",
+    "experiment"
+  ]
+}

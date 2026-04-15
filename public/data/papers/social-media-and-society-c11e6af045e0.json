@@ -1,0 +1,54 @@
+{
+  "id": "social-media-and-society-c11e6af045e0",
+  "doi": "10.1177/20563051261419394",
+  "url": "https://doi.org/10.1177/20563051261419394",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-01-01T00:00:00.000Z",
+  "authors": [
+    "Beuckels Emma"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T23:05:30.749Z",
+  "language": "en",
+  "raw_title": "Institutionalized Sharenting: Industry Dynamics Shaping Children’s Visibility in Influencer Content",
+  "raw_abstract": "This article critically investigates the institutional dynamics that shape influencer sharenting, employing a constructivist framework and the concept of institutional work. Based on in-depth interviews with key industry stakeholders, the study demonstrates how children’s visibility within influencer marketing is strategically cultivated through the interdependent operation of economic, professional, and normative structures. The article introduces the concept of institutionalized sharenting to describe the processes through which sharenting becomes routinized and legitimized, enabling industry actors to capitalize on children’s presence while displacing full responsibility onto parents. This deflection is enacted through a variety of practices, such as the inclusion of children via strategic collaborations with their parents, and is framed through discourses of authenticity, intensive parenting, and personal choice. Ultimately, the paper argues that the marginalization of children, despite their centrality to the industry’s profitability, is sustained by adultist and neoliberal logics that frame children’s labour as play and familial monetization as empowerment.",
+  "raw_keywords": [],
+  "title_en": "Institutionalized Sharenting: Industry Dynamics Shaping Children’s Visibility in Influencer Content",
+  "title_zh": "制度化晒娃：影响者内容中塑造儿童可见度的行业动态",
+  "abstract_en": "This article critically investigates the institutional dynamics that shape influencer sharenting, employing a constructivist framework and the concept of institutional work. Based on in-depth interviews with key industry stakeholders, the study demonstrates how children’s visibility within influencer marketing is strategically cultivated through the interdependent operation of economic, professional, and normative structures. The article introduces the concept of institutionalized sharenting to describe the processes through which sharenting becomes routinized and legitimized, enabling industry actors to capitalize on children’s presence while displacing full responsibility onto parents. This deflection is enacted through a variety of practices, such as the inclusion of children via strategic collaborations with their parents, and is framed through discourses of authenticity, intensive parenting, and personal choice. Ultimately, the paper argues that the marginalization of children, despite their centrality to the industry’s profitability, is sustained by adultist and neoliberal logics that frame children’s labour as play and familial monetization as empowerment.",
+  "abstract_zh": "本文批判性地研究了塑造影响者晒娃行为的制度动态，采用建构主义框架和制度工作的概念。基于对关键行业利益相关者的深度访谈，该研究展示了儿童在影响者营销中的可见度如何通过经济、专业和规范结构的相互依存运作而被战略性地培养。文章引入了制度化晒娃的概念，描述了晒娃行为如何变得常规化和合法化，使行业参与者能够利用儿童的存在，同时将全部责任转移给父母。这种转移通过各种实践实现，例如通过与父母的战略合作来纳入儿童，并通过真实性、密集育儿和个人选择的话语来构建。最终，本文认为，尽管儿童对行业的盈利能力至关重要，但他们的边缘化是由成人主义和自由主义逻辑维持的，这些逻辑将儿童的劳动视为游戏，将家庭货币化视为赋权。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "sharenting",
+    "influencer marketing",
+    "children's visibility",
+    "institutional dynamics",
+    "parental responsibility",
+    "neoliberal logic",
+    "social media",
+    "digital labor"
+  ],
+  "inferred_keywords_zh": [
+    "晒娃",
+    "影响者营销",
+    "儿童可见度",
+    "制度动态",
+    "父母责任",
+    "新自由主义逻辑",
+    "社交媒体",
+    "数字劳动"
+  ],
+  "plain_summary_zh": "这篇文章研究社交媒体上父母分享孩子内容（晒娃）如何被行业变成一种赚钱方式。通过采访行业人士，发现公司通过经济、专业和规范手段，让晒娃变得正常化，从而利用儿童吸引观众赚钱，却把责任推给父母。文章指出，尽管儿童是盈利核心，但行业用“这是游戏”或“家庭赚钱是好事”等说法，掩盖了儿童被边缘化的问题。",
+  "plain_summary_en": "This article examines how parents sharing their children's content online (sharenting) is turned into a money-making practice by the industry. By interviewing industry insiders, it shows that companies use economic, professional, and social rules to make sharenting seem normal, allowing them to profit from children's presence while shifting blame to parents. The paper argues that even though children are key to profits, the industry downplays their exploitation by framing it as play or family empowerment.",
+  "research_direction_zh": "研究社交媒体影响者行业中的儿童参与和商业化现象，关注制度结构如何塑造父母分享行为，并探讨儿童劳动和权益在数字环境中的边缘化问题。",
+  "research_direction_en": "Investigating children's involvement and commercialization in the social media influencer industry, focusing on how institutional structures shape parental sharing practices and examining the marginalization of child labor and rights in digital contexts.",
+  "method_tags_zh": [
+    "访谈"
+  ],
+  "method_tags_en": [
+    "interview"
+  ]
+}

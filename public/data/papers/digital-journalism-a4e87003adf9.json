@@ -1,0 +1,52 @@
+{
+  "id": "digital-journalism-a4e87003adf9",
+  "doi": "10.1080/21670811.2025.2485255",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2485255?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2025-04-21T11:08:27.000Z",
+  "authors": [
+    "Anna Schjøtt University of Amsterdam",
+    "Amsterdam",
+    "Netherlands"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-15T22:59:31.420Z",
+  "language": "en",
+  "raw_title": "Advancing a Material and Epistemological Turn in the Study of AI: A Review and New Directions for Journalism Research",
+  "raw_abstract": ".",
+  "raw_keywords": [],
+  "title_en": "Advancing a Material and Epistemological Turn in the Study of AI: A Review and New Directions for Journalism Research",
+  "title_zh": "推进人工智能研究的物质与认识论转向：新闻学研究的回顾与新方向",
+  "abstract_en": ".",
+  "abstract_zh": "。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "artificial intelligence",
+    "journalism research",
+    "material turn",
+    "epistemological turn",
+    "review",
+    "research directions"
+  ],
+  "inferred_keywords_zh": [
+    "人工智能",
+    "新闻学研究",
+    "物质转向",
+    "认识论转向",
+    "综述",
+    "研究方向"
+  ],
+  "plain_summary_zh": "这篇论文探讨了人工智能研究在新闻学领域的新方向，强调需要从物质和认识论两个角度来理解AI技术如何影响新闻实践。文章回顾了现有研究，并提出了未来应关注AI如何改变新闻生产、传播和认知方式。",
+  "plain_summary_en": "This paper explores new directions in AI research within journalism, emphasizing the need to understand how AI technologies affect news practices from both material and epistemological perspectives. It reviews existing studies and suggests future focus on how AI transforms news production, dissemination, and cognition.",
+  "research_direction_zh": "推动新闻学研究中人工智能的物质与认识论转向，关注技术如何重塑新闻实践和知识生产。",
+  "research_direction_en": "Advancing material and epistemological turns in AI studies within journalism, focusing on how technology reshapes news practices and knowledge production.",
+  "method_tags_zh": [
+    "综述"
+  ],
+  "method_tags_en": [
+    "review"
+  ]
+}
