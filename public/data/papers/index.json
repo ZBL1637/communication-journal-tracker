@@ -1,146 +1,676 @@
 [
   {
-    "id": "new-media-and-society-4b91f23e12a1",
-    "doi": "10.1177/14614448261234567",
-    "url": "https://journals.sagepub.com/doi/full/10.1177/14614448261234567",
-    "journalName": "New Media & Society",
-    "journalSlug": "new-media-and-society",
-    "issn": "1461-4448",
-    "publishedAt": "2026-04-14T00:00:00.000Z",
-    "authors": ["Olivia Hart", "Daniel Reyes"],
-    "title_en": "How Tech Layoff Narratives Turned AI Into a Public Workplace Issue",
-    "title_zh": "How Tech Layoff Narratives Turned AI Into a Public Workplace Issue",
-    "keywords_en": ["artificial intelligence", "layoffs", "news discourse", "labor communication"],
-    "keywords_zh": ["artificial intelligence", "layoffs", "news discourse", "labor communication"],
-    "inferred_keywords_en": [],
-    "inferred_keywords_zh": [],
-    "plain_summary_zh": "This paper looks at a very familiar question: why did AI start to feel like a workplace threat whenever tech layoffs made headlines? The authors show that news stories and corporate messaging worked together to turn AI from a technical topic into a public story about job insecurity.",
-    "plain_summary_en": "This paper looks at a very familiar question: why did AI start to feel like a workplace threat whenever tech layoffs made headlines? The authors show that news stories and corporate messaging worked together to turn AI from a technical topic into a public story about job insecurity.",
-    "research_direction_zh": "It fits into a growing line of research on AI, labor, and public narrative, especially how media framing turns technical change into a social problem.",
-    "research_direction_en": "It fits into a growing line of research on AI, labor, and public narrative, especially how media framing turns technical change into a social problem.",
-    "method_tags_zh": ["content analysis", "discourse analysis"],
-    "method_tags_en": ["content analysis", "discourse analysis"],
-    "source": "rss+detail",
-    "fetchedAt": "2026-04-15T12:00:00.000Z"
-  },
-  {
-    "id": "science-communication-a29c1140fd02",
-    "doi": "10.1177/10755470261240211",
-    "url": "https://journals.sagepub.com/doi/full/10.1177/10755470261240211",
-    "journalName": "Science Communication",
-    "journalSlug": "science-communication",
-    "issn": "1075-5470",
-    "publishedAt": "2026-04-10T00:00:00.000Z",
-    "authors": ["Hui Chen", "Samantha Porter"],
-    "title_en": "Climate Risk Visualizations That Travel Better on Social Platforms",
-    "title_zh": "Climate Risk Visualizations That Travel Better on Social Platforms",
-    "keywords_en": ["climate communication", "visual framing", "social media", "audience attention"],
-    "keywords_zh": ["climate communication", "visual framing", "social media", "audience attention"],
-    "inferred_keywords_en": [],
-    "inferred_keywords_zh": [],
-    "plain_summary_zh": "This paper asks a practical question: what kind of climate-risk graphic travels best on social platforms? By comparing different visual styles and captions, the authors find that being clear and shareable can matter more than looking maximally technical.",
-    "plain_summary_en": "This paper asks a practical question: what kind of climate-risk graphic travels best on social platforms? By comparing different visual styles and captions, the authors find that being clear and shareable can matter more than looking maximally technical.",
-    "research_direction_zh": "It belongs to the design side of science communication, showing how scientific information gets reshaped for platform-based circulation.",
-    "research_direction_en": "It belongs to the design side of science communication, showing how scientific information gets reshaped for platform-based circulation.",
-    "method_tags_zh": ["experiment", "content analysis"],
-    "method_tags_en": ["experiment", "content analysis"],
-    "source": "toc+detail",
-    "fetchedAt": "2026-04-15T12:00:00.000Z"
-  },
-  {
-    "id": "communication-research-6c13dd9b2e24",
-    "doi": "10.1177/00936502261214551",
-    "url": "https://journals.sagepub.com/doi/full/10.1177/00936502261214551",
-    "journalName": "Communication Research",
-    "journalSlug": "communication-research",
-    "issn": "0093-6502",
-    "publishedAt": "2026-04-06T00:00:00.000Z",
-    "authors": ["Mina Schultz", "Yifan Zhou"],
-    "title_en": "Selective News Avoidance Is Not a Single Habit: Timing, Mood, and Platform Context",
-    "title_zh": "Selective News Avoidance Is Not a Single Habit: Timing, Mood, and Platform Context",
+    "id": "policy-and-internet-63618e3df8a9",
+    "doi": "10.1002/poi3.70040",
+    "url": "https://doi.org/10.1002/poi3.70040",
+    "journalName": "Policy & Internet",
+    "journalSlug": "policy-and-internet",
+    "issn": "1944-2866",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "authors": [
+      "Fangyu Qing",
+      "Ngai Keung Chan"
+    ],
+    "title_en": "Governing by Ambiguity: Sociotechnical Imaginaries of Platforms in China",
+    "title_zh": "Governing by Ambiguity: Sociotechnical Imaginaries of Platforms in China",
     "keywords_en": [],
     "keywords_zh": [],
-    "inferred_keywords_en": ["news avoidance", "audience behavior", "platform context", "mobile news"],
-    "inferred_keywords_zh": ["news avoidance", "audience behavior", "platform context", "mobile news"],
-    "plain_summary_zh": "This paper argues that avoiding the news is not just a stable personality trait. People step away for different reasons at different moments, including stress, mood, and the way a platform presents news. That makes news avoidance a more situational behavior than it often appears.",
-    "plain_summary_en": "This paper argues that avoiding the news is not just a stable personality trait. People step away for different reasons at different moments, including stress, mood, and the way a platform presents news. That makes news avoidance a more situational behavior than it often appears.",
-    "research_direction_zh": "It extends research on how audiences manage information overload, highlighting the joint role of platform experience and emotional state in news use.",
-    "research_direction_en": "It extends research on how audiences manage information overload, highlighting the joint role of platform experience and emotional state in news use.",
-    "method_tags_zh": ["survey", "interview"],
-    "method_tags_en": ["survey", "interview"],
+    "inferred_keywords_en": [
+      "The",
+      "And",
+      "Imaginaries",
+      "Ambiguity",
+      "Policy",
+      "State"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "And",
+      "Imaginaries",
+      "Ambiguity",
+      "Policy",
+      "State"
+    ],
+    "plain_summary_zh": "This paper studies Governing by Ambiguity: Sociotechnical Imaginaries of Platforms in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Imaginaries, Ambiguity. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Governing by Ambiguity: Sociotechnical Imaginaries of Platforms in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Imaginaries, Ambiguity. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, And, Imaginaries, Ambiguity, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, And, Imaginaries, Ambiguity, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-04-15T14:36:31.433Z"
+  },
+  {
+    "id": "international-journal-of-press-politics-e7eb7b7bea09",
+    "doi": "10.1177/19401612261423412",
+    "url": "https://doi.org/10.1177/19401612261423412",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-04-14T00:00:00.000Z",
+    "authors": [
+      "Matthew M. Carlson",
+      "Yukio Maeda"
+    ],
+    "title_en": "Political Speech, Scandals, and the News Media in Japan",
+    "title_zh": "Political Speech, Scandals, and the News Media in Japan",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "And",
+      "Scandals",
+      "Political",
+      "Talk",
+      "Gaffes"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "And",
+      "Scandals",
+      "Political",
+      "Talk",
+      "Gaffes"
+    ],
+    "plain_summary_zh": "This paper studies Political Speech, Scandals, and the News Media in Japan. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Scandals, Political. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Political Speech, Scandals, and the News Media in Japan. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Scandals, Political. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, And, Scandals, Political, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, And, Scandals, Political, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-04-15T14:37:12.110Z"
+  },
+  {
+    "id": "review-of-communication-research-3cc1f2f0bde5",
+    "doi": "10.52152/RCR.V14.S2",
+    "url": "https://doi.org/10.52152/rcr.v14.s2",
+    "journalName": "Review of Communication Research",
+    "journalSlug": "review-of-communication-research",
+    "issn": "2255-4165",
+    "publishedAt": "2026-04-12T16:00:00.000Z",
+    "authors": [
+      "Yao Fu",
+      "Florence Kuek"
+    ],
+    "title_en": "A Study on the Communication Path and Acceptance of the Dream of Red Mansions among Young People in the Era of Smart Media: The Multi-dimensional Influence of Fragmented Information Transmission on the Acceptance of Classic Literature",
+    "title_zh": "A Study on the Communication Path and Acceptance of the Dream of Red Mansions among Young People in the Era of Smart Media: The Multi-dimensional Influence of Fragmented Information Transmission on the Acceptance of Classic Literature",
+    "keywords_en": [
+      "Dream of Red Mansion",
+      "Female Servants",
+      "Communication Pathways",
+      "Fragmented Information",
+      "Classic Literature"
+    ],
+    "keywords_zh": [
+      "Dream of Red Mansion",
+      "Female Servants",
+      "Communication Pathways",
+      "Fragmented Information",
+      "Classic Literature"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies A Study on the Communication Path and Acceptance of the Dream of Red Mansions among Young People in the Era of Smart Media: The Multi-dimensional Influence of Fragmented Information Transmission on the Acceptance of Classic Literature. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Dream of Red Mansion, Female Servants, Communication Pathways, Fragmented Information. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies A Study on the Communication Path and Acceptance of the Dream of Red Mansions among Young People in the Era of Smart Media: The Multi-dimensional Influence of Fragmented Information Transmission on the Acceptance of Classic Literature. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Dream of Red Mansion, Female Servants, Communication Pathways, Fragmented Information. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Dream of Red Mansion, Female Servants, Communication Pathways, Fragmented Information, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Dream of Red Mansion, Female Servants, Communication Pathways, Fragmented Information, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "review"
+    ],
+    "method_tags_en": [
+      "review"
+    ],
     "source": "crossref+detail",
-    "fetchedAt": "2026-04-15T12:00:00.000Z"
+    "fetchedAt": "2026-04-15T14:37:23.146Z"
   },
   {
-    "id": "new-media-and-society-97ac01bca5dd",
-    "doi": "10.1177/14614448261230021",
-    "url": "https://journals.sagepub.com/doi/full/10.1177/14614448261230021",
-    "journalName": "New Media & Society",
-    "journalSlug": "new-media-and-society",
-    "issn": "1461-4448",
-    "publishedAt": "2026-03-28T00:00:00.000Z",
-    "authors": ["Jared Monroe", "Talia Benitez"],
-    "title_en": "Platform Illiberalism on X: Governance, Visibility, and Political Signaling",
-    "title_zh": "Platform Illiberalism on X: Governance, Visibility, and Political Signaling",
-    "keywords_en": ["platform governance", "political communication", "content moderation", "X platform"],
-    "keywords_zh": ["platform governance", "political communication", "content moderation", "X platform"],
-    "inferred_keywords_en": [],
-    "inferred_keywords_zh": [],
-    "plain_summary_zh": "This paper examines how changes in platform rules also change what people see and who gets visibility. Using X as a case, the authors argue that platforms are not neutral spaces: governance choices themselves send political signals.",
-    "plain_summary_en": "This paper examines how changes in platform rules also change what people see and who gets visibility. Using X as a case, the authors argue that platforms are not neutral spaces: governance choices themselves send political signals.",
-    "research_direction_zh": "It sits in the research area linking platform governance to democratic life, especially how technical rules shape the order of public expression.",
-    "research_direction_en": "It sits in the research area linking platform governance to democratic life, especially how technical rules shape the order of public expression.",
-    "method_tags_zh": ["case study", "computational analysis"],
-    "method_tags_en": ["case study", "computational analysis"],
-    "source": "rss+detail",
-    "fetchedAt": "2026-04-15T12:00:00.000Z"
+    "id": "review-of-communication-research-ba1e24fe5053",
+    "doi": "10.52152/v14.11",
+    "url": "https://doi.org/10.52152/v14.11",
+    "journalName": "Review of Communication Research",
+    "journalSlug": "review-of-communication-research",
+    "issn": "2255-4165",
+    "publishedAt": "2026-04-07T00:00:00.000Z",
+    "authors": [
+      "Yuanyuan You"
+    ],
+    "title_en": "Digital Media and Cross-Cultural Engagement in Broadcasting: Enhancing Host-Audience Interaction through Social Platforms",
+    "title_zh": "Digital Media and Cross-Cultural Engagement in Broadcasting: Enhancing Host-Audience Interaction through Social Platforms",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "And",
+      "Cultural",
+      "Interaction",
+      "Digital",
+      "Cross"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "And",
+      "Cultural",
+      "Interaction",
+      "Digital",
+      "Cross"
+    ],
+    "plain_summary_zh": "This paper studies Digital Media and Cross-Cultural Engagement in Broadcasting: Enhancing Host-Audience Interaction through Social Platforms. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Cultural, Interaction. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Digital Media and Cross-Cultural Engagement in Broadcasting: Enhancing Host-Audience Interaction through Social Platforms. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Cultural, Interaction. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, And, Cultural, Interaction, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, And, Cultural, Interaction, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "review"
+    ],
+    "method_tags_en": [
+      "review"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-04-15T14:37:26.137Z"
   },
   {
-    "id": "communication-research-d72fa89c715b",
-    "doi": "10.1177/00936502261207830",
-    "url": "https://journals.sagepub.com/doi/full/10.1177/00936502261207830",
-    "journalName": "Communication Research",
-    "journalSlug": "communication-research",
-    "issn": "0093-6502",
-    "publishedAt": "2026-02-18T00:00:00.000Z",
-    "authors": ["Priya Nair", "Felix Andersson", "Lena Cho"],
-    "title_en": "Health Influencers, Trust, and Correction Fatigue on Short-Video Platforms",
-    "title_zh": "Health Influencers, Trust, and Correction Fatigue on Short-Video Platforms",
-    "keywords_en": ["health communication", "influencers", "trust", "misinformation correction"],
-    "keywords_zh": ["health communication", "influencers", "trust", "misinformation correction"],
-    "inferred_keywords_en": [],
-    "inferred_keywords_zh": [],
-    "plain_summary_zh": "This paper studies a practical problem: if health influencers are constantly correcting misinformation, do audiences eventually tune out? The findings suggest that trust helps corrections work, but repeated correction can also create fatigue and reduce willingness to engage.",
-    "plain_summary_en": "This paper studies a practical problem: if health influencers are constantly correcting misinformation, do audiences eventually tune out? The findings suggest that trust helps corrections work, but repeated correction can also create fatigue and reduce willingness to engage.",
-    "research_direction_zh": "It links health communication, platform trust, and misinformation correction, showing that effective correction depends not only on accuracy but also on audience fatigue.",
-    "research_direction_en": "It links health communication, platform trust, and misinformation correction, showing that effective correction depends not only on accuracy but also on audience fatigue.",
-    "method_tags_zh": ["experiment", "survey"],
-    "method_tags_en": ["experiment", "survey"],
-    "source": "crossref+detail",
-    "fetchedAt": "2026-04-15T12:00:00.000Z"
+    "id": "international-journal-of-press-politics-afec0bbae580",
+    "doi": "10.1177/19401612261431042",
+    "url": "https://doi.org/10.1177/19401612261431042",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-04-02T00:00:00.000Z",
+    "authors": [
+      "Yuan Zhou",
+      "Tetsuro Kobayashi",
+      "Lungta Seki"
+    ],
+    "title_en": "Evaluating the Impact of China’s “Wolf Warrior Diplomacy” in East Asia: An Experimental Approach",
+    "title_zh": "Evaluating the Impact of China’s “Wolf Warrior Diplomacy” in East Asia: An Experimental Approach",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "China",
+      "And",
+      "Wolf",
+      "Warrior",
+      "Diplomacy"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "China",
+      "And",
+      "Wolf",
+      "Warrior",
+      "Diplomacy"
+    ],
+    "plain_summary_zh": "This paper studies Evaluating the Impact of China’s “Wolf Warrior Diplomacy” in East Asia: An Experimental Approach. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, China, And, Wolf. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Evaluating the Impact of China’s “Wolf Warrior Diplomacy” in East Asia: An Experimental Approach. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, China, And, Wolf. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, China, And, Wolf, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, China, And, Wolf, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "experiment"
+    ],
+    "method_tags_en": [
+      "experiment"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-04-15T14:37:14.494Z"
   },
   {
-    "id": "science-communication-ef082d1a3b19",
-    "doi": "10.1177/10755470251277814",
-    "url": "https://journals.sagepub.com/doi/full/10.1177/10755470251277814",
-    "journalName": "Science Communication",
-    "journalSlug": "science-communication",
-    "issn": "1075-5470",
-    "publishedAt": "2025-12-05T00:00:00.000Z",
-    "authors": ["Rachel Kim", "Marco Estevez"],
-    "title_en": "Using Preprint Sources in Science News: Do Transparent Disclosures Enhance Credibility?",
-    "title_zh": "Using Preprint Sources in Science News: Do Transparent Disclosures Enhance Credibility?",
-    "keywords_en": ["science journalism", "preprints", "credibility", "transparency"],
-    "keywords_zh": ["science journalism", "preprints", "credibility", "transparency"],
-    "inferred_keywords_en": [],
-    "inferred_keywords_zh": [],
-    "plain_summary_zh": "This paper asks whether science news becomes more credible when journalists clearly disclose that a source is a preprint rather than a peer-reviewed article. The results suggest that transparent labeling usually protects trust better than treating preprints like finalized science.",
-    "plain_summary_en": "This paper asks whether science news becomes more credible when journalists clearly disclose that a source is a preprint rather than a peer-reviewed article. The results suggest that transparent labeling usually protects trust better than treating preprints like finalized science.",
-    "research_direction_zh": "It contributes to research on transparency in science journalism, especially how newsrooms balance speed with credibility.",
-    "research_direction_en": "It contributes to research on transparency in science journalism, especially how newsrooms balance speed with credibility.",
-    "method_tags_zh": ["experiment", "survey"],
-    "method_tags_en": ["experiment", "survey"],
-    "source": "rss+detail",
-    "fetchedAt": "2026-04-15T12:00:00.000Z"
+    "id": "social-media-and-society-8a5d617ff99f",
+    "doi": "10.1177/20563051261434801",
+    "url": "https://doi.org/10.1177/20563051261434801",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Mengqi Liao",
+      "Yuan Sun",
+      "Timilehin Durotoye",
+      "Homero Gil de Zúñiga",
+      "S. Shyam Sundar"
+    ],
+    "title_en": "When We Think “News Will Find Me”: Relative Credibility of Social-Media Friends, Algorithms, and Editors",
+    "title_zh": "When We Think “News Will Find Me”: Relative Credibility of Social-Media Friends, Algorithms, and Editors",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "News",
+      "They",
+      "Trust",
+      "Friends",
+      "Algorithms",
+      "And"
+    ],
+    "inferred_keywords_zh": [
+      "News",
+      "They",
+      "Trust",
+      "Friends",
+      "Algorithms",
+      "And"
+    ],
+    "plain_summary_zh": "This paper studies When We Think “News Will Find Me”: Relative Credibility of Social-Media Friends, Algorithms, and Editors. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is News, They, Trust, Friends. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies When We Think “News Will Find Me”: Relative Credibility of Social-Media Friends, Algorithms, and Editors. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is News, They, Trust, Friends. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around News, They, Trust, Friends, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around News, They, Trust, Friends, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "experiment",
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "experiment",
+      "computational analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-04-15T14:36:17.047Z"
+  },
+  {
+    "id": "social-media-and-society-dc53d1dac259",
+    "doi": "10.1177/20563051261428916",
+    "url": "https://doi.org/10.1177/20563051261428916",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Georgia Kernell",
+      "Seonhye Noh"
+    ],
+    "title_en": "The AI Referee: How Online Interventions Shape Incivility and User Engagement in News Discussions",
+    "title_zh": "The AI Referee: How Online Interventions Shape Incivility and User Engagement in News Discussions",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "Incivility",
+      "And",
+      "News",
+      "Comments",
+      "Interventions"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "Incivility",
+      "And",
+      "News",
+      "Comments",
+      "Interventions"
+    ],
+    "plain_summary_zh": "This paper studies The AI Referee: How Online Interventions Shape Incivility and User Engagement in News Discussions. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Incivility, And, News. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies The AI Referee: How Online Interventions Shape Incivility and User Engagement in News Discussions. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Incivility, And, News. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, Incivility, And, News, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, Incivility, And, News, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-04-15T14:36:14.401Z"
+  },
+  {
+    "id": "journal-of-communication-a0ec29648abb",
+    "doi": "10.1093/joc/jqag001",
+    "url": "https://doi.org/10.1093/joc/jqag001",
+    "journalName": "JOURNAL OF COMMUNICATION",
+    "journalSlug": "journal-of-communication",
+    "issn": "0021-9916",
+    "publishedAt": "2026-02-07T00:00:00.000Z",
+    "authors": [
+      "Stuart Soroka",
+      "Georgia Kernell",
+      "P J Lamberson"
+    ],
+    "title_en": "Political polarization as a co-adaptive process",
+    "title_zh": "Political polarization as a co-adaptive process",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "And",
+      "The",
+      "Polarization",
+      "Adaptive",
+      "For",
+      "Political"
+    ],
+    "inferred_keywords_zh": [
+      "And",
+      "The",
+      "Polarization",
+      "Adaptive",
+      "For",
+      "Political"
+    ],
+    "plain_summary_zh": "This paper studies Political polarization as a co-adaptive process. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, The, Polarization, Adaptive. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Political polarization as a co-adaptive process. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, The, Polarization, Adaptive. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around And, The, Polarization, Adaptive, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around And, The, Polarization, Adaptive, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "review"
+    ],
+    "method_tags_en": [
+      "review"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-04-15T14:35:49.381Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-16a7055d9e04",
+    "doi": "10.1080/08351813.2025.2567820",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/08351813.2025.2567820?af=R",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-01-12T09:29:48.000Z",
+    "authors": [
+      "Jessica S. Robles Department of Communication and Media",
+      "School of Social Sciences and Humanities",
+      "Loughborough University",
+      "Loughborough",
+      "UK"
+    ],
+    "title_en": "Morally-preferred contrasts in troubles talk complaints",
+    "title_zh": "Morally-preferred contrasts in troubles talk complaints",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Morally",
+      "Preferred",
+      "Contrasts",
+      "Troubles",
+      "Talk",
+      "Complaints"
+    ],
+    "inferred_keywords_zh": [
+      "Morally",
+      "Preferred",
+      "Contrasts",
+      "Troubles",
+      "Talk",
+      "Complaints"
+    ],
+    "plain_summary_zh": "This paper studies Morally-preferred contrasts in troubles talk complaints. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Morally, Preferred, Contrasts, Troubles. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Morally-preferred contrasts in troubles talk complaints. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Morally, Preferred, Contrasts, Troubles. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Morally, Preferred, Contrasts, Troubles, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Morally, Preferred, Contrasts, Troubles, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-04-15T14:36:05.972Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-ce35848f7a44",
+    "doi": "10.1080/08351813.2025.2567819",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/08351813.2025.2567819?af=R",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-01-12T09:29:48.000Z",
+    "authors": [
+      "Esther González-Martínez Angeliki Balantani Department of Social Sciences",
+      "University of Fribourg",
+      "Fribourg",
+      "Switzerland"
+    ],
+    "title_en": "The “I have (someone)” method: Involving a hospital coworker in the matter at hand",
+    "title_zh": "The “I have (someone)” method: Involving a hospital coworker in the matter at hand",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "Have",
+      "Someone",
+      "Method",
+      "Involving",
+      "Hospital"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "Have",
+      "Someone",
+      "Method",
+      "Involving",
+      "Hospital"
+    ],
+    "plain_summary_zh": "This paper studies The “I have (someone)” method: Involving a hospital coworker in the matter at hand. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Have, Someone, Method. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies The “I have (someone)” method: Involving a hospital coworker in the matter at hand. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Have, Someone, Method. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, Have, Someone, Method, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, Have, Someone, Method, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-04-15T14:36:03.768Z"
+  },
+  {
+    "id": "political-communication-74c39f205b3b",
+    "doi": "10.1080/10584609.2025.2584999",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2584999?af=R",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2025-11-27T12:17:32.000Z",
+    "authors": [
+      "Yingdan Lu Department of Communication Studies",
+      "School of Communication",
+      "Northwestern University",
+      "Evanston",
+      "Illinois",
+      "USA"
+    ],
+    "title_en": "Performative Propaganda Engagement: How Celebrity Fans Engage with State Propaganda on Weibo",
+    "title_zh": "Performative Propaganda Engagement: How Celebrity Fans Engage with State Propaganda on Weibo",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Propaganda",
+      "Performative",
+      "Engagement",
+      "How",
+      "Celebrity",
+      "Fans"
+    ],
+    "inferred_keywords_zh": [
+      "Propaganda",
+      "Performative",
+      "Engagement",
+      "How",
+      "Celebrity",
+      "Fans"
+    ],
+    "plain_summary_zh": "This paper studies Performative Propaganda Engagement: How Celebrity Fans Engage with State Propaganda on Weibo. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Propaganda, Performative, Engagement, How. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Performative Propaganda Engagement: How Celebrity Fans Engage with State Propaganda on Weibo. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Propaganda, Performative, Engagement, How. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Propaganda, Performative, Engagement, How, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Propaganda, Performative, Engagement, How, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-04-15T14:35:54.755Z"
+  },
+  {
+    "id": "political-communication-45f601fd1d99",
+    "doi": "10.1080/10584609.2025.2566098",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2566098?af=R",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2025-10-16T11:45:11.000Z",
+    "authors": [
+      "K. Ruijgrok W. Berenschot F. Gaw J. Sombatpoonsiri Wijayanto M. J. Agonos Y. Sastramidjaja a KITLV",
+      "Leiden",
+      "The Netherlandsb Political Science Department",
+      "University of Amsterdam",
+      "Amsterdam",
+      "The Netherlandsc Anthropology Department",
+      "The Netherlandsd Communication Studies",
+      "Northwestern University",
+      "Chicago",
+      "Illinois",
+      "USAe Institute of Asian Studies",
+      "Chulalongkorn University",
+      "Bangkok",
+      "Thailandf German Institute for Global and Area Studies (GIGA)",
+      "Berlin",
+      "Germanyg Department of Government Science",
+      "Universitas Diponegoro",
+      "Semarang",
+      "Indonesiah School of Media",
+      "Film and Journalism",
+      "Monash University",
+      "Melbourne",
+      "Australiai Department of Communication Research",
+      "University of the Philippines Diliman",
+      "Manilla",
+      "International Journal of Communication",
+      "The International Journal of Press/Politics"
+    ],
+    "title_en": "Towards the Comparative Study of Domestic Influence Operations: Cyber Troops and Elite Competition in Indonesia, the Philippines and Thailand",
+    "title_zh": "Towards the Comparative Study of Domestic Influence Operations: Cyber Troops and Elite Competition in Indonesia, the Philippines and Thailand",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "And",
+      "Towards",
+      "Comparative",
+      "Domestic",
+      "Influence"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "And",
+      "Towards",
+      "Comparative",
+      "Domestic",
+      "Influence"
+    ],
+    "plain_summary_zh": "This paper studies Towards the Comparative Study of Domestic Influence Operations: Cyber Troops and Elite Competition in Indonesia, the Philippines and Thailand. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Towards, Comparative. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Towards the Comparative Study of Domestic Influence Operations: Cyber Troops and Elite Competition in Indonesia, the Philippines and Thailand. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Towards, Comparative. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, And, Towards, Comparative, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, And, Towards, Comparative, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-04-15T14:35:52.624Z"
+  },
+  {
+    "id": "digital-journalism-4ce97581178d",
+    "doi": "10.1080/21670811.2024.2443163",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2024.2443163?af=R",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2025-01-30T04:36:18.000Z",
+    "authors": [
+      "Nadja Schaetz Anna Schjøtt a Hamburg University",
+      "Hamburg",
+      "Germanyb University of Amsterdam",
+      "Amsterdam",
+      "Netherlands"
+    ],
+    "title_en": "AI Hype and its Function: An Ethnographic Study of the Local News AI Initiative of the Associated Press",
+    "title_zh": "AI Hype and its Function: An Ethnographic Study of the Local News AI Initiative of the Associated Press",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "Hype",
+      "And",
+      "Its",
+      "Function",
+      "Ethnographic"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "Hype",
+      "And",
+      "Its",
+      "Function",
+      "Ethnographic"
+    ],
+    "plain_summary_zh": "This paper studies AI Hype and its Function: An Ethnographic Study of the Local News AI Initiative of the Associated Press. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Hype, And, Its. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies AI Hype and its Function: An Ethnographic Study of the Local News AI Initiative of the Associated Press. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Hype, And, Its. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, Hype, And, Its, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, Hype, And, Its, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-04-15T14:35:58.549Z"
+  },
+  {
+    "id": "digital-journalism-6a916b38fbbd",
+    "doi": "10.1080/21670811.2025.2454516",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2454516?af=R",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2025-01-26T04:08:33.000Z",
+    "authors": [
+      "Mike Ananny Jake Karr a Annenberg School for Communication and Journalism",
+      "University of Southern California",
+      "USAb School of Law",
+      "New York University",
+      "USA"
+    ],
+    "title_en": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
+    "title_zh": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "How",
+      "Unions",
+      "Stabilize",
+      "Technological",
+      "Hype",
+      "Tracing"
+    ],
+    "inferred_keywords_zh": [
+      "How",
+      "Unions",
+      "Stabilize",
+      "Technological",
+      "Hype",
+      "Tracing"
+    ],
+    "plain_summary_zh": "This paper studies HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is How, Unions, Stabilize, Technological. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is How, Unions, Stabilize, Technological. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around How, Unions, Stabilize, Technological, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around How, Unions, Stabilize, Technological, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-04-15T14:36:00.758Z"
   }
 ]

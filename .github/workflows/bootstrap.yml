@@ -36,8 +36,11 @@ jobs:
       - name: Run bootstrap pipeline
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
           OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          DEEPSEEK_BASE_URL: ${{ vars.DEEPSEEK_BASE_URL }}
         run: |
           if [ -n "${{ github.event.inputs.limit_per_journal }}" ]; then
             npm run data:bootstrap -- --days=${{ github.event.inputs.days_back }} --limit=${{ github.event.inputs.limit_per_journal }}

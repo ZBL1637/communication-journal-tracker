@@ -1,0 +1,56 @@
+{
+  "id": "social-media-and-society-8a5d617ff99f",
+  "doi": "10.1177/20563051261434801",
+  "url": "https://doi.org/10.1177/20563051261434801",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Mengqi Liao",
+    "Yuan Sun",
+    "Timilehin Durotoye",
+    "Homero Gil de Zúñiga",
+    "S. Shyam Sundar"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T14:36:17.047Z",
+  "language": "en",
+  "raw_title": "When We Think “News Will Find Me”: Relative Credibility of Social-Media Friends, Algorithms, and Editors",
+  "raw_abstract": "Many individuals do not seek news, believing instead that “news will find me” (NFM), implying that they trust their social networks to keep them informed, saving them the trouble of proactively seeking news from journalistic outlets. Does this mean that they trust social media algorithms to accurately filter and recommend content that is relevant to them? Do they trust their friends to keep them informed, just like they would journalists? To answer these questions, we conducted a pre-registered between-subjects experiment ( N = 244) in which users with varying levels of NFM were randomly assigned to receive news recommended by either their social media friends, news editors, or an algorithm. We discovered that while users tend to act on news recommended by an algorithm mindlessly before reading it first, the type of cognitive heuristic triggered by a news source plays an important role in shaping their trust. Specifically, individuals high on NFM tend to trust algorithms because they trigger the “machine heuristic.” They also consider social media friends and algorithms to be as authoritative as news journalists and editors (“authority heuristic”). Our results advance theoretical knowledge about why high levels of NFM predict higher trust in social media friends and algorithms.",
+  "raw_keywords": [],
+  "title_en": "When We Think “News Will Find Me”: Relative Credibility of Social-Media Friends, Algorithms, and Editors",
+  "title_zh": "When We Think “News Will Find Me”: Relative Credibility of Social-Media Friends, Algorithms, and Editors",
+  "abstract_en": "Many individuals do not seek news, believing instead that “news will find me” (NFM), implying that they trust their social networks to keep them informed, saving them the trouble of proactively seeking news from journalistic outlets. Does this mean that they trust social media algorithms to accurately filter and recommend content that is relevant to them? Do they trust their friends to keep them informed, just like they would journalists? To answer these questions, we conducted a pre-registered between-subjects experiment ( N = 244) in which users with varying levels of NFM were randomly assigned to receive news recommended by either their social media friends, news editors, or an algorithm. We discovered that while users tend to act on news recommended by an algorithm mindlessly before reading it first, the type of cognitive heuristic triggered by a news source plays an important role in shaping their trust. Specifically, individuals high on NFM tend to trust algorithms because they trigger the “machine heuristic.” They also consider social media friends and algorithms to be as authoritative as news journalists and editors (“authority heuristic”). Our results advance theoretical knowledge about why high levels of NFM predict higher trust in social media friends and algorithms.",
+  "abstract_zh": "Many individuals do not seek news, believing instead that “news will find me” (NFM), implying that they trust their social networks to keep them informed, saving them the trouble of proactively seeking news from journalistic outlets. Does this mean that they trust social media algorithms to accurately filter and recommend content that is relevant to them? Do they trust their friends to keep them informed, just like they would journalists? To answer these questions, we conducted a pre-registered between-subjects experiment ( N = 244) in which users with varying levels of NFM were randomly assigned to receive news recommended by either their social media friends, news editors, or an algorithm. We discovered that while users tend to act on news recommended by an algorithm mindlessly before reading it first, the type of cognitive heuristic triggered by a news source plays an important role in shaping their trust. Specifically, individuals high on NFM tend to trust algorithms because they trigger the “machine heuristic.” They also consider social media friends and algorithms to be as authoritative as news journalists and editors (“authority heuristic”). Our results advance theoretical knowledge about why high levels of NFM predict higher trust in social media friends and algorithms.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "News",
+    "They",
+    "Trust",
+    "Friends",
+    "Algorithms",
+    "And"
+  ],
+  "inferred_keywords_zh": [
+    "News",
+    "They",
+    "Trust",
+    "Friends",
+    "Algorithms",
+    "And"
+  ],
+  "plain_summary_en": "This paper studies When We Think “News Will Find Me”: Relative Credibility of Social-Media Friends, Algorithms, and Editors. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is News, They, Trust, Friends. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies When We Think “News Will Find Me”: Relative Credibility of Social-Media Friends, Algorithms, and Editors. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is News, They, Trust, Friends. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around News, They, Trust, Friends, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around News, They, Trust, Friends, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "experiment",
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "experiment",
+    "computational analysis"
+  ]
+}

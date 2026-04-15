@@ -1,0 +1,51 @@
+{
+  "id": "social-media-and-society-dc53d1dac259",
+  "doi": "10.1177/20563051261428916",
+  "url": "https://doi.org/10.1177/20563051261428916",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Georgia Kernell",
+    "Seonhye Noh"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-15T14:36:14.401Z",
+  "language": "en",
+  "raw_title": "The AI Referee: How Online Interventions Shape Incivility and User Engagement in News Discussions",
+  "raw_abstract": "This paper seeks to understand how online interventions shape incivility and user engagement with news comments. Using a novel dataset of over 39 million news comments on Korea’s largest online news source (Naver News), we examine changes in the share of comments that are categorized as uncivil before and after the introduction of two automated interventions aimed at flagging incivility. We trained two deep learning models to categorize comments and replicate each intervention. The findings reveal significant decreases in uncivil content following each intervention. Interestingly, we find mixed effects of the interventions on total engagement: while the number of comments and commenters decreased after the first intervention, both metrics increased after the second. Examining individual-level data reveals that the aggregate reduction in incivility cuts across all users regardless of pre-intervention incivility or commenting frequency.",
+  "raw_keywords": [],
+  "title_en": "The AI Referee: How Online Interventions Shape Incivility and User Engagement in News Discussions",
+  "title_zh": "The AI Referee: How Online Interventions Shape Incivility and User Engagement in News Discussions",
+  "abstract_en": "This paper seeks to understand how online interventions shape incivility and user engagement with news comments. Using a novel dataset of over 39 million news comments on Korea’s largest online news source (Naver News), we examine changes in the share of comments that are categorized as uncivil before and after the introduction of two automated interventions aimed at flagging incivility. We trained two deep learning models to categorize comments and replicate each intervention. The findings reveal significant decreases in uncivil content following each intervention. Interestingly, we find mixed effects of the interventions on total engagement: while the number of comments and commenters decreased after the first intervention, both metrics increased after the second. Examining individual-level data reveals that the aggregate reduction in incivility cuts across all users regardless of pre-intervention incivility or commenting frequency.",
+  "abstract_zh": "This paper seeks to understand how online interventions shape incivility and user engagement with news comments. Using a novel dataset of over 39 million news comments on Korea’s largest online news source (Naver News), we examine changes in the share of comments that are categorized as uncivil before and after the introduction of two automated interventions aimed at flagging incivility. We trained two deep learning models to categorize comments and replicate each intervention. The findings reveal significant decreases in uncivil content following each intervention. Interestingly, we find mixed effects of the interventions on total engagement: while the number of comments and commenters decreased after the first intervention, both metrics increased after the second. Examining individual-level data reveals that the aggregate reduction in incivility cuts across all users regardless of pre-intervention incivility or commenting frequency.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "The",
+    "Incivility",
+    "And",
+    "News",
+    "Comments",
+    "Interventions"
+  ],
+  "inferred_keywords_zh": [
+    "The",
+    "Incivility",
+    "And",
+    "News",
+    "Comments",
+    "Interventions"
+  ],
+  "plain_summary_en": "This paper studies The AI Referee: How Online Interventions Shape Incivility and User Engagement in News Discussions. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Incivility, And, News. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies The AI Referee: How Online Interventions Shape Incivility and User Engagement in News Discussions. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Incivility, And, News. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around The, Incivility, And, News, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around The, Incivility, And, News, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "mixed methods"
+  ],
+  "method_tags_en": [
+    "mixed methods"
+  ]
+}

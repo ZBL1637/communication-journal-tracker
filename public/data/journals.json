@@ -1,44 +1,249 @@
 [
   {
-    "name": "New Media & Society",
-    "slug": "new-media-and-society",
-    "issn": "1461-4448",
+    "name": "JOURNAL OF COMMUNICATION",
+    "slug": "journal-of-communication",
+    "issn": "0021-9916",
+    "publisher": "Oxford University Press",
+    "homepage": "https://academic.oup.com/joc",
+    "tocUrl": "https://academic.oup.com/joc/advance-articles",
+    "rssUrl": "https://academic.oup.com/rss/site_6088/advanceAccess_3963.xml",
+    "sourceType": "crossref",
+    "tocArticleSelectors": [
+      "a[href*='/article-abstract/']",
+      "a[href*='/doi/']"
+    ],
+    "paperCount": 1,
+    "latestPublishedAt": "2026-02-07T00:00:00.000Z",
+    "topKeywordsEn": [
+      "And",
+      "The",
+      "Polarization",
+      "Adaptive",
+      "For"
+    ],
+    "topKeywordsZh": [
+      "And",
+      "The",
+      "Polarization",
+      "Adaptive",
+      "For"
+    ]
+  },
+  {
+    "name": "POLITICAL COMMUNICATION",
+    "slug": "political-communication",
+    "issn": "1058-4609",
+    "publisher": "Routledge / Taylor & Francis",
+    "homepage": "https://www.tandfonline.com/journals/upcp20",
+    "tocUrl": "https://www.tandfonline.com/toc/upcp20/current",
+    "rssUrl": "https://www.tandfonline.com/feed/rss/upcp20",
+    "sourceType": "rss",
+    "tocArticleSelectors": [
+      "a[href*='/doi/']",
+      ".meta__title a",
+      "h5 a"
+    ],
+    "paperCount": 2,
+    "latestPublishedAt": "2025-11-27T12:17:32.000Z",
+    "topKeywordsEn": [
+      "Propaganda",
+      "Performative",
+      "Engagement",
+      "How",
+      "Celebrity"
+    ],
+    "topKeywordsZh": [
+      "Propaganda",
+      "Performative",
+      "Engagement",
+      "How",
+      "Celebrity"
+    ]
+  },
+  {
+    "name": "Digital Journalism",
+    "slug": "digital-journalism",
+    "issn": "2167-0811",
+    "publisher": "Routledge / Taylor & Francis",
+    "homepage": "https://www.tandfonline.com/journals/rdij20",
+    "tocUrl": "https://www.tandfonline.com/toc/rdij20/current",
+    "rssUrl": "https://www.tandfonline.com/feed/rss/rdij20",
+    "sourceType": "rss",
+    "tocArticleSelectors": [
+      "a[href*='/doi/']",
+      ".meta__title a",
+      "h5 a"
+    ],
+    "paperCount": 2,
+    "latestPublishedAt": "2025-01-30T04:36:18.000Z",
+    "topKeywordsEn": [
+      "The",
+      "Hype",
+      "And",
+      "Its",
+      "Function"
+    ],
+    "topKeywordsZh": [
+      "The",
+      "Hype",
+      "And",
+      "Its",
+      "Function"
+    ]
+  },
+  {
+    "name": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "slug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publisher": "Routledge / Taylor & Francis",
+    "homepage": "https://www.tandfonline.com/journals/hrls20",
+    "tocUrl": "https://www.tandfonline.com/toc/hrls20/current",
+    "rssUrl": "https://www.tandfonline.com/feed/rss/hrls20",
+    "sourceType": "rss",
+    "tocArticleSelectors": [
+      "a[href*='/doi/']",
+      ".meta__title a",
+      "h5 a"
+    ],
+    "paperCount": 2,
+    "latestPublishedAt": "2026-01-12T09:29:48.000Z",
+    "topKeywordsEn": [
+      "Morally",
+      "Preferred",
+      "Contrasts",
+      "Troubles",
+      "Talk"
+    ],
+    "topKeywordsZh": [
+      "Morally",
+      "Preferred",
+      "Contrasts",
+      "Troubles",
+      "Talk"
+    ]
+  },
+  {
+    "name": "Social Media + Society",
+    "slug": "social-media-and-society",
+    "issn": "2056-3051",
     "publisher": "SAGE Publications",
-    "homepage": "https://journals.sagepub.com/home/nms",
-    "tocUrl": "https://journals.sagepub.com/toc/nmsa/current",
-    "rssUrl": "https://journals.sagepub.com/action/showFeed?jc=nms&type=axatoc&feed=rss",
-    "sourceType": "hybrid",
+    "homepage": "https://journals.sagepub.com/home/sms",
+    "tocUrl": "https://journals.sagepub.com/toc/sms/current",
+    "rssUrl": "https://journals.sagepub.com/action/showFeed?jc=sms&type=axatoc&feed=rss",
+    "sourceType": "crossref",
+    "tocArticleSelectors": [
+      "a[href*='/doi/']",
+      ".issue-item__title a",
+      ".articleEntry a"
+    ],
+    "paperCount": 2,
+    "latestPublishedAt": "2026-04-01T00:00:00.000Z",
+    "topKeywordsEn": [
+      "News",
+      "They",
+      "Trust",
+      "Friends",
+      "Algorithms"
+    ],
+    "topKeywordsZh": [
+      "News",
+      "They",
+      "Trust",
+      "Friends",
+      "Algorithms"
+    ]
+  },
+  {
+    "name": "Policy & Internet",
+    "slug": "policy-and-internet",
+    "issn": "1944-2866",
+    "publisher": "Wiley",
+    "homepage": "https://onlinelibrary.wiley.com/journal/19442866",
+    "tocUrl": "https://onlinelibrary.wiley.com/loi/19442866",
+    "rssUrl": "",
+    "sourceType": "crossref",
+    "tocArticleSelectors": [
+      "a[href*='/doi/']",
+      ".issue-item a",
+      "h2 a"
+    ],
+    "paperCount": 1,
+    "latestPublishedAt": "2026-06-01T00:00:00.000Z",
+    "topKeywordsEn": [
+      "The",
+      "And",
+      "Imaginaries",
+      "Ambiguity",
+      "Policy"
+    ],
+    "topKeywordsZh": [
+      "The",
+      "And",
+      "Imaginaries",
+      "Ambiguity",
+      "Policy"
+    ]
+  },
+  {
+    "name": "International Journal of Press/Politics",
+    "slug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publisher": "SAGE Publications",
+    "homepage": "https://journals.sagepub.com/home/hija",
+    "tocUrl": "https://journals.sagepub.com/toc/hij/current",
+    "rssUrl": "https://journals.sagepub.com/action/showFeed?jc=hij&type=axatoc&feed=rss",
+    "sourceType": "crossref",
+    "tocArticleSelectors": [
+      "a[href*='/doi/']",
+      ".issue-item__title a",
+      ".articleEntry a"
+    ],
     "paperCount": 2,
     "latestPublishedAt": "2026-04-14T00:00:00.000Z",
-    "topKeywordsEn": ["artificial intelligence", "platform governance", "labor communication", "political communication"],
-    "topKeywordsZh": ["artificial intelligence", "platform governance", "labor communication", "political communication"]
+    "topKeywordsEn": [
+      "The",
+      "And",
+      "Scandals",
+      "Political",
+      "Talk"
+    ],
+    "topKeywordsZh": [
+      "The",
+      "And",
+      "Scandals",
+      "Political",
+      "Talk"
+    ]
   },
   {
-    "name": "Communication Research",
-    "slug": "communication-research",
-    "issn": "0093-6502",
-    "publisher": "SAGE Publications",
-    "homepage": "https://journals.sagepub.com/home/crx",
-    "tocUrl": "https://journals.sagepub.com/toc/crxa/current",
-    "rssUrl": "https://journals.sagepub.com/action/showFeed?jc=crx&type=axatoc&feed=rss",
-    "sourceType": "hybrid",
+    "name": "Review of Communication Research",
+    "slug": "review-of-communication-research",
+    "issn": "2255-4165",
+    "publisher": "Review of Communication Research",
+    "homepage": "https://www.rcommunicationr.org/index.php/rcr",
+    "tocUrl": "https://www.rcommunicationr.org/index.php/rcr/issue/current",
+    "rssUrl": "",
+    "sourceType": "crossref",
+    "tocArticleSelectors": [
+      "a[href*='/index.php/rcr/article/view/']",
+      ".obj_article_summary h3 a",
+      ".cmp_article_list__item h3 a"
+    ],
     "paperCount": 2,
-    "latestPublishedAt": "2026-04-06T00:00:00.000Z",
-    "topKeywordsEn": ["news avoidance", "audience behavior", "health communication", "influencers"],
-    "topKeywordsZh": ["news avoidance", "audience behavior", "health communication", "influencers"]
-  },
-  {
-    "name": "Science Communication",
-    "slug": "science-communication",
-    "issn": "1075-5470",
-    "publisher": "SAGE Publications",
-    "homepage": "https://journals.sagepub.com/home/scx",
-    "tocUrl": "https://journals.sagepub.com/toc/scxa/current",
-    "rssUrl": "https://journals.sagepub.com/action/showFeed?jc=scx&type=axatoc&feed=rss",
-    "sourceType": "hybrid",
-    "paperCount": 2,
-    "latestPublishedAt": "2026-04-10T00:00:00.000Z",
-    "topKeywordsEn": ["climate communication", "science journalism", "preprints", "visual framing"],
-    "topKeywordsZh": ["climate communication", "science journalism", "preprints", "visual framing"]
+    "latestPublishedAt": "2026-04-12T16:00:00.000Z",
+    "topKeywordsEn": [
+      "Dream of Red Mansion",
+      "Female Servants",
+      "Communication Pathways",
+      "Fragmented Information",
+      "Classic Literature"
+    ],
+    "topKeywordsZh": [
+      "Dream of Red Mansion",
+      "Female Servants",
+      "Communication Pathways",
+      "Fragmented Information",
+      "Classic Literature"
+    ]
   }
 ]

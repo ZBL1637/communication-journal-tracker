@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-15T12:00:00.000Z",
-  "mode": "sample",
-  "papersCount": 6,
-  "journalsCount": 3,
+  "generatedAt": "2026-04-15T14:37:26.156Z",
+  "mode": "bootstrap",
+  "papersCount": 14,
+  "journalsCount": 8,
   "paths": {
     "journals": "/data/journals.json",
     "trends": "/data/trends.json",

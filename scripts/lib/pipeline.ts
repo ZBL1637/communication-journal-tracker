@@ -1,3 +1,4 @@
+import fs from 'node:fs/promises';
 import path from 'node:path';
 
 import { dataDir, loadJournalsConfig, loadRuntimeConfig, papersDir } from './config.js';
@@ -54,18 +55,47 @@ const shouldFetchDetail = (candidate: PaperCandidate) =>
   Boolean(candidate.url) &&
   (!candidate.abstract || !candidate.keywords || candidate.keywords.length === 0 || candidate.source.type === 'toc');
 
+const isIgnoredTitle = (title: string) => {
+  const normalized = title.trim().toLowerCase();
+  return (
+    normalized === '' ||
+    normalized === 'pdf' ||
+    normalized === 'issue information' ||
+    normalized.startsWith('correction to:') ||
+    normalized.startsWith('book review:') ||
+    normalized === 'thanks to reviewers'
+  );
+};
+
+const resolveSourceTasks = (
+  journal: JournalConfig,
+  options: PipelineOptions,
+  runtime: ReturnType<typeof loadRuntimeConfig>
+) => {
+  const tasks: Array<Promise<PaperCandidate[]>> = [];
+
+  if (journal.sourceType === 'rss' || journal.sourceType === 'hybrid') {
+    tasks.push(fetchRssCandidates(journal, runtime, options.limitPerJournal));
+  }
+
+  if (journal.sourceType === 'toc' || journal.sourceType === 'hybrid') {
+    tasks.push(fetchTocCandidates(journal, runtime, options.limitPerJournal));
+  }
+
+  if (journal.sourceType === 'crossref' || journal.sourceType === 'hybrid') {
+    tasks.push(fetchCrossrefCandidates(journal, runtime, options.daysBack, options.limitPerJournal));
+  }
+
+  return tasks.length > 0 ? tasks : [Promise.resolve([])];
+};
+
 const collectCandidatesForJournal = async (
   journal: JournalConfig,
   options: PipelineOptions,
   runtime = loadRuntimeConfig()
 ) => {
-  const [rssCandidates, tocCandidates, crossrefCandidates] = await Promise.all([
-    fetchRssCandidates(journal, runtime, options.limitPerJournal),
-    fetchTocCandidates(journal, runtime, options.limitPerJournal),
-    fetchCrossrefCandidates(journal, runtime, options.daysBack, options.limitPerJournal)
-  ]);
-
-  return dedupeCandidates([...rssCandidates, ...tocCandidates, ...crossrefCandidates]);
+  const results = await Promise.all(resolveSourceTasks(journal, options, runtime));
+  return dedupeCandidates(results.flat());
 };
 
 const materializeRecord = async (
@@ -78,7 +108,7 @@ const materializeRecord = async (
 
   const rawTitle = normalizeWhitespace(withDetail.title);
   const rawAbstract = normalizeWhitespace(withDetail.abstract);
-  if (!rawTitle && !withDetail.url) {
+  if (isIgnoredTitle(rawTitle) || (!rawTitle && !withDetail.url)) {
     return null;
   }
 
@@ -222,6 +252,7 @@ export const runPipeline = async (options: PipelineOptions): Promise<PipelineSum
   const trends = buildTrends(allPapers, allJournals);
   const manifest = buildManifest(options.mode, allPapers.length, allJournals.length);
   const index = buildIndex(allPapers);
+  const activePaperFiles = new Set(allPapers.map((paper) => `${paper.id}.json`).concat('index.json'));
 
   await ensureDir(papersDir);
   await Promise.all([
@@ -233,6 +264,13 @@ export const runPipeline = async (options: PipelineOptions): Promise<PipelineSum
 
   for (const paper of allPapers) {
     await writeJson(path.join(papersDir, `${paper.id}.json`), paper);
+  }
+
+  if (options.mode === 'bootstrap') {
+    const currentFiles = await fs.readdir(papersDir).catch(() => []);
+    const staleFiles = currentFiles.filter((fileName) => fileName.endsWith('.json') && !activePaperFiles.has(fileName));
+
+    await Promise.all(staleFiles.map((fileName) => fs.rm(path.join(papersDir, fileName), { force: true })));
   }
 
   logger.info(`Wrote ${allPapers.length} paper records`);

@@ -26,7 +26,7 @@ export const enrichCandidateWithAi = async (candidate: PaperCandidate, runtime: 
   const fallback = buildFallbackEnrichment(candidate);
 
   if (!runtime.openAiApiKey) {
-    logger.warn(`OPENAI_API_KEY is missing; using fallback enrichment for ${candidate.title ?? candidate.url}`);
+    logger.warn(`No model API key is configured; using fallback enrichment for ${candidate.title ?? candidate.url}`);
     return fallback;
   }
 

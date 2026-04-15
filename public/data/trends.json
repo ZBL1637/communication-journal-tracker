@@ -1,121 +1,536 @@
 {
-  "generatedAt": "2026-04-15T12:00:00.000Z",
+  "generatedAt": "2026-04-15T14:37:26.140Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
       "paperCount": 3,
-      "overview_en": "Recent papers cluster around AI-and-work narratives, selective news use, and climate communication assets built for social platforms. The most common methods are content analysis, survey research, and experiments.",
-      "overview_zh": "Recent papers cluster around AI-and-work narratives, selective news use, and climate communication assets built for social platforms. The most common methods are content analysis, survey research, and experiments.",
-      "hot_topics_en": ["artificial intelligence", "news avoidance", "climate communication", "visual framing", "labor communication"],
-      "hot_topics_zh": ["artificial intelligence", "news avoidance", "climate communication", "visual framing", "labor communication"],
+      "overview_en": "Across 3 papers, the most visible themes are The, And, Imaginaries. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
+      "overview_zh": "Across 3 papers, the most visible themes are The, And, Imaginaries. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
+      "hot_topics_en": [
+        "The",
+        "And",
+        "Imaginaries",
+        "Ambiguity",
+        "Policy"
+      ],
+      "hot_topics_zh": [
+        "The",
+        "And",
+        "Imaginaries",
+        "Ambiguity",
+        "Policy"
+      ],
       "high_frequency_keywords": [
-        { "label_en": "artificial intelligence", "label_zh": "artificial intelligence", "count": 1 },
-        { "label_en": "news avoidance", "label_zh": "news avoidance", "count": 1 },
-        { "label_en": "climate communication", "label_zh": "climate communication", "count": 1 },
-        { "label_en": "visual framing", "label_zh": "visual framing", "count": 1 },
-        { "label_en": "labor communication", "label_zh": "labor communication", "count": 1 }
+        {
+          "label_en": "The",
+          "label_zh": "The",
+          "count": 2
+        },
+        {
+          "label_en": "And",
+          "label_zh": "And",
+          "count": 2
+        },
+        {
+          "label_en": "Imaginaries",
+          "label_zh": "Imaginaries",
+          "count": 1
+        },
+        {
+          "label_en": "Ambiguity",
+          "label_zh": "Ambiguity",
+          "count": 1
+        },
+        {
+          "label_en": "Policy",
+          "label_zh": "Policy",
+          "count": 1
+        },
+        {
+          "label_en": "State",
+          "label_zh": "State",
+          "count": 1
+        },
+        {
+          "label_en": "Scandals",
+          "label_zh": "Scandals",
+          "count": 1
+        },
+        {
+          "label_en": "Political",
+          "label_zh": "Political",
+          "count": 1
+        },
+        {
+          "label_en": "Talk",
+          "label_zh": "Talk",
+          "count": 1
+        },
+        {
+          "label_en": "Gaffes",
+          "label_zh": "Gaffes",
+          "count": 1
+        }
       ],
       "high_frequency_methods": [
-        { "label_en": "content analysis", "label_zh": "content analysis", "count": 2 },
-        { "label_en": "survey", "label_zh": "survey", "count": 1 },
-        { "label_en": "experiment", "label_zh": "experiment", "count": 1 },
-        { "label_en": "interview", "label_zh": "interview", "count": 1 }
+        {
+          "label_en": "mixed methods",
+          "label_zh": "mixed methods",
+          "count": 2
+        },
+        {
+          "label_en": "review",
+          "label_zh": "review",
+          "count": 1
+        }
       ]
     },
     {
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 4,
-      "overview_en": "Over the past month, communication research has focused on platform governance, public trust, AI-and-labor anxiety, and why people step away from the news. Mixed-method designs dominate, with case studies and computational analysis appearing more often.",
-      "overview_zh": "Over the past month, communication research has focused on platform governance, public trust, AI-and-labor anxiety, and why people step away from the news. Mixed-method designs dominate, with case studies and computational analysis appearing more often.",
-      "hot_topics_en": ["platform governance", "news avoidance", "artificial intelligence", "health communication", "climate communication"],
-      "hot_topics_zh": ["platform governance", "news avoidance", "artificial intelligence", "health communication", "climate communication"],
+      "paperCount": 7,
+      "overview_en": "Across 7 papers, the most visible themes are And, The, News. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
+      "overview_zh": "Across 7 papers, the most visible themes are And, The, News. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
+      "hot_topics_en": [
+        "And",
+        "The",
+        "News",
+        "Imaginaries",
+        "Ambiguity"
+      ],
+      "hot_topics_zh": [
+        "And",
+        "The",
+        "News",
+        "Imaginaries",
+        "Ambiguity"
+      ],
       "high_frequency_keywords": [
-        { "label_en": "platform governance", "label_zh": "platform governance", "count": 2 },
-        { "label_en": "news avoidance", "label_zh": "news avoidance", "count": 1 },
-        { "label_en": "artificial intelligence", "label_zh": "artificial intelligence", "count": 1 },
-        { "label_en": "health communication", "label_zh": "health communication", "count": 1 },
-        { "label_en": "climate communication", "label_zh": "climate communication", "count": 1 }
+        {
+          "label_en": "And",
+          "label_zh": "And",
+          "count": 6
+        },
+        {
+          "label_en": "The",
+          "label_zh": "The",
+          "count": 5
+        },
+        {
+          "label_en": "News",
+          "label_zh": "News",
+          "count": 2
+        },
+        {
+          "label_en": "Imaginaries",
+          "label_zh": "Imaginaries",
+          "count": 1
+        },
+        {
+          "label_en": "Ambiguity",
+          "label_zh": "Ambiguity",
+          "count": 1
+        },
+        {
+          "label_en": "Policy",
+          "label_zh": "Policy",
+          "count": 1
+        },
+        {
+          "label_en": "State",
+          "label_zh": "State",
+          "count": 1
+        },
+        {
+          "label_en": "Scandals",
+          "label_zh": "Scandals",
+          "count": 1
+        },
+        {
+          "label_en": "Political",
+          "label_zh": "Political",
+          "count": 1
+        },
+        {
+          "label_en": "Talk",
+          "label_zh": "Talk",
+          "count": 1
+        }
       ],
       "high_frequency_methods": [
-        { "label_en": "content analysis", "label_zh": "content analysis", "count": 2 },
-        { "label_en": "experiment", "label_zh": "experiment", "count": 2 },
-        { "label_en": "survey", "label_zh": "survey", "count": 2 },
-        { "label_en": "case study", "label_zh": "case study", "count": 1 }
+        {
+          "label_en": "mixed methods",
+          "label_zh": "mixed methods",
+          "count": 3
+        },
+        {
+          "label_en": "review",
+          "label_zh": "review",
+          "count": 2
+        },
+        {
+          "label_en": "experiment",
+          "label_zh": "experiment",
+          "count": 2
+        },
+        {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 1
+        }
       ]
     },
     {
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 6,
-      "overview_en": "Across the last six months, the strongest themes are platform governance, public trust, science reporting transparency, and audience adaptation to information overload. Researchers repeatedly combine experiments, surveys, content analysis, and case-study logic.",
-      "overview_zh": "Across the last six months, the strongest themes are platform governance, public trust, science reporting transparency, and audience adaptation to information overload. Researchers repeatedly combine experiments, surveys, content analysis, and case-study logic.",
-      "hot_topics_en": ["platform governance", "science journalism", "news avoidance", "health communication", "artificial intelligence"],
-      "hot_topics_zh": ["platform governance", "science journalism", "news avoidance", "health communication", "artificial intelligence"],
+      "paperCount": 11,
+      "overview_en": "Across 11 papers, the most visible themes are The, And, Political. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
+      "overview_zh": "Across 11 papers, the most visible themes are The, And, Political. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
+      "hot_topics_en": [
+        "The",
+        "And",
+        "Political",
+        "Talk",
+        "News"
+      ],
+      "hot_topics_zh": [
+        "The",
+        "And",
+        "Political",
+        "Talk",
+        "News"
+      ],
       "high_frequency_keywords": [
-        { "label_en": "platform governance", "label_zh": "platform governance", "count": 2 },
-        { "label_en": "science journalism", "label_zh": "science journalism", "count": 1 },
-        { "label_en": "news avoidance", "label_zh": "news avoidance", "count": 1 },
-        { "label_en": "health communication", "label_zh": "health communication", "count": 1 },
-        { "label_en": "artificial intelligence", "label_zh": "artificial intelligence", "count": 1 },
-        { "label_en": "preprints", "label_zh": "preprints", "count": 1 }
+        {
+          "label_en": "The",
+          "label_zh": "The",
+          "count": 7
+        },
+        {
+          "label_en": "And",
+          "label_zh": "And",
+          "count": 7
+        },
+        {
+          "label_en": "Political",
+          "label_zh": "Political",
+          "count": 2
+        },
+        {
+          "label_en": "Talk",
+          "label_zh": "Talk",
+          "count": 2
+        },
+        {
+          "label_en": "News",
+          "label_zh": "News",
+          "count": 2
+        },
+        {
+          "label_en": "Imaginaries",
+          "label_zh": "Imaginaries",
+          "count": 1
+        },
+        {
+          "label_en": "Ambiguity",
+          "label_zh": "Ambiguity",
+          "count": 1
+        },
+        {
+          "label_en": "Policy",
+          "label_zh": "Policy",
+          "count": 1
+        },
+        {
+          "label_en": "State",
+          "label_zh": "State",
+          "count": 1
+        },
+        {
+          "label_en": "Scandals",
+          "label_zh": "Scandals",
+          "count": 1
+        }
       ],
       "high_frequency_methods": [
-        { "label_en": "content analysis", "label_zh": "content analysis", "count": 2 },
-        { "label_en": "experiment", "label_zh": "experiment", "count": 3 },
-        { "label_en": "survey", "label_zh": "survey", "count": 3 },
-        { "label_en": "case study", "label_zh": "case study", "count": 1 },
-        { "label_en": "interview", "label_zh": "interview", "count": 1 }
+        {
+          "label_en": "mixed methods",
+          "label_zh": "mixed methods",
+          "count": 6
+        },
+        {
+          "label_en": "review",
+          "label_zh": "review",
+          "count": 3
+        },
+        {
+          "label_en": "experiment",
+          "label_zh": "experiment",
+          "count": 2
+        },
+        {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 1
+        }
       ]
     }
   ],
   "journal_bias": [
     {
-      "journalName": "New Media & Society",
-      "journalSlug": "new-media-and-society",
-      "paperCount": 2,
-      "topic_bias_en": ["platform governance", "artificial intelligence", "labor communication", "political communication"],
-      "topic_bias_zh": ["platform governance", "artificial intelligence", "labor communication", "political communication"],
-      "method_bias_en": ["content analysis", "discourse analysis", "case study", "computational analysis"],
-      "method_bias_zh": ["content analysis", "discourse analysis", "case study", "computational analysis"]
+      "journalName": "JOURNAL OF COMMUNICATION",
+      "journalSlug": "journal-of-communication",
+      "paperCount": 1,
+      "topic_bias_en": [
+        "And",
+        "The",
+        "Polarization",
+        "Adaptive"
+      ],
+      "topic_bias_zh": [
+        "And",
+        "The",
+        "Polarization",
+        "Adaptive"
+      ],
+      "method_bias_en": [
+        "review"
+      ],
+      "method_bias_zh": [
+        "review"
+      ]
     },
     {
-      "journalName": "Communication Research",
-      "journalSlug": "communication-research",
-      "paperCount": 2,
-      "topic_bias_en": ["news avoidance", "health communication", "audience behavior", "trust"],
-      "topic_bias_zh": ["news avoidance", "health communication", "audience behavior", "trust"],
-      "method_bias_en": ["survey", "interview", "experiment"],
-      "method_bias_zh": ["survey", "interview", "experiment"]
+      "journalName": "POLITICAL COMMUNICATION",
+      "journalSlug": "political-communication",
+      "paperCount": 1,
+      "topic_bias_en": [
+        "Propaganda",
+        "Performative",
+        "Engagement",
+        "How"
+      ],
+      "topic_bias_zh": [
+        "Propaganda",
+        "Performative",
+        "Engagement",
+        "How"
+      ],
+      "method_bias_en": [
+        "mixed methods"
+      ],
+      "method_bias_zh": [
+        "mixed methods"
+      ]
     },
     {
-      "journalName": "Science Communication",
-      "journalSlug": "science-communication",
+      "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+      "journalSlug": "research-on-language-and-social-interaction",
       "paperCount": 2,
-      "topic_bias_en": ["science journalism", "climate communication", "preprints", "visual framing"],
-      "topic_bias_zh": ["science journalism", "climate communication", "preprints", "visual framing"],
-      "method_bias_en": ["experiment", "content analysis", "survey"],
-      "method_bias_zh": ["experiment", "content analysis", "survey"]
+      "topic_bias_en": [
+        "Morally",
+        "Preferred",
+        "Contrasts",
+        "Troubles"
+      ],
+      "topic_bias_zh": [
+        "Morally",
+        "Preferred",
+        "Contrasts",
+        "Troubles"
+      ],
+      "method_bias_en": [
+        "mixed methods"
+      ],
+      "method_bias_zh": [
+        "mixed methods"
+      ]
+    },
+    {
+      "journalName": "Social Media + Society",
+      "journalSlug": "social-media-and-society",
+      "paperCount": 2,
+      "topic_bias_en": [
+        "News",
+        "And",
+        "They",
+        "Trust"
+      ],
+      "topic_bias_zh": [
+        "News",
+        "And",
+        "They",
+        "Trust"
+      ],
+      "method_bias_en": [
+        "experiment",
+        "computational analysis",
+        "mixed methods"
+      ],
+      "method_bias_zh": [
+        "experiment",
+        "computational analysis",
+        "mixed methods"
+      ]
+    },
+    {
+      "journalName": "Policy & Internet",
+      "journalSlug": "policy-and-internet",
+      "paperCount": 1,
+      "topic_bias_en": [
+        "The",
+        "And",
+        "Imaginaries",
+        "Ambiguity"
+      ],
+      "topic_bias_zh": [
+        "The",
+        "And",
+        "Imaginaries",
+        "Ambiguity"
+      ],
+      "method_bias_en": [
+        "mixed methods"
+      ],
+      "method_bias_zh": [
+        "mixed methods"
+      ]
+    },
+    {
+      "journalName": "International Journal of Press/Politics",
+      "journalSlug": "international-journal-of-press-politics",
+      "paperCount": 2,
+      "topic_bias_en": [
+        "The",
+        "And",
+        "Scandals",
+        "Political"
+      ],
+      "topic_bias_zh": [
+        "The",
+        "And",
+        "Scandals",
+        "Political"
+      ],
+      "method_bias_en": [
+        "mixed methods",
+        "experiment"
+      ],
+      "method_bias_zh": [
+        "mixed methods",
+        "experiment"
+      ]
+    },
+    {
+      "journalName": "Review of Communication Research",
+      "journalSlug": "review-of-communication-research",
+      "paperCount": 2,
+      "topic_bias_en": [
+        "Dream of Red Mansion",
+        "Female Servants",
+        "Communication Pathways",
+        "Fragmented Information"
+      ],
+      "topic_bias_zh": [
+        "Dream of Red Mansion",
+        "Female Servants",
+        "Communication Pathways",
+        "Fragmented Information"
+      ],
+      "method_bias_en": [
+        "review"
+      ],
+      "method_bias_zh": [
+        "review"
+      ]
     }
   ],
   "high_frequency_keywords": [
-    { "label_en": "platform governance", "label_zh": "platform governance", "count": 2 },
-    { "label_en": "artificial intelligence", "label_zh": "artificial intelligence", "count": 1 },
-    { "label_en": "news avoidance", "label_zh": "news avoidance", "count": 1 },
-    { "label_en": "health communication", "label_zh": "health communication", "count": 1 },
-    { "label_en": "science journalism", "label_zh": "science journalism", "count": 1 },
-    { "label_en": "preprints", "label_zh": "preprints", "count": 1 },
-    { "label_en": "climate communication", "label_zh": "climate communication", "count": 1 }
+    {
+      "label_en": "The",
+      "label_zh": "The",
+      "count": 7
+    },
+    {
+      "label_en": "And",
+      "label_zh": "And",
+      "count": 7
+    },
+    {
+      "label_en": "Political",
+      "label_zh": "Political",
+      "count": 2
+    },
+    {
+      "label_en": "Talk",
+      "label_zh": "Talk",
+      "count": 2
+    },
+    {
+      "label_en": "News",
+      "label_zh": "News",
+      "count": 2
+    },
+    {
+      "label_en": "Imaginaries",
+      "label_zh": "Imaginaries",
+      "count": 1
+    },
+    {
+      "label_en": "Ambiguity",
+      "label_zh": "Ambiguity",
+      "count": 1
+    },
+    {
+      "label_en": "Policy",
+      "label_zh": "Policy",
+      "count": 1
+    },
+    {
+      "label_en": "State",
+      "label_zh": "State",
+      "count": 1
+    },
+    {
+      "label_en": "Scandals",
+      "label_zh": "Scandals",
+      "count": 1
+    },
+    {
+      "label_en": "Gaffes",
+      "label_zh": "Gaffes",
+      "count": 1
+    },
+    {
+      "label_en": "Dream of Red Mansion",
+      "label_zh": "Dream of Red Mansion",
+      "count": 1
+    }
   ],
   "high_frequency_methods": [
-    { "label_en": "experiment", "label_zh": "experiment", "count": 3 },
-    { "label_en": "survey", "label_zh": "survey", "count": 3 },
-    { "label_en": "content analysis", "label_zh": "content analysis", "count": 2 },
-    { "label_en": "case study", "label_zh": "case study", "count": 1 },
-    { "label_en": "interview", "label_zh": "interview", "count": 1 }
+    {
+      "label_en": "mixed methods",
+      "label_zh": "mixed methods",
+      "count": 6
+    },
+    {
+      "label_en": "review",
+      "label_zh": "review",
+      "count": 3
+    },
+    {
+      "label_en": "experiment",
+      "label_zh": "experiment",
+      "count": 2
+    },
+    {
+      "label_en": "computational analysis",
+      "label_zh": "computational analysis",
+      "count": 1
+    }
   ]
 }

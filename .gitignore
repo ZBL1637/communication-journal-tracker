@@ -4,3 +4,9 @@ dist
 *.log
 coverage
 .vite
+.playwright-cli/
+output/
+run-*-logs.zip
+.env
+.env.*
+!.env.example
