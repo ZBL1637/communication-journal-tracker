@@ -1,58 +1,64 @@
 {
   "id": "digital-journalism-ac7cd337085d",
   "doi": "10.1080/21670811.2025.2524707",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2524707?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2524707",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-07-02T08:54:56.000Z",
   "authors": [
-    "Jose Mari Hall Lanuza Rossine Lyandre Yao C. Fallorina a University of Massachusetts Amherst",
-    "University of the Philippines Manilab University of the Philippines Diliman",
-    "Sigla Research Center"
+    "Jose Mari",
+    "Hall Lanuza",
+    "Rossine Lyandre",
+    "Yao C. Fallorina",
+    "Jose Mari Hall Lanuza Rossine Lyandre Yao C. Fallorina",
+    "the Philippines Manilab",
+    "Sigla"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:48:27.114Z",
+  "fetchedAt": "2026-04-16T07:09:47.141Z",
   "language": "en",
   "raw_title": "Against All Odds: Journalist Resistance against State Disinformation in the Philippines",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Against All Odds: Journalist Resistance against State Disinformation in the Philippines",
-  "title_zh": "逆势而行：菲律宾记者对国家虚假信息的抵抗",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "title_zh": "逆流而上：菲律宾记者对国家虚假信息的抵抗",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
     "journalism",
     "disinformation",
+    "state propaganda",
     "resistance",
     "Philippines",
-    "state propaganda",
-    "media freedom",
+    "media ethics",
     "press freedom",
     "digital journalism"
   ],
   "inferred_keywords_zh": [
     "新闻业",
     "虚假信息",
+    "国家宣传",
     "抵抗",
     "菲律宾",
-    "国家宣传",
-    "媒体自由",
+    "媒体伦理",
     "新闻自由",
     "数字新闻"
   ],
-  "plain_summary_zh": "这篇研究探讨了菲律宾记者如何抵抗政府传播的虚假信息。尽管面临巨大压力，记者们仍在努力揭露真相，维护新闻自由。",
-  "plain_summary_en": "This research examines how journalists in the Philippines resist government disinformation. Despite facing significant challenges, journalists continue to work to expose the truth and defend press freedom.",
-  "research_direction_zh": "研究数字时代下记者对抗国家虚假信息的策略与挑战，关注媒体自由在威权环境中的生存与发展。",
-  "research_direction_en": "Investigating strategies and challenges for journalists combating state disinformation in the digital age, focusing on the survival and development of media freedom in authoritarian contexts.",
+  "plain_summary_zh": "这篇文章探讨了菲律宾记者如何面对国家制造的虚假信息，坚持报道真相。尽管面临巨大压力，记者们通过多种方式抵抗，维护新闻自由。",
+  "plain_summary_en": "This article examines how journalists in the Philippines confront state-created disinformation and persist in reporting the truth. Despite significant pressure, journalists resist through various means to uphold press freedom.",
+  "research_direction_zh": "研究数字时代下，记者在威权环境中对抗国家虚假信息的策略与挑战，关注新闻自由与媒体抵抗的实践。",
+  "research_direction_en": "Investigates strategies and challenges for journalists resisting state disinformation in authoritarian contexts during the digital age, focusing on press freedom and media resistance practices.",
   "method_tags_zh": [
     "案例研究",
-    "访谈"
+    "访谈",
+    "内容分析"
   ],
   "method_tags_en": [
     "case study",
-    "interview"
+    "interview",
+    "content analysis"
   ]
 }

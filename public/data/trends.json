@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T23:25:51.890Z",
+  "generatedAt": "2026-04-16T07:26:41.462Z",
   "snapshots": [
     {
       "key": "7d",
@@ -101,13 +101,13 @@
           "count": 1
         },
         {
-          "label_en": "case study",
-          "label_zh": "案例研究",
+          "label_en": "literature review",
+          "label_zh": "文献综述",
           "count": 1
         },
         {
-          "label_en": "interview",
-          "label_zh": "访谈",
+          "label_en": "case study",
+          "label_zh": "案例分析",
           "count": 1
         }
       ]
@@ -116,21 +116,21 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 20,
-      "overview_en": "Across 20 papers, the most visible themes are And, The, social media. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
-      "overview_zh": "Across 20 papers, the most visible themes are And, The, social media. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
+      "paperCount": 18,
+      "overview_en": "Across 18 papers, the most visible themes are And, The, political communication. Researchers most often rely on review, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 18 papers, the most visible themes are And, The, political communication. Researchers most often rely on review, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
-        "social media",
         "political communication",
+        "social media",
         "digital journalism"
       ],
       "hot_topics_zh": [
         "And",
         "The",
-        "社交媒体",
         "政治传播",
+        "社交媒体",
         "数字新闻"
       ],
       "high_frequency_keywords": [
@@ -145,13 +145,13 @@
           "count": 7
         },
         {
-          "label_en": "social media",
-          "label_zh": "社交媒体",
-          "count": 4
-        },
-        {
           "label_en": "political communication",
           "label_zh": "政治传播",
+          "count": 3
+        },
+        {
+          "label_en": "social media",
+          "label_zh": "社交媒体",
           "count": 3
         },
         {
@@ -165,40 +165,50 @@
           "count": 2
         },
         {
-          "label_en": "Systematic Review",
-          "label_zh": "系统综述",
-          "count": 2
-        },
-        {
           "label_en": "News",
           "label_zh": "News",
-          "count": 2
-        },
-        {
-          "label_en": "Meta-Analysis",
-          "label_zh": "元分析",
           "count": 2
         },
         {
           "label_en": "Compliance",
           "label_zh": "Compliance",
           "count": 1
+        },
+        {
+          "label_en": "Enforcement",
+          "label_zh": "Enforcement",
+          "count": 1
+        },
+        {
+          "label_en": "Data",
+          "label_zh": "Data",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
+        {
+          "label_en": "review",
+          "label_zh": "review",
+          "count": 6
+        },
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
           "count": 4
         },
         {
-          "label_en": "review",
-          "label_zh": "review",
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 3
+        },
+        {
+          "label_en": "content analysis",
+          "label_zh": "内容分析",
           "count": 3
         },
         {
           "label_en": "case study",
-          "label_zh": "案例研究",
+          "label_zh": "案例分析",
           "count": 3
         },
         {
@@ -207,33 +217,13 @@
           "count": 3
         },
         {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 2
-        },
-        {
-          "label_en": "content analysis",
-          "label_zh": "内容分析",
-          "count": 2
-        },
-        {
-          "label_en": "systematic review",
-          "label_zh": "系统综述",
-          "count": 2
-        },
-        {
-          "label_en": "meta-analysis",
-          "label_zh": "元分析",
-          "count": 2
-        },
-        {
           "label_en": "expert interviews",
           "label_zh": "专家访谈",
           "count": 1
         },
         {
-          "label_en": "interview",
-          "label_zh": "访谈",
+          "label_en": "literature review",
+          "label_zh": "文献综述",
           "count": 1
         }
       ]
@@ -242,38 +232,38 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 163,
-      "overview_en": "Across 163 papers, the most visible themes are And, The, political communication. Researchers most often rely on content analysis, case study to explain what these changes mean for communication.",
-      "overview_zh": "Across 163 papers, the most visible themes are And, The, political communication. Researchers most often rely on content analysis, case study to explain what these changes mean for communication.",
+      "paperCount": 159,
+      "overview_en": "Across 159 papers, the most visible themes are And, The, political communication. Researchers most often rely on content analysis, case study to explain what these changes mean for communication.",
+      "overview_zh": "Across 159 papers, the most visible themes are And, The, political communication. Researchers most often rely on content analysis, case study to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
         "political communication",
         "digital journalism",
-        "social media"
+        "media studies"
       ],
       "hot_topics_zh": [
         "And",
         "The",
         "政治传播",
         "数字新闻",
-        "社交媒体"
+        "媒体研究"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 41
+          "count": 70
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 38
+          "count": 65
         },
         {
           "label_en": "political communication",
           "label_zh": "政治传播",
-          "count": 27
+          "count": 26
         },
         {
           "label_en": "digital journalism",
@@ -281,81 +271,81 @@
           "count": 20
         },
         {
-          "label_en": "social media",
-          "label_zh": "社交媒体",
-          "count": 19
+          "label_en": "media studies",
+          "label_zh": "媒体研究",
+          "count": 12
         },
         {
           "label_en": "journalism",
           "label_zh": "新闻业",
-          "count": 10
+          "count": 11
         },
         {
-          "label_en": "Artificial Intelligence",
-          "label_zh": "人工智能",
+          "label_en": "Political",
+          "label_zh": "Political",
+          "count": 9
+        },
+        {
+          "label_en": "social media",
+          "label_zh": "社交媒体",
+          "count": 9
+        },
+        {
+          "label_en": "News",
+          "label_zh": "News",
           "count": 8
-        },
-        {
-          "label_en": "media effects",
-          "label_zh": "媒体效果",
-          "count": 8
-        },
-        {
-          "label_en": "Systematic Review",
-          "label_zh": "系统综述",
-          "count": 6
         },
         {
           "label_en": "misinformation",
           "label_zh": "错误信息",
-          "count": 6
+          "count": 7
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 52
+          "count": 47
         },
         {
           "label_en": "case study",
-          "label_zh": "案例研究",
-          "count": 51
+          "label_zh": "案例分析",
+          "count": 42
         },
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 34
-        },
-        {
-          "label_en": "interview",
-          "label_zh": "访谈",
-          "count": 22
-        },
-        {
-          "label_en": "experiment",
-          "label_zh": "experiment",
-          "count": 17
-        },
-        {
-          "label_en": "mixed methods",
-          "label_zh": "mixed methods",
-          "count": 12
-        },
-        {
-          "label_en": "literature review",
-          "label_zh": "文献综述",
-          "count": 11
+          "count": 33
         },
         {
           "label_en": "review",
           "label_zh": "review",
-          "count": 9
+          "count": 20
+        },
+        {
+          "label_en": "mixed methods",
+          "label_zh": "mixed methods",
+          "count": 17
+        },
+        {
+          "label_en": "interview",
+          "label_zh": "访谈",
+          "count": 16
         },
         {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
-          "count": 8
+          "count": 15
+        },
+        {
+          "label_en": "experiment",
+          "label_zh": "experiment",
+          "count": 15
+        },
+        {
+          "label_en": "literature review",
+          "label_zh": "文献综述",
+          "count": 12
         },
         {
           "label_en": "theoretical analysis",
@@ -373,32 +363,32 @@
       "topic_bias_en": [
         "And",
         "The",
-        "media effects",
-        "political communication"
+        "Time",
+        "Political"
       ],
       "topic_bias_zh": [
         "And",
         "The",
-        "媒体效应",
-        "政治传播"
+        "Time",
+        "Political"
       ],
       "method_bias_en": [
-        "experiment",
         "review",
-        "content analysis",
-        "case study"
+        "case study",
+        "literature review",
+        "theoretical analysis"
       ],
       "method_bias_zh": [
-        "实验",
         "review",
-        "内容分析",
-        "案例分析"
+        "案例分析",
+        "文献综述",
+        "理论分析"
       ]
     },
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 28,
+      "paperCount": 26,
       "topic_bias_en": [
         "political communication",
         "social media",
@@ -427,30 +417,30 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 36,
+      "paperCount": 35,
       "topic_bias_en": [
         "digital journalism",
         "journalism",
-        "news media",
+        "media studies",
         "visual journalism"
       ],
       "topic_bias_zh": [
         "数字新闻",
         "新闻业",
-        "新闻媒体",
+        "媒体研究",
         "视觉新闻"
       ],
       "method_bias_en": [
         "case study",
         "content analysis",
-        "interview",
-        "survey"
+        "survey",
+        "literature review"
       ],
       "method_bias_zh": [
-        "案例研究",
+        "案例分析",
         "内容分析",
-        "访谈",
-        "调查"
+        "调查",
+        "文献综述"
       ]
     },
     {
@@ -459,27 +449,27 @@
       "paperCount": 4,
       "topic_bias_en": [
         "conversation analysis",
+        "social interaction",
         "Hebrew language",
-        "discourse markers",
-        "interactional linguistics"
+        "minimal response"
       ],
       "topic_bias_zh": [
         "会话分析",
+        "社会互动",
         "希伯来语",
-        "话语标记",
-        "互动语言学"
+        "最小回应"
       ],
       "method_bias_en": [
-        "case study",
-        "mixed methods",
         "conversation analysis",
-        "content analysis"
+        "case study",
+        "corpus study",
+        "discourse analysis"
       ],
       "method_bias_zh": [
-        "案例研究",
-        "mixed methods",
         "会话分析",
-        "内容分析"
+        "案例研究",
+        "语料库研究",
+        "话语分析"
       ]
     },
     {
@@ -489,26 +479,26 @@
       "topic_bias_en": [
         "And",
         "The",
-        "social media",
-        "TikTok"
+        "How",
+        "News"
       ],
       "topic_bias_zh": [
         "And",
         "The",
-        "社交媒体",
-        "TikTok"
+        "How",
+        "News"
       ],
       "method_bias_en": [
-        "content analysis",
+        "computational analysis",
         "mixed methods",
         "interview",
-        "computational analysis"
+        "content analysis"
       ],
       "method_bias_zh": [
-        "content analysis",
+        "computational analysis",
         "mixed methods",
         "interview",
-        "computational analysis"
+        "content analysis"
       ]
     },
     {
@@ -518,55 +508,55 @@
       "topic_bias_en": [
         "And",
         "The",
-        "Policy",
-        "Public"
+        "Public",
+        "Policy"
       ],
       "topic_bias_zh": [
         "And",
         "The",
-        "Policy",
-        "Public"
+        "Public",
+        "Policy"
       ],
       "method_bias_en": [
         "survey",
-        "content analysis",
-        "case study",
+        "mixed methods",
+        "computational analysis",
         "interview"
       ],
       "method_bias_zh": [
         "survey",
-        "内容分析",
-        "案例研究",
+        "mixed methods",
+        "computational analysis",
         "interview"
       ]
     },
     {
       "journalName": "International Journal of Press/Politics",
       "journalSlug": "international-journal-of-press-politics",
-      "paperCount": 18,
+      "paperCount": 17,
       "topic_bias_en": [
-        "The",
         "And",
+        "The",
         "News",
-        "China"
+        "Political"
       ],
       "topic_bias_zh": [
-        "The",
         "And",
+        "The",
         "News",
-        "China"
+        "Political"
       ],
       "method_bias_en": [
         "survey",
-        "case study",
-        "content analysis",
-        "experiment"
+        "mixed methods",
+        "experiment",
+        "content analysis"
       ],
       "method_bias_zh": [
-        "调查",
-        "案例研究",
-        "content analysis",
-        "experiment"
+        "survey",
+        "mixed methods",
+        "experiment",
+        "content analysis"
       ]
     },
     {
@@ -575,27 +565,27 @@
       "paperCount": 15,
       "topic_bias_en": [
         "Systematic Review",
-        "Social Media",
-        "Artificial Intelligence",
-        "Meta-Analysis"
+        "Meta-Analysis",
+        "Dream of Red Mansion",
+        "Female Servants"
       ],
       "topic_bias_zh": [
-        "系统综述",
-        "社交媒体",
-        "人工智能",
-        "元分析"
+        "Systematic Review",
+        "Meta-Analysis",
+        "Dream of Red Mansion",
+        "Female Servants"
       ],
       "method_bias_en": [
         "review",
-        "systematic review",
-        "meta-analysis",
-        "thematic analysis"
+        "computational analysis",
+        "discourse analysis",
+        "experiment"
       ],
       "method_bias_zh": [
         "review",
-        "系统综述",
-        "元分析",
-        "主题分析"
+        "computational analysis",
+        "discourse analysis",
+        "experiment"
       ]
     }
   ],
@@ -603,17 +593,17 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 41
+      "count": 70
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 38
+      "count": 65
     },
     {
       "label_en": "political communication",
       "label_zh": "政治传播",
-      "count": 27
+      "count": 26
     },
     {
       "label_en": "digital journalism",
@@ -621,43 +611,43 @@
       "count": 20
     },
     {
-      "label_en": "social media",
-      "label_zh": "社交媒体",
-      "count": 19
+      "label_en": "media studies",
+      "label_zh": "媒体研究",
+      "count": 12
     },
     {
       "label_en": "journalism",
       "label_zh": "新闻业",
-      "count": 10
+      "count": 11
     },
     {
-      "label_en": "Artificial Intelligence",
-      "label_zh": "人工智能",
-      "count": 8
+      "label_en": "Political",
+      "label_zh": "Political",
+      "count": 9
     },
     {
-      "label_en": "media effects",
-      "label_zh": "媒体效果",
-      "count": 8
-    },
-    {
-      "label_en": "Systematic Review",
-      "label_zh": "系统综述",
-      "count": 6
-    },
-    {
-      "label_en": "misinformation",
-      "label_zh": "错误信息",
-      "count": 6
-    },
-    {
-      "label_en": "China",
-      "label_zh": "China",
-      "count": 6
+      "label_en": "social media",
+      "label_zh": "社交媒体",
+      "count": 9
     },
     {
       "label_en": "News",
       "label_zh": "News",
+      "count": 8
+    },
+    {
+      "label_en": "misinformation",
+      "label_zh": "错误信息",
+      "count": 7
+    },
+    {
+      "label_en": "Digital",
+      "label_zh": "Digital",
+      "count": 6
+    },
+    {
+      "label_en": "artificial intelligence",
+      "label_zh": "人工智能",
       "count": 6
     }
   ],
@@ -665,47 +655,47 @@
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 52
+      "count": 47
     },
     {
       "label_en": "case study",
-      "label_zh": "案例研究",
-      "count": 51
+      "label_zh": "案例分析",
+      "count": 42
     },
     {
       "label_en": "survey",
       "label_zh": "调查",
-      "count": 34
-    },
-    {
-      "label_en": "interview",
-      "label_zh": "访谈",
-      "count": 22
-    },
-    {
-      "label_en": "experiment",
-      "label_zh": "experiment",
-      "count": 17
-    },
-    {
-      "label_en": "mixed methods",
-      "label_zh": "mixed methods",
-      "count": 12
-    },
-    {
-      "label_en": "literature review",
-      "label_zh": "文献综述",
-      "count": 11
+      "count": 33
     },
     {
       "label_en": "review",
       "label_zh": "review",
-      "count": 9
+      "count": 20
+    },
+    {
+      "label_en": "mixed methods",
+      "label_zh": "mixed methods",
+      "count": 17
+    },
+    {
+      "label_en": "interview",
+      "label_zh": "访谈",
+      "count": 16
     },
     {
       "label_en": "computational analysis",
       "label_zh": "computational analysis",
-      "count": 8
+      "count": 15
+    },
+    {
+      "label_en": "experiment",
+      "label_zh": "experiment",
+      "count": 15
+    },
+    {
+      "label_en": "literature review",
+      "label_zh": "文献综述",
+      "count": 12
     },
     {
       "label_en": "theoretical analysis",
@@ -713,13 +703,13 @@
       "count": 6
     },
     {
-      "label_en": "systematic review",
-      "label_zh": "系统综述",
+      "label_en": "discourse analysis",
+      "label_zh": "话语分析",
       "count": 5
     },
     {
-      "label_en": "discourse analysis",
-      "label_zh": "discourse analysis",
+      "label_en": "policy analysis",
+      "label_zh": "政策分析",
       "count": 4
     }
   ]

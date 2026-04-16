@@ -1,54 +1,60 @@
 {
   "id": "digital-journalism-6a916b38fbbd",
   "doi": "10.1080/21670811.2025.2454516",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2454516?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2454516",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-01-26T04:08:33.000Z",
   "authors": [
-    "Mike Ananny Jake Karr a Annenberg School for Communication and Journalism",
-    "University of Southern California",
-    "USAb School of Law",
-    "New York University",
+    "Mike Ananny",
+    "Jake Karr",
+    "a Annenberg",
+    "Southern California",
+    "USAb",
+    "New York",
     "USA"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T14:36:00.758Z",
+  "fetchedAt": "2026-04-16T07:07:54.037Z",
   "language": "en",
   "raw_title": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
-  "raw_abstract": "Volume 14, Issue 2, March 2026 .",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
-  "title_zh": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
-  "abstract_en": "Volume 14, Issue 2, March 2026 .",
-  "abstract_zh": "Volume 14, Issue 2, March 2026 .",
+  "title_zh": "媒体工会如何稳定技术炒作：追踪组织化新闻业对生成式人工智能的话语建构",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
-    "How",
-    "Unions",
-    "Stabilize",
-    "Technological",
-    "Hype",
-    "Tracing"
+    "media unions",
+    "technological hype",
+    "generative AI",
+    "journalism",
+    "discourse analysis",
+    "labor organizing",
+    "technology adoption"
   ],
   "inferred_keywords_zh": [
-    "How",
-    "Unions",
-    "Stabilize",
-    "Technological",
-    "Hype",
-    "Tracing"
+    "媒体工会",
+    "技术炒作",
+    "生成式人工智能",
+    "新闻业",
+    "话语分析",
+    "劳工组织",
+    "技术采用"
   ],
-  "plain_summary_en": "This paper studies HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is How, Unions, Stabilize, Technological. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
-  "plain_summary_zh": "This paper studies HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is How, Unions, Stabilize, Technological. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
-  "research_direction_en": "The paper points to an active research direction around How, Unions, Stabilize, Technological, especially how institutions, platforms, and audiences shape communication outcomes.",
-  "research_direction_zh": "The paper points to an active research direction around How, Unions, Stabilize, Technological, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "plain_summary_zh": "这篇研究探讨媒体工会如何通过话语建构来稳定关于生成式人工智能的技术炒作。它追踪组织化新闻业如何讨论和塑造对AI技术的理解，帮助平衡过度乐观的宣传，关注技术对新闻工作和行业的影响。",
+  "plain_summary_en": "This research examines how media unions stabilize technological hype around generative AI through discursive constructions. It traces how organized journalism discusses and shapes understanding of AI technology, helping balance overly optimistic promotion while focusing on technology's impact on journalism work and industry.",
+  "research_direction_zh": "研究媒体工会和劳工组织在技术变革中的作用，特别是如何通过话语策略影响技术采用和社会认知，关注新闻业在人工智能时代的职业保护和工作转型。",
+  "research_direction_en": "Research on the role of media unions and labor organizing in technological change, particularly how discursive strategies influence technology adoption and social perception, focusing on professional protection and work transformation in journalism during the AI era.",
   "method_tags_zh": [
-    "mixed methods"
+    "话语分析",
+    "案例研究"
   ],
   "method_tags_en": [
-    "mixed methods"
+    "discourse analysis",
+    "case study"
   ]
 }

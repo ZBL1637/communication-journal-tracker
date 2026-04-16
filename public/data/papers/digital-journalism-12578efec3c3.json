@@ -1,24 +1,28 @@
 {
   "id": "digital-journalism-12578efec3c3",
   "doi": "10.1080/21670811.2025.2568909",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2568909?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2568909",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-10-06T11:17:07.000Z",
   "authors": [
-    "Gregory P. Perreault Jacob L. Nelson a University of South Floridab University of Utah"
+    "Gregory P. Perreault",
+    "Jacob L. Nelson",
+    "Gregory P.",
+    "Perreault Jacob",
+    "L. Nelson"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:50:07.795Z",
+  "fetchedAt": "2026-04-16T07:10:38.672Z",
   "language": "en",
   "raw_title": "Aspirational Metajournalism: What Nieman Journalism Lab Predictions Reveal About Platform and Audience Imaginaries",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Aspirational Metajournalism: What Nieman Journalism Lab Predictions Reveal About Platform and Audience Imaginaries",
   "title_zh": "抱负性元新闻学：尼曼新闻实验室预测揭示的平台与受众想象",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -28,7 +32,8 @@
     "audience imaginaries",
     "Nieman Journalism Lab",
     "digital journalism",
-    "future of journalism"
+    "future of journalism",
+    "media studies"
   ],
   "inferred_keywords_zh": [
     "元新闻学",
@@ -37,16 +42,19 @@
     "受众想象",
     "尼曼新闻实验室",
     "数字新闻",
-    "新闻未来"
+    "新闻未来",
+    "媒体研究"
   ],
-  "plain_summary_zh": "这篇研究分析了尼曼新闻实验室的预测内容，探讨新闻行业如何想象未来的平台和受众。研究发现这些预测反映了新闻从业者对技术发展和读者行为的期望与担忧。",
-  "plain_summary_en": "This study analyzes predictions from Nieman Journalism Lab to explore how the journalism industry imagines future platforms and audiences. The research finds these predictions reflect journalists' hopes and concerns about technological developments and reader behavior.",
-  "research_direction_zh": "探索新闻行业对未来发展的集体想象，特别是关于技术平台和受众关系的预测性论述如何塑造新闻实践和行业愿景。",
-  "research_direction_en": "Examining the collective imagination of the journalism industry about future developments, particularly how predictive discourses about technology platforms and audience relationships shape journalistic practices and industry visions.",
+  "plain_summary_zh": "这项研究分析了尼曼新闻实验室的预测内容，探讨新闻行业如何想象数字平台和未来受众。它揭示了新闻从业者对技术发展和读者行为的期望与愿景。",
+  "plain_summary_en": "This study analyzes predictions from the Nieman Journalism Lab to explore how the journalism industry imagines digital platforms and future audiences. It reveals the expectations and visions journalists hold about technological developments and reader behavior.",
+  "research_direction_zh": "研究关注新闻行业对未来发展的集体想象，特别是数字平台和受众关系的演变趋势。",
+  "research_direction_en": "The research focuses on the collective imagination within journalism about future developments, particularly the evolving relationship between digital platforms and audiences.",
   "method_tags_zh": [
-    "内容分析"
+    "内容分析",
+    "案例研究"
   ],
   "method_tags_en": [
-    "content analysis"
+    "content analysis",
+    "case study"
   ]
 }

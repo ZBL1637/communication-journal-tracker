@@ -1,28 +1,29 @@
 {
   "id": "digital-journalism-45e9d8cb7b4d",
   "doi": "10.1080/21670811.2025.2553161",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2553161?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2553161",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-08-30T07:01:58.000Z",
   "authors": [
-    "Jonathan Kropf Jörn Lamla Markus Uhlmann Faculty of Social Sciences",
-    "Research Unit of Sociological Theory",
-    "University of Kassel",
+    "Jonathan Kropf",
+    "Jörn Lamla",
+    "Markus Uhlmann",
+    "of Sociological Theory",
     "Kassel",
     "Germany"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:48:58.154Z",
+  "fetchedAt": "2026-04-16T07:10:03.159Z",
   "language": "en",
   "raw_title": "Pricing, Design and Cultivation – Conceptual Tools for the Normative Assessment of Fairness in the Age of Media Platformization",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Pricing, Design and Cultivation – Conceptual Tools for the Normative Assessment of Fairness in the Age of Media Platformization",
   "title_zh": "定价、设计与培育——媒体平台化时代公平性规范评估的概念工具",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -32,7 +33,8 @@
     "conceptual tools",
     "digital journalism",
     "media economics",
-    "platform governance"
+    "platform design",
+    "value cultivation"
   ],
   "inferred_keywords_zh": [
     "媒体平台化",
@@ -41,18 +43,19 @@
     "概念工具",
     "数字新闻学",
     "媒体经济学",
-    "平台治理"
+    "平台设计",
+    "价值培育"
   ],
-  "plain_summary_zh": "这篇文章探讨了在媒体越来越依赖平台的背景下，如何评估公平性。作者提出了三个概念工具——定价、设计和培育——来帮助判断媒体平台是否公平运作。这些工具旨在为研究人员和从业者提供分析框架，以应对平台化带来的挑战。",
-  "plain_summary_en": "This article examines how to assess fairness as media increasingly relies on platforms. The authors propose three conceptual tools—pricing, design, and cultivation—to help evaluate whether media platforms operate fairly. These tools aim to provide analytical frameworks for researchers and practitioners to address challenges posed by platformization.",
-  "research_direction_zh": "研究媒体平台化对新闻业和社会公平的影响，开发规范性评估工具以指导平台治理和媒体政策。",
-  "research_direction_en": "Investigating the impact of media platformization on journalism and social fairness, developing normative assessment tools to guide platform governance and media policy.",
+  "plain_summary_zh": "这篇文章探讨在数字媒体平台主导的时代，如何评估媒体是否公平。作者提出了三个概念工具：定价（经济层面）、设计（技术层面）和培育（文化层面），帮助人们从不同角度判断媒体平台的公平性。",
+  "plain_summary_en": "This article examines how to assess fairness in media during the age of digital platform dominance. The authors propose three conceptual tools: pricing (economic dimension), design (technological dimension), and cultivation (cultural dimension) to help evaluate the fairness of media platforms from different perspectives.",
+  "research_direction_zh": "媒体平台化背景下的规范性研究，关注公平性评估的理论框架构建和方法论创新。",
+  "research_direction_en": "Normative research in the context of media platformization, focusing on theoretical framework construction and methodological innovation for fairness assessment.",
   "method_tags_zh": [
     "概念分析",
-    "文献综述"
+    "理论构建"
   ],
   "method_tags_en": [
     "conceptual analysis",
-    "literature review"
+    "theory building"
   ]
 }

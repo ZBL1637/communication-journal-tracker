@@ -13,7 +13,7 @@
     "Jos Hornikx"
   ],
   "source": "crossref+detail",
-  "fetchedAt": "2026-04-15T23:25:51.886Z",
+  "fetchedAt": "2026-04-16T07:26:41.459Z",
   "language": "en",
   "raw_title": "Prosocial Storytelling: Advancing the Field Through a Systematic Review",
   "raw_abstract": "The possibilities afforded by emerging media and technologies have attracted growing interest in the use of narratives for prosocial change, establishing prosocial storytelling as a promising area of research. Yet, as current research is scattered across various domains and disciplines, the conceptual foundations and methodological approaches for assessing the persuasive impact of prosocial narratives remain limited. The current review takes a first step toward advancing the field of prosocial storytelling by synthesizing and analyzing existing work across both traditional and emerging media. Following the PRISMA framework, we systematically review experimental studies that have examined prosocial storytelling (n=34) and analyze the narrative stimuli used in these studies (n= 60), including their overarching themes and narrative features such as perspective and story ending valence. The findings demonstrate that studies tend to focus on text-based narratives, and relatively few have measured actual prosocial behavior. The results furthermore point towards a need for research elucidating the use of narrative perspective, and the role of narrative ending and closure in prosocial narrative effects. We provide directions for future research and specific recommendations for scholars and practitioners working with prosocial storytelling across traditional and emerging media.",
@@ -25,9 +25,9 @@
     "Emerging Media"
   ],
   "title_en": "Prosocial Storytelling: Advancing the Field Through a Systematic Review",
-  "title_zh": "亲社会叙事：通过系统综述推动领域发展",
+  "title_zh": "Prosocial Storytelling: Advancing the Field Through a Systematic Review",
   "abstract_en": "The possibilities afforded by emerging media and technologies have attracted growing interest in the use of narratives for prosocial change, establishing prosocial storytelling as a promising area of research. Yet, as current research is scattered across various domains and disciplines, the conceptual foundations and methodological approaches for assessing the persuasive impact of prosocial narratives remain limited. The current review takes a first step toward advancing the field of prosocial storytelling by synthesizing and analyzing existing work across both traditional and emerging media. Following the PRISMA framework, we systematically review experimental studies that have examined prosocial storytelling (n=34) and analyze the narrative stimuli used in these studies (n= 60), including their overarching themes and narrative features such as perspective and story ending valence. The findings demonstrate that studies tend to focus on text-based narratives, and relatively few have measured actual prosocial behavior. The results furthermore point towards a need for research elucidating the use of narrative perspective, and the role of narrative ending and closure in prosocial narrative effects. We provide directions for future research and specific recommendations for scholars and practitioners working with prosocial storytelling across traditional and emerging media.",
-  "abstract_zh": "新兴媒体和技术带来的可能性引发了人们对利用叙事促进亲社会变革的日益增长的兴趣，使亲社会叙事成为一个有前景的研究领域。然而，由于当前研究分散在各个领域和学科中，评估亲社会叙事说服效果的概念基础和方法仍然有限。本综述通过综合和分析传统和新兴媒体中的现有研究，迈出了推动亲社会叙事领域发展的第一步。遵循PRISMA框架，我们系统性地回顾了检验亲社会叙事的实验研究（n=34），并分析了这些研究中使用的叙事刺激（n=60），包括其总体主题和叙事特征，如视角和故事结局效价。研究结果表明，研究倾向于关注基于文本的叙事，且相对较少测量实际的亲社会行为。结果进一步指出，需要研究阐明叙事视角的使用，以及叙事结局和闭合在亲社会叙事效果中的作用。我们为未来研究提供了方向，并为在传统和新兴媒体中从事亲社会叙事工作的学者和实践者提供了具体建议。",
+  "abstract_zh": "The possibilities afforded by emerging media and technologies have attracted growing interest in the use of narratives for prosocial change, establishing prosocial storytelling as a promising area of research. Yet, as current research is scattered across various domains and disciplines, the conceptual foundations and methodological approaches for assessing the persuasive impact of prosocial narratives remain limited. The current review takes a first step toward advancing the field of prosocial storytelling by synthesizing and analyzing existing work across both traditional and emerging media. Following the PRISMA framework, we systematically review experimental studies that have examined prosocial storytelling (n=34) and analyze the narrative stimuli used in these studies (n= 60), including their overarching themes and narrative features such as perspective and story ending valence. The findings demonstrate that studies tend to focus on text-based narratives, and relatively few have measured actual prosocial behavior. The results furthermore point towards a need for research elucidating the use of narrative perspective, and the role of narrative ending and closure in prosocial narrative effects. We provide directions for future research and specific recommendations for scholars and practitioners working with prosocial storytelling across traditional and emerging media.",
   "keywords_en": [
     "Prosocial Storytelling",
     "Narrative Persuasion",
@@ -36,36 +36,24 @@
     "Emerging Media"
   ],
   "keywords_zh": [
-    "亲社会叙事",
-    "叙事说服",
-    "文献综述",
-    "扩展现实",
-    "新兴媒体"
+    "Prosocial Storytelling",
+    "Narrative Persuasion",
+    "Literature Review",
+    "Extended Reality",
+    "Emerging Media"
   ],
-  "inferred_keywords_en": [
-    "Systematic Review",
-    "Experimental Studies",
-    "Narrative Features",
-    "Prosocial Behavior",
-    "Media Effects"
-  ],
-  "inferred_keywords_zh": [
-    "系统综述",
-    "实验研究",
-    "叙事特征",
-    "亲社会行为",
-    "媒体效果"
-  ],
-  "plain_summary_zh": "这篇论文回顾了关于用故事来做好事（亲社会叙事）的研究。研究发现，虽然人们越来越有兴趣用故事来促进积极的社会变化，但现有研究比较分散，方法也不够完善。作者分析了34项实验研究，发现大多数研究只关注文字故事，很少测量人们实际的好行为。研究还指出，未来需要更多研究来了解故事视角和结局如何影响效果。",
-  "plain_summary_en": "This paper reviews research on using stories to do good (prosocial storytelling). It finds that while there's growing interest in using narratives for positive social change, existing studies are scattered and methods are limited. The authors analyzed 34 experimental studies and found most focus on text-based stories, with few measuring actual good deeds. The research also suggests future studies should explore how story perspective and endings affect outcomes.",
-  "research_direction_zh": "推动亲社会叙事研究向更全面的媒体形式（如视频、虚拟现实）扩展，并加强实际行为测量和叙事机制（如视角、结局）的探索。",
-  "research_direction_en": "Advancing prosocial storytelling research to include diverse media formats (e.g., video, virtual reality) and strengthen measurement of actual behavior and narrative mechanisms (e.g., perspective, endings).",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Prosocial Storytelling: Advancing the Field Through a Systematic Review. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Prosocial Storytelling, Narrative Persuasion, Literature Review, Extended Reality. The abstract suggests a experiment, review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Prosocial Storytelling: Advancing the Field Through a Systematic Review. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Prosocial Storytelling, Narrative Persuasion, Literature Review, Extended Reality. The abstract suggests a experiment, review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Prosocial Storytelling, Narrative Persuasion, Literature Review, Extended Reality, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Prosocial Storytelling, Narrative Persuasion, Literature Review, Extended Reality, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "系统综述",
-    "实验"
+    "experiment",
+    "review"
   ],
   "method_tags_en": [
-    "systematic review",
-    "experiment"
+    "experiment",
+    "review"
   ]
 }

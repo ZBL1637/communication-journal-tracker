@@ -11,47 +11,43 @@
     "Xiaotong Chen"
   ],
   "source": "crossref",
-  "fetchedAt": "2026-04-15T23:05:52.060Z",
+  "fetchedAt": "2026-04-16T07:18:36.432Z",
   "language": "en",
   "raw_title": "The “Solo of Deliberator”: Political Deliberation and Discourse Quality in China’s Cyberspace",
   "raw_abstract": "Nuanced studies have scrutinized the facilitative role of digital media in fostering political deliberation and in contributing to the prospect of democratization in (semi-) authoritarian societies. This study illuminates a less-explored facet of non-democratic contexts’ digital politics by shedding light on discourse quality in cyberspace. Guided by Gastil and Black’s analytical–social framework of deliberation, we propose an integrated analytical model comprising seven dimensions and employ a case study approach combined with supervised machine learning to analyze Chinese netizens’ digital engagement with the public policy of “delaying retirement age” on the popular Q&A platform. The findings reveal deliberative virtues—topic relevance, rationality, and civility—alongside a low presence of political alienation and minimal institutional alignment, suggesting generally strong analytical performance. In contrast, the social dimension, represented by argument reciprocity and transpositional consideration, remains weak, reflecting a lack of sustained interaction. Based on these empirical results, we coin the concept of the “ solo of deliberator ” to describe a pattern of online deliberation where analytical reasoning prevails while social engagement is subdued. Implications for deliberative democracy in non-democratic nations are discussed.",
   "raw_keywords": [],
   "title_en": "The “Solo of Deliberator”: Political Deliberation and Discourse Quality in China’s Cyberspace",
-  "title_zh": "“独奏式审议者”：中国网络空间的政治审议与话语质量",
+  "title_zh": "The “Solo of Deliberator”: Political Deliberation and Discourse Quality in China’s Cyberspace",
   "abstract_en": "Nuanced studies have scrutinized the facilitative role of digital media in fostering political deliberation and in contributing to the prospect of democratization in (semi-) authoritarian societies. This study illuminates a less-explored facet of non-democratic contexts’ digital politics by shedding light on discourse quality in cyberspace. Guided by Gastil and Black’s analytical–social framework of deliberation, we propose an integrated analytical model comprising seven dimensions and employ a case study approach combined with supervised machine learning to analyze Chinese netizens’ digital engagement with the public policy of “delaying retirement age” on the popular Q&A platform. The findings reveal deliberative virtues—topic relevance, rationality, and civility—alongside a low presence of political alienation and minimal institutional alignment, suggesting generally strong analytical performance. In contrast, the social dimension, represented by argument reciprocity and transpositional consideration, remains weak, reflecting a lack of sustained interaction. Based on these empirical results, we coin the concept of the “ solo of deliberator ” to describe a pattern of online deliberation where analytical reasoning prevails while social engagement is subdued. Implications for deliberative democracy in non-democratic nations are discussed.",
-  "abstract_zh": "细致的研究已经审视了数字媒体在促进政治审议以及为（半）威权社会的民主化前景做出贡献方面的促进作用。本研究通过关注网络空间的话语质量，揭示了非民主背景下数字政治中一个较少被探索的方面。在Gastil和Black的审议分析-社会框架指导下，我们提出了一个包含七个维度的综合分析模型，并采用案例研究方法结合监督机器学习，分析中国网民在热门问答平台上对“延迟退休年龄”公共政策的数字参与。研究结果揭示了审议的优点——话题相关性、理性和文明性——同时政治疏离感较低，制度一致性最小，表明整体分析表现较强。相比之下，以论点互惠和换位思考为代表的社会维度仍然较弱，反映出缺乏持续的互动。基于这些实证结果，我们创造了“独奏式审议者”这一概念，来描述一种在线审议模式，其中分析推理占主导地位，而社会参与则被抑制。讨论了非民主国家中审议民主的启示。",
+  "abstract_zh": "Nuanced studies have scrutinized the facilitative role of digital media in fostering political deliberation and in contributing to the prospect of democratization in (semi-) authoritarian societies. This study illuminates a less-explored facet of non-democratic contexts’ digital politics by shedding light on discourse quality in cyberspace. Guided by Gastil and Black’s analytical–social framework of deliberation, we propose an integrated analytical model comprising seven dimensions and employ a case study approach combined with supervised machine learning to analyze Chinese netizens’ digital engagement with the public policy of “delaying retirement age” on the popular Q&A platform. The findings reveal deliberative virtues—topic relevance, rationality, and civility—alongside a low presence of political alienation and minimal institutional alignment, suggesting generally strong analytical performance. In contrast, the social dimension, represented by argument reciprocity and transpositional consideration, remains weak, reflecting a lack of sustained interaction. Based on these empirical results, we coin the concept of the “ solo of deliberator ” to describe a pattern of online deliberation where analytical reasoning prevails while social engagement is subdued. Implications for deliberative democracy in non-democratic nations are discussed.",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
-    "political deliberation",
-    "discourse quality",
-    "cyberspace",
-    "China",
-    "deliberative democracy",
-    "digital engagement",
-    "case study",
-    "machine learning"
+    "The",
+    "And",
+    "Deliberation",
+    "Analytical",
+    "Political",
+    "Digital"
   ],
   "inferred_keywords_zh": [
-    "政治审议",
-    "话语质量",
-    "网络空间",
-    "中国",
-    "审议民主",
-    "数字参与",
-    "案例研究",
-    "机器学习"
+    "The",
+    "And",
+    "Deliberation",
+    "Analytical",
+    "Political",
+    "Digital"
   ],
-  "plain_summary_zh": "这项研究探讨了中国网民在网上讨论“延迟退休年龄”政策时的对话质量。研究发现，网民们讨论时能紧扣主题、理性且文明，但很少互相回应或换位思考，就像每个人都在“独奏”而不是“合奏”。这揭示了在非民主国家，网络讨论可能更注重个人分析，而缺乏社会互动。",
-  "plain_summary_en": "This study examines the quality of discussions among Chinese netizens about the \"delaying retirement age\" policy online. It found that while people stay on topic, are rational, and civil, they rarely respond to each other or consider others' perspectives, like each person is \"soloing\" rather than \"playing together.\" This shows that in non-democratic countries, online discussions may focus more on individual analysis than social interaction.",
-  "research_direction_zh": "探索非民主国家中数字媒体如何影响政治审议的质量和模式，特别是网络话语的社会维度。",
-  "research_direction_en": "Investigating how digital media influences the quality and patterns of political deliberation in non-democratic countries, with a focus on the social dimensions of online discourse.",
+  "plain_summary_en": "This paper studies The “Solo of Deliberator”: Political Deliberation and Discourse Quality in China’s Cyberspace. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Deliberation, Analytical. The abstract suggests a case study, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies The “Solo of Deliberator”: Political Deliberation and Discourse Quality in China’s Cyberspace. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Deliberation, Analytical. The abstract suggests a case study, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around The, And, Deliberation, Analytical, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around The, And, Deliberation, Analytical, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "案例研究",
-    "机器学习"
+    "case study",
+    "computational analysis"
   ],
   "method_tags_en": [
     "case study",
-    "machine learning"
+    "computational analysis"
   ]
 }

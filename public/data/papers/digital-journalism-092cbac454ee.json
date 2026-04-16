@@ -1,33 +1,37 @@
 {
   "id": "digital-journalism-092cbac454ee",
   "doi": "10.1080/21670811.2024.2436548",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2024.2436548?af=R",
+  "url": "https://doi.org/10.1080/21670811.2024.2436548",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-02-17T03:23:32.000Z",
   "authors": [
-    "Jörg Matthes Alon Zoizner Andreas Nanz David Nicolas Hopmann Yannis Theocharis Selina Noetzel a Department of Communication",
-    "University of Vienna",
+    "Jörg Matthes",
+    "Alon Zoizner",
+    "Andreas Nanz",
+    "David Nicolas Hopmann",
+    "Yannis Theocharis",
+    "Selina Noetzel",
     "Vienna",
-    "Austriab University of Haifa",
+    "Austriab",
     "Haifa",
-    "Israelc Technical University in Munich",
+    "Israelc Technical",
     "Munich",
-    "Germanyd University of Southern Denmark",
+    "Germanyd",
     "Odense",
     "Denmark"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:59:01.759Z",
+  "fetchedAt": "2026-04-16T07:15:24.034Z",
   "language": "en",
   "raw_title": "The Relationship Between Incidental News Exposure and Political Participation: A Cross-Country, Multilevel Analysis",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "The Relationship Between Incidental News Exposure and Political Participation: A Cross-Country, Multilevel Analysis",
   "title_zh": "偶然新闻接触与政治参与的关系：一项跨国多层次分析",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -36,7 +40,8 @@
     "cross-country analysis",
     "multilevel analysis",
     "digital journalism",
-    "media effects"
+    "media effects",
+    "comparative research"
   ],
   "inferred_keywords_zh": [
     "偶然新闻接触",
@@ -44,18 +49,21 @@
     "跨国分析",
     "多层次分析",
     "数字新闻",
-    "媒体效果"
+    "媒体效果",
+    "比较研究"
   ],
-  "plain_summary_zh": "这项研究探讨了人们在日常生活中无意间接触到新闻（比如在社交媒体上看到新闻）是否会影响他们参与政治活动（比如投票或参加抗议）。研究比较了不同国家的情况，并分析了个人和国家的不同层面如何影响这种关系。",
-  "plain_summary_en": "This study examines whether accidentally coming across news in daily life (e.g., seeing news on social media) affects people's political participation (e.g., voting or joining protests). It compares different countries and analyzes how individual and national factors influence this relationship.",
-  "research_direction_zh": "研究数字媒体环境下新闻接触的偶然性及其对公民政治行为的影响，探索跨国比较中的媒体效果理论。",
-  "research_direction_en": "Investigating the incidental nature of news exposure in digital media environments and its impact on citizens' political behavior, exploring media effects theories in cross-national comparisons.",
+  "plain_summary_zh": "这项研究探讨了人们在日常生活中偶然看到新闻（比如在社交媒体上无意中刷到）如何影响他们参与政治活动（比如投票或参加抗议）。研究比较了不同国家的情况，使用了多层次的分析方法。",
+  "plain_summary_en": "This study examines how accidentally encountering news in daily life (e.g., stumbling upon it on social media) affects people's political participation (e.g., voting or joining protests). It compares different countries using multilevel analysis methods.",
+  "research_direction_zh": "探索数字媒体环境下非主动新闻消费对公民政治行为的影响，以及这种影响在不同国家背景下的差异。",
+  "research_direction_en": "Investigating how passive news consumption in digital media environments influences citizens' political behaviors, and how these effects vary across different national contexts.",
   "method_tags_zh": [
     "调查",
-    "多层次分析"
+    "多层次分析",
+    "跨国比较"
   ],
   "method_tags_en": [
     "survey",
-    "multilevel analysis"
+    "multilevel analysis",
+    "cross-country comparison"
   ]
 }

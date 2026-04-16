@@ -1,53 +1,53 @@
 {
   "id": "research-on-language-and-social-interaction-ce35848f7a44",
   "doi": "10.1080/08351813.2025.2567819",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/08351813.2025.2567819?af=R",
+  "url": "https://doi.org/10.1080/08351813.2025.2567819",
   "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
   "journalSlug": "research-on-language-and-social-interaction",
   "issn": "0835-1813",
   "publishedAt": "2026-01-12T09:29:48.000Z",
   "authors": [
-    "Esther González-Martínez Angeliki Balantani Department of Social Sciences",
-    "University of Fribourg",
+    "Esther González-Martínez",
+    "Angeliki Balantani",
     "Fribourg",
     "Switzerland"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T14:36:03.768Z",
+  "fetchedAt": "2026-04-16T07:16:08.542Z",
   "language": "en",
   "raw_title": "The “I have (someone)” method: Involving a hospital coworker in the matter at hand",
-  "raw_abstract": "Volume 58, Issue 4, October-December 2025, Page 337-352 .",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "The “I have (someone)” method: Involving a hospital coworker in the matter at hand",
-  "title_zh": "The “I have (someone)” method: Involving a hospital coworker in the matter at hand",
-  "abstract_en": "Volume 58, Issue 4, October-December 2025, Page 337-352 .",
-  "abstract_zh": "Volume 58, Issue 4, October-December 2025, Page 337-352 .",
+  "title_zh": "“我有（某人）”方法：让医院同事参与当前事务",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
-    "The",
-    "Have",
-    "Someone",
-    "Method",
-    "Involving",
-    "Hospital"
+    "conversation analysis",
+    "hospital communication",
+    "workplace interaction",
+    "collaborative problem-solving",
+    "institutional talk"
   ],
   "inferred_keywords_zh": [
-    "The",
-    "Have",
-    "Someone",
-    "Method",
-    "Involving",
-    "Hospital"
+    "对话分析",
+    "医院沟通",
+    "工作场所互动",
+    "协作解决问题",
+    "机构性谈话"
   ],
-  "plain_summary_en": "This paper studies The “I have (someone)” method: Involving a hospital coworker in the matter at hand. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Have, Someone, Method. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
-  "plain_summary_zh": "This paper studies The “I have (someone)” method: Involving a hospital coworker in the matter at hand. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Have, Someone, Method. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
-  "research_direction_en": "The paper points to an active research direction around The, Have, Someone, Method, especially how institutions, platforms, and audiences shape communication outcomes.",
-  "research_direction_zh": "The paper points to an active research direction around The, Have, Someone, Method, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "plain_summary_zh": "这项研究探讨了医院工作人员如何通过说“我有（某人）”来邀请同事参与处理当前事务。这种方法帮助医护人员协作解决问题，提高工作效率。",
+  "plain_summary_en": "This research examines how hospital staff use the phrase 'I have (someone)' to involve coworkers in handling current matters. This approach helps healthcare professionals collaborate to solve problems and improve work efficiency.",
+  "research_direction_zh": "研究医院工作场所中的语言策略和协作沟通模式，探索如何通过特定表达方式促进团队合作和问题解决。",
+  "research_direction_en": "Investigating linguistic strategies and collaborative communication patterns in hospital workplaces, exploring how specific expressions facilitate teamwork and problem-solving.",
   "method_tags_zh": [
-    "mixed methods"
+    "对话分析",
+    "案例研究"
   ],
   "method_tags_en": [
-    "mixed methods"
+    "conversation analysis",
+    "case study"
   ]
 }

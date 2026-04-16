@@ -1,63 +1,66 @@
 {
   "id": "digital-journalism-f26d436a2e83",
   "doi": "10.1080/21670811.2026.2636906",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2026.2636906?af=R",
+  "url": "https://doi.org/10.1080/21670811.2026.2636906",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2026-03-02T01:05:09.000Z",
   "authors": [
+    "Henning Eichler",
+    "Bernadette Uth",
+    "Hannah Ötting",
+    "Vanessa Kokoschka",
     "Henning Eichler Bernadette Uth Hannah Ötting Vanessa Kokoschka a Professor",
-    "Faculty of Computer Science and Media",
-    "University of Applied Sciences HTWK",
+    "Computer Science",
+    "and Media",
+    "Applied Sciences HTWK",
     "Leipzig",
     "Germanyb Senior Researcher",
-    "Department of Communication",
-    "University of Vienna",
     "Vienna",
     "Austriac Researcher",
-    "University of Münster",
     "Münster",
     "Germanyd Researcher",
-    "Department of Journalism",
-    "University of Applied Sciences",
+    "Applied Sciences",
     "Darmstadt",
     "Germany"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:53:48.243Z",
+  "fetchedAt": "2026-04-16T07:12:33.904Z",
   "language": "en",
   "raw_title": "Debate Spaces for Everyone? How Public Service Media Aim to Reshape Audience Engagement and Interactions",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Debate Spaces for Everyone? How Public Service Media Aim to Reshape Audience Engagement and Interactions",
   "title_zh": "人人可参与的辩论空间？公共服务媒体如何重塑受众参与和互动",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
     "public service media",
     "audience engagement",
-    "debate spaces",
-    "digital journalism",
-    "media interaction"
+    "digital debate",
+    "media interaction",
+    "journalism studies"
   ],
   "inferred_keywords_zh": [
     "公共服务媒体",
     "受众参与",
-    "辩论空间",
-    "数字新闻",
-    "媒体互动"
+    "数字辩论",
+    "媒体互动",
+    "新闻学研究"
   ],
-  "plain_summary_zh": "这项研究探讨了公共服务媒体如何尝试创建让更多人参与的在线辩论空间，以改变人们与新闻媒体的互动方式。",
-  "plain_summary_en": "This research examines how public service media are attempting to create online debate spaces that are more inclusive, aiming to transform how people interact with news media.",
-  "research_direction_zh": "数字时代公共服务媒体的角色转型与受众参与机制创新",
-  "research_direction_en": "Transformation of public service media roles and innovation in audience engagement mechanisms in the digital age",
+  "plain_summary_zh": "这篇研究探讨公共服务媒体如何创建更包容的在线辩论空间，让更多普通民众参与讨论，而不是只有少数专家或活跃用户。它关注媒体机构如何设计平台和内容来促进健康的公众对话。",
+  "plain_summary_en": "This research examines how public service media organizations are creating more inclusive online debate spaces that allow broader public participation, rather than just experts or active users. It focuses on how media institutions design platforms and content to foster healthy public dialogue.",
+  "research_direction_zh": "数字时代公共服务媒体的角色转型与公众参与机制创新",
+  "research_direction_en": "Role transformation of public service media in the digital age and innovation in public participation mechanisms",
   "method_tags_zh": [
-    "案例研究"
+    "案例研究",
+    "内容分析"
   ],
   "method_tags_en": [
-    "case study"
+    "case study",
+    "content analysis"
   ]
 }

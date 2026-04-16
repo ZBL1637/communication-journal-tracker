@@ -1,53 +1,54 @@
 {
   "id": "research-on-language-and-social-interaction-c3423c6f3e0c",
   "doi": "10.1080/08351813.2025.2567822",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/08351813.2025.2567822?af=R",
+  "url": "https://doi.org/10.1080/08351813.2025.2567822",
   "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
   "journalSlug": "research-on-language-and-social-interaction",
   "issn": "0835-1813",
   "publishedAt": "2026-01-12T09:29:48.000Z",
   "authors": [
-    "Michal Marmorstein Nadav Matalon Department of Linguistics",
-    "Hebrew University of Jerusalem",
+    "Michal Marmorstein",
+    "Nadav Matalon",
+    "Hebrew",
     "Jerusalem",
     "Israel"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T23:00:24.417Z",
+  "fetchedAt": "2026-04-16T07:16:24.650Z",
   "language": "en",
   "raw_title": "Hebrew ken? (Yes?): A minimal format for inviting the review of prior talk",
-  "raw_abstract": "Volume 58, Issue 4, October-December 2025, Page 397-426 .",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Hebrew ken? (Yes?): A minimal format for inviting the review of prior talk",
-  "title_zh": "希伯来语ken?（是吗？）：一种邀请回顾先前谈话的最小格式",
-  "abstract_en": "Volume 58, Issue 4, October-December 2025, Page 397-426 .",
-  "abstract_zh": "第58卷，第4期，2025年10月至12月，第397-426页。",
+  "title_zh": "希伯来语ken？（是吗？）：一种邀请回顾先前谈话的极简格式",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
     "conversation analysis",
     "Hebrew language",
-    "discourse markers",
+    "minimal response",
     "interactional linguistics",
-    "minimal responses"
+    "discourse markers"
   ],
   "inferred_keywords_zh": [
     "会话分析",
     "希伯来语",
-    "话语标记",
+    "最小回应",
     "互动语言学",
-    "最小回应"
+    "话语标记"
   ],
-  "plain_summary_zh": "这篇研究探讨了希伯来语中“ken?”（意思是“是吗？”）作为一种简单的语言形式，如何被用来邀请对方回顾或确认之前的谈话内容。它属于语言互动研究领域，关注日常对话中的微小语言细节如何影响交流。",
-  "plain_summary_en": "This study examines how the Hebrew word 'ken?' (meaning 'yes?') is used as a simple linguistic form to invite review or confirmation of prior talk. It falls within the field of language interaction research, focusing on how small linguistic details in everyday conversations affect communication.",
-  "research_direction_zh": "研究关注语言互动中的最小回应格式，特别是希伯来语中的话语标记，以揭示日常对话中如何通过简单语言形式管理谈话流程和确认理解。",
-  "research_direction_en": "The research focuses on minimal response formats in language interaction, specifically discourse markers in Hebrew, to reveal how simple linguistic forms manage conversation flow and confirm understanding in everyday talk.",
+  "plain_summary_zh": "这项研究探讨了希伯来语中'ken'（意思是'是'）在对话中的一种特殊用法。研究者发现，当说话者用'ken？'（带疑问语调）时，它不仅仅表示同意，而是邀请对方回顾或确认刚才说过的话。这是一种非常简洁的交流方式，帮助对话双方保持理解一致。",
+  "plain_summary_en": "This research examines a special use of the Hebrew word 'ken' (meaning 'yes') in conversations. The researchers found that when speakers use 'ken?' (with questioning intonation), it doesn't just mean agreement, but rather invites the other person to review or confirm what was just said. This is a very concise way of communicating that helps conversation partners stay on the same page.",
+  "research_direction_zh": "这项研究属于互动语言学领域，特别关注语言中极简形式如何实现复杂的社交功能。它探讨了日常对话中微小语言元素如何促进理解、协调和社交互动。",
+  "research_direction_en": "This research falls within the field of interactional linguistics, specifically examining how minimal linguistic forms accomplish complex social functions. It investigates how small elements in everyday conversation facilitate understanding, coordination, and social interaction.",
   "method_tags_zh": [
     "会话分析",
-    "案例研究"
+    "语料库研究"
   ],
   "method_tags_en": [
     "conversation analysis",
-    "case study"
+    "corpus study"
   ]
 }

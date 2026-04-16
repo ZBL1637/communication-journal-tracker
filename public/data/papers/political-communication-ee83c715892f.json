@@ -1,30 +1,35 @@
 {
   "id": "political-communication-ee83c715892f",
   "doi": "10.1080/10584609.2026.2612739",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2612739?af=R",
+  "url": "https://doi.org/10.1080/10584609.2026.2612739",
   "journalName": "POLITICAL COMMUNICATION",
   "journalSlug": "political-communication",
   "issn": "1058-4609",
   "publishedAt": "2026-01-08T04:38:27.000Z",
   "authors": [
-    "Darren Hawkins Christopher F. Karpowitz Steven Greene Jay Goodliffe Logan Graham Ashlyn Bodily a Department of Political Science",
-    "Brigham Young University",
+    "Darren Hawkins",
+    "Christopher F. Karpowitz",
+    "Steven Greene",
+    "Jay Goodliffe",
+    "Logan Graham",
+    "Ashlyn Bodily",
+    "Brigham Young",
     "Provo",
     "Utah",
     "USAb Political Science",
-    "North Carolina State University",
+    "North Carolina State",
     "North Carolina"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:42:20.800Z",
+  "fetchedAt": "2026-04-16T07:06:39.154Z",
   "language": "en",
   "raw_title": "The Poverty of Moral Foundation Messaging",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "The Poverty of Moral Foundation Messaging",
   "title_zh": "道德基础信息传递的贫乏",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -32,25 +37,29 @@
     "political communication",
     "messaging effectiveness",
     "persuasion",
-    "public opinion"
+    "moral psychology",
+    "political messaging"
   ],
   "inferred_keywords_zh": [
     "道德基础",
     "政治传播",
     "信息传递效果",
     "说服",
-    "公众舆论"
+    "道德心理学",
+    "政治信息传递"
   ],
-  "plain_summary_zh": "这篇文章探讨了基于道德基础的信息传递策略在政治传播中的效果和局限性。",
-  "plain_summary_en": "This article examines the effectiveness and limitations of moral foundation-based messaging strategies in political communication.",
-  "research_direction_zh": "研究政治传播中道德框架和信息策略的有效性，探索如何更好地与不同价值观的受众沟通。",
-  "research_direction_en": "Investigating the effectiveness of moral framing and messaging strategies in political communication, exploring how to better communicate with audiences holding different values.",
+  "plain_summary_zh": "这篇文章探讨了基于道德基础理论的政治信息传递可能存在的局限性或效果不佳的问题。研究可能分析了为什么某些道德诉求在政治沟通中未能达到预期效果，或者道德信息传递策略为何在某些情况下显得贫乏无力。",
+  "plain_summary_en": "This article examines the potential limitations or ineffectiveness of political messaging based on moral foundation theory. The research likely analyzes why certain moral appeals fail to achieve desired effects in political communication, or why moral messaging strategies appear inadequate in some contexts.",
+  "research_direction_zh": "政治传播中道德诉求的有效性研究，探讨道德基础理论在现实政治沟通中的应用局限和改进方向。",
+  "research_direction_en": "Research on the effectiveness of moral appeals in political communication, exploring the limitations and potential improvements of applying moral foundation theory in real-world political messaging.",
   "method_tags_zh": [
-    "实验",
-    "调查"
+    "内容分析",
+    "实验研究",
+    "调查研究"
   ],
   "method_tags_en": [
-    "experiment",
-    "survey"
+    "content analysis",
+    "experimental research",
+    "survey research"
   ]
 }

@@ -10,7 +10,7 @@
     "Susana Herrera-Damas"
   ],
   "source": "crossref+detail",
-  "fetchedAt": "2026-04-15T23:25:32.184Z",
+  "fetchedAt": "2026-04-16T07:26:41.264Z",
   "language": "en",
   "raw_title": "Between Exhaustion and Resilience: A Systematic Review of Burnout Outcomes and Coping Strategies in Contemporary Journalism (2000–2025)",
   "raw_abstract": "This systematic review synthesises publicly available empirical evidence (2000-2025) on burnout among journalists, an understudied occupational health phenomenon whose individual and systemic repercussions raise critical questions about media integrity, professional resilience and democratic accountability. Guided by two objectives, the review first examines the consequences of burnout on journalists’ quality of life and quality of work. Studies report chronic fatigue, insomnia, hypertension, depression, anxiety and post traumatic stress, along with diminished creativity, ethical tension and disengagement within newsrooms. Thus, burnout not only compromises personal well-being and collective performance but also affects the civic mission of journalism. The second objective identifies and evaluates coping strategies at individual, organisational and sectoral levels. By integrating the findings through the frameworks of job demands-resource and conservation of resources, this review highlights burnout as a systemic imbalance between increasing demands and insufficient resources. The study concludes that effective responses require multi-level coordination to foster sustainable and mentally healthy journalism.",
@@ -22,9 +22,9 @@
     "Prisma 2020"
   ],
   "title_en": "Between Exhaustion and Resilience: A Systematic Review of Burnout Outcomes and Coping Strategies in Contemporary Journalism (2000–2025)",
-  "title_zh": "在疲惫与韧性之间：当代新闻业（2000-2025）中职业倦怠结果与应对策略的系统性综述",
+  "title_zh": "Between Exhaustion and Resilience: A Systematic Review of Burnout Outcomes and Coping Strategies in Contemporary Journalism (2000–2025)",
   "abstract_en": "This systematic review synthesises publicly available empirical evidence (2000-2025) on burnout among journalists, an understudied occupational health phenomenon whose individual and systemic repercussions raise critical questions about media integrity, professional resilience and democratic accountability. Guided by two objectives, the review first examines the consequences of burnout on journalists’ quality of life and quality of work. Studies report chronic fatigue, insomnia, hypertension, depression, anxiety and post traumatic stress, along with diminished creativity, ethical tension and disengagement within newsrooms. Thus, burnout not only compromises personal well-being and collective performance but also affects the civic mission of journalism. The second objective identifies and evaluates coping strategies at individual, organisational and sectoral levels. By integrating the findings through the frameworks of job demands-resource and conservation of resources, this review highlights burnout as a systemic imbalance between increasing demands and insufficient resources. The study concludes that effective responses require multi-level coordination to foster sustainable and mentally healthy journalism.",
-  "abstract_zh": "本系统性综述综合了2000年至2025年间关于记者职业倦怠的公开实证证据。职业倦怠是一个研究不足的职业健康现象，其个人和系统性影响引发了关于媒体诚信、专业韧性和民主问责的关键问题。基于两个目标，本综述首先考察了职业倦怠对记者生活质量和工作质量的影响。研究报告了慢性疲劳、失眠、高血压、抑郁、焦虑和创伤后应激障碍，以及创造力下降、道德紧张和新闻编辑室内的脱离现象。因此，职业倦怠不仅损害个人福祉和集体表现，还影响了新闻业的公民使命。第二个目标是识别和评估个人、组织和行业层面的应对策略。通过工作需求-资源和资源保存理论的框架整合研究结果，本综述强调职业倦怠是需求增加与资源不足之间的系统性失衡。研究结论是，有效的应对需要多层次协调，以促进可持续和心理健康的新商业。",
+  "abstract_zh": "This systematic review synthesises publicly available empirical evidence (2000-2025) on burnout among journalists, an understudied occupational health phenomenon whose individual and systemic repercussions raise critical questions about media integrity, professional resilience and democratic accountability. Guided by two objectives, the review first examines the consequences of burnout on journalists’ quality of life and quality of work. Studies report chronic fatigue, insomnia, hypertension, depression, anxiety and post traumatic stress, along with diminished creativity, ethical tension and disengagement within newsrooms. Thus, burnout not only compromises personal well-being and collective performance but also affects the civic mission of journalism. The second objective identifies and evaluates coping strategies at individual, organisational and sectoral levels. By integrating the findings through the frameworks of job demands-resource and conservation of resources, this review highlights burnout as a systemic imbalance between increasing demands and insufficient resources. The study concludes that effective responses require multi-level coordination to foster sustainable and mentally healthy journalism.",
   "keywords_en": [
     "Burnout",
     "Mental Health",
@@ -33,36 +33,22 @@
     "Prisma 2020"
   ],
   "keywords_zh": [
-    "职业倦怠",
-    "心理健康",
-    "记者",
-    "系统性综述",
+    "Burnout",
+    "Mental Health",
+    "Journalists",
+    "Systematic Review",
     "Prisma 2020"
   ],
-  "inferred_keywords_en": [
-    "Occupational Health",
-    "Workplace Stress",
-    "Coping Mechanisms",
-    "Media Industry",
-    "Job Demands-Resources"
-  ],
-  "inferred_keywords_zh": [
-    "职业健康",
-    "工作场所压力",
-    "应对机制",
-    "媒体行业",
-    "工作需求-资源"
-  ],
-  "plain_summary_zh": "这篇研究总结了2000年到2025年间关于记者职业倦怠的研究。研究发现，记者工作压力大，容易感到疲惫，导致身体和心理健康问题，比如失眠、焦虑，还会影响工作创造力和职业道德。研究还指出，要解决这个问题，需要记者个人、新闻机构和整个行业一起努力，提供更多支持，让新闻工作更可持续和健康。",
-  "plain_summary_en": "This research summarizes studies from 2000 to 2025 on burnout among journalists. It finds that journalists face high work stress, leading to exhaustion and causing physical and mental health issues like insomnia and anxiety, which also reduce creativity and ethical standards at work. The study suggests that addressing this problem requires efforts from individual journalists, news organizations, and the entire industry to provide more support and make journalism more sustainable and healthy.",
-  "research_direction_zh": "探索新闻业职业倦怠的成因、影响及多层次干预策略，以促进媒体工作者的心理健康和行业可持续发展。",
-  "research_direction_en": "Investigating the causes, impacts, and multi-level intervention strategies for burnout in journalism to enhance mental health of media workers and industry sustainability.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Between Exhaustion and Resilience: A Systematic Review of Burnout Outcomes and Coping Strategies in Contemporary Journalism (2000–2025). In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Burnout, Mental Health, Journalists, Systematic Review. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Between Exhaustion and Resilience: A Systematic Review of Burnout Outcomes and Coping Strategies in Contemporary Journalism (2000–2025). In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Burnout, Mental Health, Journalists, Systematic Review. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Burnout, Mental Health, Journalists, Systematic Review, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Burnout, Mental Health, Journalists, Systematic Review, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "系统性综述",
-    "文献分析"
+    "review"
   ],
   "method_tags_en": [
-    "Systematic Review",
-    "Literature Analysis"
+    "review"
   ]
 }

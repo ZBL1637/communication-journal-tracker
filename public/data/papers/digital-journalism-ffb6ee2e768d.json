@@ -1,30 +1,32 @@
 {
   "id": "digital-journalism-ffb6ee2e768d",
   "doi": "10.1080/21670811.2025.2540097",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2540097?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2540097",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-08-03T08:34:35.000Z",
   "authors": [
-    "Daniel O’Brien Christian Zabel Frank Lobigs a Schmalenbach School of Business and Economics",
-    "Technische Hochschule Köln (University of Applied Sciences Cologne)",
+    "Daniel O’Brien",
+    "Christian Zabel",
+    "Frank Lobigs",
+    "a Schmalenbach",
     "Cologne",
-    "Germanyb Institute of Journalism",
-    "Technische Universität Dortmund (Technical University of Dortmund)",
+    "Germanyb",
+    "Technische Universität Dortmund (Technical",
     "Dortmund",
     "Germany"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:48:37.390Z",
+  "fetchedAt": "2026-04-16T07:09:52.502Z",
   "language": "en",
   "raw_title": "Consumer Preferences and Willingness to Pay for Digital Journalism in Intermedia Competition: A Conjoint Analysis of Online News Users in the Austrian Market",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Consumer Preferences and Willingness to Pay for Digital Journalism in Intermedia Competition: A Conjoint Analysis of Online News Users in the Austrian Market",
   "title_zh": "媒介竞争中的消费者偏好与数字新闻付费意愿：奥地利市场在线新闻用户的联合分析",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -45,16 +47,16 @@
     "在线新闻",
     "奥地利市场"
   ],
-  "plain_summary_zh": "这项研究调查了奥地利在线新闻用户对数字新闻的偏好和付费意愿，特别是在不同媒体竞争的情况下。研究人员使用了一种叫做联合分析的方法，了解用户在选择新闻服务时最看重哪些因素，以及他们愿意为哪些功能付费。",
-  "plain_summary_en": "This study examines Austrian online news users' preferences and willingness to pay for digital journalism, particularly in the context of intermedia competition. Researchers used a method called conjoint analysis to understand which factors users value most when choosing news services and what features they're willing to pay for.",
-  "research_direction_zh": "数字新闻商业模式与消费者行为研究，关注媒介竞争环境下用户付费意愿的影响因素。",
-  "research_direction_en": "Research on digital journalism business models and consumer behavior, focusing on factors influencing user willingness to pay in competitive media environments.",
+  "plain_summary_zh": "这项研究调查了奥地利在线新闻用户对数字新闻的偏好和付费意愿。研究人员使用联合分析方法，了解在多种媒介竞争的环境下，用户愿意为哪些新闻特征付费。",
+  "plain_summary_en": "This study examines Austrian online news users' preferences and willingness to pay for digital journalism. Using conjoint analysis, researchers explore what news features users are willing to pay for in a competitive media environment.",
+  "research_direction_zh": "数字新闻商业模式与消费者行为研究，关注媒介竞争环境下的付费意愿和用户偏好分析。",
+  "research_direction_en": "Research on digital journalism business models and consumer behavior, focusing on willingness to pay and user preferences in competitive media environments.",
   "method_tags_zh": [
-    "调查",
-    "联合分析"
+    "联合分析",
+    "调查"
   ],
   "method_tags_en": [
-    "survey",
-    "conjoint analysis"
+    "conjoint analysis",
+    "survey"
   ]
 }

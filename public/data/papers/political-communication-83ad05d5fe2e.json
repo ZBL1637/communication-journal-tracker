@@ -1,61 +1,62 @@
 {
   "id": "political-communication-83ad05d5fe2e",
   "doi": "10.1080/10584609.2025.2604708",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2604708?af=R",
+  "url": "https://doi.org/10.1080/10584609.2025.2604708",
   "journalName": "POLITICAL COMMUNICATION",
   "journalSlug": "political-communication",
   "issn": "1058-4609",
   "publishedAt": "2025-12-23T03:32:55.000Z",
   "authors": [
-    "Curd B. Knüpfer Yunkang Yang Mike Cowburn a Digital Democracy Centre",
-    "University of Southern Denmark",
+    "Curd B. Knüpfer",
+    "Yunkang Yang",
+    "Mike Cowburn",
+    "Curd B. Knüpfer Yunkang Yang Mike Cowburn a Digital Democracy",
+    "Southern Denmark",
     "Odense",
-    "Denmarkb Department of Communication & Journalism",
-    "Texas A&M University",
-    "College Station",
-    "USAc Department of Political and Social Sciences",
-    "Zeppelin University",
-    "Friedrichshafen",
-    "Party Transformation in Congressional Primaries: Faction and Ideology in the Twenty-First Century, was published in 2024 by Cambridge University Press."
+    "Denmarkb",
+    "Texas A&",
+    "USAc",
+    "Zeppelin",
+    "Friedrichshafen"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:42:04.807Z",
+  "fetchedAt": "2026-04-16T07:06:25.327Z",
   "language": "en",
   "raw_title": "The Logic of Connective Faction: How Digitally Networked Elites and Hyper-Partisan Media Radicalize Politics",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "The Logic of Connective Faction: How Digitally Networked Elites and Hyper-Partisan Media Radicalize Politics",
-  "title_zh": "连接性派系的逻辑：数字化网络精英与极端党派媒体如何激化政治",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "title_zh": "连接性派系的逻辑：数字网络精英与极端党派媒体如何激化政治",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
     "digital networks",
     "political elites",
-    "partisan media",
+    "hyper-partisan media",
     "political radicalization",
     "connective faction",
-    "hyper-partisanship"
+    "political communication"
   ],
   "inferred_keywords_zh": [
     "数字网络",
     "政治精英",
-    "党派媒体",
+    "极端党派媒体",
     "政治激进化",
     "连接性派系",
-    "极端党派主义"
+    "政治传播"
   ],
-  "plain_summary_zh": "这项研究探讨了数字时代政治精英如何通过网络连接，与极端党派媒体合作，导致政治变得更加分裂和激进。",
-  "plain_summary_en": "This study explores how political elites in the digital age use network connections and collaborate with hyper-partisan media, leading to more divided and radical politics.",
-  "research_direction_zh": "研究数字媒体时代政治派系形成、精英网络化行为及其对民主政治的影响。",
-  "research_direction_en": "Research on political faction formation, elite networking behaviors in the digital media era, and their impact on democratic politics.",
+  "plain_summary_zh": "这篇文章探讨了数字时代政治精英如何通过网络连接，与极端党派媒体合作，导致政治变得更加极端化。它解释了这种“连接性派系”如何运作并影响政治环境。",
+  "plain_summary_en": "This article explores how political elites in the digital age use network connections and collaborate with hyper-partisan media to make politics more extreme. It explains how this 'connective faction' operates and impacts the political environment.",
+  "research_direction_zh": "研究数字媒体时代政治精英网络化与媒体极端化对政治进程的影响机制。",
+  "research_direction_en": "Investigating the mechanisms by which networked political elites and media extremism affect political processes in the digital media era.",
   "method_tags_zh": [
-    "案例研究",
-    "内容分析"
+    "内容分析",
+    "案例研究"
   ],
   "method_tags_en": [
-    "case study",
-    "content analysis"
+    "content analysis",
+    "case study"
   ]
 }

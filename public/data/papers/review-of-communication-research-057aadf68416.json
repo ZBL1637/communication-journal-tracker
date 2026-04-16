@@ -10,7 +10,7 @@
     "Xi Tang"
   ],
   "source": "crossref+detail",
-  "fetchedAt": "2026-04-15T23:22:33.517Z",
+  "fetchedAt": "2026-04-16T07:25:37.995Z",
   "language": "en",
   "raw_title": "Organizational Communication in Museums: A State-of-the-Literature Review of Public Administration and Management Practices",
   "raw_abstract": "Museums hold a unique status in the cultural industry, playing the roles of both heritage repository and educational institutions and service providers to the community. Although the functions of internal organizational communication in museums are complex and numerous, the scholarly focus on internal organizational communication processes in museums is exceptionally small in comparison with the amount of literature devoted to the interaction with the external audience. This systematic literature review explores the research situation of organizational communication in museums, especially focusing on the public administration systems and management activities. In this review, 20 peer-reviewed articles and research reports (2015-2024) were analyzed using the PRISMA framework. The results indicate chronic communication failures that are marked with interdepartmental silos, lack of strategic-implementation, and poor leadership communication. The critical analysis reveals the structural, cultural, and political aspects of these challenges, as well as the disruptive quality of digital technologies and COVID-19 pandemic on the practices of museum communication. The study provides recommendations on investment in communication infrastructure, professional growth, governance reforms to improve organizational performance in museums.",
@@ -22,9 +22,9 @@
     "Cultural Institutions"
   ],
   "title_en": "Organizational Communication in Museums: A State-of-the-Literature Review of Public Administration and Management Practices",
-  "title_zh": "博物馆组织传播：公共行政与管理实践的文献综述",
+  "title_zh": "Organizational Communication in Museums: A State-of-the-Literature Review of Public Administration and Management Practices",
   "abstract_en": "Museums hold a unique status in the cultural industry, playing the roles of both heritage repository and educational institutions and service providers to the community. Although the functions of internal organizational communication in museums are complex and numerous, the scholarly focus on internal organizational communication processes in museums is exceptionally small in comparison with the amount of literature devoted to the interaction with the external audience. This systematic literature review explores the research situation of organizational communication in museums, especially focusing on the public administration systems and management activities. In this review, 20 peer-reviewed articles and research reports (2015-2024) were analyzed using the PRISMA framework. The results indicate chronic communication failures that are marked with interdepartmental silos, lack of strategic-implementation, and poor leadership communication. The critical analysis reveals the structural, cultural, and political aspects of these challenges, as well as the disruptive quality of digital technologies and COVID-19 pandemic on the practices of museum communication. The study provides recommendations on investment in communication infrastructure, professional growth, governance reforms to improve organizational performance in museums.",
-  "abstract_zh": "博物馆在文化产业中具有独特地位，既是遗产保存库、教育机构，也是社区服务提供者。尽管博物馆内部组织传播的功能复杂多样，但与关注外部观众互动的文献相比，学术界对博物馆内部组织传播过程的关注极少。本系统性文献综述探讨了博物馆组织传播的研究现状，特别关注公共行政系统和管理活动。本综述使用PRISMA框架分析了20篇同行评议文章和研究报告（2015-2024年）。结果表明存在长期传播失败，表现为部门间壁垒、战略实施不足和领导传播不力。批判性分析揭示了这些挑战的结构、文化和政治方面，以及数字技术和COVID-19大流行对博物馆传播实践的破坏性影响。研究提出了投资传播基础设施、专业发展和治理改革以提升博物馆组织绩效的建议。",
+  "abstract_zh": "Museums hold a unique status in the cultural industry, playing the roles of both heritage repository and educational institutions and service providers to the community. Although the functions of internal organizational communication in museums are complex and numerous, the scholarly focus on internal organizational communication processes in museums is exceptionally small in comparison with the amount of literature devoted to the interaction with the external audience. This systematic literature review explores the research situation of organizational communication in museums, especially focusing on the public administration systems and management activities. In this review, 20 peer-reviewed articles and research reports (2015-2024) were analyzed using the PRISMA framework. The results indicate chronic communication failures that are marked with interdepartmental silos, lack of strategic-implementation, and poor leadership communication. The critical analysis reveals the structural, cultural, and political aspects of these challenges, as well as the disruptive quality of digital technologies and COVID-19 pandemic on the practices of museum communication. The study provides recommendations on investment in communication infrastructure, professional growth, governance reforms to improve organizational performance in museums.",
   "keywords_en": [
     "Organization Communication",
     "Museum Management",
@@ -33,24 +33,22 @@
     "Cultural Institutions"
   ],
   "keywords_zh": [
-    "组织传播",
-    "博物馆管理",
-    "公共行政",
-    "数字化转型",
-    "文化机构"
+    "Organization Communication",
+    "Museum Management",
+    "Public Administration",
+    "Digital Transformation",
+    "Cultural Institutions"
   ],
   "inferred_keywords_en": [],
   "inferred_keywords_zh": [],
-  "plain_summary_zh": "这篇研究回顾了博物馆内部沟通的问题。研究发现，博物馆内部部门之间沟通不畅，领导层传达信息不够清晰，而且缺乏有效的沟通策略。数字技术和疫情也带来了新的挑战。文章建议博物馆应该改善沟通系统，培训员工，并改革管理方式，以提升整体运作效率。",
-  "plain_summary_en": "This study reviews internal communication issues in museums. It finds that museums struggle with poor communication between departments, unclear messaging from leadership, and a lack of effective communication strategies. Digital technologies and the pandemic have added new challenges. The article suggests museums should improve their communication systems, train staff, and reform management practices to boost overall efficiency.",
-  "research_direction_zh": "探索博物馆内部组织传播的机制与挑战，结合公共行政和管理理论，分析如何通过沟通优化提升文化机构的运营效能。",
-  "research_direction_en": "Investigating the mechanisms and challenges of internal organizational communication in museums, integrating public administration and management theories to analyze how communication optimization can enhance the operational effectiveness of cultural institutions.",
+  "plain_summary_en": "This paper studies Organizational Communication in Museums: A State-of-the-Literature Review of Public Administration and Management Practices. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Organization Communication, Museum Management, Public Administration, Digital Transformation. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Organizational Communication in Museums: A State-of-the-Literature Review of Public Administration and Management Practices. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Organization Communication, Museum Management, Public Administration, Digital Transformation. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Organization Communication, Museum Management, Public Administration, Digital Transformation, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Organization Communication, Museum Management, Public Administration, Digital Transformation, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "文献综述",
-    "系统分析"
+    "review"
   ],
   "method_tags_en": [
-    "literature review",
-    "systematic analysis"
+    "review"
   ]
 }

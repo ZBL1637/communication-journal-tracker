@@ -1,29 +1,29 @@
 {
   "id": "digital-journalism-a53b33ce4bd3",
   "doi": "10.1080/21670811.2025.2493264",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2493264?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2493264",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-04-23T05:11:09.000Z",
   "authors": [
-    "Katherine Fink Department of Media",
+    "Katherine Fink",
     "Communications, and Visual Arts",
-    "Pace University",
+    "Pace",
     "Pleasantville",
     "NY",
     "USA"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:46:56.990Z",
+  "fetchedAt": "2026-04-16T07:09:02.051Z",
   "language": "en",
   "raw_title": "Strategizing Sustainability in Nonprofit News: Revenue Preferences of Newsroom Leaders",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Strategizing Sustainability in Nonprofit News: Revenue Preferences of Newsroom Leaders",
   "title_zh": "非营利新闻的可持续性战略：新闻编辑室领导者的收入偏好",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -32,7 +32,7 @@
     "revenue models",
     "newsroom leadership",
     "media economics",
-    "digital journalism"
+    "organizational strategy"
   ],
   "inferred_keywords_zh": [
     "非营利新闻",
@@ -40,12 +40,12 @@
     "收入模式",
     "新闻编辑室领导",
     "媒体经济学",
-    "数字新闻"
+    "组织战略"
   ],
-  "plain_summary_zh": "这项研究探讨了非营利新闻机构如何实现财务可持续性，特别关注新闻编辑室领导者对不同收入来源的偏好。",
-  "plain_summary_en": "This research examines how nonprofit news organizations can achieve financial sustainability, with a specific focus on newsroom leaders' preferences for different revenue sources.",
-  "research_direction_zh": "非营利新闻机构的商业模式与可持续发展研究",
-  "research_direction_en": "Business models and sustainability research for nonprofit news organizations",
+  "plain_summary_zh": "这项研究探讨非营利新闻机构如何实现财务可持续性，特别关注新闻编辑室领导者对不同收入来源的偏好。研究旨在了解这些领导者如何选择资金策略来维持新闻运营。",
+  "plain_summary_en": "This study examines how nonprofit news organizations achieve financial sustainability, focusing specifically on newsroom leaders' preferences for different revenue sources. The research aims to understand how these leaders choose funding strategies to maintain news operations.",
+  "research_direction_zh": "研究关注非营利新闻机构的财务可持续性战略，探索新闻编辑室领导者在收入模式选择中的决策过程和影响因素，为媒体组织管理提供实践指导。",
+  "research_direction_en": "The research focuses on financial sustainability strategies in nonprofit news organizations, exploring the decision-making processes and influencing factors in revenue model selection by newsroom leaders, providing practical guidance for media organization management.",
   "method_tags_zh": [
     "调查",
     "访谈"

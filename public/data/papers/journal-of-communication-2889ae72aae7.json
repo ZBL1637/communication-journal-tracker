@@ -7,13 +7,14 @@
   "issn": "0021-9916",
   "publishedAt": "2026-02-01T00:00:00.000Z",
   "authors": [
-    "Jonathan J H Zhu",
+    "Jonathan J",
+    "H Zhu",
     "Wei Lin",
     "Jingwei Gao",
     "Heng Lu"
   ],
   "source": "crossref",
-  "fetchedAt": "2026-04-15T22:36:15.560Z",
+  "fetchedAt": "2026-04-16T07:03:34.509Z",
   "language": "en",
   "raw_title": "Conceptualization, operationalization, and performance of longitudinal studies in communication research: a systematic review",
   "raw_abstract": "Abstract We report a systematic review of longitudinal studies published in SSCI-Communication journals over the 50 years, focusing on how time is conceived, measured, and analyzed as a scientific concept. To facilitate the review, we devised two novel classification schemes to distinguish between longitudinal and non-longitudinal studies and to measure how time is treated. We manually coded a random sample of 1,080 research articles, supplemented with computerized keyword scanning of the study population. The results show that longitudinal studies have steadily accounted for about 9% of the publications. Panel data studies outnumber time-series studies in a ratio of 3:2. Three-fourths of the longitudinal studies treat time as a timing index and aim to test causal effects, whereas a quarter treat time as a parameter to capture temporal dynamics. Longitudinal studies make more conceptual contributions and receive more citations than non-longitudinal studies. We offer practical recommendations for longitudinal communication research.",

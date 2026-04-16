@@ -1,27 +1,28 @@
 {
   "id": "digital-journalism-7312bbeda254",
   "doi": "10.1080/21670811.2025.2592077",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2592077?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2592077",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-11-22T10:01:41.000Z",
   "authors": [
-    "Olga Dovbysh Mariëlle Wijermars Aleksanteri Institute",
-    "University of Helsinki",
+    "Olga Dovbysh",
+    "Mariëlle Wijermars",
+    "Mariëlle Wijermars Aleksanteri",
     "Helsinki",
     "Finland"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:52:07.099Z",
+  "fetchedAt": "2026-04-16T07:11:42.866Z",
   "language": "en",
   "raw_title": "Authoritarian Algorithmic Publics: Conceptualising the Nexus of Authoritarianism and Digital Innovation Uptake in Russian News Media",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Authoritarian Algorithmic Publics: Conceptualising the Nexus of Authoritarianism and Digital Innovation Uptake in Russian News Media",
   "title_zh": "威权算法公众：概念化俄罗斯新闻媒体中威权主义与数字创新采纳的关联",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -42,16 +43,16 @@
     "概念框架",
     "技术采纳"
   ],
-  "plain_summary_zh": "这篇研究探讨了在俄罗斯新闻媒体中，威权主义如何与数字技术创新（如算法）相互作用。它提出了一个概念框架，帮助理解在威权环境下，媒体如何采纳和使用数字工具来塑造公众舆论。",
-  "plain_summary_en": "This study explores how authoritarianism interacts with digital technological innovations, such as algorithms, in Russian news media. It proposes a conceptual framework to understand how media in authoritarian contexts adopt and use digital tools to shape public opinion.",
-  "research_direction_zh": "研究聚焦于威权主义与数字媒体技术的交叉领域，旨在分析在非民主环境中，新闻媒体如何整合算法等创新技术，以及这对公众话语和社会控制的影响。",
-  "research_direction_en": "The research focuses on the intersection of authoritarianism and digital media technologies, aiming to analyze how news media in non-democratic contexts integrate innovations like algorithms, and the implications for public discourse and social control.",
+  "plain_summary_zh": "这篇研究探讨了俄罗斯新闻媒体如何结合威权主义政治与数字技术创新。它提出了一个概念框架来分析威权国家如何利用算法等技术来塑造公众舆论，同时保持对媒体的控制。研究聚焦于俄罗斯作为案例，展示了数字工具如何被整合进威权治理中。",
+  "plain_summary_en": "This study examines how Russian news media combine authoritarian politics with digital technology innovations. It proposes a conceptual framework to analyze how authoritarian states use algorithms and other technologies to shape public opinion while maintaining media control. Focusing on Russia as a case, it shows how digital tools are integrated into authoritarian governance.",
+  "research_direction_zh": "研究探索威权主义与数字媒体技术的交叉点，特别是在新闻传播领域。它旨在理解威权政权如何适应和利用数字创新来巩固权力，为比较威权数字媒体研究提供理论基础。",
+  "research_direction_en": "The research explores the intersection of authoritarianism and digital media technologies, particularly in journalism. It aims to understand how authoritarian regimes adapt and leverage digital innovations to consolidate power, providing a theoretical basis for comparative studies of authoritarian digital media.",
   "method_tags_zh": [
-    "概念分析",
-    "案例研究"
+    "案例研究",
+    "概念分析"
   ],
   "method_tags_en": [
-    "conceptual analysis",
-    "case study"
+    "case study",
+    "conceptual analysis"
   ]
 }

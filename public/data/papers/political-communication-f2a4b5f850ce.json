@@ -1,58 +1,65 @@
 {
   "id": "political-communication-f2a4b5f850ce",
   "doi": "10.1080/10584609.2025.2578364",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2578364?af=R",
+  "url": "https://doi.org/10.1080/10584609.2025.2578364",
   "journalName": "POLITICAL COMMUNICATION",
   "journalSlug": "political-communication",
   "issn": "1058-4609",
   "publishedAt": "2025-10-30T04:29:18.000Z",
   "authors": [
-    "Katherine Kountz Mor Yachin Carol K. Winkler Dror Walter Anthony F. Lemieux a Department of Communication",
-    "Georgia State University",
+    "Katherine Kountz",
+    "Mor Yachin",
+    "Carol K. Winkler",
+    "Dror Walter",
+    "Anthony F. Lemieux",
+    "Katherine Kountz Mor Yachin Carol K. Winkler Dror Walter Anthony F. Lemieux",
+    "Georgia State",
     "Atlanta",
     "Georgia",
-    "USAb Transcultural Conflict and Violence Initiative"
+    "USAb Transcultural",
+    "Conflict and",
+    "Violence Initiative"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:41:34.802Z",
+  "fetchedAt": "2026-04-16T07:06:11.095Z",
   "language": "en",
   "raw_title": "Resistance is Far-Right from Futile: Deplatforming, Resilience, and Persistent Presence Across Platforms as Drivers of Accelerationist Politics",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Resistance is Far-Right from Futile: Deplatforming, Resilience, and Persistent Presence Across Platforms as Drivers of Accelerationist Politics",
-  "title_zh": "抵抗并非徒劳：去平台化、韧性与跨平台持续存在作为加速主义政治的驱动因素",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "title_zh": "抵抗并非徒劳：去平台化、韧性及跨平台持续存在作为加速主义政治的驱动因素",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
     "deplatforming",
-    "far-right extremism",
-    "accelerationism",
-    "online resilience",
-    "cross-platform presence",
-    "political communication",
-    "digital media"
+    "resilience",
+    "persistent presence",
+    "accelerationist politics",
+    "far-right",
+    "online platforms",
+    "political communication"
   ],
   "inferred_keywords_zh": [
     "去平台化",
-    "极右翼极端主义",
-    "加速主义",
-    "在线韧性",
-    "跨平台存在",
-    "政治传播",
-    "数字媒体"
+    "韧性",
+    "持续存在",
+    "加速主义政治",
+    "极右翼",
+    "在线平台",
+    "政治传播"
   ],
-  "plain_summary_zh": "这篇研究探讨了极右翼团体如何应对社交媒体平台的封禁措施。研究发现，即使被主流平台移除，这些团体仍能通过转移到其他平台、保持活跃和适应新环境来维持影响力。这种“韧性”和跨平台持续存在反而可能推动他们采取更激进的“加速主义”政治策略，即试图通过加剧社会冲突来加速政治变革。",
-  "plain_summary_en": "This study examines how far-right groups respond to being banned from social media platforms. It finds that even when removed from mainstream platforms, these groups can maintain influence by moving to other platforms, staying active, and adapting to new environments. This 'resilience' and persistent presence across platforms may actually drive them toward more radical 'accelerationist' political strategies, which seek to accelerate political change by intensifying social conflicts.",
-  "research_direction_zh": "探索数字时代极端主义组织的适应策略及其对政治激进化的影响，特别关注平台治理措施（如封禁）如何意外地强化极端主义网络和意识形态传播。",
-  "research_direction_en": "Investigating the adaptation strategies of extremist organizations in the digital age and their impact on political radicalization, with particular focus on how platform governance measures (like deplatforming) may unintentionally strengthen extremist networks and ideological dissemination.",
+  "plain_summary_zh": "这项研究探讨了极右翼团体在被主流平台封禁后，如何通过跨平台持续存在和展现韧性，反而推动了加速主义政治的发展。它分析了去平台化措施可能产生的意外后果。",
+  "plain_summary_en": "This study examines how far-right groups, after being banned from mainstream platforms, can drive accelerationist politics through persistent presence across platforms and resilience. It analyzes the unintended consequences of deplatforming measures.",
+  "research_direction_zh": "该研究属于政治传播领域，关注数字时代极端主义内容的传播机制、平台治理政策的有效性及其对政治激进化的影响。",
+  "research_direction_en": "This research falls within political communication, focusing on the dissemination mechanisms of extremist content in the digital age, the effectiveness of platform governance policies, and their impact on political radicalization.",
   "method_tags_zh": [
-    "案例研究",
-    "内容分析"
+    "内容分析",
+    "案例研究"
   ],
   "method_tags_en": [
-    "case study",
-    "content analysis"
+    "content analysis",
+    "case study"
   ]
 }

@@ -1,29 +1,33 @@
 {
   "id": "digital-journalism-b2b1f0f150cc",
   "doi": "10.1080/21670811.2025.2564159",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2564159?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2564159",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-09-24T03:42:36.000Z",
   "authors": [
-    "Indiana University-Bloomington) is an Assistant Professor in the Department of Communication at Georgia State University",
+    "Jimmy Ochieng",
+    "Kevin C. Mudavadi",
+    "Maria Elizabeth Grabe",
+    "Indiana",
     "Journalism & Mass Communication Quarterly (in press)",
     "Mobile Media & Communication",
     "International Journal of Press/Politics",
-    "International Journal of Communication",
+    "International Journal",
+    "of Communication",
     "African Journalism Studies"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:56:55.991Z",
+  "fetchedAt": "2026-04-16T07:14:19.891Z",
   "language": "en",
   "raw_title": "Populist Hustlers Versus Establishment Dynasties: The Contentious Visual Framing Dual of the 2022 Kenyan Election",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Populist Hustlers Versus Establishment Dynasties: The Contentious Visual Framing Dual of the 2022 Kenyan Election",
-  "title_zh": "民粹主义奋斗者与建制派王朝：2022年肯尼亚选举的争议性视觉框架对决",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "title_zh": "民粹主义草根与建制派王朝的对决：2022年肯尼亚大选中的争议性视觉框架双重叙事",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -32,8 +36,8 @@
     "Kenyan election",
     "populism",
     "media analysis",
-    "digital journalism",
-    "contentious politics"
+    "contentious politics",
+    "digital journalism"
   ],
   "inferred_keywords_zh": [
     "视觉框架",
@@ -41,13 +45,13 @@
     "肯尼亚选举",
     "民粹主义",
     "媒体分析",
-    "数字新闻",
-    "争议政治"
+    "争议政治",
+    "数字新闻"
   ],
-  "plain_summary_zh": "这篇研究分析了2022年肯尼亚选举期间，媒体如何通过视觉图像来塑造两种对立的政治形象：一种是代表普通民众的“民粹主义奋斗者”，另一种是代表传统政治精英的“建制派王朝”。研究探讨了这些视觉框架如何影响公众对选举的认知和争议。",
-  "plain_summary_en": "This study examines how media used visual images during the 2022 Kenyan election to frame two opposing political identities: 'populist hustlers' representing ordinary citizens and 'establishment dynasties' representing traditional political elites. It explores how these visual frames shaped public perception and controversy around the election.",
-  "research_direction_zh": "该研究属于政治传播和视觉传播领域，关注数字时代媒体如何通过视觉内容构建政治叙事和影响民主进程，特别是在非洲国家的选举背景下。",
-  "research_direction_en": "This research falls within political communication and visual communication studies, focusing on how media constructs political narratives through visual content in the digital age and influences democratic processes, particularly in election contexts in African countries.",
+  "plain_summary_zh": "这篇研究分析了2022年肯尼亚大选中，媒体如何通过视觉图像来呈现两种对立的政治叙事：一边是自称'草根'的民粹主义候选人，另一边是代表传统权力的'王朝'家族。研究探讨了这些视觉框架如何影响公众对选举的理解和态度。",
+  "plain_summary_en": "This study examines how media used visual images to present two competing political narratives during Kenya's 2022 election: populist 'hustlers' versus establishment 'dynasties.' It explores how these visual frames shaped public understanding and attitudes toward the election.",
+  "research_direction_zh": "该研究属于政治传播与视觉媒体分析领域，关注数字时代选举报道中的视觉叙事策略及其社会影响。",
+  "research_direction_en": "This research falls within political communication and visual media analysis, focusing on visual narrative strategies in election coverage and their societal impacts in the digital age.",
   "method_tags_zh": [
     "内容分析",
     "案例研究"

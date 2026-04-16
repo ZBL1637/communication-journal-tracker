@@ -1,28 +1,30 @@
 {
   "id": "digital-journalism-2909c412d9de",
   "doi": "10.1080/21670811.2025.2577127",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2577127?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2577127",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-11-02T04:37:54.000Z",
   "authors": [
-    "Amaka Peace Onebunne Klein College of Media and Communication",
-    "Temple University",
+    "Amaka Peace Onebunne",
+    "Amaka Peace",
+    "Onebunne Klein",
+    "Temple",
     "Philadelphia",
     "PA",
     "USA"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:51:26.767Z",
+  "fetchedAt": "2026-04-16T07:11:18.906Z",
   "language": "en",
   "raw_title": "Journalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Journalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms",
   "title_zh": "记者对人工智能的认知：以尼日利亚新闻编辑室为例",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -31,28 +33,28 @@
     "Nigeria",
     "newsrooms",
     "perception",
-    "media technology",
-    "digital transformation"
+    "technology adoption",
+    "media studies"
   ],
   "inferred_keywords_zh": [
     "人工智能",
-    "新闻业",
+    "新闻学",
     "尼日利亚",
     "新闻编辑室",
     "认知",
-    "媒体技术",
-    "数字化转型"
+    "技术采用",
+    "媒体研究"
   ],
-  "plain_summary_zh": "这项研究探讨了尼日利亚新闻编辑室中记者对人工智能的看法。由于摘要内容缺失，具体发现未知，但研究可能涉及记者如何理解和使用AI技术，以及这对新闻工作产生的影响。",
-  "plain_summary_en": "This study explores how journalists in Nigerian newsrooms perceive artificial intelligence. Since the abstract is missing, specific findings are unknown, but it likely examines how journalists understand and use AI technology and its impact on journalism.",
-  "research_direction_zh": "该研究属于媒体技术与新闻实践交叉领域，关注人工智能在新闻业中的应用及其对记者职业认知的影响，特别是在发展中国家如尼日利亚的背景下。",
-  "research_direction_en": "This research falls within the intersection of media technology and journalistic practice, focusing on the application of artificial intelligence in journalism and its impact on journalists' professional perceptions, particularly in developing contexts like Nigeria.",
+  "plain_summary_zh": "这项研究探讨了尼日利亚新闻编辑室中记者对人工智能的看法。它可能调查记者如何理解人工智能技术，以及他们是否愿意在工作中采用这些技术。",
+  "plain_summary_en": "This study explores how journalists in Nigerian newsrooms perceive artificial intelligence. It likely investigates their understanding of AI technologies and their willingness to adopt them in their work.",
+  "research_direction_zh": "研究关注人工智能在新闻业中的社会接受度和应用障碍，特别是在发展中国家如尼日利亚的背景下。",
+  "research_direction_en": "The research focuses on the social acceptance and barriers to AI adoption in journalism, particularly in developing contexts like Nigeria.",
   "method_tags_zh": [
-    "案例研究",
-    "访谈"
+    "调查",
+    "案例研究"
   ],
   "method_tags_en": [
-    "case study",
-    "interview"
+    "survey",
+    "case study"
   ]
 }

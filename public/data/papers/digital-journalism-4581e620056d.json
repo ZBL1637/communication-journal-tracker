@@ -1,28 +1,30 @@
 {
   "id": "digital-journalism-4581e620056d",
   "doi": "10.1080/21670811.2025.2495693",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2495693?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2495693",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-04-25T03:20:42.000Z",
   "authors": [
-    "Angela Misri Nicole Blanchett April Lindgren School of Journalism",
-    "The Creative School",
-    "Toronto Metropolitan University",
+    "Angela Misri",
+    "Nicole Blanchett",
+    "April Lindgren",
+    "The Creative",
+    "Toronto Metropolitan",
     "Toronto",
     "Canada"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:47:07.078Z",
+  "fetchedAt": "2026-04-16T07:09:06.966Z",
   "language": "en",
   "raw_title": "“There’s a Rule Book in my Head”: Journalism Ethics Meet A.I. in the Newsroom",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "“There’s a Rule Book in my Head”: Journalism Ethics Meet A.I. in the Newsroom",
   "title_zh": "“我脑海中有本规则手册”：新闻伦理与人工智能在新闻编辑室的相遇",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -30,19 +32,23 @@
     "artificial intelligence",
     "newsroom practices",
     "professional norms",
-    "digital journalism"
+    "digital journalism",
+    "media ethics",
+    "AI integration"
   ],
   "inferred_keywords_zh": [
     "新闻伦理",
     "人工智能",
     "新闻编辑室实践",
     "职业规范",
-    "数字新闻"
+    "数字新闻",
+    "媒体伦理",
+    "AI整合"
   ],
-  "plain_summary_zh": "这篇文章探讨了新闻工作者如何将传统的新闻伦理规则应用于人工智能在新闻编辑室中的使用。研究发现，记者们通常依靠内心的道德准则来应对AI带来的新挑战，比如自动化新闻生成和算法推荐系统。",
-  "plain_summary_en": "This article examines how journalists apply traditional ethical rules to the use of artificial intelligence in newsrooms. The research finds that reporters typically rely on internal moral guidelines to address new challenges posed by AI, such as automated news generation and algorithmic recommendation systems.",
-  "research_direction_zh": "研究数字时代新闻伦理与人工智能技术的交叉点，探索新闻工作者如何在技术变革中维护职业标准和公众信任。",
-  "research_direction_en": "Investigating the intersection of journalism ethics and artificial intelligence technology in the digital age, exploring how journalists maintain professional standards and public trust amidst technological changes.",
+  "plain_summary_zh": "这篇文章探讨了新闻工作者如何将传统的新闻伦理规则应用于人工智能技术日益普及的新闻编辑室环境。研究关注记者们如何在面对AI工具时，运用他们内心的“规则手册”来做出伦理决策。",
+  "plain_summary_en": "This article examines how journalists apply traditional ethical rules to newsroom environments where artificial intelligence technology is becoming increasingly common. The research focuses on how reporters use their internal 'rule books' to make ethical decisions when dealing with AI tools.",
+  "research_direction_zh": "探索数字新闻时代新闻伦理规范与人工智能技术融合的实践路径，研究新闻工作者如何在技术变革中维护职业伦理标准。",
+  "research_direction_en": "Exploring practical pathways for integrating journalism ethics with artificial intelligence technology in the digital news era, examining how journalists maintain professional ethical standards amidst technological change.",
   "method_tags_zh": [
     "访谈",
     "案例研究"

@@ -1,27 +1,29 @@
 {
   "id": "digital-journalism-8a63e84868a5",
   "doi": "10.1080/21670811.2025.2569778",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2569778?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2569778",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-10-07T07:08:20.000Z",
   "authors": [
-    "Anna Grøndahl Larsen SINTEF Digital",
+    "Anna Grøndahl Larsen",
+    "Anna Grøndahl",
+    "Larsen SINTEF Digital",
     "SINTEF",
     "Oslo",
     "Norway"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:57:15.695Z",
+  "fetchedAt": "2026-04-16T07:14:25.133Z",
   "language": "en",
   "raw_title": "Connecting to Local Publics Through Media: An in-Depth Study of Local Media Use and Public Connection",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Connecting to Local Publics Through Media: An in-Depth Study of Local Media Use and Public Connection",
   "title_zh": "通过媒体连接本地公众：本地媒体使用与公共连接的深入研究",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -29,19 +31,21 @@
     "public connection",
     "media use",
     "community engagement",
-    "digital journalism"
+    "digital journalism",
+    "media studies"
   ],
   "inferred_keywords_zh": [
     "本地媒体",
     "公共连接",
     "媒体使用",
     "社区参与",
-    "数字新闻"
+    "数字新闻学",
+    "媒体研究"
   ],
-  "plain_summary_zh": "这项研究探讨了人们如何使用本地媒体来与社区建立联系。它深入调查了媒体使用习惯如何影响公众参与和社区归属感。",
-  "plain_summary_en": "This research explores how people use local media to connect with their communities. It investigates how media consumption habits affect public engagement and sense of belonging.",
-  "research_direction_zh": "研究数字时代本地媒体的社会功能及其对社区凝聚力的影响。",
-  "research_direction_en": "Investigating the social functions of local media in the digital age and their impact on community cohesion.",
+  "plain_summary_zh": "这项研究探讨了人们如何使用本地媒体来与社区建立联系。它深入调查了本地媒体的使用习惯，以及这些习惯如何帮助人们感觉自己是社区的一部分。",
+  "plain_summary_en": "This study explores how people use local media to connect with their communities. It investigates local media usage habits and how these habits help people feel part of their community.",
+  "research_direction_zh": "该研究属于数字新闻学和媒体研究领域，关注本地媒体在促进社区参与和公共连接中的作用。",
+  "research_direction_en": "This research falls within digital journalism and media studies, focusing on the role of local media in fostering community engagement and public connection.",
   "method_tags_zh": [
     "调查",
     "访谈",

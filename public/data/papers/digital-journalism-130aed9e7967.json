@@ -1,54 +1,60 @@
 {
   "id": "digital-journalism-130aed9e7967",
   "doi": "10.1080/21670811.2025.2574935",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2574935?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2574935",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-10-17T05:21:50.000Z",
   "authors": [
-    "Jessica R. Collier Brian Lamb School of Communication",
-    "Purdue University",
+    "Jessica R. Collier",
+    "Jessica R.",
+    "Collier Brian Lamb",
+    "Purdue",
     "West Lafayette",
     "IN",
     "USA"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:57:43.542Z",
+  "fetchedAt": "2026-04-16T07:14:40.471Z",
   "language": "en",
   "raw_title": "A Community Resilience Approach to Understanding News Deserts and Their Residents",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "A Community Resilience Approach to Understanding News Deserts and Their Residents",
   "title_zh": "理解新闻荒漠及其居民的社区韧性方法",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
     "news deserts",
     "community resilience",
     "local journalism",
-    "media geography",
-    "communication studies"
+    "media access",
+    "rural communities",
+    "digital divide"
   ],
   "inferred_keywords_zh": [
     "新闻荒漠",
     "社区韧性",
     "地方新闻",
-    "媒体地理学",
-    "传播研究"
+    "媒体获取",
+    "农村社区",
+    "数字鸿沟"
   ],
-  "plain_summary_zh": "这项研究探讨了新闻荒漠现象，即缺乏本地新闻覆盖的地区。它采用社区韧性的视角来理解这些地区的居民如何应对信息获取的挑战，以及这对社区生活的影响。",
-  "plain_summary_en": "This study examines news deserts, areas with little to no local news coverage. It uses a community resilience approach to understand how residents in these areas cope with information access challenges and the impact on community life.",
-  "research_direction_zh": "探索新闻荒漠对社区韧性的影响，以及如何通过传播研究改善信息获取和社区参与。",
-  "research_direction_en": "Investigating the impact of news deserts on community resilience and how communication studies can improve information access and community engagement.",
+  "plain_summary_zh": "这项研究探讨了新闻荒漠现象——即缺乏本地新闻覆盖的地区。它采用社区韧性的视角，研究这些地区的居民如何应对信息获取的挑战，以及这对社区生活的影响。",
+  "plain_summary_en": "This study examines news deserts—areas with limited local news coverage. It uses a community resilience approach to understand how residents in these areas cope with information access challenges and the impact on community life.",
+  "research_direction_zh": "探索媒体地理学与社区发展交叉领域，关注信息不平等对地方社会韧性的影响。",
+  "research_direction_en": "Investigating the intersection of media geography and community development, focusing on how information inequality affects local social resilience.",
   "method_tags_zh": [
     "案例研究",
-    "访谈"
+    "访谈",
+    "调查"
   ],
   "method_tags_en": [
     "case study",
-    "interview"
+    "interview",
+    "survey"
   ]
 }

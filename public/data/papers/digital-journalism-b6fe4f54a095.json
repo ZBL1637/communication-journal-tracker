@@ -1,28 +1,27 @@
 {
   "id": "digital-journalism-b6fe4f54a095",
   "doi": "10.1080/21670811.2026.2636907",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2026.2636907?af=R",
+  "url": "https://doi.org/10.1080/21670811.2026.2636907",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2026-02-26T04:00:36.000Z",
   "authors": [
-    "Patrick Ferrucci Department of Journalism",
-    "University of Colorado-Boulder",
+    "Patrick Ferrucci",
     "Boulder",
     "CO",
     "USA"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:53:32.132Z",
+  "fetchedAt": "2026-04-16T07:12:28.889Z",
   "language": "en",
   "raw_title": "When Software Becomes the Newsroom: Journalists and the Loss of Organizational Connections",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "When Software Becomes the Newsroom: Journalists and the Loss of Organizational Connections",
   "title_zh": "当软件成为新闻编辑室：记者与组织联系的丧失",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -39,16 +38,16 @@
     "组织变革",
     "技术影响"
   ],
-  "plain_summary_zh": "这篇文章探讨了当新闻编辑室越来越多地依赖软件和自动化技术时，记者们如何逐渐失去与组织的传统联系。它研究了技术变革对新闻工作实践和组织结构的影响。",
-  "plain_summary_en": "This article examines how journalists are losing traditional organizational connections as newsrooms increasingly rely on software and automation technologies. It explores the impact of technological changes on journalistic practices and organizational structures.",
-  "research_direction_zh": "研究数字时代新闻编辑室的技术转型及其对记者职业身份、工作实践和组织关系的影响。",
-  "research_direction_en": "Investigating the technological transformation of newsrooms in the digital age and its impact on journalists' professional identity, work practices, and organizational relationships.",
+  "plain_summary_zh": "这篇研究探讨了当新闻编辑室越来越多地依赖软件和自动化技术时，记者如何失去与组织的传统联系。它关注技术变革对新闻工作实践和组织结构的影响。",
+  "plain_summary_en": "This research examines how journalists lose traditional organizational connections as newsrooms increasingly rely on software and automation. It focuses on the impact of technological changes on journalistic practices and organizational structures.",
+  "research_direction_zh": "数字新闻领域的技术变革对新闻职业和组织结构的影响研究",
+  "research_direction_en": "Research on the impact of technological changes in digital journalism on journalistic profession and organizational structures",
   "method_tags_zh": [
-    "案例分析",
-    "访谈"
+    "访谈",
+    "案例研究"
   ],
   "method_tags_en": [
-    "case study",
-    "interview"
+    "interview",
+    "case study"
   ]
 }

@@ -1,29 +1,27 @@
 {
   "id": "political-communication-959e12f0647e",
   "doi": "10.1080/10584609.2025.2512342",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2512342?af=R",
+  "url": "https://doi.org/10.1080/10584609.2025.2512342",
   "journalName": "POLITICAL COMMUNICATION",
   "journalSlug": "political-communication",
   "issn": "1058-4609",
   "publishedAt": "2025-05-29T10:36:00.000Z",
   "authors": [
-    "Pranav Malhotra Department of Communication and Media",
-    "University of Michigan",
+    "Pranav Malhotra",
     "Ann Arbor",
     "MI",
-    "USAPranav Malhotra (Ph.D.",
-    "University of Washington"
+    "USAPranav Malhotra (Ph.D."
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:39:48.370Z",
+  "fetchedAt": "2026-04-16T07:05:17.415Z",
   "language": "en",
   "raw_title": "Toward Conceptualizing Bounded Social Media Places",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Toward Conceptualizing Bounded Social Media Places",
-  "title_zh": "迈向界定社交媒体有界空间的概念化",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "title_zh": "走向界定社交媒体有界空间的概念化",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -40,14 +38,16 @@
     "数字场所",
     "传播理论"
   ],
-  "plain_summary_zh": "这篇论文探讨如何定义和理解社交媒体上的有界空间，即那些具有特定边界和规则的在线区域。它旨在为研究这些数字场所提供一个清晰的理论框架。",
-  "plain_summary_en": "This paper explores how to define and understand bounded spaces on social media, which are online areas with specific boundaries and rules. It aims to provide a clear theoretical framework for studying these digital places.",
-  "research_direction_zh": "研究社交媒体中空间和场所的理论构建，关注数字环境中的边界、互动和社区形成。",
-  "research_direction_en": "Theoretical construction of space and place in social media, focusing on boundaries, interactions, and community formation in digital environments.",
+  "plain_summary_zh": "这篇文章探讨如何定义和理解社交媒体上的特定区域或空间，这些空间有明确的边界，比如群组、论坛或社区。它试图为这些数字场所建立一个清晰的概念框架，帮助人们更好地研究它们如何影响交流和互动。",
+  "plain_summary_en": "This article explores how to define and understand specific areas or spaces on social media that have clear boundaries, such as groups, forums, or communities. It aims to develop a clear conceptual framework for these digital places to help researchers better study how they influence communication and interaction.",
+  "research_direction_zh": "研究社交媒体中结构化空间的理论构建，关注数字环境中的边界形成、用户行为和社会动态，以深化对在线社区和平台设计的理解。",
+  "research_direction_en": "Theoretical development of structured spaces in social media, focusing on boundary formation, user behavior, and social dynamics in digital environments to enhance understanding of online communities and platform design.",
   "method_tags_zh": [
-    "理论分析"
+    "概念分析",
+    "文献综述"
   ],
   "method_tags_en": [
-    "theoretical analysis"
+    "conceptual analysis",
+    "literature review"
   ]
 }

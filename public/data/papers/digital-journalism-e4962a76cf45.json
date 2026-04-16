@@ -1,27 +1,26 @@
 {
   "id": "digital-journalism-e4962a76cf45",
   "doi": "10.1080/21670811.2026.2623275",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2026.2623275?af=R",
+  "url": "https://doi.org/10.1080/21670811.2026.2623275",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2026-02-01T05:23:19.000Z",
   "authors": [
-    "Rasmus Kleis Nielsen Department of Communication",
-    "University of Copenhagen",
+    "Rasmus Kleis Nielsen",
     "Copenhagen",
     "Denmark"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:59:59.673Z",
+  "fetchedAt": "2026-04-16T07:15:52.256Z",
   "language": "en",
   "raw_title": "Do News Media Want to Disentangle from Platforms?",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Do News Media Want to Disentangle from Platforms?",
-  "title_zh": "新闻媒体想要与平台脱钩吗？",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "title_zh": "新闻媒体是否希望与平台脱钩？",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -38,16 +37,16 @@
     "数字新闻",
     "媒体独立性"
   ],
-  "plain_summary_zh": "这篇文章探讨了新闻媒体是否希望减少对大型数字平台的依赖，比如社交媒体和搜索引擎。它研究了媒体机构在数字时代面临的挑战，以及它们是否寻求更独立的发展路径。",
-  "plain_summary_en": "This article explores whether news media want to reduce their reliance on large digital platforms, such as social media and search engines. It examines the challenges media organizations face in the digital age and whether they are seeking more independent paths.",
+  "plain_summary_zh": "这篇文章探讨了新闻媒体是否想要减少对大型数字平台的依赖，比如社交媒体和搜索引擎。它研究了媒体机构在数字时代面临的挑战，以及它们是否寻求更独立的发展路径。",
+  "plain_summary_en": "This article explores whether news media want to reduce their reliance on large digital platforms, such as social media and search engines. It examines the challenges media organizations face in the digital age and whether they seek more independent paths.",
   "research_direction_zh": "研究数字新闻生态中媒体与平台的关系，关注媒体自主性和平台依赖的平衡问题。",
   "research_direction_en": "Investigating the relationship between media and platforms in digital journalism ecosystems, focusing on media autonomy and platform dependency.",
   "method_tags_zh": [
-    "案例研究",
-    "访谈"
+    "调查",
+    "案例分析"
   ],
   "method_tags_en": [
-    "case study",
-    "interview"
+    "survey",
+    "case study"
   ]
 }

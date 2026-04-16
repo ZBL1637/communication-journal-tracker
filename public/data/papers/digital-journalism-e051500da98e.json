@@ -1,27 +1,31 @@
 {
   "id": "digital-journalism-e051500da98e",
   "doi": "10.1080/21670811.2025.2528052",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2528052?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2528052",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-07-04T07:06:49.000Z",
   "authors": [
-    "Sisanda Nkoala Trust Matsilele Musawenkosi Ndlovu Tanja Bosch a University of the Western Cape",
-    "South Africab Birmingham City University",
-    "UKc University of Cape Town",
+    "Sisanda Nkoala",
+    "Trust Matsilele",
+    "Musawenkosi Ndlovu",
+    "Tanja Bosch",
+    "South Africab",
+    "Birmingham City",
+    "UKc",
     "South Africa"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:45:10.355Z",
+  "fetchedAt": "2026-04-16T07:08:10.331Z",
   "language": "en",
   "raw_title": "AI Hype Through an African Lens: A Critical Analysis of Language as Symbolic Action in Online News Publications",
-  "raw_abstract": "Volume 14, Issue 2, March 2026 .",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "AI Hype Through an African Lens: A Critical Analysis of Language as Symbolic Action in Online News Publications",
   "title_zh": "从非洲视角看人工智能炒作：在线新闻出版物中语言作为象征性行动的批判性分析",
-  "abstract_en": "Volume 14, Issue 2, March 2026.",
-  "abstract_zh": "第14卷第2期，2026年3月。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -31,7 +35,8 @@
     "African media",
     "symbolic action",
     "online journalism",
-    "technology reporting"
+    "technology hype",
+    "language analysis"
   ],
   "inferred_keywords_zh": [
     "人工智能",
@@ -40,18 +45,21 @@
     "非洲媒体",
     "象征性行动",
     "在线新闻",
-    "技术报道"
+    "技术炒作",
+    "语言分析"
   ],
-  "plain_summary_zh": "这篇研究从非洲的视角，批判性地分析了在线新闻中如何报道人工智能技术。研究者关注新闻语言如何塑造人们对AI的看法，特别是这些报道可能存在的夸张或偏见。",
-  "plain_summary_en": "This research critically examines how artificial intelligence is reported in online news from an African perspective. It focuses on how news language shapes perceptions of AI, particularly looking at potential hype or bias in these reports.",
-  "research_direction_zh": "该研究属于媒体与传播研究领域，关注技术报道中的话语分析，特别是非西方视角下的媒体批判研究。",
-  "research_direction_en": "This research falls within media and communication studies, focusing on discourse analysis in technology reporting, particularly critical media studies from non-Western perspectives.",
+  "plain_summary_zh": "这篇研究从非洲的视角，批判性地分析了在线新闻中关于人工智能的报道语言。它探讨了媒体如何通过特定的语言使用来塑造公众对人工智能的看法，以及这种语言如何作为一种象征性行动影响社会认知。",
+  "plain_summary_en": "This research critically analyzes the language used in online news about artificial intelligence from an African perspective. It examines how media shapes public perceptions of AI through specific language use and how this language acts as symbolic action influencing social understanding.",
+  "research_direction_zh": "该研究属于媒体与传播研究领域，关注技术报道中的话语分析，特别是从全球南方视角审视西方主导的技术叙事。",
+  "research_direction_en": "This research falls within media and communication studies, focusing on discourse analysis in technology reporting, particularly examining Western-dominated technology narratives from a Global South perspective.",
   "method_tags_zh": [
     "内容分析",
-    "话语分析"
+    "话语分析",
+    "案例研究"
   ],
   "method_tags_en": [
     "content analysis",
-    "discourse analysis"
+    "discourse analysis",
+    "case study"
   ]
 }

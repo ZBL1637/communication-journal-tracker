@@ -1,30 +1,32 @@
 {
   "id": "digital-journalism-591a5fd84da7",
   "doi": "10.1080/21670811.2025.2570497",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2570497?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2570497",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-10-10T07:37:48.000Z",
   "authors": [
-    "Ragnhild Kristine Olsen Helle Sjøvaag a Department of Journalism and Media Studies",
-    "Oslo Metropolitan University",
+    "Ragnhild Kristine Olsen",
+    "Helle Sjøvaag",
+    "Ragnhild Kristine",
+    "Olsen Helle Sjøvaag",
+    "Oslo Metropolitan",
     "Oslo",
-    "Norwayb Department of Media and Social Sciences",
-    "University of Stavanger",
+    "Norwayb",
     "Stavanger",
     "Norway"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:57:25.504Z",
+  "fetchedAt": "2026-04-16T07:14:34.790Z",
   "language": "en",
   "raw_title": "Platform Retraction? Discourses of Entanglement and Disentanglement in News Media’s Platform Engagement",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Platform Retraction? Discourses of Entanglement and Disentanglement in News Media’s Platform Engagement",
   "title_zh": "平台撤退？新闻媒体平台参与中的纠缠与解缠话语",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -33,7 +35,8 @@
     "digital journalism",
     "entanglement",
     "disentanglement",
-    "discourse analysis"
+    "platform retraction",
+    "media discourse"
   ],
   "inferred_keywords_zh": [
     "平台参与",
@@ -41,12 +44,13 @@
     "数字新闻",
     "纠缠",
     "解缠",
-    "话语分析"
+    "平台撤退",
+    "媒体话语"
   ],
-  "plain_summary_zh": "这篇研究探讨新闻媒体如何与数字平台互动，分析它们之间复杂的关系。文章关注媒体是选择更紧密地结合平台还是试图保持距离，并研究这些决策背后的讨论和观点。",
-  "plain_summary_en": "This research examines how news media interact with digital platforms, analyzing the complex relationships between them. It focuses on whether media choose to become more integrated with platforms or try to maintain distance, and explores the discussions and perspectives behind these decisions.",
-  "research_direction_zh": "研究数字时代新闻媒体与平台的关系动态，关注媒体策略、自主性和行业转型。",
-  "research_direction_en": "Investigating the dynamics between news media and platforms in the digital age, focusing on media strategies, autonomy, and industry transformation.",
+  "plain_summary_zh": "这篇研究探讨新闻媒体如何与数字平台互动，分析它们之间复杂的关系。研究关注媒体是否在减少对平台的依赖，以及这种变化背后的原因和影响。",
+  "plain_summary_en": "This study examines how news media interact with digital platforms, analyzing the complex relationships between them. It focuses on whether media are reducing their reliance on platforms and the reasons and impacts behind this change.",
+  "research_direction_zh": "研究数字新闻领域中媒体与平台关系的动态变化，包括合作、依赖和独立策略的演变。",
+  "research_direction_en": "Investigating the dynamic changes in the relationship between media and platforms in digital journalism, including the evolution of cooperation, dependency, and independence strategies.",
   "method_tags_zh": [
     "话语分析",
     "案例研究"

@@ -1,56 +1,59 @@
 {
   "id": "political-communication-ffca01dbb207",
   "doi": "10.1080/10584609.2025.2595596",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2595596?af=R",
+  "url": "https://doi.org/10.1080/10584609.2025.2595596",
   "journalName": "POLITICAL COMMUNICATION",
   "journalSlug": "political-communication",
   "issn": "1058-4609",
   "publishedAt": "2025-12-01T08:27:50.000Z",
   "authors": [
-    "Hossein Kermani Taberez Ahmed Neyazi Sophie Lecheler a Department of Communication",
-    "University of Vienna",
+    "Hossein Kermani",
+    "Taberez Ahmed Neyazi",
+    "Sophie Lecheler",
+    "Taberez Ahmed",
+    "Neyazi Sophie Lecheler",
     "Vienna",
-    "Austriab Communications and New Media",
-    "National University of Singapore",
-    "SingaporeHossein Kermani (PhD",
-    "University of Tehran) is a senior researcher at the Political Communication Research Group of the University of Vienna"
+    "Austriab Communications",
+    "and New Media",
+    "National",
+    "SingaporeHossein Kermani (PhD"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:39:31.805Z",
+  "fetchedAt": "2026-04-16T07:05:08.524Z",
   "language": "en",
   "raw_title": "The Limits of Computational Propaganda: Investigating Underexplored Platforms and Contexts",
-  "raw_abstract": "Volume 43, Issue 1, null 2026, Page 89-98 .",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "The Limits of Computational Propaganda: Investigating Underexplored Platforms and Contexts",
   "title_zh": "计算宣传的局限性：探索未充分研究的平台与情境",
-  "abstract_en": "Volume 43, Issue 1, null 2026, Page 89-98 .",
-  "abstract_zh": "第43卷，第1期，2026年，第89-98页。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
     "computational propaganda",
     "digital platforms",
-    "political communication",
-    "research gaps",
-    "contextual analysis"
+    "propaganda limits",
+    "media studies",
+    "political communication"
   ],
   "inferred_keywords_zh": [
     "计算宣传",
     "数字平台",
-    "政治传播",
-    "研究空白",
-    "情境分析"
+    "宣传局限性",
+    "媒体研究",
+    "政治传播"
   ],
-  "plain_summary_zh": "这篇研究论文探讨了计算宣传（即利用算法和自动化工具进行政治宣传）的局限性。文章指出，现有研究主要集中在少数主流平台上，而忽略了其他数字平台和不同社会文化背景下的情况。作者呼吁研究者关注这些未充分探索的领域，以更全面地理解计算宣传的影响和边界。",
-  "plain_summary_en": "This research paper examines the limitations of computational propaganda, which refers to the use of algorithms and automated tools for political persuasion. The authors argue that current studies focus too much on a few major platforms while overlooking other digital spaces and diverse socio-cultural contexts. They encourage researchers to investigate these underexplored areas to better understand the scope and impact of computational propaganda.",
-  "research_direction_zh": "该研究属于政治传播与数字媒体交叉领域，关注新兴技术如何影响政治宣传和公众舆论。研究方向包括扩展计算宣传的研究范围，探索非主流平台和多元文化背景下的传播现象，以及评估技术工具在政治沟通中的实际效果与局限。",
-  "research_direction_en": "This research falls within the intersection of political communication and digital media, focusing on how emerging technologies shape political persuasion and public opinion. The research direction involves expanding the scope of computational propaganda studies to include less mainstream platforms and diverse cultural contexts, as well as assessing the practical effectiveness and limitations of technological tools in political communication.",
+  "plain_summary_zh": "这篇研究探讨了计算宣传（即利用算法和自动化工具进行政治宣传）的局限性，重点关注那些较少被研究的网络平台和不同社会文化背景。",
+  "plain_summary_en": "This research examines the limitations of computational propaganda (using algorithms and automated tools for political messaging), focusing on understudied digital platforms and diverse sociocultural contexts.",
+  "research_direction_zh": "探索数字时代政治宣传的新形式及其在不同平台和情境下的效果与限制。",
+  "research_direction_en": "Investigating new forms of political propaganda in the digital age and their effectiveness/limitations across various platforms and contexts.",
   "method_tags_zh": [
-    "文献综述",
-    "案例分析"
+    "案例研究",
+    "内容分析"
   ],
   "method_tags_en": [
-    "literature review",
-    "case study"
+    "case study",
+    "content analysis"
   ]
 }

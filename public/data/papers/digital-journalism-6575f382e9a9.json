@@ -1,59 +1,58 @@
 {
   "id": "digital-journalism-6575f382e9a9",
   "doi": "10.1080/21670811.2024.2394789",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2024.2394789?af=R",
+  "url": "https://doi.org/10.1080/21670811.2024.2394789",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2024-11-21T06:24:48.000Z",
   "authors": [
-    "Archie Thomas David Nolan a School of Communication",
-    "Faculty of Arts and Social Sciences",
-    "University of Technology",
+    "Archie Thomas",
+    "David Nolan",
+    "Arts and",
+    "Social Sciences",
     "Sydney",
-    "Australiab News and Media Research Centre",
-    "University of Canberra",
+    "Australiab News",
+    "and Media",
     "Canberra",
     "Australia"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:55:05.586Z",
+  "fetchedAt": "2026-04-16T07:13:25.920Z",
   "language": "en",
   "raw_title": "“It’s Trauma on a Deadline”: Change, Continuity and Harm After the “Racial Reckoning”",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "“It’s Trauma on a Deadline”: Change, Continuity and Harm After the “Racial Reckoning”",
-  "title_zh": "“截止日期前的创伤”：“种族清算”后的变化、延续与伤害",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "title_zh": "“It’s Trauma on a Deadline”: Change, Continuity and Harm After the “Racial Reckoning”",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
-    "racial reckoning",
-    "journalism trauma",
-    "media change",
-    "racial harm",
-    "newsroom culture",
-    "deadline pressure"
+    "Trauma",
+    "Deadline",
+    "Change",
+    "Continuity",
+    "And",
+    "Harm"
   ],
   "inferred_keywords_zh": [
-    "种族清算",
-    "新闻业创伤",
-    "媒体变革",
-    "种族伤害",
-    "新闻编辑室文化",
-    "截止日期压力"
+    "Trauma",
+    "Deadline",
+    "Change",
+    "Continuity",
+    "And",
+    "Harm"
   ],
-  "plain_summary_zh": "这篇研究探讨了在“种族清算”运动之后，新闻行业如何应对种族相关报道带来的创伤和压力。文章关注新闻工作者在报道种族议题时面临的情感负担、工作环境变化以及持续存在的伤害问题。",
-  "plain_summary_en": "This research examines how journalism has responded to trauma and pressure related to racial reporting after the \"racial reckoning\" movement. It focuses on the emotional burdens journalists face when covering racial issues, changes in work environments, and ongoing harm.",
-  "research_direction_zh": "探索新闻行业在应对社会正义运动时的组织变革、职业健康以及种族议题报道的伦理实践。",
-  "research_direction_en": "Exploring organizational change, occupational health, and ethical practices in racial issue reporting within journalism during social justice movements.",
+  "plain_summary_en": "This paper studies “It’s Trauma on a Deadline”: Change, Continuity and Harm After the “Racial Reckoning”. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Trauma, Deadline, Change, Continuity. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies “It’s Trauma on a Deadline”: Change, Continuity and Harm After the “Racial Reckoning”. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Trauma, Deadline, Change, Continuity. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Trauma, Deadline, Change, Continuity, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Trauma, Deadline, Change, Continuity, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "访谈",
-    "案例研究"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "interview",
-    "case study"
+    "mixed methods"
   ]
 }

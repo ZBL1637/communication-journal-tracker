@@ -1,31 +1,32 @@
 {
   "id": "digital-journalism-266943508fc0",
   "doi": "10.1080/21670811.2025.2492209",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2492209?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2492209",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-04-29T06:12:22.000Z",
   "authors": [
-    "Eun-Ju Lee Myojung Chung a Department of Communication",
-    "Seoul National University",
+    "Eun-Ju Lee",
+    "Myojung Chung",
+    "Seoul National",
     "Seoul",
-    "Republic of Koreab School of Journalism",
-    "Northeastern University",
+    "Republic of Koreab",
+    "Northeastern",
     "Boston",
     "MA",
     "USA"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:47:17.619Z",
+  "fetchedAt": "2026-04-16T07:09:16.533Z",
   "language": "en",
   "raw_title": "Thinking Hard, Thinking Smart: How News Users’ Cognitive Traits Guide Their Responses to Fact-Checks",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Thinking Hard, Thinking Smart: How News Users’ Cognitive Traits Guide Their Responses to Fact-Checks",
-  "title_zh": "深入思考与巧妙思考：新闻用户的认知特征如何引导他们对事实核查的回应",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "title_zh": "深入思考与聪明思考：新闻用户的认知特征如何引导他们对事实核查的回应",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -39,19 +40,19 @@
     "事实核查",
     "认知特征",
     "新闻消费",
-    "媒介素养",
+    "媒体素养",
     "用户回应"
   ],
   "plain_summary_zh": "这项研究探讨了新闻用户的认知特征如何影响他们对事实核查内容的反应。研究发现，不同认知方式的用户在接受和回应事实核查信息时表现出不同的模式，这有助于理解为什么有些人更容易接受纠正信息，而另一些人则可能抗拒。",
-  "plain_summary_en": "This study examines how news users' cognitive traits influence their responses to fact-checking content. It finds that users with different cognitive styles show varying patterns in accepting and responding to fact-checking information, helping explain why some people are more receptive to corrections while others may resist them.",
-  "research_direction_zh": "该研究属于数字新闻学领域，关注用户认知心理学与事实核查效果的交叉研究，旨在通过理解个体差异来优化事实核查的传播策略。",
-  "research_direction_en": "This research falls within digital journalism, focusing on the intersection of user cognitive psychology and fact-checking effectiveness, aiming to optimize fact-checking communication strategies by understanding individual differences.",
+  "plain_summary_en": "This study examines how news users' cognitive traits influence their responses to fact-checking content. The research finds that users with different cognitive styles show varying patterns in accepting and responding to fact-checking information, helping explain why some people are more receptive to corrective information while others may resist it.",
+  "research_direction_zh": "该研究属于数字新闻学领域，关注用户认知心理学与事实核查效果的交叉研究，旨在提升事实核查在纠正错误信息中的有效性。",
+  "research_direction_en": "This research falls within digital journalism, focusing on the intersection of user cognitive psychology and fact-checking effectiveness, aiming to enhance the impact of fact-checking in correcting misinformation.",
   "method_tags_zh": [
-    "调查",
-    "实验"
+    "实验",
+    "调查"
   ],
   "method_tags_en": [
-    "survey",
-    "experiment"
+    "experiment",
+    "survey"
   ]
 }

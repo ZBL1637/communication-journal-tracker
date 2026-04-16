@@ -1,27 +1,27 @@
 {
   "id": "digital-journalism-fbf0457e5eaf",
   "doi": "10.1080/21670811.2025.2568911",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2568911?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2568911",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-10-22T04:48:25.000Z",
   "authors": [
-    "Lambrini Papadopoulou Department of Communication and Media Studies",
-    "National and Kapodistrian University",
+    "Lambrini Papadopoulou",
+    "National and Kapodistrian",
     "Athens",
     "Greece"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:51:16.670Z",
+  "fetchedAt": "2026-04-16T07:11:18.766Z",
   "language": "en",
   "raw_title": "Digital Authoritarianism in the Birthplace of Democracy? Greece’s Digital Surveillance Scandal and the Lived Experiences of Targeted Journalists",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Digital Authoritarianism in the Birthplace of Democracy? Greece’s Digital Surveillance Scandal and the Lived Experiences of Targeted Journalists",
-  "title_zh": "数字威权主义在民主发源地？希腊数字监控丑闻与被针对记者的生活经历",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "title_zh": "民主发源地的数字威权主义？希腊数字监控丑闻与被针对记者的生活经历",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -30,7 +30,8 @@
     "journalism",
     "Greece",
     "press freedom",
-    "digital rights"
+    "digital rights",
+    "media studies"
   ],
   "inferred_keywords_zh": [
     "数字威权主义",
@@ -38,12 +39,13 @@
     "新闻业",
     "希腊",
     "新闻自由",
-    "数字权利"
+    "数字权利",
+    "媒体研究"
   ],
-  "plain_summary_zh": "这篇研究探讨了希腊的数字监控丑闻如何影响被针对的记者，揭示了在民主国家中数字威权主义的兴起及其对新闻自由的威胁。",
-  "plain_summary_en": "This study examines how Greece's digital surveillance scandal affects targeted journalists, revealing the rise of digital authoritarianism in a democracy and its threat to press freedom.",
-  "research_direction_zh": "研究关注数字监控技术在民主社会中的应用及其对新闻业和公民自由的影响，探索威权主义在数字时代的演变。",
-  "research_direction_en": "The research focuses on the application of digital surveillance technologies in democratic societies and their impact on journalism and civil liberties, exploring the evolution of authoritarianism in the digital age.",
+  "plain_summary_zh": "这项研究探讨了希腊的数字监控丑闻如何影响被针对的记者。它调查了在民主国家中，数字监控如何威胁新闻自由和记者的工作与生活。",
+  "plain_summary_en": "This study examines how Greece's digital surveillance scandal affects targeted journalists. It investigates how digital surveillance in a democracy threatens press freedom and journalists' work and lives.",
+  "research_direction_zh": "研究数字监控对民主国家新闻业的影响，关注记者在数字威权主义下的经历和挑战。",
+  "research_direction_en": "Research on the impact of digital surveillance on journalism in democracies, focusing on journalists' experiences and challenges under digital authoritarianism.",
   "method_tags_zh": [
     "案例研究",
     "访谈"

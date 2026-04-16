@@ -1,25 +1,25 @@
 {
   "id": "digital-journalism-9ae971d1c2b7",
   "doi": "10.1080/21670811.2025.2567342",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2567342?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2567342",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2025-09-29T03:36:56.000Z",
   "authors": [
-    "Liisa Ovaska Tampere UniversityLiisa Ovaska is a doctoral researcher in journalism at Tampere University",
+    "Liisa Ovaska",
     "Convergence, and Nordicom Review."
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:49:57.574Z",
+  "fetchedAt": "2026-04-16T07:10:33.474Z",
   "language": "en",
   "raw_title": "‘It’s All About Money’ – News Users’ Folk Theory of Audience Data Utilisation in Journalism",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "'It's All About Money' – News Users' Folk Theory of Audience Data Utilisation in Journalism",
   "title_zh": "“一切都是为了钱”——新闻用户对新闻业中受众数据利用的民间理论",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -28,7 +28,8 @@
     "journalism",
     "news users",
     "data utilization",
-    "media economics"
+    "media economics",
+    "user perceptions"
   ],
   "inferred_keywords_zh": [
     "受众数据",
@@ -36,18 +37,19 @@
     "新闻业",
     "新闻用户",
     "数据利用",
-    "媒体经济学"
+    "媒体经济学",
+    "用户认知"
   ],
   "plain_summary_zh": "这项研究探讨了新闻用户如何看待新闻机构使用他们的数据。研究发现，许多用户认为新闻机构收集和使用数据主要是为了赚钱，而不是为了改善新闻内容或服务。",
   "plain_summary_en": "This study explores how news users perceive the way news organizations use their data. The research finds that many users believe news organizations collect and use data primarily to make money, rather than to improve news content or services.",
-  "research_direction_zh": "该研究属于新闻学中的受众研究领域，关注用户对媒体数据实践的认知和态度，特别是民间理论如何影响用户与新闻媒体的互动。",
-  "research_direction_en": "This research falls within the field of audience studies in journalism, focusing on users' perceptions and attitudes toward media data practices, particularly how folk theories influence user interactions with news media.",
+  "research_direction_zh": "该研究属于新闻学与受众研究交叉领域，关注用户对媒体数据实践的认知和态度，探讨数字时代新闻业与公众信任的关系。",
+  "research_direction_en": "This research falls at the intersection of journalism and audience studies, focusing on users' perceptions and attitudes toward media data practices, and exploring the relationship between journalism and public trust in the digital age.",
   "method_tags_zh": [
     "访谈",
-    "案例研究"
+    "调查"
   ],
   "method_tags_en": [
     "interview",
-    "case study"
+    "survey"
   ]
 }

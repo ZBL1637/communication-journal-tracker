@@ -10,13 +10,13 @@
     "Sara Bannerman"
   ],
   "source": "crossref",
-  "fetchedAt": "2026-04-15T22:37:29.407Z",
+  "fetchedAt": "2026-04-16T07:04:05.051Z",
   "language": "en",
   "raw_title": "How to fight the data grab",
   "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "How to fight the data grab",
-  "title_zh": "如何对抗数据掠夺",
+  "title_zh": "如何应对数据掠夺",
   "abstract_en": "",
   "abstract_zh": "",
   "keywords_en": [],
@@ -35,10 +35,10 @@
     "抵抗策略",
     "传播政策"
   ],
-  "plain_summary_zh": "这篇文章探讨了如何应对大规模数据收集和利用的问题，为普通读者解释了数据掠夺的概念以及个人和社会可以采取的应对措施。",
-  "plain_summary_en": "This article explores how to address the issue of large-scale data collection and exploitation, explaining the concept of data grabbing and the countermeasures individuals and society can take.",
-  "research_direction_zh": "数字时代的数据权利与治理研究，关注个人和社会对数据控制的策略与政策应对。",
-  "research_direction_en": "Research on data rights and governance in the digital age, focusing on strategies and policy responses for individual and societal control over data.",
+  "plain_summary_zh": "这篇文章探讨了在数字时代如何保护个人数据不被大型科技公司或政府过度收集和利用。它可能提出了应对数据掠夺的策略和方法，帮助人们维护自己的数字权利和隐私。",
+  "plain_summary_en": "This article explores how to protect personal data from excessive collection and exploitation by large tech companies or governments in the digital age. It likely presents strategies and methods to combat data grabbing, helping people safeguard their digital rights and privacy.",
+  "research_direction_zh": "传播学中的数字权利与数据治理研究，关注个人在数字环境中的自主权保护机制。",
+  "research_direction_en": "Research on digital rights and data governance in communication studies, focusing on mechanisms to protect individual autonomy in digital environments.",
   "method_tags_zh": [
     "案例分析",
     "政策分析"

@@ -1,53 +1,55 @@
 {
   "id": "digital-journalism-23aff54d48c7",
   "doi": "10.1080/21670811.2025.2610612",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2610612?af=R",
+  "url": "https://doi.org/10.1080/21670811.2025.2610612",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2026-01-07T01:47:31.000Z",
   "authors": [
-    "Vilde Schanke Sundet Department of Journalism and Media Studies",
-    "Oslo Metropolitan University (OsloMet)",
+    "Vilde Schanke Sundet",
+    "Oslo Metropolitan",
     "Oslo",
     "Norway"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:52:53.677Z",
+  "fetchedAt": "2026-04-16T07:12:02.574Z",
   "language": "en",
   "raw_title": "Conceptualising Youth Media Strategies: Balancing Platforms, Profiles, and People",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Conceptualising Youth Media Strategies: Balancing Platforms, Profiles, and People",
   "title_zh": "概念化青年媒体策略：平衡平台、个人资料与人际关系",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
     "youth media",
     "media strategies",
-    "platforms",
-    "social media",
-    "digital journalism"
+    "digital platforms",
+    "social media profiles",
+    "audience engagement",
+    "communication studies"
   ],
   "inferred_keywords_zh": [
     "青年媒体",
     "媒体策略",
-    "平台",
-    "社交媒体",
-    "数字新闻"
+    "数字平台",
+    "社交媒体资料",
+    "受众参与",
+    "传播研究"
   ],
-  "plain_summary_zh": "这篇研究探讨年轻人如何制定媒体使用策略，平衡不同平台、个人在线形象和真实人际关系之间的关系。",
-  "plain_summary_en": "This research explores how young people develop media strategies to balance different platforms, online profiles, and real-life relationships.",
-  "research_direction_zh": "研究数字时代青年媒体消费与身份建构的策略性行为",
-  "research_direction_en": "Research on strategic behaviors in youth media consumption and identity construction in the digital age",
+  "plain_summary_zh": "这篇文章探讨了年轻人如何制定媒体使用策略，特别是在数字平台上平衡个人资料展示和人际关系维护。它旨在帮助理解青年群体在复杂媒体环境中的行为模式。",
+  "plain_summary_en": "This article explores how young people develop media strategies, particularly balancing profile presentation and interpersonal relationships on digital platforms. It aims to understand youth behavior patterns in complex media environments.",
+  "research_direction_zh": "研究青年在数字时代的媒体使用策略，关注平台选择、自我呈现和社交互动的平衡机制。",
+  "research_direction_en": "Research on youth media strategies in the digital age, focusing on the balancing mechanisms of platform selection, self-presentation, and social interaction.",
   "method_tags_zh": [
-    "访谈",
-    "案例研究"
+    "概念分析",
+    "文献综述"
   ],
   "method_tags_en": [
-    "interview",
-    "case study"
+    "conceptual analysis",
+    "literature review"
   ]
 }

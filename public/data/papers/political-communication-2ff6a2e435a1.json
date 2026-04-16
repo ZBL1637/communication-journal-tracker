@@ -1,26 +1,26 @@
 {
   "id": "political-communication-2ff6a2e435a1",
   "doi": "10.1080/10584609.2025.2585498",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2585498?af=R",
+  "url": "https://doi.org/10.1080/10584609.2025.2585498",
   "journalName": "POLITICAL COMMUNICATION",
   "journalSlug": "political-communication",
   "issn": "1058-4609",
   "publishedAt": "2025-11-21T07:33:51.000Z",
   "authors": [
-    "Emily Harmer Rosalynd Southern Department of Communication & Media",
-    "University of Liverpool",
+    "Emily Harmer",
+    "Rosalynd Southern",
     "Liverpool"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:40:28.261Z",
+  "fetchedAt": "2026-04-16T07:05:41.172Z",
   "language": "en",
   "raw_title": "Twitter to Yell at Them, Facebook to Ask Questions and Instagram to Show Support? Exploring Platform Effects in Responses to Women Politicians On Social Media",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Twitter to Yell at Them, Facebook to Ask Questions and Instagram to Show Support? Exploring Platform Effects in Responses to Women Politicians On Social Media",
-  "title_zh": "在Twitter上对他们大喊大叫，在Facebook上提问，在Instagram上表示支持？探索社交媒体上对女性政治家的回应中的平台效应",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "title_zh": "在推特上对他们大喊，在脸书上提问，在Instagram上表示支持？探索社交媒体上对女性政治家的回应中的平台效应",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -39,18 +39,20 @@
     "平台效应",
     "政治传播",
     "用户回应",
-    "Twitter",
-    "Facebook",
+    "推特",
+    "脸书",
     "Instagram"
   ],
-  "plain_summary_zh": "这项研究探讨了不同社交媒体平台（如Twitter、Facebook和Instagram）如何影响人们对女性政治家的回应方式。研究发现，人们可能在Twitter上表达愤怒，在Facebook上提问，在Instagram上表示支持，这显示了平台特性如何塑造政治互动。",
-  "plain_summary_en": "This study explores how different social media platforms (like Twitter, Facebook, and Instagram) affect how people respond to women politicians. It finds that people might express anger on Twitter, ask questions on Facebook, and show support on Instagram, showing how platform features shape political interactions.",
-  "research_direction_zh": "研究社交媒体平台特性如何影响政治传播和公众对政治人物的互动，特别关注性别因素和平台差异。",
-  "research_direction_en": "Investigating how social media platform characteristics influence political communication and public interactions with political figures, with a focus on gender factors and platform differences.",
+  "plain_summary_zh": "这项研究探讨了不同社交媒体平台（如推特、脸书和Instagram）如何影响人们对女性政治家的回应方式。研究发现，人们可能在推特上表达愤怒，在脸书上提问，而在Instagram上表示支持，这显示了平台特性如何塑造互动模式。",
+  "plain_summary_en": "This study explores how different social media platforms (like Twitter, Facebook, and Instagram) affect how people respond to women politicians. It finds that people might express anger on Twitter, ask questions on Facebook, and show support on Instagram, showing how platform features shape interaction patterns.",
+  "research_direction_zh": "研究社交媒体平台如何塑造政治沟通和公众参与，特别关注性别和平台特性的交互作用。",
+  "research_direction_en": "Investigating how social media platforms shape political communication and public engagement, with a focus on the interaction between gender and platform characteristics.",
   "method_tags_zh": [
-    "内容分析"
+    "内容分析",
+    "案例研究"
   ],
   "method_tags_en": [
-    "content analysis"
+    "content analysis",
+    "case study"
   ]
 }

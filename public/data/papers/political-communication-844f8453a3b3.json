@@ -1,28 +1,31 @@
 {
   "id": "political-communication-844f8453a3b3",
   "doi": "10.1080/10584609.2025.2604709",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2604709?af=R",
+  "url": "https://doi.org/10.1080/10584609.2025.2604709",
   "journalName": "POLITICAL COMMUNICATION",
   "journalSlug": "political-communication",
   "issn": "1058-4609",
   "publishedAt": "2025-12-15T05:04:16.000Z",
   "authors": [
-    "David A. Beavers Jennifer Hochschild Department of Government",
-    "Harvard University",
+    "David A. Beavers",
+    "Jennifer Hochschild",
+    "David A.",
+    "Beavers Jennifer Hochschild",
+    "Harvard",
     "Cambridge",
     "MA",
     "USA"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:41:55.522Z",
+  "fetchedAt": "2026-04-16T07:06:23.683Z",
   "language": "en",
   "raw_title": "Local Experience, National Media, and Misperceptions of the COVID-19 Pandemic",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Local Experience, National Media, and Misperceptions of the COVID-19 Pandemic",
   "title_zh": "地方经验、国家媒体与对COVID-19大流行的误解",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -31,8 +34,8 @@
     "local experience",
     "national media",
     "political communication",
-    "public opinion",
-    "information processing"
+    "public understanding",
+    "information environment"
   ],
   "inferred_keywords_zh": [
     "COVID-19",
@@ -40,13 +43,13 @@
     "地方经验",
     "国家媒体",
     "政治传播",
-    "公众舆论",
-    "信息处理"
+    "公众理解",
+    "信息环境"
   ],
-  "plain_summary_zh": "这项研究探讨了人们在COVID-19大流行期间如何形成误解。它关注地方经验（如个人在社区中的经历）和国家媒体报道如何影响人们对疫情的看法，可能导致错误信息或误解。研究旨在理解这些因素如何相互作用，影响公众对健康危机的认知。",
-  "plain_summary_en": "This study explores how people develop misperceptions during the COVID-19 pandemic. It focuses on how local experiences (like personal encounters in one's community) and national media coverage influence people's views of the pandemic, potentially leading to misinformation or misunderstandings. The research aims to understand how these factors interact to shape public perception of the health crisis.",
-  "research_direction_zh": "研究关注政治传播和公众舆论领域，特别是信息环境（如媒体和个人经验）如何影响公众对重大事件（如健康危机）的认知和误解形成。",
-  "research_direction_en": "The research focuses on political communication and public opinion, specifically how information environments (such as media and personal experiences) influence public perception and the formation of misperceptions about major events like health crises.",
+  "plain_summary_zh": "这项研究探讨了人们如何形成对COVID-19大流行的误解。它关注地方经验（如个人在社区中的经历）和国家媒体（如电视新闻和报纸）如何影响人们对疫情的看法。研究发现，当地方经验与媒体报道不一致时，人们更容易产生错误的理解。这有助于解释为什么不同地区的人对疫情的看法差异很大。",
+  "plain_summary_en": "This study explores how people develop misperceptions about the COVID-19 pandemic. It focuses on how local experience (such as personal encounters in one's community) and national media (like TV news and newspapers) shape people's views of the outbreak. The research finds that when local experience conflicts with media coverage, people are more likely to form incorrect understandings. This helps explain why perceptions of the pandemic vary widely across different regions.",
+  "research_direction_zh": "研究关注信息环境如何塑造公众对重大事件的认知，特别是在危机时期。它探讨了地方与国家级信息来源的互动，以及这种互动如何导致误解或分歧。这一方向有助于理解媒体效应、政治传播和公众舆论形成的过程。",
+  "research_direction_en": "The research examines how information environments shape public perceptions of major events, especially during crises. It investigates the interplay between local and national sources of information and how this can lead to misperceptions or polarization. This direction contributes to understanding media effects, political communication, and the formation of public opinion.",
   "method_tags_zh": [
     "调查",
     "内容分析"

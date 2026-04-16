@@ -1,26 +1,26 @@
 {
   "id": "digital-journalism-4f40d296650c",
   "doi": "10.1080/21670811.2026.2643289",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2026.2643289?af=R",
+  "url": "https://doi.org/10.1080/21670811.2026.2643289",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2026-03-20T08:43:07.000Z",
   "authors": [
-    "Michael Hameleers University of Amsterdam",
+    "Michael Hameleers",
     "Amsterdam",
     "The Netherlands"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:54:35.781Z",
+  "fetchedAt": "2026-04-16T07:13:05.609Z",
   "language": "en",
   "raw_title": "Spaces of Unmoderated Hate? The Legitimization of Anti-Immigration Narratives on Right-Wing Alternative Media",
-  "raw_abstract": ".",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "Spaces of Unmoderated Hate? The Legitimization of Anti-Immigration Narratives on Right-Wing Alternative Media",
   "title_zh": "不受管制的仇恨空间？右翼另类媒体上反移民叙事的合法化",
-  "abstract_en": ".",
-  "abstract_zh": "。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -41,10 +41,10 @@
     "数字新闻",
     "政治传播"
   ],
-  "plain_summary_zh": "这项研究探讨了右翼另类媒体如何通过不受管制的在线空间，使反移民的仇恨言论看起来更合理和正常。",
-  "plain_summary_en": "This study examines how right-wing alternative media use unmoderated online spaces to make anti-immigration hate speech appear more reasonable and normalized.",
-  "research_direction_zh": "研究数字媒体环境下极端政治话语的传播机制及其社会影响。",
-  "research_direction_en": "Investigating the dissemination mechanisms and social impacts of extreme political discourse in digital media environments.",
+  "plain_summary_zh": "这项研究探讨了右翼另类媒体如何可能成为不受管制的仇恨言论空间，特别是通过使反移民叙事合法化。它关注这些媒体平台如何塑造和传播针对移民的负面观点，以及这种传播对公共话语和社会态度的影响。",
+  "plain_summary_en": "This research examines how right-wing alternative media may serve as spaces for unmoderated hate speech, specifically by legitimizing anti-immigration narratives. It focuses on how these media platforms shape and spread negative views about immigrants, and the impact of this communication on public discourse and social attitudes.",
+  "research_direction_zh": "该研究属于数字新闻和政治传播领域，关注另类媒体在塑造政治叙事和社会分裂中的作用，特别是涉及移民和仇恨言论的议题。",
+  "research_direction_en": "This research falls within digital journalism and political communication, focusing on the role of alternative media in shaping political narratives and social divisions, particularly regarding immigration and hate speech.",
   "method_tags_zh": [
     "内容分析",
     "案例研究"

@@ -1,50 +1,58 @@
 {
   "id": "digital-journalism-66eb46f7beab",
   "doi": "10.1080/21670811.2026.2630187",
-  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2026.2630187?af=R",
+  "url": "https://doi.org/10.1080/21670811.2026.2630187",
   "journalName": "Digital Journalism",
   "journalSlug": "digital-journalism",
   "issn": "2167-0811",
   "publishedAt": "2026-03-12T12:00:10.000Z",
-  "authors": [],
+  "authors": [
+    "Tomás Dodds",
+    "Naomi Mine",
+    "Natali Helberger",
+    "Andrea L. Guzman",
+    "Nicholas Diakopoulos"
+  ],
   "source": "rss",
-  "fetchedAt": "2026-04-15T22:45:49.318Z",
+  "fetchedAt": "2026-04-16T07:08:31.748Z",
   "language": "en",
   "raw_title": "AI Hype in Journalism: Visibility, Power, and the Politics of Media Narratives",
-  "raw_abstract": "Volume 14, Issue 2, March 2026 .",
+  "raw_abstract": "",
   "raw_keywords": [],
   "title_en": "AI Hype in Journalism: Visibility, Power, and the Politics of Media Narratives",
   "title_zh": "新闻业中的AI炒作：可见性、权力与媒体叙事的政治",
-  "abstract_en": "Volume 14, Issue 2, March 2026.",
-  "abstract_zh": "第14卷，第2期，2026年3月。",
+  "abstract_en": "",
+  "abstract_zh": "",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
     "artificial intelligence",
     "journalism",
     "media narratives",
-    "hype",
     "power dynamics",
-    "visibility"
+    "technology hype",
+    "discourse analysis",
+    "media studies"
   ],
   "inferred_keywords_zh": [
     "人工智能",
     "新闻业",
     "媒体叙事",
-    "炒作",
     "权力动态",
-    "可见性"
+    "技术炒作",
+    "话语分析",
+    "媒体研究"
   ],
-  "plain_summary_zh": "这篇论文探讨新闻业中关于人工智能的炒作现象，分析它如何影响媒体的可见性、权力关系以及叙事政治。",
-  "plain_summary_en": "This paper examines the hype around artificial intelligence in journalism, analyzing how it affects media visibility, power dynamics, and narrative politics.",
-  "research_direction_zh": "研究媒体技术炒作的社会政治影响，特别是人工智能在新闻业中的角色和权力结构变化。",
-  "research_direction_en": "Investigating the socio-political impacts of media technology hype, particularly the role of AI in journalism and shifts in power structures.",
+  "plain_summary_zh": "这篇文章探讨了新闻业中关于人工智能的过度宣传现象，分析了这种炒作如何影响人们对AI的认知、谁从中获得权力，以及媒体如何讲述AI故事背后的政治因素。",
+  "plain_summary_en": "This article examines the hype surrounding artificial intelligence in journalism, analyzing how this exaggeration affects perceptions of AI, who gains power from it, and the political factors behind how media tells AI stories.",
+  "research_direction_zh": "研究新闻业中技术叙事的构建与权力关系，特别关注人工智能话语如何塑造行业实践和社会认知。",
+  "research_direction_en": "Investigating the construction of technological narratives in journalism and power relations, with particular focus on how AI discourse shapes industry practices and social perceptions.",
   "method_tags_zh": [
-    "内容分析",
+    "话语分析",
     "案例研究"
   ],
   "method_tags_en": [
-    "content analysis",
+    "discourse analysis",
     "case study"
   ]
 }

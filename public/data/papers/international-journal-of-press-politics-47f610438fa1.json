@@ -11,41 +11,39 @@
     "A. Jay Wagner"
   ],
   "source": "crossref",
-  "fetchedAt": "2026-04-15T23:18:34.122Z",
+  "fetchedAt": "2026-04-16T07:23:50.154Z",
   "language": "en",
   "raw_title": "Audience perceptions of government documents as news sources",
   "raw_abstract": "Research into reporting methods of journalists in the United States often focuses on efforts to be more transparent. However, little research examines the role source attribution plays in the audience’s perception of message credibility and information adequacy. Over two experiments, this research tests the role official government and elite sources play in message credibility judgments when compared to other, nongovernment and nonelite sources. Results suggest that messages attributed to elite and government sources are perceived as more credible and higher in information adequacy than other commonly cited sources used in news. Additionally, this research finds that information attributed to social media is perceived as less credible and lower in value. The results have implications for sourcing practices of journalists, suggesting that use of nonelite sources in news might lower people’s perceptions of the information.",
   "raw_keywords": [],
   "title_en": "Audience perceptions of government documents as news sources",
-  "title_zh": "受众对政府文件作为新闻来源的认知",
+  "title_zh": "Audience perceptions of government documents as news sources",
   "abstract_en": "Research into reporting methods of journalists in the United States often focuses on efforts to be more transparent. However, little research examines the role source attribution plays in the audience’s perception of message credibility and information adequacy. Over two experiments, this research tests the role official government and elite sources play in message credibility judgments when compared to other, nongovernment and nonelite sources. Results suggest that messages attributed to elite and government sources are perceived as more credible and higher in information adequacy than other commonly cited sources used in news. Additionally, this research finds that information attributed to social media is perceived as less credible and lower in value. The results have implications for sourcing practices of journalists, suggesting that use of nonelite sources in news might lower people’s perceptions of the information.",
-  "abstract_zh": "对美国记者报道方法的研究通常侧重于提高透明度的努力。然而，很少有研究探讨来源归属在受众对信息可信度和信息充分性认知中的作用。通过两项实验，本研究测试了官方政府和精英来源在信息可信度判断中的作用，与其他非政府和非精英来源进行比较。结果表明，与新闻中常用的其他来源相比，归属于精英和政府来源的信息被认为更可信、信息更充分。此外，本研究还发现，归属于社交媒体的信息被认为可信度较低、价值较低。这些结果对记者的来源选择实践具有启示意义，表明在新闻中使用非精英来源可能会降低人们对信息的认知。",
+  "abstract_zh": "Research into reporting methods of journalists in the United States often focuses on efforts to be more transparent. However, little research examines the role source attribution plays in the audience’s perception of message credibility and information adequacy. Over two experiments, this research tests the role official government and elite sources play in message credibility judgments when compared to other, nongovernment and nonelite sources. Results suggest that messages attributed to elite and government sources are perceived as more credible and higher in information adequacy than other commonly cited sources used in news. Additionally, this research finds that information attributed to social media is perceived as less credible and lower in value. The results have implications for sourcing practices of journalists, suggesting that use of nonelite sources in news might lower people’s perceptions of the information.",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
-    "source credibility",
-    "government sources",
-    "elite sources",
-    "social media",
-    "audience perception",
-    "news reporting",
-    "information adequacy"
+    "Sources",
+    "The",
+    "And",
+    "Information",
+    "Government",
+    "News"
   ],
   "inferred_keywords_zh": [
-    "来源可信度",
-    "政府来源",
-    "精英来源",
-    "社交媒体",
-    "受众认知",
-    "新闻报道",
-    "信息充分性"
+    "Sources",
+    "The",
+    "And",
+    "Information",
+    "Government",
+    "News"
   ],
-  "plain_summary_zh": "这项研究通过实验发现，当新闻信息来自政府或精英人士时，人们会觉得它更可信、更有用。相反，如果信息来自社交媒体，人们会觉得它不太可信、价值较低。这提醒记者，选择不同的信息来源会影响读者对新闻的看法。",
-  "plain_summary_en": "This study found through experiments that when news information comes from government or elite sources, people perceive it as more credible and useful. In contrast, if information comes from social media, people see it as less credible and valuable. This suggests that journalists' choice of sources can affect how readers view the news.",
-  "research_direction_zh": "探索新闻来源类型如何影响受众对信息可信度和价值的认知，以及这对新闻实践和媒体信任的启示。",
-  "research_direction_en": "Investigating how types of news sources influence audience perceptions of information credibility and value, and the implications for journalistic practices and media trust.",
+  "plain_summary_en": "This paper studies Audience perceptions of government documents as news sources. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Sources, The, And, Information. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Audience perceptions of government documents as news sources. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Sources, The, And, Information. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Sources, The, And, Information, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Sources, The, And, Information, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "实验"
+    "experiment"
   ],
   "method_tags_en": [
     "experiment"
