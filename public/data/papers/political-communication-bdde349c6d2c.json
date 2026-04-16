@@ -14,6 +14,7 @@
     "Hendrik Meyer",
     "Ashley Muddiman",
     "Louisa Pröschel",
+    "Hartmut Weßler",
     "Hartmut Wessler",
     "Hamburg",
     "Germanyb Amsterdam",
@@ -28,42 +29,60 @@
     "professor of Communication",
     "Climate, and Science Communication at the"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:07:29.030Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:59:05.641Z",
   "language": "en",
   "raw_title": "What Kind of Depolarization Should We Aim For? Making Communication Transformative",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Transformative learning",
+    "Depolarization",
+    "Journalism",
+    "Risk communication",
+    "Focus (optics)"
+  ],
   "title_en": "What Kind of Depolarization Should We Aim For? Making Communication Transformative",
-  "title_zh": "我们应该追求何种去极化？让沟通变得具有变革性",
+  "title_zh": "我们应追求何种去极化？让传播变得具有变革性",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Transformative learning",
+    "Depolarization",
+    "Journalism",
+    "Risk communication",
+    "Focus (optics)"
+  ],
+  "keywords_zh": [
+    "变革性学习",
+    "去极化",
+    "新闻业",
+    "风险传播",
+    "焦点（光学）"
+  ],
   "inferred_keywords_en": [
-    "depolarization",
-    "political communication",
-    "transformative communication",
-    "public discourse",
-    "media effects"
+    "Political communication",
+    "Media studies",
+    "Public discourse",
+    "Social change",
+    "Communication theory"
   ],
   "inferred_keywords_zh": [
-    "去极化",
     "政治传播",
-    "变革性沟通",
+    "媒介研究",
     "公共话语",
-    "媒体效果"
+    "社会变革",
+    "传播理论"
   ],
-  "plain_summary_zh": "这篇文章探讨了在政治沟通中应该追求什么样的去极化目标，以及如何让沟通变得具有变革性，能够真正改变人们的观点和对话方式。",
-  "plain_summary_en": "This article examines what kind of depolarization goals we should pursue in political communication and how to make communication transformative, capable of genuinely changing people's perspectives and dialogue patterns.",
-  "research_direction_zh": "研究政治沟通中的去极化策略和变革性沟通模式，探索如何通过沟通实践减少社会分裂并促进建设性对话。",
-  "research_direction_en": "Investigating depolarization strategies and transformative communication models in political communication, exploring how communication practices can reduce social division and promote constructive dialogue.",
+  "plain_summary_zh": "这篇文章探讨了在政治传播中，我们应该追求什么样的去极化目标。它建议通过变革性的传播方式，比如新闻和风险传播，来帮助人们改变思维方式，减少社会对立。",
+  "plain_summary_en": "This article explores what kind of depolarization we should aim for in political communication. It suggests using transformative communication methods, such as journalism and risk communication, to help people change their thinking and reduce social divisions.",
+  "research_direction_zh": "研究政治传播中的去极化策略，关注如何通过变革性传播促进社会和谐与理解。",
+  "research_direction_en": "Investigating depolarization strategies in political communication, focusing on how transformative communication can foster social harmony and understanding.",
   "method_tags_zh": [
-    "理论分析",
-    "文献综述"
+    "内容分析",
+    "案例研究"
   ],
   "method_tags_en": [
-    "theoretical analysis",
-    "literature review"
+    "content analysis",
+    "case study"
   ]
 }

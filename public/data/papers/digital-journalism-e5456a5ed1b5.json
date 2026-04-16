@@ -15,40 +15,58 @@
     "Macao SAR",
     "China"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:11:48.332Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:04:42.458Z",
   "language": "en",
   "raw_title": "Dancing with AI: The Impact of AI-Generated Images and Videos on Chinese Visual Journalism",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Journalism",
+    "Photojournalism",
+    "Citizen journalism",
+    "Photography",
+    "Visual communication"
+  ],
   "title_en": "Dancing with AI: The Impact of AI-Generated Images and Videos on Chinese Visual Journalism",
   "title_zh": "与AI共舞：AI生成图像和视频对中国视觉新闻的影响",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Journalism",
+    "Photojournalism",
+    "Citizen journalism",
+    "Photography",
+    "Visual communication"
+  ],
+  "keywords_zh": [
+    "新闻学",
+    "新闻摄影",
+    "公民新闻",
+    "摄影",
+    "视觉传播"
+  ],
   "inferred_keywords_en": [
+    "Artificial Intelligence",
     "AI-generated content",
-    "visual journalism",
     "Chinese media",
-    "digital journalism",
-    "artificial intelligence",
-    "media technology",
-    "news production"
+    "Visual journalism",
+    "Digital media",
+    "Media ethics",
+    "Technology impact"
   ],
   "inferred_keywords_zh": [
-    "AI生成内容",
-    "视觉新闻",
-    "中国媒体",
-    "数字新闻",
     "人工智能",
-    "媒体技术",
-    "新闻生产"
+    "AI生成内容",
+    "中国媒体",
+    "视觉新闻",
+    "数字媒体",
+    "媒体伦理",
+    "技术影响"
   ],
-  "plain_summary_zh": "这篇研究探讨了人工智能生成的图像和视频如何影响中国的视觉新闻报道。它关注AI技术如何改变新闻制作方式，以及这对新闻行业和观众意味着什么。",
-  "plain_summary_en": "This research examines how AI-generated images and videos are affecting visual journalism in China. It focuses on how AI technology is changing news production and what this means for the industry and audiences.",
-  "research_direction_zh": "探索人工智能技术在新闻媒体领域的应用及其对新闻生产、伦理和行业发展的影响。",
-  "research_direction_en": "Exploring the application of artificial intelligence technology in news media and its impact on news production, ethics, and industry development.",
+  "plain_summary_zh": "这篇研究探讨了人工智能生成的图像和视频如何影响中国的视觉新闻报道。它关注AI技术对新闻摄影、公民新闻和视觉传播带来的变化和挑战。",
+  "plain_summary_en": "This research examines how AI-generated images and videos are affecting visual journalism in China. It focuses on the changes and challenges that AI technology brings to photojournalism, citizen journalism, and visual communication.",
+  "research_direction_zh": "研究数字时代人工智能技术对新闻生产、视觉传播和媒体伦理的影响，特别关注中国语境下的媒体转型和技术应用。",
+  "research_direction_en": "Investigating the impact of artificial intelligence technology on news production, visual communication, and media ethics in the digital age, with particular focus on media transformation and technology application in the Chinese context.",
   "method_tags_zh": [
     "内容分析",
     "案例研究"

@@ -9,42 +9,63 @@
   "authors": [
     "Ståle Grut"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:12:41.987Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:05:52.026Z",
   "language": "en",
   "raw_title": "Future Imaginaries of Visual Open Source Investigative Journalism",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Journalism",
+    "Open source",
+    "Photojournalism",
+    "Citizen journalism",
+    "Work (physics)",
+    "Photography"
+  ],
   "title_en": "Future Imaginaries of Visual Open Source Investigative Journalism",
   "title_zh": "视觉开源调查新闻的未来想象",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Journalism",
+    "Open source",
+    "Photojournalism",
+    "Citizen journalism",
+    "Work (physics)",
+    "Photography"
+  ],
+  "keywords_zh": [
+    "新闻学",
+    "开源",
+    "摄影新闻",
+    "公民新闻",
+    "工作（物理学）",
+    "摄影"
+  ],
   "inferred_keywords_en": [
-    "open source investigation",
-    "visual journalism",
-    "future studies",
-    "digital journalism",
-    "investigative reporting"
+    "Investigative journalism",
+    "Visual analysis",
+    "Digital methods",
+    "Future studies",
+    "Media innovation"
   ],
   "inferred_keywords_zh": [
-    "开源调查",
-    "视觉新闻",
+    "调查新闻",
+    "视觉分析",
+    "数字方法",
     "未来研究",
-    "数字新闻",
-    "调查报道"
+    "媒体创新"
   ],
-  "plain_summary_zh": "这篇文章探讨了视觉开源调查新闻的未来可能性。它研究记者如何利用公开可得的视觉材料（如卫星图像、社交媒体视频）进行调查报道，并想象这种新闻形式在未来会如何发展。",
-  "plain_summary_en": "This article explores the future possibilities of visual open source investigative journalism. It examines how journalists use publicly available visual materials (such as satellite images, social media videos) for investigative reporting and imagines how this form of journalism might develop in the future.",
-  "research_direction_zh": "数字新闻学中的创新报道方法研究，特别是开源调查技术和视觉叙事在新闻实践中的融合与应用前景。",
-  "research_direction_en": "Research on innovative reporting methods in digital journalism, particularly the integration and application prospects of open source investigation techniques and visual storytelling in journalistic practice.",
+  "plain_summary_zh": "这篇文章探讨了视觉开源调查新闻的未来可能性。它研究记者如何利用开源工具和视觉材料（如照片和视频）进行调查报道，以及公民参与如何影响这一领域的发展。文章还考虑了技术和工作方式的变化将如何塑造未来的新闻实践。",
+  "plain_summary_en": "This article explores the future possibilities of visual open source investigative journalism. It examines how journalists use open source tools and visual materials (like photos and videos) for investigative reporting, and how citizen participation influences this field. The article also considers how technological and work practice changes might shape future journalism.",
+  "research_direction_zh": "研究数字时代调查新闻的创新方法，特别是视觉和开源技术的应用，以及新闻业未来发展的趋势和挑战。",
+  "research_direction_en": "Investigating innovative methods in investigative journalism in the digital age, particularly the application of visual and open source technologies, and trends and challenges in the future development of journalism.",
   "method_tags_zh": [
     "案例研究",
-    "文献分析"
+    "文献综述"
   ],
   "method_tags_en": [
     "case study",
-    "literature analysis"
+    "literature review"
   ]
 }

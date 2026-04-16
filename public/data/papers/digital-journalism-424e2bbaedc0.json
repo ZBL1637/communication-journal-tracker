@@ -19,48 +19,64 @@
     "Fargo",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:08:20.196Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:00:10.085Z",
   "language": "en",
   "raw_title": "Buzz Across Borders: Analyzing the Global and Local Dynamics Shaping the ChatGPT Media Hype in China",
-  "raw_abstract": "",
-  "raw_keywords": [],
-  "title_en": "Buzz Across Borders: Analyzing the Global and Local Dynamics Shaping the ChatGPT Media Hype in China",
-  "title_zh": "跨越边界的喧嚣：分析塑造中国ChatGPT媒体热潮的全球与本土动态",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "ChatGPT",
-    "media hype",
+  "raw_abstract": "ChatGPT ignited a global AI media hype. Surprisingly, China ranks as the leading country in online searches for “ChatGPT,” despite the platform’s limited accessibility there. In this study, we explore how the ChatGPT media hype was produced within a framework of international information flow and the localization of a global issue. We employ computational methods to investigate the inter-media and intra-media dynamics shaping the ChatGPT media hype in China. We built four corpora composed of news and social media data discussing ChatGPT: Chinese news (N = 30,061), Chinese social media posts (N = 226,374), global English news (N = 71,457), and global social media posts (N = 807,508). Results indicate that the volume of discussions on ChatGPT on global news, global social media, and Chinese social media all significantly influence that on Chinese ChatGPT news. Chinese media exhibit distinct topical interests compared to global media. Analysis of Chinese ChatGPT news coverage revealed that market-driven media are the primary contributors, and often relied on a narrow range of identical sources and adopted various strategies to increase visibility and audience engagement. The implications of these findings were also discussed.",
+  "raw_keywords": [
+    "Marketing buzz",
     "China",
-    "global dynamics",
-    "local dynamics",
-    "digital journalism",
-    "AI technology",
-    "cross-border communication"
+    "Dynamics (music)",
+    "Political science",
+    "Public relations",
+    "Media studies",
+    "Computer science",
+    "Advertising",
+    "Sociology",
+    "Business",
+    "Law"
   ],
-  "inferred_keywords_zh": [
-    "ChatGPT",
-    "媒体热潮",
-    "中国",
-    "全球动态",
-    "本土动态",
-    "数字新闻",
-    "人工智能技术",
-    "跨境传播"
+  "title_en": "Buzz Across Borders: Analyzing the Global and Local Dynamics Shaping the ChatGPT Media Hype in China",
+  "title_zh": "Buzz Across Borders: Analyzing the Global and Local Dynamics Shaping the ChatGPT Media Hype in China",
+  "abstract_en": "ChatGPT ignited a global AI media hype. Surprisingly, China ranks as the leading country in online searches for “ChatGPT,” despite the platform’s limited accessibility there. In this study, we explore how the ChatGPT media hype was produced within a framework of international information flow and the localization of a global issue. We employ computational methods to investigate the inter-media and intra-media dynamics shaping the ChatGPT media hype in China. We built four corpora composed of news and social media data discussing ChatGPT: Chinese news (N = 30,061), Chinese social media posts (N = 226,374), global English news (N = 71,457), and global social media posts (N = 807,508). Results indicate that the volume of discussions on ChatGPT on global news, global social media, and Chinese social media all significantly influence that on Chinese ChatGPT news. Chinese media exhibit distinct topical interests compared to global media. Analysis of Chinese ChatGPT news coverage revealed that market-driven media are the primary contributors, and often relied on a narrow range of identical sources and adopted various strategies to increase visibility and audience engagement. The implications of these findings were also discussed.",
+  "abstract_zh": "ChatGPT ignited a global AI media hype. Surprisingly, China ranks as the leading country in online searches for “ChatGPT,” despite the platform’s limited accessibility there. In this study, we explore how the ChatGPT media hype was produced within a framework of international information flow and the localization of a global issue. We employ computational methods to investigate the inter-media and intra-media dynamics shaping the ChatGPT media hype in China. We built four corpora composed of news and social media data discussing ChatGPT: Chinese news (N = 30,061), Chinese social media posts (N = 226,374), global English news (N = 71,457), and global social media posts (N = 807,508). Results indicate that the volume of discussions on ChatGPT on global news, global social media, and Chinese social media all significantly influence that on Chinese ChatGPT news. Chinese media exhibit distinct topical interests compared to global media. Analysis of Chinese ChatGPT news coverage revealed that market-driven media are the primary contributors, and often relied on a narrow range of identical sources and adopted various strategies to increase visibility and audience engagement. The implications of these findings were also discussed.",
+  "keywords_en": [
+    "Marketing buzz",
+    "China",
+    "Dynamics (music)",
+    "Political science",
+    "Public relations",
+    "Media studies",
+    "Computer science",
+    "Advertising",
+    "Sociology",
+    "Business",
+    "Law"
   ],
-  "plain_summary_zh": "这篇研究分析了ChatGPT在中国引发的媒体热潮，探讨了全球趋势和本土因素如何共同影响这一现象。",
-  "plain_summary_en": "This study analyzes the media hype around ChatGPT in China, examining how global trends and local factors interact to shape this phenomenon.",
-  "research_direction_zh": "研究数字新闻中人工智能技术的跨境传播与本土化适应过程。",
-  "research_direction_en": "Investigating the cross-border communication and localization adaptation of AI technology in digital journalism.",
+  "keywords_zh": [
+    "Marketing buzz",
+    "China",
+    "Dynamics (music)",
+    "Political science",
+    "Public relations",
+    "Media studies",
+    "Computer science",
+    "Advertising",
+    "Sociology",
+    "Business",
+    "Law"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Buzz Across Borders: Analyzing the Global and Local Dynamics Shaping the ChatGPT Media Hype in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Marketing buzz, China, Dynamics (music), Political science. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Buzz Across Borders: Analyzing the Global and Local Dynamics Shaping the ChatGPT Media Hype in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Marketing buzz, China, Dynamics (music), Political science. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Marketing buzz, China, Dynamics (music), Political science, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Marketing buzz, China, Dynamics (music), Political science, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "内容分析",
-    "案例研究"
+    "computational analysis"
   ],
   "method_tags_en": [
-    "content analysis",
-    "case study"
+    "computational analysis"
   ]
 }

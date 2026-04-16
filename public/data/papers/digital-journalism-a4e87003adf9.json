@@ -11,44 +11,55 @@
     "Amsterdam",
     "Netherlands"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:15:38.661Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:09:48.431Z",
   "language": "en",
   "raw_title": "Advancing a Material and Epistemological Turn in the Study of AI: A Review and New Directions for Journalism Research",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Journalism",
+    "Epistemology",
+    "Sociology",
+    "Linguistic turn",
+    "Political science",
+    "Engineering ethics",
+    "Media studies",
+    "Philosophy"
+  ],
   "title_en": "Advancing a Material and Epistemological Turn in the Study of AI: A Review and New Directions for Journalism Research",
-  "title_zh": "推进人工智能研究的物质与认识论转向：新闻学研究的回顾与新方向",
+  "title_zh": "Advancing a Material and Epistemological Turn in the Study of AI: A Review and New Directions for Journalism Research",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "artificial intelligence",
-    "journalism research",
-    "material turn",
-    "epistemological turn",
-    "review",
-    "research directions"
+  "keywords_en": [
+    "Journalism",
+    "Epistemology",
+    "Sociology",
+    "Linguistic turn",
+    "Political science",
+    "Engineering ethics",
+    "Media studies",
+    "Philosophy"
   ],
-  "inferred_keywords_zh": [
-    "人工智能",
-    "新闻学研究",
-    "物质转向",
-    "认识论转向",
-    "综述",
-    "研究方向"
+  "keywords_zh": [
+    "Journalism",
+    "Epistemology",
+    "Sociology",
+    "Linguistic turn",
+    "Political science",
+    "Engineering ethics",
+    "Media studies",
+    "Philosophy"
   ],
-  "plain_summary_zh": "这篇论文探讨了人工智能研究中两个重要的理论转向——物质转向和认识论转向，并回顾了这些转向如何影响新闻学研究。文章提出了新闻学领域未来研究的新方向。",
-  "plain_summary_en": "This paper examines two important theoretical turns in AI research—the material turn and the epistemological turn—and reviews how these shifts impact journalism studies. It proposes new directions for future research in the journalism field.",
-  "research_direction_zh": "探索人工智能在新闻实践中的物质性影响和认识论变革，为新闻学研究提供新的理论框架和方法论路径。",
-  "research_direction_en": "Exploring the material impacts and epistemological transformations of AI in journalistic practices, providing new theoretical frameworks and methodological approaches for journalism research.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Advancing a Material and Epistemological Turn in the Study of AI: A Review and New Directions for Journalism Research. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Epistemology, Sociology, Linguistic turn. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Advancing a Material and Epistemological Turn in the Study of AI: A Review and New Directions for Journalism Research. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Epistemology, Sociology, Linguistic turn. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Journalism, Epistemology, Sociology, Linguistic turn, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Journalism, Epistemology, Sociology, Linguistic turn, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "综述",
-    "理论分析"
+    "review"
   ],
   "method_tags_en": [
-    "review",
-    "theoretical analysis"
+    "review"
   ]
 }

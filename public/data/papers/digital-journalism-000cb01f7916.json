@@ -27,42 +27,61 @@
     "Arcisstraße 21, 80333 Munich",
     "Germany"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:07:49.673Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:59:29.593Z",
   "language": "en",
   "raw_title": "AI in the German Media: Narratives of AI-in-Particular and AI-in-General in German Media Reporting About Artificial Intelligence",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "The continuing high level of media attention to advances in AI has raised scholarly concerns about hype. However, existing scholarship on AI hype considers its object of study, ‘AI’, as given and stable, rather than tracing how it is discursively constructed. This paper presents a qualitative discourse analysis of four years of AI coverage in German newspapers. It traces how the object of AI itself is constructed in discourse, rather than assuming it to be monolithic and stable. We identify two distinct constructions of AI: AI-in-general constructs AI as a promising future technology, while AI-in-particular zooms in on local application contexts in which AI is already being used. We argue that AI-in-general, and its narratives foregrounding a global technology race, reflect crucial elements of hype and also serve as a pervasive backdrop for the contextual narratives of AI-in-particular. In terms of broader debates about hype, we therefore conclude that contextual narratives are not a panacea against hype.",
+  "raw_keywords": [
+    "German",
+    "Narrative",
+    "Computer science",
+    "Artificial intelligence",
+    "Psychology",
+    "Political science",
+    "Linguistics",
+    "Literature",
+    "Art",
+    "Philosophy"
+  ],
   "title_en": "AI in the German Media: Narratives of AI-in-Particular and AI-in-General in German Media Reporting About Artificial Intelligence",
-  "title_zh": "德国媒体中的AI：德国媒体关于人工智能报道中的特定AI与一般AI叙事",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "artificial intelligence",
-    "media reporting",
-    "narratives",
-    "Germany",
-    "content analysis",
+  "title_zh": "AI in the German Media: Narratives of AI-in-Particular and AI-in-General in German Media Reporting About Artificial Intelligence",
+  "abstract_en": "The continuing high level of media attention to advances in AI has raised scholarly concerns about hype. However, existing scholarship on AI hype considers its object of study, ‘AI’, as given and stable, rather than tracing how it is discursively constructed. This paper presents a qualitative discourse analysis of four years of AI coverage in German newspapers. It traces how the object of AI itself is constructed in discourse, rather than assuming it to be monolithic and stable. We identify two distinct constructions of AI: AI-in-general constructs AI as a promising future technology, while AI-in-particular zooms in on local application contexts in which AI is already being used. We argue that AI-in-general, and its narratives foregrounding a global technology race, reflect crucial elements of hype and also serve as a pervasive backdrop for the contextual narratives of AI-in-particular. In terms of broader debates about hype, we therefore conclude that contextual narratives are not a panacea against hype.",
+  "abstract_zh": "The continuing high level of media attention to advances in AI has raised scholarly concerns about hype. However, existing scholarship on AI hype considers its object of study, ‘AI’, as given and stable, rather than tracing how it is discursively constructed. This paper presents a qualitative discourse analysis of four years of AI coverage in German newspapers. It traces how the object of AI itself is constructed in discourse, rather than assuming it to be monolithic and stable. We identify two distinct constructions of AI: AI-in-general constructs AI as a promising future technology, while AI-in-particular zooms in on local application contexts in which AI is already being used. We argue that AI-in-general, and its narratives foregrounding a global technology race, reflect crucial elements of hype and also serve as a pervasive backdrop for the contextual narratives of AI-in-particular. In terms of broader debates about hype, we therefore conclude that contextual narratives are not a panacea against hype.",
+  "keywords_en": [
+    "German",
+    "Narrative",
+    "Computer science",
+    "Artificial intelligence",
+    "Psychology",
+    "Political science",
+    "Linguistics",
+    "Literature",
+    "Art",
+    "Philosophy"
+  ],
+  "keywords_zh": [
+    "German",
+    "Narrative",
+    "Computer science",
+    "Artificial intelligence",
+    "Psychology",
+    "Political science",
+    "Linguistics",
+    "Literature",
+    "Art",
+    "Philosophy"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies AI in the German Media: Narratives of AI-in-Particular and AI-in-General in German Media Reporting About Artificial Intelligence. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is German, Narrative, Computer science, Artificial intelligence. The abstract suggests a discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies AI in the German Media: Narratives of AI-in-Particular and AI-in-General in German Media Reporting About Artificial Intelligence. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is German, Narrative, Computer science, Artificial intelligence. The abstract suggests a discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around German, Narrative, Computer science, Artificial intelligence, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around German, Narrative, Computer science, Artificial intelligence, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
     "discourse analysis"
   ],
-  "inferred_keywords_zh": [
-    "人工智能",
-    "媒体报道",
-    "叙事",
-    "德国",
-    "内容分析",
-    "话语分析"
-  ],
-  "plain_summary_zh": "这项研究分析了德国媒体如何报道人工智能，特别关注媒体如何区分和描述特定AI应用与一般AI概念的不同叙事方式。",
-  "plain_summary_en": "This study analyzes how German media reports on artificial intelligence, focusing specifically on how media distinguishes and describes different narratives about specific AI applications versus general AI concepts.",
-  "research_direction_zh": "媒体与科技叙事研究，关注人工智能在公共话语中的呈现方式及其社会影响。",
-  "research_direction_en": "Media and technology narrative research, focusing on how artificial intelligence is presented in public discourse and its social implications.",
-  "method_tags_zh": [
-    "内容分析"
-  ],
   "method_tags_en": [
-    "content analysis"
+    "discourse analysis"
   ]
 }

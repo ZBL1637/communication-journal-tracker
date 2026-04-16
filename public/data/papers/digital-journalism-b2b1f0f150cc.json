@@ -18,46 +18,49 @@
     "of Communication",
     "African Journalism Studies"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:14:19.891Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:07:59.203Z",
   "language": "en",
   "raw_title": "Populist Hustlers Versus Establishment Dynasties: The Contentious Visual Framing Dual of the 2022 Kenyan Election",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "We draw on three data sets to offer a comprehensive view on visual representation of presidential candidates and the impact of media images on the outcome of the Kenyan election. Content analyses of legacy media revealed patterns in journalistic coverage, whereas Facebook posts brought to light comparable self-representation of candidates. Daily tracking poll data were used to test for associations between visual representation and voter support for candidates. Finally, in-depth interviews provided context for interpreting the results. Old school message discipline, innovative use of delivery platforms, and unprecedented gains in assimilating journalism into online campaign operations surfaced as the markers of a winning strategy.",
+  "raw_keywords": [
+    "Framing (construction)",
+    "General election",
+    "Primary election",
+    "Politics",
+    "Federal election",
+    "Kenya"
+  ],
   "title_en": "Populist Hustlers Versus Establishment Dynasties: The Contentious Visual Framing Dual of the 2022 Kenyan Election",
-  "title_zh": "民粹主义草根与建制派王朝的对决：2022年肯尼亚大选中的争议性视觉框架双重叙事",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "visual framing",
-    "political communication",
-    "Kenyan election",
-    "populism",
-    "media analysis",
-    "contentious politics",
-    "digital journalism"
+  "title_zh": "Populist Hustlers Versus Establishment Dynasties: The Contentious Visual Framing Dual of the 2022 Kenyan Election",
+  "abstract_en": "We draw on three data sets to offer a comprehensive view on visual representation of presidential candidates and the impact of media images on the outcome of the Kenyan election. Content analyses of legacy media revealed patterns in journalistic coverage, whereas Facebook posts brought to light comparable self-representation of candidates. Daily tracking poll data were used to test for associations between visual representation and voter support for candidates. Finally, in-depth interviews provided context for interpreting the results. Old school message discipline, innovative use of delivery platforms, and unprecedented gains in assimilating journalism into online campaign operations surfaced as the markers of a winning strategy.",
+  "abstract_zh": "We draw on three data sets to offer a comprehensive view on visual representation of presidential candidates and the impact of media images on the outcome of the Kenyan election. Content analyses of legacy media revealed patterns in journalistic coverage, whereas Facebook posts brought to light comparable self-representation of candidates. Daily tracking poll data were used to test for associations between visual representation and voter support for candidates. Finally, in-depth interviews provided context for interpreting the results. Old school message discipline, innovative use of delivery platforms, and unprecedented gains in assimilating journalism into online campaign operations surfaced as the markers of a winning strategy.",
+  "keywords_en": [
+    "Framing (construction)",
+    "General election",
+    "Primary election",
+    "Politics",
+    "Federal election",
+    "Kenya"
   ],
-  "inferred_keywords_zh": [
-    "视觉框架",
-    "政治传播",
-    "肯尼亚选举",
-    "民粹主义",
-    "媒体分析",
-    "争议政治",
-    "数字新闻"
+  "keywords_zh": [
+    "Framing (construction)",
+    "General election",
+    "Primary election",
+    "Politics",
+    "Federal election",
+    "Kenya"
   ],
-  "plain_summary_zh": "这篇研究分析了2022年肯尼亚大选中，媒体如何通过视觉图像来呈现两种对立的政治叙事：一边是自称'草根'的民粹主义候选人，另一边是代表传统权力的'王朝'家族。研究探讨了这些视觉框架如何影响公众对选举的理解和态度。",
-  "plain_summary_en": "This study examines how media used visual images to present two competing political narratives during Kenya's 2022 election: populist 'hustlers' versus establishment 'dynasties.' It explores how these visual frames shaped public understanding and attitudes toward the election.",
-  "research_direction_zh": "该研究属于政治传播与视觉媒体分析领域，关注数字时代选举报道中的视觉叙事策略及其社会影响。",
-  "research_direction_en": "This research falls within political communication and visual media analysis, focusing on visual narrative strategies in election coverage and their societal impacts in the digital age.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Populist Hustlers Versus Establishment Dynasties: The Contentious Visual Framing Dual of the 2022 Kenyan Election. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Framing (construction), General election, Primary election, Politics. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Populist Hustlers Versus Establishment Dynasties: The Contentious Visual Framing Dual of the 2022 Kenyan Election. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Framing (construction), General election, Primary election, Politics. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Framing (construction), General election, Primary election, Politics, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Framing (construction), General election, Primary election, Politics, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "内容分析",
-    "案例研究"
+    "interview"
   ],
   "method_tags_en": [
-    "content analysis",
-    "case study"
+    "interview"
   ]
 }

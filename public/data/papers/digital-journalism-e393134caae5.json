@@ -30,46 +30,72 @@
     "Integrated Marketing Communications",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:09:00.425Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:01:06.278Z",
   "language": "en",
   "raw_title": "The Role of Syndicated Content in Retaining Digital Newspaper Subscribers: Evidence from Clickstream and Subscription Data",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Clickstream",
+    "Newspaper",
+    "Business",
+    "Advertising",
+    "Internet privacy",
+    "Computer science",
+    "World Wide Web",
+    "The Internet",
+    "Web 2.0"
+  ],
   "title_en": "The Role of Syndicated Content in Retaining Digital Newspaper Subscribers: Evidence from Clickstream and Subscription Data",
   "title_zh": "联合内容在保留数字报纸订阅者中的作用：来自点击流和订阅数据的证据",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Clickstream",
+    "Newspaper",
+    "Business",
+    "Advertising",
+    "Internet privacy",
+    "Computer science",
+    "World Wide Web",
+    "The Internet",
+    "Web 2.0"
+  ],
+  "keywords_zh": [
+    "点击流",
+    "报纸",
+    "商业",
+    "广告",
+    "互联网隐私",
+    "计算机科学",
+    "万维网",
+    "互联网",
+    "Web 2.0"
+  ],
   "inferred_keywords_en": [
-    "syndicated content",
-    "digital newspapers",
-    "subscriber retention",
-    "clickstream data",
-    "subscription data",
-    "media consumption",
-    "content strategy"
+    "Digital journalism",
+    "Subscription retention",
+    "Content syndication",
+    "User behavior",
+    "Data analysis"
   ],
   "inferred_keywords_zh": [
-    "联合内容",
-    "数字报纸",
-    "订阅者保留",
-    "点击流数据",
-    "订阅数据",
-    "媒体消费",
-    "内容策略"
+    "数字新闻",
+    "订阅保留",
+    "内容联合",
+    "用户行为",
+    "数据分析"
   ],
-  "plain_summary_zh": "这项研究探讨了数字报纸如何使用来自其他媒体的联合内容来保持订阅者。研究人员分析了用户点击数据和订阅记录，以了解联合内容是否有助于减少订阅者流失。",
-  "plain_summary_en": "This study examines how digital newspapers use syndicated content from other media to retain subscribers. Researchers analyzed user clickstream data and subscription records to understand whether syndicated content helps reduce subscriber churn.",
-  "research_direction_zh": "数字媒体订阅模式与内容策略对用户保留的影响研究",
-  "research_direction_en": "Research on the impact of digital media subscription models and content strategies on user retention",
+  "plain_summary_zh": "这项研究探讨了数字报纸如何使用联合内容（即从其他来源获取的内容）来保持订阅者。通过分析用户的点击行为和订阅数据，研究发现联合内容可能影响用户是否继续订阅。这对于理解数字新闻商业模式和用户参与度很重要。",
+  "plain_summary_en": "This study examines how digital newspapers use syndicated content (content obtained from other sources) to retain subscribers. By analyzing user click behavior and subscription data, the research finds that syndicated content may influence whether users continue their subscriptions. This is important for understanding digital news business models and user engagement.",
+  "research_direction_zh": "研究数字新闻订阅模式中内容策略对用户保留的影响，结合商业和计算机科学视角，探索数据驱动的方法来优化订阅服务。",
+  "research_direction_en": "Investigating the impact of content strategies on user retention in digital news subscription models, integrating business and computer science perspectives to explore data-driven approaches for optimizing subscription services.",
   "method_tags_zh": [
     "数据分析",
-    "实证研究"
+    "点击流分析"
   ],
   "method_tags_en": [
-    "data analysis",
-    "empirical study"
+    "Data analysis",
+    "Clickstream analysis"
   ]
 }

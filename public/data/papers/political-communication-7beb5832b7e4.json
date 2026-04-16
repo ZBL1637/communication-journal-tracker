@@ -8,12 +8,14 @@
   "publishedAt": "2026-02-20T09:52:42.000Z",
   "authors": [
     "Paul Balluff",
-    "Justin Chun-ting Ho",
+    "Justin Chun‐ting Ho",
     "Johannes B. Gruber",
     "Sean Palicki",
     "Alexis Palmer",
     "Luca Rossi",
     "Irina Shklovski",
+    "Chung‐hong Chan",
+    "Justin Chun-ting Ho",
     "Chung-hong Chan",
     "Cologne",
     "Germanyb",
@@ -37,46 +39,49 @@
     "Copenhagen",
     "Denmarkg"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:07:36.283Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:59:09.027Z",
   "language": "en",
   "raw_title": "Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "The growing adoption of large language models (LLMs) in political communication research has prompted excitement but also concern. In this opinion piece, we offer an informed and critical overview of common LLM use cases in the field, including text analysis, synthetic data generation, and experiments. We argue that while these tools can be appealing, they often introduce serious epistemic, environ-mental, and infrastructural trade-offs that are insufficiently acknowledged. Beyond technical limitations, we highlight deeper issues related to scholarly autonomy, methodological opacity, resources inequality, and corporate dependency. Rather than dismissing innovation, we advocate for critical reflexivity and a renewed commitment to methodological rigor. While examining shortcomings of LLMs in current practices, we also point to viable alternatives. In essence, we call for a more deliberate, context-sensitive integration of LLMs in social science–one that prioritizes transparency, sustainability, and scientific integrity.",
+  "raw_keywords": [
+    "Political communication",
+    "Deliberation",
+    "Communication theory",
+    "Work (physics)",
+    "Agency (philosophy)",
+    "Risk communication"
+  ],
   "title_en": "Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research",
-  "title_zh": "更新、更大、更好？对传播研究中不加反思采用大语言模型的批判",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "Large Language Models",
-    "Communication Research",
-    "Critical Analysis",
-    "Methodological Critique",
-    "AI Adoption",
-    "Research Methodology",
-    "Technology Assessment"
+  "title_zh": "Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research",
+  "abstract_en": "The growing adoption of large language models (LLMs) in political communication research has prompted excitement but also concern. In this opinion piece, we offer an informed and critical overview of common LLM use cases in the field, including text analysis, synthetic data generation, and experiments. We argue that while these tools can be appealing, they often introduce serious epistemic, environ-mental, and infrastructural trade-offs that are insufficiently acknowledged. Beyond technical limitations, we highlight deeper issues related to scholarly autonomy, methodological opacity, resources inequality, and corporate dependency. Rather than dismissing innovation, we advocate for critical reflexivity and a renewed commitment to methodological rigor. While examining shortcomings of LLMs in current practices, we also point to viable alternatives. In essence, we call for a more deliberate, context-sensitive integration of LLMs in social science–one that prioritizes transparency, sustainability, and scientific integrity.",
+  "abstract_zh": "The growing adoption of large language models (LLMs) in political communication research has prompted excitement but also concern. In this opinion piece, we offer an informed and critical overview of common LLM use cases in the field, including text analysis, synthetic data generation, and experiments. We argue that while these tools can be appealing, they often introduce serious epistemic, environ-mental, and infrastructural trade-offs that are insufficiently acknowledged. Beyond technical limitations, we highlight deeper issues related to scholarly autonomy, methodological opacity, resources inequality, and corporate dependency. Rather than dismissing innovation, we advocate for critical reflexivity and a renewed commitment to methodological rigor. While examining shortcomings of LLMs in current practices, we also point to viable alternatives. In essence, we call for a more deliberate, context-sensitive integration of LLMs in social science–one that prioritizes transparency, sustainability, and scientific integrity.",
+  "keywords_en": [
+    "Political communication",
+    "Deliberation",
+    "Communication theory",
+    "Work (physics)",
+    "Agency (philosophy)",
+    "Risk communication"
   ],
-  "inferred_keywords_zh": [
-    "大语言模型",
-    "传播研究",
-    "批判分析",
-    "方法论批判",
-    "人工智能采用",
-    "研究方法",
-    "技术评估"
+  "keywords_zh": [
+    "Political communication",
+    "Deliberation",
+    "Communication theory",
+    "Work (physics)",
+    "Agency (philosophy)",
+    "Risk communication"
   ],
-  "plain_summary_zh": "这篇文章批判性地审视了传播研究领域不加反思地采用大语言模型（如ChatGPT）的趋势。作者们质疑了那种认为更新、更大的模型就必然更好的假设，指出这种盲目采用可能存在的问题和风险。文章呼吁研究者在使用这些先进技术时要更加审慎和有批判性。",
-  "plain_summary_en": "This article critically examines the trend of unreflective adoption of large language models (like ChatGPT) in communication research. The authors question the assumption that newer and larger models are necessarily better, pointing out potential problems and risks of this uncritical adoption. The paper calls for more careful and critical use of these advanced technologies by researchers.",
-  "research_direction_zh": "传播研究方法论中的技术批判与反思，关注人工智能工具在学术研究中的合理应用与评估。",
-  "research_direction_en": "Critical reflection on technology in communication research methodology, focusing on appropriate application and evaluation of AI tools in academic research.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Political communication, Deliberation, Communication theory, Work (physics). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Political communication, Deliberation, Communication theory, Work (physics). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Political communication, Deliberation, Communication theory, Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Political communication, Deliberation, Communication theory, Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "批判分析",
-    "文献综述"
+    "experiment"
   ],
   "method_tags_en": [
-    "critical analysis",
-    "literature review"
+    "experiment"
   ]
 }

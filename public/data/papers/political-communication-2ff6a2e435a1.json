@@ -11,48 +11,58 @@
     "Rosalynd Southern",
     "Liverpool"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:05:41.172Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:56:49.060Z",
   "language": "en",
   "raw_title": "Twitter to Yell at Them, Facebook to Ask Questions and Instagram to Show Support? Exploring Platform Effects in Responses to Women Politicians On Social Media",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Social media",
+    "Ask price",
+    "Politics",
+    "The Internet",
+    "Affect (linguistics)"
+  ],
   "title_en": "Twitter to Yell at Them, Facebook to Ask Questions and Instagram to Show Support? Exploring Platform Effects in Responses to Women Politicians On Social Media",
-  "title_zh": "在推特上对他们大喊，在脸书上提问，在Instagram上表示支持？探索社交媒体上对女性政治家的回应中的平台效应",
+  "title_zh": "在推特上对他们大喊大叫，在脸书上提问，在Instagram上表示支持？探索社交媒体上对女性政治人物回应的平台效应",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Social media",
+    "Ask price",
+    "Politics",
+    "The Internet",
+    "Affect (linguistics)"
+  ],
+  "keywords_zh": [
+    "社交媒体",
+    "询问价格",
+    "政治",
+    "互联网",
+    "情感（语言学）"
+  ],
   "inferred_keywords_en": [
-    "social media platforms",
     "women politicians",
     "platform effects",
-    "political communication",
-    "user responses",
-    "Twitter",
-    "Facebook",
-    "Instagram"
+    "online communication",
+    "gender politics",
+    "digital media"
   ],
   "inferred_keywords_zh": [
-    "社交媒体平台",
-    "女性政治家",
+    "女性政治人物",
     "平台效应",
-    "政治传播",
-    "用户回应",
-    "推特",
-    "脸书",
-    "Instagram"
+    "在线交流",
+    "性别政治",
+    "数字媒体"
   ],
-  "plain_summary_zh": "这项研究探讨了不同社交媒体平台（如推特、脸书和Instagram）如何影响人们对女性政治家的回应方式。研究发现，人们可能在推特上表达愤怒，在脸书上提问，而在Instagram上表示支持，这显示了平台特性如何塑造互动模式。",
-  "plain_summary_en": "This study explores how different social media platforms (like Twitter, Facebook, and Instagram) affect how people respond to women politicians. It finds that people might express anger on Twitter, ask questions on Facebook, and show support on Instagram, showing how platform features shape interaction patterns.",
-  "research_direction_zh": "研究社交媒体平台如何塑造政治沟通和公众参与，特别关注性别和平台特性的交互作用。",
-  "research_direction_en": "Investigating how social media platforms shape political communication and public engagement, with a focus on the interaction between gender and platform characteristics.",
+  "plain_summary_zh": "这项研究探讨了人们在不同的社交媒体平台上如何回应女性政治人物。研究发现，人们在推特上更倾向于发表批评性言论，在脸书上更可能提问，而在Instagram上则更多表达支持。这表明不同的社交媒体平台会影响人们与女性政治人物互动的方式。",
+  "plain_summary_en": "This research examines how people respond to women politicians on different social media platforms. The study finds that people tend to post critical comments on Twitter, ask questions on Facebook, and show support on Instagram. This suggests that different social media platforms shape how people interact with women politicians.",
+  "research_direction_zh": "探索社交媒体平台如何影响公众对政治人物的互动模式，特别关注性别因素在数字政治沟通中的作用。",
+  "research_direction_en": "Investigating how social media platforms shape public interactions with politicians, with particular focus on gender dynamics in digital political communication.",
   "method_tags_zh": [
-    "内容分析",
-    "案例研究"
+    "内容分析"
   ],
   "method_tags_en": [
-    "content analysis",
-    "case study"
+    "content analysis"
   ]
 }

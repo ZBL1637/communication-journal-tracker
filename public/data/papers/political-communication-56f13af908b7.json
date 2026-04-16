@@ -11,38 +11,47 @@
     "Martin Vinæs Larsen",
     "Aarhus"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:06:53.110Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:58:11.505Z",
   "language": "en",
   "raw_title": "Do Beliefs Echo? On the Persistent Effects of Misinformation After Effective Corrections",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "Does misinformation continue to influence political attitudes even after it has been effectively corrected? According to some influential studies, the answer is yes: while corrections may eliminate belief in false claims, they often fail to erase their attitudinal impact –a phenomenon known as “belief echoes.” To evaluate this claim, we conducted a preregistered, high-powered replication of two out of three experiments from a widely cited study which introduced the phenomenon, using the same treatment materials and a much larger, more representative sample. In the first experiment, the correction did not fully dispel belief in the misinformation, making it impossible to isolate a belief echo from the direct effects of continued belief. In the second, where the correction was demonstrably effective, we find no evidence of a lingering attitudinal effect.",
+  "raw_keywords": [
+    "Misinformation",
+    "Phenomenon",
+    "Politics",
+    "Motivated reasoning",
+    "Disinformation",
+    "Echo (communications protocol)"
+  ],
   "title_en": "Do Beliefs Echo? On the Persistent Effects of Misinformation After Effective Corrections",
-  "title_zh": "信念会回响吗？论有效纠正后错误信息的持续影响",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "misinformation",
-    "corrections",
-    "belief persistence",
-    "political communication",
-    "cognitive bias"
+  "title_zh": "Do Beliefs Echo? On the Persistent Effects of Misinformation After Effective Corrections",
+  "abstract_en": "Does misinformation continue to influence political attitudes even after it has been effectively corrected? According to some influential studies, the answer is yes: while corrections may eliminate belief in false claims, they often fail to erase their attitudinal impact –a phenomenon known as “belief echoes.” To evaluate this claim, we conducted a preregistered, high-powered replication of two out of three experiments from a widely cited study which introduced the phenomenon, using the same treatment materials and a much larger, more representative sample. In the first experiment, the correction did not fully dispel belief in the misinformation, making it impossible to isolate a belief echo from the direct effects of continued belief. In the second, where the correction was demonstrably effective, we find no evidence of a lingering attitudinal effect.",
+  "abstract_zh": "Does misinformation continue to influence political attitudes even after it has been effectively corrected? According to some influential studies, the answer is yes: while corrections may eliminate belief in false claims, they often fail to erase their attitudinal impact –a phenomenon known as “belief echoes.” To evaluate this claim, we conducted a preregistered, high-powered replication of two out of three experiments from a widely cited study which introduced the phenomenon, using the same treatment materials and a much larger, more representative sample. In the first experiment, the correction did not fully dispel belief in the misinformation, making it impossible to isolate a belief echo from the direct effects of continued belief. In the second, where the correction was demonstrably effective, we find no evidence of a lingering attitudinal effect.",
+  "keywords_en": [
+    "Misinformation",
+    "Phenomenon",
+    "Politics",
+    "Motivated reasoning",
+    "Disinformation",
+    "Echo (communications protocol)"
   ],
-  "inferred_keywords_zh": [
-    "错误信息",
-    "纠正",
-    "信念持续性",
-    "政治传播",
-    "认知偏差"
+  "keywords_zh": [
+    "Misinformation",
+    "Phenomenon",
+    "Politics",
+    "Motivated reasoning",
+    "Disinformation",
+    "Echo (communications protocol)"
   ],
-  "plain_summary_zh": "这项研究探讨了为什么即使人们接受了有效的纠正，错误信息仍然可能继续影响他们的信念。它关注的是纠正后错误信息的“回响效应”，即错误信息在记忆和判断中的持久性。",
-  "plain_summary_en": "This study explores why misinformation can continue to influence people's beliefs even after they receive effective corrections. It focuses on the 'echo effect' of misinformation, meaning its persistence in memory and judgment post-correction.",
-  "research_direction_zh": "政治传播中的错误信息纠正与信念改变研究，关注认知心理学与传播学的交叉领域。",
-  "research_direction_en": "Research on misinformation correction and belief change in political communication, focusing on the intersection of cognitive psychology and communication studies.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Do Beliefs Echo? On the Persistent Effects of Misinformation After Effective Corrections. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Misinformation, Phenomenon, Politics, Motivated reasoning. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Do Beliefs Echo? On the Persistent Effects of Misinformation After Effective Corrections. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Misinformation, Phenomenon, Politics, Motivated reasoning. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Misinformation, Phenomenon, Politics, Motivated reasoning, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Misinformation, Phenomenon, Politics, Motivated reasoning, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "实验"
+    "experiment"
   ],
   "method_tags_en": [
     "experiment"

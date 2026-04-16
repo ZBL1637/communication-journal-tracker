@@ -15,46 +15,66 @@
     "Camperdown",
     "Australia"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:13:15.738Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:06:33.590Z",
   "language": "en",
   "raw_title": "Taking Care Online: Reconceptualising Professional Wellbeing for Social Media Engagement in Journalism",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Journalism",
+    "Social media",
+    "Public engagement",
+    "Citizen journalism",
+    "Social engagement",
+    "News media",
+    "Government (linguistics)"
+  ],
   "title_en": "Taking Care Online: Reconceptualising Professional Wellbeing for Social Media Engagement in Journalism",
   "title_zh": "在线关怀：重新概念化新闻业社交媒体参与中的职业幸福感",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "journalism",
-    "social media",
-    "professional wellbeing",
-    "digital journalism",
-    "mental health",
-    "online engagement",
-    "workplace stress"
+  "keywords_en": [
+    "Journalism",
+    "Social media",
+    "Public engagement",
+    "Citizen journalism",
+    "Social engagement",
+    "News media",
+    "Government (linguistics)"
   ],
-  "inferred_keywords_zh": [
+  "keywords_zh": [
     "新闻业",
     "社交媒体",
+    "公众参与",
+    "公民新闻",
+    "社会参与",
+    "新闻媒体",
+    "政府（语言学）"
+  ],
+  "inferred_keywords_en": [
+    "Professional wellbeing",
+    "Digital journalism",
+    "Mental health",
+    "Online engagement",
+    "Journalistic practice"
+  ],
+  "inferred_keywords_zh": [
     "职业幸福感",
     "数字新闻",
     "心理健康",
     "在线参与",
-    "工作压力"
+    "新闻实践"
   ],
-  "plain_summary_zh": "这篇文章探讨了新闻工作者在使用社交媒体时如何保持职业幸福感。它建议重新思考什么是“职业幸福感”，特别是在数字时代，记者们经常需要在网上与公众互动，这可能带来压力和挑战。",
-  "plain_summary_en": "This article explores how journalists can maintain professional wellbeing while using social media. It suggests rethinking what 'professional wellbeing' means, especially in the digital age where journalists often engage with the public online, which can bring stress and challenges.",
-  "research_direction_zh": "研究新闻业在数字环境下的职业健康问题，特别是社交媒体使用对记者心理和工作生活的影响，旨在提出新的理论框架和实践建议。",
-  "research_direction_en": "Investigating professional health issues in journalism within digital environments, particularly the impact of social media use on journalists' psychology and work-life, aiming to propose new theoretical frameworks and practical recommendations.",
+  "plain_summary_zh": "这篇文章探讨新闻工作者在使用社交媒体与公众互动时如何保持职业幸福感。它提出需要重新思考什么是“职业幸福感”，因为社交媒体带来了新的压力和挑战。",
+  "plain_summary_en": "This article examines how journalists can maintain professional wellbeing while using social media to engage with the public. It suggests rethinking what 'professional wellbeing' means because social media creates new pressures and challenges.",
+  "research_direction_zh": "研究数字时代新闻工作者的心理健康和职业适应策略，特别是在社交媒体环境下的工作压力管理。",
+  "research_direction_en": "Investigating mental health and professional adaptation strategies for journalists in the digital age, particularly focusing on managing work pressures in social media environments.",
   "method_tags_zh": [
     "文献综述",
     "案例分析"
   ],
   "method_tags_en": [
-    "literature review",
-    "case study"
+    "Literature review",
+    "Case study"
   ]
 }

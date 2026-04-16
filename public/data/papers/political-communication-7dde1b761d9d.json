@@ -11,38 +11,54 @@
     "Aarhus",
     "DenmarkMathias Bukh Vestergaard (Ph.D."
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:06:39.395Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:58:07.742Z",
   "language": "en",
   "raw_title": "A Credible Change: How Parties Use Election Promises to Counteract The Loss of Reputation When They Dilute Their Policy Positions",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Reputation",
+    "Federal election",
+    "Government (linguistics)",
+    "Public policy",
+    "Politics"
+  ],
   "title_en": "A Credible Change: How Parties Use Election Promises to Counteract The Loss of Reputation When They Dilute Their Policy Positions",
-  "title_zh": "可信的改变：政党如何利用竞选承诺来抵消政策立场淡化时的声誉损失",
+  "title_zh": "可信的改变：政党如何利用选举承诺来抵消政策立场淡化时的声誉损失",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Reputation",
+    "Federal election",
+    "Government (linguistics)",
+    "Public policy",
+    "Politics"
+  ],
+  "keywords_zh": [
+    "声誉",
+    "联邦选举",
+    "政府（语言学）",
+    "公共政策",
+    "政治"
+  ],
   "inferred_keywords_en": [
-    "political communication",
-    "election promises",
-    "reputation management",
-    "policy dilution",
-    "party strategy",
-    "credibility"
+    "Election promises",
+    "Policy dilution",
+    "Political communication",
+    "Credibility",
+    "Party strategy"
   ],
   "inferred_keywords_zh": [
-    "政治传播",
-    "竞选承诺",
-    "声誉管理",
+    "选举承诺",
     "政策淡化",
-    "政党策略",
-    "可信度"
+    "政治传播",
+    "可信度",
+    "政党策略"
   ],
-  "plain_summary_zh": "这项研究探讨了当政党淡化其政策立场时，如何通过竞选承诺来维护自己的声誉。它解释了政党如何利用具体的承诺来保持选民信任，即使他们的整体政策方向变得不那么明确。",
-  "plain_summary_en": "This study explores how political parties use election promises to maintain their reputation when they dilute their policy positions. It explains how parties employ specific promises to retain voter trust, even as their overall policy direction becomes less clear.",
-  "research_direction_zh": "政治传播中政党策略与选民信任的动态关系研究，特别关注声誉管理和政策沟通机制。",
-  "research_direction_en": "Research on the dynamic relationship between party strategies and voter trust in political communication, with a focus on reputation management and policy communication mechanisms.",
+  "plain_summary_zh": "这项研究探讨了当政党改变或淡化其政策立场时，如何通过选举承诺来维护自己的声誉。研究发现，政党会使用具体的承诺来让选民相信他们的改变是可信的，从而避免声誉受损。",
+  "plain_summary_en": "This study explores how political parties use election promises to maintain their reputation when they change or dilute their policy positions. It finds that parties use specific promises to convince voters that their changes are credible, thus avoiding damage to their reputation.",
+  "research_direction_zh": "研究关注政治传播中政党如何通过策略性沟通（如选举承诺）来管理声誉和应对政策变化，属于政治心理学和战略传播的交叉领域。",
+  "research_direction_en": "The research focuses on how political parties manage reputation and respond to policy changes through strategic communication (e.g., election promises), intersecting political psychology and strategic communication.",
   "method_tags_zh": [
     "内容分析",
     "案例研究"

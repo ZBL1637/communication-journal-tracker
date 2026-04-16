@@ -12,44 +12,70 @@
     "Oregon",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:12:19.413Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:05:22.415Z",
   "language": "en",
   "raw_title": "Conceptualizing Fidelity: Reimagining Contemporary Visual Journalism’s Occupational Ideologies",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Ideology",
+    "Narrative",
+    "Work (physics)",
+    "Qualitative research",
+    "Politics",
+    "Field (mathematics)",
+    "Perspective (graphical)"
+  ],
   "title_en": "Conceptualizing Fidelity: Reimagining Contemporary Visual Journalism’s Occupational Ideologies",
   "title_zh": "概念化保真度：重新构想当代视觉新闻的职业意识形态",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Ideology",
+    "Narrative",
+    "Work (physics)",
+    "Qualitative research",
+    "Politics",
+    "Field (mathematics)",
+    "Perspective (graphical)"
+  ],
+  "keywords_zh": [
+    "意识形态",
+    "叙事",
+    "工作（物理学）",
+    "定性研究",
+    "政治",
+    "领域（数学）",
+    "视角（图形）"
+  ],
   "inferred_keywords_en": [
-    "visual journalism",
-    "occupational ideology",
-    "fidelity",
-    "journalism ethics",
-    "media studies",
-    "digital journalism"
+    "Visual journalism",
+    "Occupational ideology",
+    "Media studies",
+    "Journalism ethics",
+    "Professional identity",
+    "Digital media",
+    "Theory"
   ],
   "inferred_keywords_zh": [
     "视觉新闻",
     "职业意识形态",
-    "保真度",
-    "新闻伦理",
     "媒体研究",
-    "数字新闻"
+    "新闻伦理",
+    "职业身份",
+    "数字媒体",
+    "理论"
   ],
-  "plain_summary_zh": "这篇文章探讨了当代视觉新闻中“保真度”的概念，并重新思考了新闻工作者的职业信念和价值观。它关注在数字时代，新闻工作者如何理解和实践真实性、准确性和伦理标准。",
-  "plain_summary_en": "This article explores the concept of 'fidelity' in contemporary visual journalism and rethinks the professional beliefs and values of journalists. It focuses on how journalists understand and practice truthfulness, accuracy, and ethical standards in the digital age.",
-  "research_direction_zh": "研究数字新闻时代视觉新闻的职业意识形态和伦理框架，探讨保真度概念在新闻实践中的应用和演变。",
-  "research_direction_en": "Investigating the occupational ideologies and ethical frameworks of visual journalism in the digital news era, exploring the application and evolution of the fidelity concept in journalistic practice.",
+  "plain_summary_zh": "这篇文章探讨了当代视觉新闻工作者如何理解和实践他们的职业理念。它研究记者在工作中如何平衡真实报道与个人或组织观点，特别是在数字时代面临的新挑战。",
+  "plain_summary_en": "This article examines how contemporary visual journalists understand and practice their professional beliefs. It explores how reporters balance truthful reporting with personal or organizational perspectives, especially in the face of new challenges in the digital age.",
+  "research_direction_zh": "该研究属于媒体研究和新闻学领域，关注职业意识形态在数字新闻环境中的演变和影响。",
+  "research_direction_en": "This research falls within media studies and journalism, focusing on the evolution and impact of occupational ideologies in digital news environments.",
   "method_tags_zh": [
-    "概念分析",
-    "文献综述"
+    "定性研究",
+    "理论分析"
   ],
   "method_tags_en": [
-    "conceptual analysis",
-    "literature review"
+    "Qualitative research",
+    "Theoretical analysis"
   ]
 }

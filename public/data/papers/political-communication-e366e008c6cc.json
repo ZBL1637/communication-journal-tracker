@@ -7,9 +7,10 @@
   "issn": "1058-4609",
   "publishedAt": "2025-07-23T06:02:57.000Z",
   "authors": [
-    "R. Kelly Garrett",
+    "R. Garrett",
     "Robert M. Bond",
     "Erik C. Nisbet",
+    "R. Kelly Garrett",
     "R. Kelly Garrett Robert M. Bond Erik C. Nisbet",
     "Ohio State",
     "Columbus",
@@ -19,44 +20,52 @@
     "Evanston",
     "Illinois"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:05:10.747Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:56:10.545Z",
   "language": "en",
   "raw_title": "Self-Reported Exposure and Beliefs About Misinformation Across a U.S. Presidential Election Cycle: Expressive Responding and Motivated Reasoning",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Misinformation",
+    "Presidential election",
+    "Psychology",
+    "Social psychology",
+    "Presidential system",
+    "Political science",
+    "Politics"
+  ],
   "title_en": "Self-Reported Exposure and Beliefs About Misinformation Across a U.S. Presidential Election Cycle: Expressive Responding and Motivated Reasoning",
-  "title_zh": "美国大选周期中自我报告的错误信息接触与信念：表达性回应与动机性推理",
+  "title_zh": "Self-Reported Exposure and Beliefs About Misinformation Across a U.S. Presidential Election Cycle: Expressive Responding and Motivated Reasoning",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "misinformation",
-    "political communication",
-    "election cycle",
-    "expressive responding",
-    "motivated reasoning",
-    "self-reported exposure",
-    "belief formation"
+  "keywords_en": [
+    "Misinformation",
+    "Presidential election",
+    "Psychology",
+    "Social psychology",
+    "Presidential system",
+    "Political science",
+    "Politics"
   ],
-  "inferred_keywords_zh": [
-    "错误信息",
-    "政治传播",
-    "选举周期",
-    "表达性回应",
-    "动机性推理",
-    "自我报告接触",
-    "信念形成"
+  "keywords_zh": [
+    "Misinformation",
+    "Presidential election",
+    "Psychology",
+    "Social psychology",
+    "Presidential system",
+    "Political science",
+    "Politics"
   ],
-  "plain_summary_zh": "这项研究调查了美国大选期间人们如何报告自己接触错误信息的情况，以及他们对此的信念。研究发现，人们可能会因为表达自己的政治立场或为了维护已有观点而调整自己的回答和信念。",
-  "plain_summary_en": "This study examines how people report their exposure to misinformation during a U.S. presidential election and what they believe about it. It finds that people might adjust their responses and beliefs to express their political views or to protect their existing opinions.",
-  "research_direction_zh": "探索政治传播中错误信息接触与信念形成的心理机制，特别是在选举等高度政治化环境下的表达性行为和动机性推理过程。",
-  "research_direction_en": "Investigating the psychological mechanisms behind misinformation exposure and belief formation in political communication, particularly focusing on expressive behavior and motivated reasoning in highly politicized contexts like elections.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Self-Reported Exposure and Beliefs About Misinformation Across a U.S. Presidential Election Cycle: Expressive Responding and Motivated Reasoning. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Misinformation, Presidential election, Psychology, Social psychology. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Self-Reported Exposure and Beliefs About Misinformation Across a U.S. Presidential Election Cycle: Expressive Responding and Motivated Reasoning. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Misinformation, Presidential election, Psychology, Social psychology. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Misinformation, Presidential election, Psychology, Social psychology, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Misinformation, Presidential election, Psychology, Social psychology, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "调查"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "survey"
+    "mixed methods"
   ]
 }

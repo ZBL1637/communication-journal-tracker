@@ -14,46 +14,49 @@
     "Oslo",
     "Norway"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:14:25.133Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:08:07.639Z",
   "language": "en",
   "raw_title": "Connecting to Local Publics Through Media: An in-Depth Study of Local Media Use and Public Connection",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "The places where citizens live their everyday lives constitute an important yet under-researched context for public connection. This paper presents an in-depth analysis of how citizens’ everyday media use entails connecting to local publics, and how an orientation towards local publics constitutes a component of public connection more broadly. Methodologically, the paper draws on recurring interviews and logging of the weekly media use and information practices of 24 citizens, thus combining insights on people’s everyday media use with their experiences of media, platforms, and content. The findings highlight the importance of media for citizens’ local public connection and the value of accounting for the local level in researching public connection, suggesting that the local level is more important to public connection than what is generally accounted for in the literature, which to some extent have devalued important aspects of ordinary citizens’ public connection.",
+  "raw_keywords": [
+    "Publics",
+    "Connection (principal bundle)",
+    "Media relations",
+    "Work (physics)",
+    "News media",
+    "Social media"
+  ],
   "title_en": "Connecting to Local Publics Through Media: An in-Depth Study of Local Media Use and Public Connection",
-  "title_zh": "通过媒体连接本地公众：本地媒体使用与公共连接的深入研究",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "local media",
-    "public connection",
-    "media use",
-    "community engagement",
-    "digital journalism",
-    "media studies"
+  "title_zh": "Connecting to Local Publics Through Media: An in-Depth Study of Local Media Use and Public Connection",
+  "abstract_en": "The places where citizens live their everyday lives constitute an important yet under-researched context for public connection. This paper presents an in-depth analysis of how citizens’ everyday media use entails connecting to local publics, and how an orientation towards local publics constitutes a component of public connection more broadly. Methodologically, the paper draws on recurring interviews and logging of the weekly media use and information practices of 24 citizens, thus combining insights on people’s everyday media use with their experiences of media, platforms, and content. The findings highlight the importance of media for citizens’ local public connection and the value of accounting for the local level in researching public connection, suggesting that the local level is more important to public connection than what is generally accounted for in the literature, which to some extent have devalued important aspects of ordinary citizens’ public connection.",
+  "abstract_zh": "The places where citizens live their everyday lives constitute an important yet under-researched context for public connection. This paper presents an in-depth analysis of how citizens’ everyday media use entails connecting to local publics, and how an orientation towards local publics constitutes a component of public connection more broadly. Methodologically, the paper draws on recurring interviews and logging of the weekly media use and information practices of 24 citizens, thus combining insights on people’s everyday media use with their experiences of media, platforms, and content. The findings highlight the importance of media for citizens’ local public connection and the value of accounting for the local level in researching public connection, suggesting that the local level is more important to public connection than what is generally accounted for in the literature, which to some extent have devalued important aspects of ordinary citizens’ public connection.",
+  "keywords_en": [
+    "Publics",
+    "Connection (principal bundle)",
+    "Media relations",
+    "Work (physics)",
+    "News media",
+    "Social media"
   ],
-  "inferred_keywords_zh": [
-    "本地媒体",
-    "公共连接",
-    "媒体使用",
-    "社区参与",
-    "数字新闻学",
-    "媒体研究"
+  "keywords_zh": [
+    "Publics",
+    "Connection (principal bundle)",
+    "Media relations",
+    "Work (physics)",
+    "News media",
+    "Social media"
   ],
-  "plain_summary_zh": "这项研究探讨了人们如何使用本地媒体来与社区建立联系。它深入调查了本地媒体的使用习惯，以及这些习惯如何帮助人们感觉自己是社区的一部分。",
-  "plain_summary_en": "This study explores how people use local media to connect with their communities. It investigates local media usage habits and how these habits help people feel part of their community.",
-  "research_direction_zh": "该研究属于数字新闻学和媒体研究领域，关注本地媒体在促进社区参与和公共连接中的作用。",
-  "research_direction_en": "This research falls within digital journalism and media studies, focusing on the role of local media in fostering community engagement and public connection.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Connecting to Local Publics Through Media: An in-Depth Study of Local Media Use and Public Connection. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Publics, Connection (principal bundle), Media relations, Work (physics). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Connecting to Local Publics Through Media: An in-Depth Study of Local Media Use and Public Connection. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Publics, Connection (principal bundle), Media relations, Work (physics). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Publics, Connection (principal bundle), Media relations, Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Publics, Connection (principal bundle), Media relations, Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "调查",
-    "访谈",
-    "案例研究"
+    "interview"
   ],
   "method_tags_en": [
-    "survey",
-    "interview",
-    "case study"
+    "interview"
   ]
 }

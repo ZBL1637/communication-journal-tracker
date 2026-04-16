@@ -19,40 +19,48 @@
     "United States",
     "Pittsburghc Political Science"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:07:19.658Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:58:45.061Z",
   "language": "en",
   "raw_title": "Elected officials’ Online Sharing of Misinformation: Institutional and Ideological Checks",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Ideology",
+    "Power sharing",
+    "Politics"
+  ],
   "title_en": "Elected officials’ Online Sharing of Misinformation: Institutional and Ideological Checks",
   "title_zh": "民选官员在线分享错误信息：制度与意识形态制约",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Ideology",
+    "Power sharing",
+    "Politics"
+  ],
+  "keywords_zh": [
+    "意识形态",
+    "权力分享",
+    "政治"
+  ],
   "inferred_keywords_en": [
     "misinformation",
-    "elected officials",
     "social media",
     "political communication",
-    "institutional checks",
-    "ideological factors",
-    "online behavior"
+    "institutional constraints",
+    "elected officials"
   ],
   "inferred_keywords_zh": [
     "错误信息",
-    "民选官员",
     "社交媒体",
     "政治传播",
-    "制度制约",
-    "意识形态因素",
-    "在线行为"
+    "制度约束",
+    "民选官员"
   ],
-  "plain_summary_zh": "这项研究探讨了民选官员在社交媒体上分享错误信息的行为，并分析了制度和意识形态因素如何影响或制约这种行为。",
-  "plain_summary_en": "This study examines how elected officials share misinformation on social media and analyzes how institutional and ideological factors influence or constrain this behavior.",
-  "research_direction_zh": "政治传播中数字平台上的错误信息传播机制及其社会影响研究",
-  "research_direction_en": "Research on misinformation dissemination mechanisms on digital platforms in political communication and their societal impacts",
+  "plain_summary_zh": "这项研究探讨了民选官员在网上分享错误信息的行为，并分析了制度和意识形态因素如何制约这种行为。",
+  "plain_summary_en": "This study examines how elected officials share misinformation online and analyzes how institutional and ideological factors constrain this behavior.",
+  "research_direction_zh": "政治传播中错误信息传播的制约机制研究，关注制度与意识形态对官员行为的影响。",
+  "research_direction_en": "Research on constraint mechanisms of misinformation dissemination in political communication, focusing on institutional and ideological influences on official behavior.",
   "method_tags_zh": [
     "内容分析",
     "案例研究"

@@ -7,9 +7,10 @@
   "issn": "2167-0811",
   "publishedAt": "2025-06-10T03:18:51.000Z",
   "authors": [
-    "Gregory P. Perreault",
+    "Gregory Perreault",
     "Seth C. Lewis",
     "Maxwell Ely",
+    "Gregory P. Perreault",
     "Gregory P.",
     "Perreault Seth",
     "C. Lewis",
@@ -20,48 +21,75 @@
     "Oregon",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:09:37.233Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:01:46.010Z",
   "language": "en",
   "raw_title": "ChatGPT, Generative AI, and an Epistemic Opportunity for Journalistic Authority",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Generative grammar",
+    "Epistemology",
+    "Sociology",
+    "Political science",
+    "Public relations",
+    "Computer science",
+    "Artificial intelligence",
+    "Philosophy"
+  ],
   "title_en": "ChatGPT, Generative AI, and an Epistemic Opportunity for Journalistic Authority",
   "title_zh": "ChatGPT、生成式人工智能与新闻权威的认知机遇",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Generative grammar",
+    "Epistemology",
+    "Sociology",
+    "Political science",
+    "Public relations",
+    "Computer science",
+    "Artificial intelligence",
+    "Philosophy"
+  ],
+  "keywords_zh": [
+    "生成语法",
+    "认识论",
+    "社会学",
+    "政治学",
+    "公共关系",
+    "计算机科学",
+    "人工智能",
+    "哲学"
+  ],
   "inferred_keywords_en": [
+    "Journalism",
     "ChatGPT",
     "Generative AI",
-    "Journalistic Authority",
-    "Epistemology",
-    "Digital Journalism",
-    "Artificial Intelligence",
-    "Media Trust",
-    "News Production"
+    "Media studies",
+    "Digital media",
+    "Trust",
+    "Technology",
+    "Communication"
   ],
   "inferred_keywords_zh": [
+    "新闻学",
     "ChatGPT",
     "生成式人工智能",
-    "新闻权威",
-    "认识论",
-    "数字新闻",
-    "人工智能",
-    "媒体信任",
-    "新闻生产"
+    "媒体研究",
+    "数字媒体",
+    "信任",
+    "技术",
+    "传播学"
   ],
-  "plain_summary_zh": "这篇文章探讨了像ChatGPT这样的生成式人工智能工具如何为新闻业带来新的机遇，帮助记者建立和维持权威地位。它讨论了人工智能如何影响新闻的可信度和公众对媒体的信任。",
-  "plain_summary_en": "This article explores how generative AI tools like ChatGPT present new opportunities for journalism to build and maintain authority. It discusses how AI impacts news credibility and public trust in media.",
-  "research_direction_zh": "研究数字时代新闻权威的演变，特别是人工智能技术如何重塑新闻生产、分发和可信度评估。",
-  "research_direction_en": "Investigating the evolution of journalistic authority in the digital age, particularly how AI technologies reshape news production, distribution, and credibility assessment.",
+  "plain_summary_zh": "这篇论文探讨了像ChatGPT这样的生成式人工智能如何为新闻业带来新的机遇，帮助记者和媒体机构在数字时代重新建立权威和信任。文章认为，人工智能技术可以成为新闻业应对挑战的工具，而不是威胁。",
+  "plain_summary_en": "This paper explores how generative AI like ChatGPT presents new opportunities for journalism to rebuild authority and trust in the digital age. It argues that AI technology can serve as a tool for journalism to address challenges rather than a threat.",
+  "research_direction_zh": "研究关注人工智能技术对新闻业权威和信任的影响，探讨在数字媒体环境中如何利用新技术重塑新闻实践和社会角色。",
+  "research_direction_en": "The research examines the impact of AI technology on journalistic authority and trust, exploring how new technologies can reshape news practices and social roles in digital media environments.",
   "method_tags_zh": [
     "理论分析",
-    "案例研究"
+    "文献综述"
   ],
   "method_tags_en": [
-    "theoretical analysis",
-    "case study"
+    "Theoretical analysis",
+    "Literature review"
   ]
 }

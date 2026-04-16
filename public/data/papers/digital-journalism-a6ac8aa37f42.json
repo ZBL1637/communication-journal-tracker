@@ -9,6 +9,9 @@
   "authors": [
     "Jonas C.",
     "L. Valente",
+    "Renata S.",
+    "M. Gomes",
+    "F Paulino",
     "Renata de",
     "Oliveira Miranda Gomes",
     "Fernando Oliveira Paulino",
@@ -22,46 +25,49 @@
     "Brasilia",
     "Brazil"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:13:00.269Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:06:14.213Z",
   "language": "en",
   "raw_title": "Efforts for Counterbalancing Platform Power Through Regulation: Online News Bills and Platform Dependency Disentanglement Lawmaking Initiatives in Brazil Between 2019 and 2025",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Lawmaking",
+    "Dependency (UML)",
+    "Power (physics)",
+    "Legislature",
+    "Power sharing",
+    "Politics"
+  ],
   "title_en": "Efforts for Counterbalancing Platform Power Through Regulation: Online News Bills and Platform Dependency Disentanglement Lawmaking Initiatives in Brazil Between 2019 and 2025",
-  "title_zh": "通过监管平衡平台权力的努力：2019年至2025年巴西的在线新闻法案与平台依赖解绑立法倡议",
+  "title_zh": "Efforts for Counterbalancing Platform Power Through Regulation: Online News Bills and Platform Dependency Disentanglement Lawmaking Initiatives in Brazil Between 2019 and 2025",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "platform regulation",
-    "digital journalism",
-    "Brazilian legislation",
-    "online news bills",
-    "platform dependency",
-    "media policy",
-    "2019-2025"
+  "keywords_en": [
+    "Lawmaking",
+    "Dependency (UML)",
+    "Power (physics)",
+    "Legislature",
+    "Power sharing",
+    "Politics"
   ],
-  "inferred_keywords_zh": [
-    "平台监管",
-    "数字新闻",
-    "巴西立法",
-    "在线新闻法案",
-    "平台依赖",
-    "媒体政策",
-    "2019-2025"
+  "keywords_zh": [
+    "Lawmaking",
+    "Dependency (UML)",
+    "Power (physics)",
+    "Legislature",
+    "Power sharing",
+    "Politics"
   ],
-  "plain_summary_zh": "这项研究探讨了巴西在2019年至2025年间如何通过立法来限制大型科技平台对新闻行业的影响。它关注两项主要措施：在线新闻法案和平台依赖解绑立法，旨在帮助新闻机构减少对平台的依赖，并确保更公平的竞争环境。",
-  "plain_summary_en": "This research examines how Brazil attempted to regulate large tech platforms' influence on the news industry through legislation between 2019 and 2025. It focuses on two key initiatives: online news bills and platform dependency disentanglement laws, aiming to help news organizations reduce reliance on platforms and ensure fairer competition.",
-  "research_direction_zh": "研究数字时代媒体政策与平台监管的交叉领域，特别关注发展中国家如何通过立法应对平台权力集中对新闻业的影响。",
-  "research_direction_en": "Investigates the intersection of media policy and platform regulation in the digital age, with particular focus on how developing countries use legislation to address platform power concentration's impact on journalism.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Efforts for Counterbalancing Platform Power Through Regulation: Online News Bills and Platform Dependency Disentanglement Lawmaking Initiatives in Brazil Between 2019 and 2025. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Lawmaking, Dependency (UML), Power (physics), Legislature. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Efforts for Counterbalancing Platform Power Through Regulation: Online News Bills and Platform Dependency Disentanglement Lawmaking Initiatives in Brazil Between 2019 and 2025. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Lawmaking, Dependency (UML), Power (physics), Legislature. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Lawmaking, Dependency (UML), Power (physics), Legislature, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Lawmaking, Dependency (UML), Power (physics), Legislature, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "案例研究",
-    "政策分析"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "case study",
-    "policy analysis"
+    "mixed methods"
   ]
 }

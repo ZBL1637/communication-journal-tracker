@@ -13,40 +13,54 @@
     "Amsterdam",
     "Netherlands"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:11:09.960Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:03:48.685Z",
   "language": "en",
   "raw_title": "Reality Re-Imag(in)ed. Mapping Publics’ Perceptions and Evaluations of AI-Generated Images in News Contexts",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Perception",
+    "Context (archaeology)",
+    "Sensemaking",
+    "Journalism",
+    "Work (physics)"
+  ],
   "title_en": "Reality Re-Imag(in)ed. Mapping Publics’ Perceptions and Evaluations of AI-Generated Images in News Contexts",
   "title_zh": "现实再想象：公众对新闻语境中AI生成图像的感知与评价映射",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Perception",
+    "Context (archaeology)",
+    "Sensemaking",
+    "Journalism",
+    "Work (physics)"
+  ],
+  "keywords_zh": [
+    "感知",
+    "语境（考古学）",
+    "意义建构",
+    "新闻学",
+    "工作（物理学）"
+  ],
   "inferred_keywords_en": [
     "AI-generated images",
-    "news media",
     "public perception",
-    "visual journalism",
-    "digital reality",
-    "media trust",
-    "image evaluation"
+    "news media",
+    "digital journalism",
+    "visual communication"
   ],
   "inferred_keywords_zh": [
     "AI生成图像",
-    "新闻媒体",
     "公众感知",
-    "视觉新闻",
-    "数字现实",
-    "媒体信任",
-    "图像评价"
+    "新闻媒体",
+    "数字新闻学",
+    "视觉传播"
   ],
-  "plain_summary_zh": "这项研究探讨公众如何看待和评价新闻中使用的AI生成图像。研究人员调查人们对这些数字图像的真实性、可信度和影响的看法，了解AI技术如何改变我们对新闻中视觉内容的信任和解读。",
-  "plain_summary_en": "This study explores how the public perceives and evaluates AI-generated images used in news contexts. Researchers investigate people's views on the authenticity, credibility, and impact of these digital images, understanding how AI technology changes our trust and interpretation of visual content in news.",
-  "research_direction_zh": "数字新闻学中视觉真实性与技术伦理研究，关注人工智能技术对新闻生产、公众认知和媒体信任的影响。",
-  "research_direction_en": "Research on visual authenticity and technological ethics in digital journalism, focusing on the impact of artificial intelligence technology on news production, public perception, and media trust.",
+  "plain_summary_zh": "这项研究探讨了公众如何看待和评价新闻中使用的AI生成图像。它调查了人们对这些图像的真实性、可信度和影响的看法，以及这些看法如何影响他们对新闻的理解。",
+  "plain_summary_en": "This study explores how the public perceives and evaluates AI-generated images used in news. It investigates people's views on the authenticity, credibility, and impact of these images, and how these views affect their understanding of news.",
+  "research_direction_zh": "研究数字新闻中AI生成视觉内容的公众接受度、伦理影响和媒体信任问题。",
+  "research_direction_en": "Investigating public acceptance, ethical implications, and media trust regarding AI-generated visual content in digital journalism.",
   "method_tags_zh": [
     "调查",
     "内容分析"

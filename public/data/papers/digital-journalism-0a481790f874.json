@@ -11,48 +11,46 @@
     "Gothenburg",
     "Sweden"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:11:59.856Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:04:50.900Z",
   "language": "en",
   "raw_title": "Self-Censorship in Journalism: The Role of Emotional, Professional, and Institutional Factors",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Work (physics)",
+    "Government (linguistics)",
+    "Variety (cybernetics)",
+    "Qualitative research",
+    "Process (computing)"
+  ],
   "title_en": "Self-Censorship in Journalism: The Role of Emotional, Professional, and Institutional Factors",
-  "title_zh": "新闻业中的自我审查：情感、专业和制度因素的作用",
+  "title_zh": "Self-Censorship in Journalism: The Role of Emotional, Professional, and Institutional Factors",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "self-censorship",
-    "journalism",
-    "emotional factors",
-    "professional factors",
-    "institutional factors",
-    "media ethics",
-    "press freedom"
+  "keywords_en": [
+    "Work (physics)",
+    "Government (linguistics)",
+    "Variety (cybernetics)",
+    "Qualitative research",
+    "Process (computing)"
   ],
-  "inferred_keywords_zh": [
-    "自我审查",
-    "新闻业",
-    "情感因素",
-    "专业因素",
-    "制度因素",
-    "媒体伦理",
-    "新闻自由"
+  "keywords_zh": [
+    "Work (physics)",
+    "Government (linguistics)",
+    "Variety (cybernetics)",
+    "Qualitative research",
+    "Process (computing)"
   ],
-  "plain_summary_zh": "这项研究探讨了新闻工作者为什么会进行自我审查，即主动限制自己的报道内容。研究关注三个主要方面：情感因素（如恐惧或压力）、专业因素（如职业道德和规范）以及制度因素（如媒体机构或法律环境的影响）。",
-  "plain_summary_en": "This research explores why journalists engage in self-censorship, meaning they voluntarily limit what they report. It focuses on three main areas: emotional factors (like fear or pressure), professional factors (such as ethics and norms), and institutional factors (including media organizations or legal environments).",
-  "research_direction_zh": "研究新闻业中的自我审查现象，分析情感、专业和制度因素如何影响记者的报道决策，旨在理解媒体自由与约束之间的平衡。",
-  "research_direction_en": "Investigating self-censorship in journalism by analyzing how emotional, professional, and institutional factors influence reporters' decisions, aiming to understand the balance between media freedom and constraints.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Self-Censorship in Journalism: The Role of Emotional, Professional, and Institutional Factors. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Work (physics), Government (linguistics), Variety (cybernetics), Qualitative research. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Self-Censorship in Journalism: The Role of Emotional, Professional, and Institutional Factors. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Work (physics), Government (linguistics), Variety (cybernetics), Qualitative research. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Work (physics), Government (linguistics), Variety (cybernetics), Qualitative research, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Work (physics), Government (linguistics), Variety (cybernetics), Qualitative research, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "调查",
-    "访谈",
-    "案例研究"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "survey",
-    "interview",
-    "case study"
+    "mixed methods"
   ]
 }

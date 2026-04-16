@@ -8,8 +8,9 @@
   "publishedAt": "2025-09-23T08:48:15.000Z",
   "authors": [
     "Dominika Betakova",
-    "Hajo Boomgaarden",
+    "Hajo G. Boomgaarden",
     "Sophie Lecheler",
+    "Hajo Boomgaarden",
     "Vienna",
     "Austriab",
     "Political Science",
@@ -18,42 +19,46 @@
     "Odense",
     "Denmark"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:14:10.515Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:07:47.332Z",
   "language": "en",
   "raw_title": "The Role of Choice Architecture in Mitigating News Avoidance",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "News avoidance has become more common and is associated with negative democratic outcomes. However, only a handful of studies have explored solutions to reduce news avoidance, with nudges offering a potential approach. One of such nudges are opting-in and opting-out effects. Additionally, news avoidance research suggests that one of the most promising—yet not fully tested—digital interventions is reminding citizens of their civic duty to keep informed . Importantly, citizenship norms also vary by country. To address these research gaps, a pre-registered online comparative experiment (2 × 2) was conducted in Austria ( N = 403) and Slovakia ( N = 401). Participants browsed a news website, choosing to select (opt-in) or deselect (opt-out) news for their digital newsfeed, with some receiving a civic duty nudge. When prompted to deselect, participants ended up with more news items, suggesting that news inclusion by default as part of the choice architecture setup of digital news platforms could reduce news avoidance as limited news consumption in the short term through increased news exposure. No significant effect of the civic duty nudge or a country difference was found, suggesting that such a norm is challenging to induce through prompts and is likely a more stable trait.",
+  "raw_keywords": [
+    "Architecture",
+    "Choice architecture",
+    "Key (lock)",
+    "Work (physics)",
+    "Context (archaeology)"
+  ],
   "title_en": "The Role of Choice Architecture in Mitigating News Avoidance",
-  "title_zh": "选择架构在缓解新闻回避中的作用",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "choice architecture",
-    "news avoidance",
-    "digital journalism",
-    "behavioral science",
-    "media consumption"
+  "title_zh": "The Role of Choice Architecture in Mitigating News Avoidance",
+  "abstract_en": "News avoidance has become more common and is associated with negative democratic outcomes. However, only a handful of studies have explored solutions to reduce news avoidance, with nudges offering a potential approach. One of such nudges are opting-in and opting-out effects. Additionally, news avoidance research suggests that one of the most promising—yet not fully tested—digital interventions is reminding citizens of their civic duty to keep informed . Importantly, citizenship norms also vary by country. To address these research gaps, a pre-registered online comparative experiment (2 × 2) was conducted in Austria ( N = 403) and Slovakia ( N = 401). Participants browsed a news website, choosing to select (opt-in) or deselect (opt-out) news for their digital newsfeed, with some receiving a civic duty nudge. When prompted to deselect, participants ended up with more news items, suggesting that news inclusion by default as part of the choice architecture setup of digital news platforms could reduce news avoidance as limited news consumption in the short term through increased news exposure. No significant effect of the civic duty nudge or a country difference was found, suggesting that such a norm is challenging to induce through prompts and is likely a more stable trait.",
+  "abstract_zh": "News avoidance has become more common and is associated with negative democratic outcomes. However, only a handful of studies have explored solutions to reduce news avoidance, with nudges offering a potential approach. One of such nudges are opting-in and opting-out effects. Additionally, news avoidance research suggests that one of the most promising—yet not fully tested—digital interventions is reminding citizens of their civic duty to keep informed . Importantly, citizenship norms also vary by country. To address these research gaps, a pre-registered online comparative experiment (2 × 2) was conducted in Austria ( N = 403) and Slovakia ( N = 401). Participants browsed a news website, choosing to select (opt-in) or deselect (opt-out) news for their digital newsfeed, with some receiving a civic duty nudge. When prompted to deselect, participants ended up with more news items, suggesting that news inclusion by default as part of the choice architecture setup of digital news platforms could reduce news avoidance as limited news consumption in the short term through increased news exposure. No significant effect of the civic duty nudge or a country difference was found, suggesting that such a norm is challenging to induce through prompts and is likely a more stable trait.",
+  "keywords_en": [
+    "Architecture",
+    "Choice architecture",
+    "Key (lock)",
+    "Work (physics)",
+    "Context (archaeology)"
   ],
-  "inferred_keywords_zh": [
-    "选择架构",
-    "新闻回避",
-    "数字新闻",
-    "行为科学",
-    "媒体消费"
+  "keywords_zh": [
+    "Architecture",
+    "Choice architecture",
+    "Key (lock)",
+    "Work (physics)",
+    "Context (archaeology)"
   ],
-  "plain_summary_zh": "这篇研究探讨了如何通过设计更好的选择界面（选择架构）来帮助人们减少回避新闻的行为。它关注数字新闻环境下，如何利用行为科学原理来改善人们的新闻阅读习惯。",
-  "plain_summary_en": "This research examines how designing better choice interfaces (choice architecture) can help reduce news avoidance behavior. It focuses on applying behavioral science principles to improve news consumption habits in digital journalism environments.",
-  "research_direction_zh": "数字新闻与行为科学的交叉研究，探索如何通过界面设计和信息呈现方式影响用户的媒体消费行为。",
-  "research_direction_en": "Interdisciplinary research at the intersection of digital journalism and behavioral science, exploring how interface design and information presentation affect user media consumption behavior.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies The Role of Choice Architecture in Mitigating News Avoidance. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Architecture, Choice architecture, Key (lock), Work (physics). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies The Role of Choice Architecture in Mitigating News Avoidance. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Architecture, Choice architecture, Key (lock), Work (physics). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Architecture, Choice architecture, Key (lock), Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Architecture, Choice architecture, Key (lock), Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "实验",
-    "调查"
+    "experiment"
   ],
   "method_tags_en": [
-    "experiment",
-    "survey"
+    "experiment"
   ]
 }

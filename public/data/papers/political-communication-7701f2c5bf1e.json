@@ -12,42 +12,60 @@
     "Washington",
     "USAChelsea P. Butkowski (Ph.D."
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:05:24.647Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:56:28.713Z",
   "language": "en",
   "raw_title": "Expressive Data: Conceptualizing Political Expression Through Social Media Feeds",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Politics",
+    "Expression (computer science)",
+    "Social media",
+    "Political communication",
+    "The Internet"
+  ],
   "title_en": "Expressive Data: Conceptualizing Political Expression Through Social Media Feeds",
   "title_zh": "表达性数据：通过社交媒体信息流概念化政治表达",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Politics",
+    "Expression (computer science)",
+    "Social media",
+    "Political communication",
+    "The Internet"
+  ],
+  "keywords_zh": [
+    "政治",
+    "表达（计算机科学）",
+    "社交媒体",
+    "政治传播",
+    "互联网"
+  ],
   "inferred_keywords_en": [
+    "social media feeds",
     "political expression",
-    "social media",
-    "data conceptualization",
-    "political communication",
-    "digital expression"
+    "conceptualization",
+    "digital communication",
+    "online behavior"
   ],
   "inferred_keywords_zh": [
+    "社交媒体信息流",
     "政治表达",
-    "社交媒体",
-    "数据概念化",
-    "政治传播",
-    "数字表达"
+    "概念化",
+    "数字传播",
+    "在线行为"
   ],
-  "plain_summary_zh": "这篇研究探讨如何通过分析社交媒体信息流来理解和定义政治表达。它提出了'表达性数据'的概念，帮助研究者更好地研究人们在社交媒体上的政治言论和行为。",
-  "plain_summary_en": "This research explores how to understand and define political expression by analyzing social media feeds. It introduces the concept of 'expressive data' to help researchers better study political speech and behavior on social media platforms.",
-  "research_direction_zh": "政治传播与数字媒体研究，关注社交媒体数据在理解政治表达和公民参与中的作用。",
-  "research_direction_en": "Political communication and digital media studies, focusing on the role of social media data in understanding political expression and civic engagement.",
+  "plain_summary_zh": "这篇文章探讨了人们如何通过社交媒体信息流表达政治观点。它提出了'表达性数据'的概念，帮助我们理解在数字时代政治表达的新形式。",
+  "plain_summary_en": "This article explores how people express political views through social media feeds. It introduces the concept of 'expressive data' to help understand new forms of political expression in the digital age.",
+  "research_direction_zh": "研究数字时代政治表达的新形式，特别是通过社交媒体平台进行的表达行为及其对政治传播的影响。",
+  "research_direction_en": "Research on new forms of political expression in the digital age, particularly expression behaviors through social media platforms and their impact on political communication.",
   "method_tags_zh": [
-    "内容分析",
-    "概念分析"
+    "概念分析",
+    "内容分析"
   ],
   "method_tags_en": [
-    "content analysis",
-    "conceptual analysis"
+    "conceptual analysis",
+    "content analysis"
   ]
 }

@@ -14,7 +14,7 @@
     "S. Shyam Sundar"
   ],
   "source": "crossref",
-  "fetchedAt": "2026-04-16T07:20:02.197Z",
+  "fetchedAt": "2026-04-16T09:14:29.055Z",
   "language": "en",
   "raw_title": "County Partisanship Affects Social Media Posting Behavior During a Pandemic",
   "raw_abstract": "The COVID-19 pandemic in the United States has been characterized by political partisan differences and opinions that influenced individual behavior and political policies, correlating with varying outcomes. Measuring these differences in opinion using traditional methods, such as opinion polls, can be costly and provides only a snapshot of sentiment at a given time. Social media platforms like X (formerly Twitter) may offer a real-time tool for assessing opinions to explore the relationship between differing viewpoints about the pandemic and how these differences impact the occurrence and severity of disease burden. Utilizing an open-source data set of 1.75 million keyword-selected X (Twitter) posts, updated weekly from January 1, 2020, through December 31, 2021, along with publicly available COVID-19 case and death counts and county-level data on election outcomes from the 2020 election, we analyzed how the volume of tweets on the X (Twitter) platform related to COVID-19 has changed over time and how patterns of use vary across the partisan divide. We discovered that Democratic-leaning counties exhibited higher X (Twitter) volume associated with COVID-19 topics compared to Republican-leaning counties in response to changes in case or death rates. In addition, we found a higher proportion of tweets in urban counties compared to rural ones.",

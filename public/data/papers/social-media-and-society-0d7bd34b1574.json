@@ -10,7 +10,7 @@
     "Nancy K. Baym"
   ],
   "source": "crossref",
-  "fetchedAt": "2026-04-16T07:19:06.819Z",
+  "fetchedAt": "2026-04-16T09:13:41.471Z",
   "language": "en",
   "raw_title": "It’s Bad: What Now?",
   "raw_abstract": "This essay reflects on a decade of worsening social media harms—inequality, algorithmic power, precarious labor, and data extraction—arguing for renewed interdisciplinary and collaborative approaches to create just sociotechnical futures.",
@@ -18,7 +18,7 @@
   "title_en": "It’s Bad: What Now?",
   "title_zh": "情况很糟：现在怎么办？",
   "abstract_en": "This essay reflects on a decade of worsening social media harms—inequality, algorithmic power, precarious labor, and data extraction—arguing for renewed interdisciplinary and collaborative approaches to create just sociotechnical futures.",
-  "abstract_zh": "本文反思了过去十年社交媒体危害日益加剧的问题——不平等、算法权力、不稳定劳动和数据提取，主张采用更新的跨学科和协作方法来创造公正的社会技术未来。",
+  "abstract_zh": "本文反思了过去十年社交媒体危害的加剧——不平等、算法权力、不稳定劳动和数据提取，主张通过更新的跨学科和协作方法来创造公正的社会技术未来。",
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
@@ -35,10 +35,10 @@
     "跨学科研究",
     "社会技术未来"
   ],
-  "plain_summary_zh": "这篇文章讨论了社交媒体在过去十年中带来的问题，比如不平等、算法控制、工作不稳定和数据被拿走。作者认为，需要不同领域的专家一起合作，找到更好的方法，让技术和社会更公平。",
-  "plain_summary_en": "This article looks at the problems social media has caused over the past ten years, such as inequality, algorithm control, unstable jobs, and data being taken. The author suggests that experts from different fields need to work together to find better ways to make technology and society fairer.",
-  "research_direction_zh": "探索跨学科合作方法，以应对社交媒体带来的社会不平等、算法权力和数据伦理问题，推动公正的社会技术发展。",
-  "research_direction_en": "Exploring interdisciplinary collaborative approaches to address social inequality, algorithmic power, and data ethics caused by social media, and promoting just sociotechnical development.",
+  "plain_summary_zh": "这篇文章讨论了社交媒体在过去十年中带来的问题越来越严重，比如不平等、算法控制、工作不稳定和数据被收集。作者认为需要不同领域的专家一起合作，找到更好的方法，让技术和社会更公平地发展。",
+  "plain_summary_en": "This article discusses how social media problems have gotten worse over the past decade, including inequality, algorithm control, unstable work, and data collection. The author argues that experts from different fields need to work together to find better ways to make technology and society develop more fairly.",
+  "research_direction_zh": "探索跨学科合作方法，以应对社交媒体带来的社会不平等、算法权力和数据伦理问题，促进公正的社会技术发展。",
+  "research_direction_en": "Exploring interdisciplinary collaborative approaches to address social inequality, algorithmic power, and data ethics issues caused by social media, and promoting just sociotechnical development.",
   "method_tags_zh": [
     "文献综述",
     "理论分析"

@@ -22,36 +22,63 @@
     "Boston",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:10:16.646Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:02:42.501Z",
   "language": "en",
   "raw_title": "The Irony of Sophisticated Citizens and Misinformation: Explaining How People with High Need for Cognition Become Politically Cynical",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Irony",
+    "Cognition",
+    "Sensemaking",
+    "Motivated reasoning",
+    "Politics",
+    "Perspective (graphical)",
+    "Legitimacy",
+    "Face (sociological concept)"
+  ],
   "title_en": "The Irony of Sophisticated Citizens and Misinformation: Explaining How People with High Need for Cognition Become Politically Cynical",
-  "title_zh": "精明公民与错误信息的讽刺：解释高认知需求者如何变得政治愤世嫉俗",
+  "title_zh": "复杂公民与错误信息的讽刺：解释高认知需求者如何变得政治愤世嫉俗",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Irony",
+    "Cognition",
+    "Sensemaking",
+    "Motivated reasoning",
+    "Politics",
+    "Perspective (graphical)",
+    "Legitimacy",
+    "Face (sociological concept)"
+  ],
+  "keywords_zh": [
+    "讽刺",
+    "认知",
+    "意义建构",
+    "动机推理",
+    "政治",
+    "视角（图形）",
+    "合法性",
+    "面子（社会学概念）"
+  ],
   "inferred_keywords_en": [
-    "misinformation",
-    "political cynicism",
-    "need for cognition",
-    "digital journalism",
-    "media effects"
+    "Misinformation",
+    "Political cynicism",
+    "Need for cognition",
+    "Media effects",
+    "Public opinion"
   ],
   "inferred_keywords_zh": [
     "错误信息",
     "政治愤世嫉俗",
     "认知需求",
-    "数字新闻",
-    "媒体效果"
+    "媒体效果",
+    "公众舆论"
   ],
-  "plain_summary_zh": "这项研究探讨了一个看似矛盾的现象：那些喜欢深入思考的人（高认知需求者）反而更容易对政治产生不信任和愤世嫉俗的态度，尤其是在接触错误信息时。",
-  "plain_summary_en": "This study explores a paradoxical phenomenon: people who enjoy deep thinking (high need for cognition) become more distrustful and cynical about politics, especially when exposed to misinformation.",
-  "research_direction_zh": "研究数字时代中，个体认知特征如何影响其对政治信息的处理和对政治体系的信任，特别是在错误信息泛滥的背景下。",
-  "research_direction_en": "Investigating how individual cognitive traits affect the processing of political information and trust in the political system in the digital age, particularly in the context of widespread misinformation.",
+  "plain_summary_zh": "这项研究探讨了一个看似矛盾的现象：那些喜欢深入思考的人（高认知需求者）反而更容易因为接触错误信息而对政治产生不信任和愤世嫉俗的态度。研究试图解释这种讽刺性的转变是如何发生的。",
+  "plain_summary_en": "This study explores a seemingly paradoxical phenomenon: people who enjoy deep thinking (high need for cognition) actually become more distrustful and cynical about politics when exposed to misinformation. The research tries to explain how this ironic transformation occurs.",
+  "research_direction_zh": "该研究属于政治传播和媒体心理学领域，关注错误信息如何影响不同认知特征人群的政治态度，特别是认知需求与政治信任之间的关系。",
+  "research_direction_en": "This research falls within political communication and media psychology, examining how misinformation affects political attitudes among people with different cognitive characteristics, particularly the relationship between need for cognition and political trust.",
   "method_tags_zh": [
     "调查",
     "实验"

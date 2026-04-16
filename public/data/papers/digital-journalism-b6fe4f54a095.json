@@ -12,36 +12,54 @@
     "CO",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:12:28.889Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:05:31.192Z",
   "language": "en",
   "raw_title": "When Software Becomes the Newsroom: Journalists and the Loss of Organizational Connections",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Software",
+    "Work (physics)",
+    "Key (lock)",
+    "Variety (cybernetics)",
+    "Journalism"
+  ],
   "title_en": "When Software Becomes the Newsroom: Journalists and the Loss of Organizational Connections",
   "title_zh": "当软件成为新闻编辑室：记者与组织联系的丧失",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Software",
+    "Work (physics)",
+    "Key (lock)",
+    "Variety (cybernetics)",
+    "Journalism"
+  ],
+  "keywords_zh": [
+    "软件",
+    "工作（物理学）",
+    "钥匙（锁）",
+    "多样性（控制论）",
+    "新闻学"
+  ],
   "inferred_keywords_en": [
-    "digital journalism",
-    "newsroom automation",
-    "journalistic practice",
-    "organizational change",
-    "technology impact"
+    "Digital journalism",
+    "Newsroom automation",
+    "Journalistic labor",
+    "Organizational change",
+    "Technology impact"
   ],
   "inferred_keywords_zh": [
     "数字新闻",
     "新闻编辑室自动化",
-    "新闻实践",
+    "新闻劳动",
     "组织变革",
     "技术影响"
   ],
-  "plain_summary_zh": "这篇研究探讨了当新闻编辑室越来越多地依赖软件和自动化技术时，记者如何失去与组织的传统联系。它关注技术变革对新闻工作实践和组织结构的影响。",
-  "plain_summary_en": "This research examines how journalists lose traditional organizational connections as newsrooms increasingly rely on software and automation. It focuses on the impact of technological changes on journalistic practices and organizational structures.",
-  "research_direction_zh": "数字新闻领域的技术变革对新闻职业和组织结构的影响研究",
-  "research_direction_en": "Research on the impact of technological changes in digital journalism on journalistic profession and organizational structures",
+  "plain_summary_zh": "这篇研究探讨了当软件和自动化技术越来越多地取代传统新闻编辑室功能时，记者如何失去与组织的联系。它关注技术变革对新闻工作者工作方式和职业身份的影响。",
+  "plain_summary_en": "This research examines how journalists lose organizational connections as software and automation increasingly replace traditional newsroom functions. It focuses on the impact of technological change on journalists' work practices and professional identity.",
+  "research_direction_zh": "数字新闻学中技术自动化对新闻劳动和组织结构的影响研究",
+  "research_direction_en": "Research on the impact of technological automation on journalistic labor and organizational structures in digital journalism",
   "method_tags_zh": [
     "访谈",
     "案例研究"

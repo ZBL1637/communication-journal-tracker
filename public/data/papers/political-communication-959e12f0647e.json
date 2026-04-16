@@ -12,42 +12,61 @@
     "MI",
     "USAPranav Malhotra (Ph.D."
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:05:17.415Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:56:14.829Z",
   "language": "en",
   "raw_title": "Toward Conceptualizing Bounded Social Media Places",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Bounded function",
+    "Sociology",
+    "Social media",
+    "Political science",
+    "Social psychology",
+    "Positive economics",
+    "Psychology",
+    "Economics",
+    "Mathematics",
+    "Law"
+  ],
   "title_en": "Toward Conceptualizing Bounded Social Media Places",
-  "title_zh": "走向界定社交媒体有界空间的概念化",
+  "title_zh": "Toward Conceptualizing Bounded Social Media Places",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "social media",
-    "bounded spaces",
-    "conceptualization",
-    "digital places",
-    "communication theory"
+  "keywords_en": [
+    "Bounded function",
+    "Sociology",
+    "Social media",
+    "Political science",
+    "Social psychology",
+    "Positive economics",
+    "Psychology",
+    "Economics",
+    "Mathematics",
+    "Law"
   ],
-  "inferred_keywords_zh": [
-    "社交媒体",
-    "有界空间",
-    "概念化",
-    "数字场所",
-    "传播理论"
+  "keywords_zh": [
+    "Bounded function",
+    "Sociology",
+    "Social media",
+    "Political science",
+    "Social psychology",
+    "Positive economics",
+    "Psychology",
+    "Economics",
+    "Mathematics",
+    "Law"
   ],
-  "plain_summary_zh": "这篇文章探讨如何定义和理解社交媒体上的特定区域或空间，这些空间有明确的边界，比如群组、论坛或社区。它试图为这些数字场所建立一个清晰的概念框架，帮助人们更好地研究它们如何影响交流和互动。",
-  "plain_summary_en": "This article explores how to define and understand specific areas or spaces on social media that have clear boundaries, such as groups, forums, or communities. It aims to develop a clear conceptual framework for these digital places to help researchers better study how they influence communication and interaction.",
-  "research_direction_zh": "研究社交媒体中结构化空间的理论构建，关注数字环境中的边界形成、用户行为和社会动态，以深化对在线社区和平台设计的理解。",
-  "research_direction_en": "Theoretical development of structured spaces in social media, focusing on boundary formation, user behavior, and social dynamics in digital environments to enhance understanding of online communities and platform design.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Toward Conceptualizing Bounded Social Media Places. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Bounded function, Sociology, Social media, Political science. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Toward Conceptualizing Bounded Social Media Places. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Bounded function, Sociology, Social media, Political science. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Bounded function, Sociology, Social media, Political science, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Bounded function, Sociology, Social media, Political science, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "概念分析",
-    "文献综述"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "conceptual analysis",
-    "literature review"
+    "mixed methods"
   ]
 }

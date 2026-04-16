@@ -15,46 +15,60 @@
     "PA",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:11:18.906Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:04:03.593Z",
   "language": "en",
   "raw_title": "Journalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Perception",
+    "Journalism",
+    "Work (physics)",
+    "Field (mathematics)",
+    "Context (archaeology)"
+  ],
   "title_en": "Journalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms",
   "title_zh": "记者对人工智能的认知：以尼日利亚新闻编辑室为例",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Perception",
+    "Journalism",
+    "Work (physics)",
+    "Field (mathematics)",
+    "Context (archaeology)"
+  ],
+  "keywords_zh": [
+    "认知",
+    "新闻学",
+    "工作（物理学）",
+    "领域（数学）",
+    "背景（考古学）"
+  ],
   "inferred_keywords_en": [
-    "artificial intelligence",
-    "journalism",
+    "Artificial Intelligence",
     "Nigeria",
-    "newsrooms",
-    "perception",
-    "technology adoption",
-    "media studies"
+    "Newsrooms",
+    "Media Technology",
+    "Professional Attitudes"
   ],
   "inferred_keywords_zh": [
     "人工智能",
-    "新闻学",
     "尼日利亚",
     "新闻编辑室",
-    "认知",
-    "技术采用",
-    "媒体研究"
+    "媒体技术",
+    "职业态度"
   ],
-  "plain_summary_zh": "这项研究探讨了尼日利亚新闻编辑室中记者对人工智能的看法。它可能调查记者如何理解人工智能技术，以及他们是否愿意在工作中采用这些技术。",
-  "plain_summary_en": "This study explores how journalists in Nigerian newsrooms perceive artificial intelligence. It likely investigates their understanding of AI technologies and their willingness to adopt them in their work.",
-  "research_direction_zh": "研究关注人工智能在新闻业中的社会接受度和应用障碍，特别是在发展中国家如尼日利亚的背景下。",
-  "research_direction_en": "The research focuses on the social acceptance and barriers to AI adoption in journalism, particularly in developing contexts like Nigeria.",
+  "plain_summary_zh": "这项研究探讨了尼日利亚新闻编辑室中记者们对人工智能的看法。它关注记者们如何理解和使用AI技术，以及这对他们的工作可能产生的影响。",
+  "plain_summary_en": "This study explores how journalists in Nigerian newsrooms perceive artificial intelligence. It focuses on their understanding and use of AI technology and its potential impact on their work.",
+  "research_direction_zh": "研究媒体专业人士对新兴技术的态度及其在新闻实践中的应用，特别是在发展中国家背景下。",
+  "research_direction_en": "Investigating media professionals' attitudes toward emerging technologies and their application in journalism practice, particularly in developing country contexts.",
   "method_tags_zh": [
-    "调查",
-    "案例研究"
+    "案例研究",
+    "访谈"
   ],
   "method_tags_en": [
-    "survey",
-    "case study"
+    "case study",
+    "interview"
   ]
 }

@@ -9,6 +9,7 @@
   "authors": [
     "Katharina Tittel",
     "William Allen",
+    "Pedro Ramaciotti Morales",
     "Pedro Ramaciotti",
     "Katharina Tittel William Allen Pedro Ramaciotti a Sciences Po, médialab",
     "Paris",
@@ -23,40 +24,48 @@
     "Learning Transitions",
     "CY Cergy Paris"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:05:32.141Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:56:31.341Z",
   "language": "en",
   "raw_title": "Flooding the Feed: The Politics of Social Media Sharing Among Defensive Publics",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "International audience",
+  "raw_keywords": [
+    "Publics",
+    "Politics",
+    "Social media",
+    "Flooding (psychology)",
+    "Public opinion",
+    "Political communication",
+    "Government (linguistics)"
+  ],
   "title_en": "Flooding the Feed: The Politics of Social Media Sharing Among Defensive Publics",
   "title_zh": "淹没信息流：防御性公众中社交媒体分享的政治学",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "social media",
-    "political communication",
-    "defensive publics",
-    "information sharing",
-    "digital activism",
-    "online behavior",
-    "media studies"
+  "abstract_en": "International audience",
+  "abstract_zh": "国际受众",
+  "keywords_en": [
+    "Publics",
+    "Politics",
+    "Social media",
+    "Flooding (psychology)",
+    "Public opinion",
+    "Political communication",
+    "Government (linguistics)"
   ],
-  "inferred_keywords_zh": [
+  "keywords_zh": [
+    "公众",
+    "政治",
     "社交媒体",
+    "淹没（心理学）",
+    "公众舆论",
     "政治传播",
-    "防御性公众",
-    "信息分享",
-    "数字行动主义",
-    "在线行为",
-    "媒体研究"
+    "政府（语言学）"
   ],
-  "plain_summary_zh": "这项研究探讨了当人们感到受到威胁或批评时，如何在社交媒体上大量分享信息来保护自己或群体的形象。它关注这种分享行为背后的政治动机和策略。",
-  "plain_summary_en": "This research examines how people flood social media feeds with content to defend themselves or their groups when they feel threatened or criticized. It focuses on the political motivations and strategies behind this sharing behavior.",
-  "research_direction_zh": "探索数字时代中公众如何利用社交媒体进行防御性沟通，以及这种集体行为对政治话语和公共舆论的影响。",
-  "research_direction_en": "Investigating how publics use social media for defensive communication in the digital age, and how such collective behaviors impact political discourse and public opinion.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_zh": "这项研究探讨了当人们感到受到威胁时，如何在社交媒体上大量分享信息来保护自己的观点。它关注这种分享行为背后的政治动机和策略。",
+  "plain_summary_en": "This study explores how people share information heavily on social media to defend their views when they feel threatened. It focuses on the political motives and strategies behind this sharing behavior.",
+  "research_direction_zh": "研究社交媒体上信息传播的政治动态，特别是当公众采取防御姿态时的分享模式及其对舆论形成的影响。",
+  "research_direction_en": "Investigating the political dynamics of information dissemination on social media, particularly the sharing patterns when publics adopt defensive stances and their impact on opinion formation.",
   "method_tags_zh": [
     "内容分析",
     "案例研究"

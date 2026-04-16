@@ -29,44 +29,69 @@
     "International Political Economy",
     "Telematics and Informatics Reports, and Political Studies Review."
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:04:54.662Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:55:48.586Z",
   "language": "en",
   "raw_title": "Do Politicians’ Genders Influence Voter Persuasion?",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Persuasion",
+    "Political science",
+    "Voter turnout",
+    "Social psychology",
+    "Psychology",
+    "Voting",
+    "Politics",
+    "Law"
+  ],
   "title_en": "Do Politicians’ Genders Influence Voter Persuasion?",
   "title_zh": "政治家的性别会影响选民的说服力吗？",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Persuasion",
+    "Political science",
+    "Voter turnout",
+    "Social psychology",
+    "Psychology",
+    "Voting",
+    "Politics",
+    "Law"
+  ],
+  "keywords_zh": [
+    "说服",
+    "政治学",
+    "选民投票率",
+    "社会心理学",
+    "心理学",
+    "投票",
+    "政治",
+    "法律"
+  ],
   "inferred_keywords_en": [
-    "gender politics",
-    "voter persuasion",
-    "political communication",
-    "gender influence",
-    "electoral behavior"
+    "Gender",
+    "Political communication",
+    "Elections",
+    "Candidate evaluation",
+    "Voter behavior"
   ],
   "inferred_keywords_zh": [
-    "性别政治",
-    "选民说服",
+    "性别",
     "政治传播",
-    "性别影响",
-    "选举行为"
+    "选举",
+    "候选人评估",
+    "选民行为"
   ],
-  "plain_summary_zh": "这项研究探讨政治家的性别是否会影响他们说服选民的能力。它可能研究选民对不同性别政治家的反应，以及性别如何影响政治沟通和选举结果。",
-  "plain_summary_en": "This research examines whether politicians' genders affect their ability to persuade voters. It likely investigates how voters respond to politicians of different genders and how gender influences political communication and electoral outcomes.",
-  "research_direction_zh": "政治传播中的性别差异研究，关注性别如何塑造政治说服力、选民认知和选举动态。",
-  "research_direction_en": "Research on gender differences in political communication, focusing on how gender shapes political persuasion, voter perceptions, and electoral dynamics.",
+  "plain_summary_zh": "这项研究探讨政治家的性别是否会影响他们说服选民的能力。它可能研究选民对不同性别政治家的反应，以及这是否会影响投票决定。",
+  "plain_summary_en": "This research examines whether politicians' genders affect their ability to persuade voters. It likely investigates how voters respond to politicians of different genders and whether this influences voting decisions.",
+  "research_direction_zh": "政治传播中的性别研究，关注性别如何塑造选民对政治信息的接收和反应。",
+  "research_direction_en": "Gender studies in political communication, focusing on how gender shapes voter reception and response to political messages.",
   "method_tags_zh": [
     "调查",
-    "实验",
-    "内容分析"
+    "实验"
   ],
   "method_tags_en": [
     "survey",
-    "experiment",
-    "content analysis"
+    "experiment"
   ]
 }

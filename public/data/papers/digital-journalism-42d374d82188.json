@@ -17,42 +17,54 @@
     "Spainb",
     "Spain"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:15:08.157Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:09:04.652Z",
   "language": "en",
   "raw_title": "Accountability Sabotage and Journalism: Digital Authoritarian Practices and Chilling Effect in Latin America",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Latin Americans",
+    "Authoritarianism",
+    "Accountability",
+    "Politics",
+    "Government (linguistics)"
+  ],
   "title_en": "Accountability Sabotage and Journalism: Digital Authoritarian Practices and Chilling Effect in Latin America",
   "title_zh": "问责破坏与新闻业：拉丁美洲的数字威权实践与寒蝉效应",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Latin Americans",
+    "Authoritarianism",
+    "Accountability",
+    "Politics",
+    "Government (linguistics)"
+  ],
+  "keywords_zh": [
+    "拉丁美洲人",
+    "威权主义",
+    "问责",
+    "政治",
+    "政府（语言学）"
+  ],
   "inferred_keywords_en": [
-    "digital authoritarianism",
-    "accountability sabotage",
+    "digital journalism",
     "chilling effect",
-    "journalism",
-    "Latin America",
     "media freedom",
-    "digital surveillance",
-    "press freedom"
+    "censorship",
+    "Latin America"
   ],
   "inferred_keywords_zh": [
-    "数字威权主义",
-    "问责破坏",
+    "数字新闻业",
     "寒蝉效应",
-    "新闻业",
-    "拉丁美洲",
     "媒体自由",
-    "数字监控",
-    "新闻自由"
+    "审查制度",
+    "拉丁美洲"
   ],
-  "plain_summary_zh": "这项研究探讨了在拉丁美洲，数字威权主义如何通过破坏问责机制来影响新闻业，导致记者因恐惧而自我审查，即所谓的“寒蝉效应”。",
-  "plain_summary_en": "This study explores how digital authoritarianism in Latin America affects journalism by undermining accountability mechanisms, leading journalists to self-censor out of fear, known as the 'chilling effect'.",
-  "research_direction_zh": "研究数字威权主义对新闻业的影响，特别是在拉丁美洲背景下，关注问责机制破坏和寒蝉效应的相互作用。",
-  "research_direction_en": "Investigating the impact of digital authoritarianism on journalism, particularly in the Latin American context, focusing on the interplay between accountability sabotage and chilling effects.",
+  "plain_summary_zh": "这篇研究探讨了在拉丁美洲，数字威权主义如何通过破坏问责机制来影响新闻业，导致记者自我审查的寒蝉效应。",
+  "plain_summary_en": "This research examines how digital authoritarianism in Latin America undermines accountability mechanisms in journalism, leading to a chilling effect where journalists self-censor.",
+  "research_direction_zh": "研究数字威权主义对新闻业问责机制的影响，特别是在拉丁美洲的政治和媒体环境中。",
+  "research_direction_en": "Investigating the impact of digital authoritarianism on accountability mechanisms in journalism, particularly within the political and media contexts of Latin America.",
   "method_tags_zh": [
     "案例研究",
     "内容分析"

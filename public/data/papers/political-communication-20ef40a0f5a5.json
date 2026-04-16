@@ -7,11 +7,12 @@
   "issn": "1058-4609",
   "publishedAt": "2026-02-04T01:55:14.000Z",
   "authors": [
-    "Andreas A. Riedl",
+    "Andreas Riedl",
     "Stefan Geiß",
     "Melanie Magin",
     "Olaf Jandura",
     "Birgit Stark",
+    "Andreas A. Riedl",
     "Munich",
     "Germanyb",
     "Norwegian",
@@ -26,50 +27,46 @@
     "U Mainz) is a professor of media sociology at NTNU",
     "U Hohenheim–Stuttgart) is a professor of communication at JGU"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:06:57.455Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:58:29.793Z",
   "language": "en",
   "raw_title": "Do Journalists’ Political Orientations Translate into Partisan News Reporting? The Limits of Bias and the Limits of Counter Mechanisms",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Politics",
+    "Motivated reasoning",
+    "Limit (mathematics)",
+    "Public opinion",
+    "Media bias"
+  ],
   "title_en": "Do Journalists’ Political Orientations Translate into Partisan News Reporting? The Limits of Bias and the Limits of Counter Mechanisms",
-  "title_zh": "记者的政治倾向会转化为党派新闻报道吗？偏见的局限性与反制机制的局限性",
+  "title_zh": "Do Journalists’ Political Orientations Translate into Partisan News Reporting? The Limits of Bias and the Limits of Counter Mechanisms",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "political bias",
-    "journalism",
-    "partisan reporting",
-    "media sociology",
-    "political communication",
-    "news production",
-    "professional norms",
-    "gatekeeping"
+  "keywords_en": [
+    "Politics",
+    "Motivated reasoning",
+    "Limit (mathematics)",
+    "Public opinion",
+    "Media bias"
   ],
-  "inferred_keywords_zh": [
-    "政治偏见",
-    "新闻业",
-    "党派报道",
-    "媒体社会学",
-    "政治传播",
-    "新闻生产",
-    "专业规范",
-    "把关"
+  "keywords_zh": [
+    "Politics",
+    "Motivated reasoning",
+    "Limit (mathematics)",
+    "Public opinion",
+    "Media bias"
   ],
-  "plain_summary_zh": "这项研究探讨记者个人的政治观点是否会影响他们的新闻报道，使其带有党派色彩。研究发现，即使记者有政治倾向，也不一定会直接导致偏颇的报道，因为新闻机构内部存在各种机制来防止这种情况发生。但研究也指出，这些反制机制本身也有局限性，不能完全消除偏见。",
-  "plain_summary_en": "This study examines whether journalists' personal political views influence their news reporting to become partisan. The research finds that even when journalists have political leanings, it doesn't necessarily lead to biased reporting because news organizations have various mechanisms to prevent this. However, the study also notes that these counter-mechanisms themselves have limitations and cannot completely eliminate bias.",
-  "research_direction_zh": "探索新闻生产过程中个人因素与组织因素如何相互作用，研究新闻专业主义在限制政治偏见方面的实际效果，以及媒体机构内部质量控制机制的局限性。",
-  "research_direction_en": "Investigating how individual factors and organizational factors interact in news production processes, examining the actual effectiveness of journalistic professionalism in limiting political bias, and exploring the limitations of quality control mechanisms within media organizations.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Do Journalists’ Political Orientations Translate into Partisan News Reporting? The Limits of Bias and the Limits of Counter Mechanisms. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Motivated reasoning, Limit (mathematics), Public opinion. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Do Journalists’ Political Orientations Translate into Partisan News Reporting? The Limits of Bias and the Limits of Counter Mechanisms. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Motivated reasoning, Limit (mathematics), Public opinion. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Politics, Motivated reasoning, Limit (mathematics), Public opinion, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Politics, Motivated reasoning, Limit (mathematics), Public opinion, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "内容分析",
-    "调查",
-    "案例研究"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "content analysis",
-    "survey",
-    "case study"
+    "mixed methods"
   ]
 }

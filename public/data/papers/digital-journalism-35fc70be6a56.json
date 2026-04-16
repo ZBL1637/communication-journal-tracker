@@ -19,48 +19,52 @@
     "Gent",
     "Belgium"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:13:31.498Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:06:54.089Z",
   "language": "en",
   "raw_title": "Nowhere to Feel Safe Anymore Mapping Public and Organisational Violence Against Journalists in Belgium",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "Violence against journalists is on the increase around the world: murders, physical assaults, verbal abuse, etc. (Brambila and Hughes 2019; Waisbord 2020). As this has been more likely to occur in countries in extreme risk situations (Frère 2015), the situation in Belgium has never quite been a cause for concern. However, in recent years, Belgian journalists have also been experiencing situations of violence. In a national survey, 5069 Belgian journalists were questioned, 27.5% of whom responded. This article focuses on three specific points: (a) considering the importance of diverse forms of violence (intimidation, verbal violence, physical assault and sexual transgressive behaviours); (b) identifying to what extent certain social and professional identities are more affected, by looking at the gender, age and professional status; (c) analysing the psychological, physical, professional, and legal consequences of this violence and the ways in which journalists react to and cope. Our contribution suggests to study violence against journalists as a whole, not just in public terms but also organisational terms. Finally, we discuss the different dimensions of violence: the experience of, the production of, the resignation to, and the resistance to violence in journalism.",
+  "raw_keywords": [
+    "Public relations",
+    "Political science",
+    "Journalism",
+    "Sociology",
+    "Internet privacy",
+    "Law",
+    "Computer science"
+  ],
   "title_en": "Nowhere to Feel Safe Anymore Mapping Public and Organisational Violence Against Journalists in Belgium",
-  "title_zh": "无处安身：比利时记者遭受公众和组织暴力情况调查",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "journalist safety",
-    "violence against journalists",
-    "media freedom",
-    "Belgium",
-    "organizational violence",
-    "public violence",
-    "press freedom",
-    "journalism safety"
+  "title_zh": "Nowhere to Feel Safe Anymore Mapping Public and Organisational Violence Against Journalists in Belgium",
+  "abstract_en": "Violence against journalists is on the increase around the world: murders, physical assaults, verbal abuse, etc. (Brambila and Hughes 2019; Waisbord 2020). As this has been more likely to occur in countries in extreme risk situations (Frère 2015), the situation in Belgium has never quite been a cause for concern. However, in recent years, Belgian journalists have also been experiencing situations of violence. In a national survey, 5069 Belgian journalists were questioned, 27.5% of whom responded. This article focuses on three specific points: (a) considering the importance of diverse forms of violence (intimidation, verbal violence, physical assault and sexual transgressive behaviours); (b) identifying to what extent certain social and professional identities are more affected, by looking at the gender, age and professional status; (c) analysing the psychological, physical, professional, and legal consequences of this violence and the ways in which journalists react to and cope. Our contribution suggests to study violence against journalists as a whole, not just in public terms but also organisational terms. Finally, we discuss the different dimensions of violence: the experience of, the production of, the resignation to, and the resistance to violence in journalism.",
+  "abstract_zh": "Violence against journalists is on the increase around the world: murders, physical assaults, verbal abuse, etc. (Brambila and Hughes 2019; Waisbord 2020). As this has been more likely to occur in countries in extreme risk situations (Frère 2015), the situation in Belgium has never quite been a cause for concern. However, in recent years, Belgian journalists have also been experiencing situations of violence. In a national survey, 5069 Belgian journalists were questioned, 27.5% of whom responded. This article focuses on three specific points: (a) considering the importance of diverse forms of violence (intimidation, verbal violence, physical assault and sexual transgressive behaviours); (b) identifying to what extent certain social and professional identities are more affected, by looking at the gender, age and professional status; (c) analysing the psychological, physical, professional, and legal consequences of this violence and the ways in which journalists react to and cope. Our contribution suggests to study violence against journalists as a whole, not just in public terms but also organisational terms. Finally, we discuss the different dimensions of violence: the experience of, the production of, the resignation to, and the resistance to violence in journalism.",
+  "keywords_en": [
+    "Public relations",
+    "Political science",
+    "Journalism",
+    "Sociology",
+    "Internet privacy",
+    "Law",
+    "Computer science"
   ],
-  "inferred_keywords_zh": [
-    "记者安全",
-    "针对记者的暴力",
-    "媒体自由",
-    "比利时",
-    "组织暴力",
-    "公众暴力",
-    "新闻自由",
-    "新闻安全"
+  "keywords_zh": [
+    "Public relations",
+    "Political science",
+    "Journalism",
+    "Sociology",
+    "Internet privacy",
+    "Law",
+    "Computer science"
   ],
-  "plain_summary_zh": "这项研究调查了比利时记者面临的暴力威胁，包括来自公众和组织的暴力行为。研究旨在了解记者在比利时的工作环境中面临的安全挑战，以及这些威胁如何影响新闻自由和记者的工作环境。",
-  "plain_summary_en": "This research investigates the threats of violence faced by journalists in Belgium, including violence from the public and organizations. The study aims to understand the safety challenges journalists face in the Belgian work environment and how these threats affect press freedom and journalists' working conditions.",
-  "research_direction_zh": "新闻安全与媒体自由研究，关注记者工作环境中的暴力威胁及其对新闻业的影响。",
-  "research_direction_en": "Research on journalist safety and media freedom, focusing on violence threats in journalists' work environments and their impact on journalism.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Nowhere to Feel Safe Anymore Mapping Public and Organisational Violence Against Journalists in Belgium. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Public relations, Political science, Journalism, Sociology. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Nowhere to Feel Safe Anymore Mapping Public and Organisational Violence Against Journalists in Belgium. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Public relations, Political science, Journalism, Sociology. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Public relations, Political science, Journalism, Sociology, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Public relations, Political science, Journalism, Sociology, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "调查",
-    "案例分析"
+    "survey"
   ],
   "method_tags_en": [
-    "survey",
-    "case study"
+    "survey"
   ]
 }

@@ -9,8 +9,9 @@
   "authors": [
     "Henning Eichler",
     "Bernadette Uth",
-    "Hannah Ötting",
+    "Hannah Lea Ötting",
     "Vanessa Kokoschka",
+    "Hannah Ötting",
     "Henning Eichler Bernadette Uth Hannah Ötting Vanessa Kokoschka a Professor",
     "Computer Science",
     "and Media",
@@ -25,38 +26,65 @@
     "Darmstadt",
     "Germany"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:12:33.904Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:05:42.158Z",
   "language": "en",
   "raw_title": "Debate Spaces for Everyone? How Public Service Media Aim to Reshape Audience Engagement and Interactions",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Public service",
+    "Public engagement",
+    "Social media",
+    "Service (business)",
+    "Journalism",
+    "Media relations",
+    "News media",
+    "Work (physics)"
+  ],
   "title_en": "Debate Spaces for Everyone? How Public Service Media Aim to Reshape Audience Engagement and Interactions",
   "title_zh": "人人可参与的辩论空间？公共服务媒体如何重塑受众参与和互动",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Public service",
+    "Public engagement",
+    "Social media",
+    "Service (business)",
+    "Journalism",
+    "Media relations",
+    "News media",
+    "Work (physics)"
+  ],
+  "keywords_zh": [
+    "公共服务",
+    "公众参与",
+    "社交媒体",
+    "服务（商业）",
+    "新闻学",
+    "媒体关系",
+    "新闻媒体",
+    "工作（物理学）"
+  ],
   "inferred_keywords_en": [
-    "public service media",
     "audience engagement",
-    "digital debate",
-    "media interaction",
-    "journalism studies"
+    "digital journalism",
+    "media innovation",
+    "public broadcasting",
+    "online discussions"
   ],
   "inferred_keywords_zh": [
-    "公共服务媒体",
     "受众参与",
-    "数字辩论",
-    "媒体互动",
-    "新闻学研究"
+    "数字新闻",
+    "媒体创新",
+    "公共广播",
+    "在线讨论"
   ],
-  "plain_summary_zh": "这篇研究探讨公共服务媒体如何创建更包容的在线辩论空间，让更多普通民众参与讨论，而不是只有少数专家或活跃用户。它关注媒体机构如何设计平台和内容来促进健康的公众对话。",
-  "plain_summary_en": "This research examines how public service media organizations are creating more inclusive online debate spaces that allow broader public participation, rather than just experts or active users. It focuses on how media institutions design platforms and content to foster healthy public dialogue.",
-  "research_direction_zh": "数字时代公共服务媒体的角色转型与公众参与机制创新",
-  "research_direction_en": "Role transformation of public service media in the digital age and innovation in public participation mechanisms",
+  "plain_summary_zh": "这篇研究探讨公共服务媒体如何创建让更多人参与的在线辩论空间。它研究这些媒体机构如何通过数字平台改变与观众的互动方式，让公众讨论变得更加包容和多样化。",
+  "plain_summary_en": "This research examines how public service media create online debate spaces that are more accessible to everyone. It investigates how these media organizations are changing their interactions with audiences through digital platforms to make public discussions more inclusive and diverse.",
+  "research_direction_zh": "数字时代公共服务媒体的转型与创新，特别关注如何通过技术手段增强公众参与和民主讨论。",
+  "research_direction_en": "Transformation and innovation of public service media in the digital age, with particular focus on enhancing public participation and democratic discourse through technological means.",
   "method_tags_zh": [
-    "案例研究",
+    "案例分析",
     "内容分析"
   ],
   "method_tags_en": [

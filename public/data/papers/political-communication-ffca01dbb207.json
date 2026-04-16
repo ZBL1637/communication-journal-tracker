@@ -18,42 +18,60 @@
     "National",
     "SingaporeHossein Kermani (PhD"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:05:08.524Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:56:09.518Z",
   "language": "en",
   "raw_title": "The Limits of Computational Propaganda: Investigating Underexplored Platforms and Contexts",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Context (archaeology)",
+    "Field (mathematics)",
+    "Perspective (graphical)",
+    "Social media",
+    "Perception"
+  ],
   "title_en": "The Limits of Computational Propaganda: Investigating Underexplored Platforms and Contexts",
   "title_zh": "计算宣传的局限性：探索未充分研究的平台与情境",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Context (archaeology)",
+    "Field (mathematics)",
+    "Perspective (graphical)",
+    "Social media",
+    "Perception"
+  ],
+  "keywords_zh": [
+    "情境（考古学）",
+    "领域（数学）",
+    "视角（图形）",
+    "社交媒体",
+    "感知"
+  ],
   "inferred_keywords_en": [
     "computational propaganda",
     "digital platforms",
-    "propaganda limits",
-    "media studies",
-    "political communication"
+    "political communication",
+    "media effects",
+    "cross-cultural analysis"
   ],
   "inferred_keywords_zh": [
     "计算宣传",
     "数字平台",
-    "宣传局限性",
-    "媒体研究",
-    "政治传播"
+    "政治传播",
+    "媒体效果",
+    "跨文化分析"
   ],
-  "plain_summary_zh": "这篇研究探讨了计算宣传（即利用算法和自动化工具进行政治宣传）的局限性，重点关注那些较少被研究的网络平台和不同社会文化背景。",
-  "plain_summary_en": "This research examines the limitations of computational propaganda (using algorithms and automated tools for political messaging), focusing on understudied digital platforms and diverse sociocultural contexts.",
-  "research_direction_zh": "探索数字时代政治宣传的新形式及其在不同平台和情境下的效果与限制。",
-  "research_direction_en": "Investigating new forms of political propaganda in the digital age and their effectiveness/limitations across various platforms and contexts.",
+  "plain_summary_zh": "这项研究探讨了计算宣传（即使用算法和自动化工具进行政治宣传）的局限性，重点关注那些较少被研究的社交媒体平台和不同文化背景下的情况。",
+  "plain_summary_en": "This research examines the limitations of computational propaganda (using algorithms and automated tools for political persuasion), focusing on understudied social media platforms and diverse cultural contexts.",
+  "research_direction_zh": "政治传播与数字媒体研究，特别关注自动化宣传工具在不同平台和文化中的有效性与边界。",
+  "research_direction_en": "Political communication and digital media studies, with a focus on the effectiveness and boundaries of automated propaganda tools across different platforms and cultures.",
   "method_tags_zh": [
-    "案例研究",
-    "内容分析"
+    "内容分析",
+    "案例研究"
   ],
   "method_tags_en": [
-    "case study",
-    "content analysis"
+    "content analysis",
+    "case study"
   ]
 }

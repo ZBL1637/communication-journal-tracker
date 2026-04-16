@@ -23,48 +23,55 @@
     "Amsterdam",
     "The Netherlands"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:10:31.994Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:03:02.879Z",
   "language": "en",
   "raw_title": "Examining Platforms’ Affordances: Bridging Journalists’ and Users’ Practices of Online Engagement",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "Digital technologies, especially social media platforms, are crucial to journalism’s engagement with audiences. Journalists depend on these information technologies to distribute news, while users largely rely on social media platforms for informing themselves. However, research on the role of platforms in journalism appears to have mainly focused on the risks they pose to the profession with little attention given to how platforms’ affordances facilitate engagement. The aim of this study is to examine how the expectations of journalists and users about the role of digital platforms coincide or differ in terms of the affordances for engagement with each other. We conducted in-depth interviews with 31 news users and 10 professional journalists in Chile, focusing on their use of social media related to news. Our study reveals some alignments and misalignments on the platforms’ digital affordances in three dimensions: contextual flexibility, informational access and use, and interactive communication. Journalists primarily focus on mobile use on the go, while users often access news at home. Both groups align on the exposure function of platforms but differ in their perceptions of content personalization and availability. Additionally, while journalists encourage interaction, users are often reluctant to engage deeply or are unaware of these expectations.",
+  "raw_keywords": [
+    "Affordance",
+    "Social media",
+    "Personalization",
+    "Bridging (networking)",
+    "Digital media",
+    "Perception",
+    "Journalism",
+    "Focus group"
+  ],
   "title_en": "Examining Platforms’ Affordances: Bridging Journalists’ and Users’ Practices of Online Engagement",
-  "title_zh": "审视平台可供性：连接记者与用户的在线参与实践",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "digital journalism",
-    "platform affordances",
-    "online engagement",
-    "journalistic practices",
-    "user practices",
-    "social media platforms",
-    "media studies"
+  "title_zh": "Examining Platforms’ Affordances: Bridging Journalists’ and Users’ Practices of Online Engagement",
+  "abstract_en": "Digital technologies, especially social media platforms, are crucial to journalism’s engagement with audiences. Journalists depend on these information technologies to distribute news, while users largely rely on social media platforms for informing themselves. However, research on the role of platforms in journalism appears to have mainly focused on the risks they pose to the profession with little attention given to how platforms’ affordances facilitate engagement. The aim of this study is to examine how the expectations of journalists and users about the role of digital platforms coincide or differ in terms of the affordances for engagement with each other. We conducted in-depth interviews with 31 news users and 10 professional journalists in Chile, focusing on their use of social media related to news. Our study reveals some alignments and misalignments on the platforms’ digital affordances in three dimensions: contextual flexibility, informational access and use, and interactive communication. Journalists primarily focus on mobile use on the go, while users often access news at home. Both groups align on the exposure function of platforms but differ in their perceptions of content personalization and availability. Additionally, while journalists encourage interaction, users are often reluctant to engage deeply or are unaware of these expectations.",
+  "abstract_zh": "Digital technologies, especially social media platforms, are crucial to journalism’s engagement with audiences. Journalists depend on these information technologies to distribute news, while users largely rely on social media platforms for informing themselves. However, research on the role of platforms in journalism appears to have mainly focused on the risks they pose to the profession with little attention given to how platforms’ affordances facilitate engagement. The aim of this study is to examine how the expectations of journalists and users about the role of digital platforms coincide or differ in terms of the affordances for engagement with each other. We conducted in-depth interviews with 31 news users and 10 professional journalists in Chile, focusing on their use of social media related to news. Our study reveals some alignments and misalignments on the platforms’ digital affordances in three dimensions: contextual flexibility, informational access and use, and interactive communication. Journalists primarily focus on mobile use on the go, while users often access news at home. Both groups align on the exposure function of platforms but differ in their perceptions of content personalization and availability. Additionally, while journalists encourage interaction, users are often reluctant to engage deeply or are unaware of these expectations.",
+  "keywords_en": [
+    "Affordance",
+    "Social media",
+    "Personalization",
+    "Bridging (networking)",
+    "Digital media",
+    "Perception",
+    "Journalism",
+    "Focus group"
   ],
-  "inferred_keywords_zh": [
-    "数字新闻学",
-    "平台可供性",
-    "在线参与",
-    "新闻实践",
-    "用户实践",
-    "社交媒体平台",
-    "媒体研究"
+  "keywords_zh": [
+    "Affordance",
+    "Social media",
+    "Personalization",
+    "Bridging (networking)",
+    "Digital media",
+    "Perception",
+    "Journalism",
+    "Focus group"
   ],
-  "plain_summary_zh": "这项研究探讨数字平台如何影响记者和用户的在线互动方式。它关注平台功能如何连接新闻生产和公众参与，帮助理解现代新闻业中的协作与互动。",
-  "plain_summary_en": "This study explores how digital platforms shape the ways journalists and users interact online. It focuses on how platform features connect news production with public engagement, helping understand collaboration and interaction in modern journalism.",
-  "research_direction_zh": "研究数字新闻环境中平台技术如何中介新闻实践与公众参与，探索新闻业在社交媒体时代的转型与互动模式。",
-  "research_direction_en": "Investigating how platform technologies mediate journalistic practices and public engagement in digital news environments, exploring the transformation and interaction patterns of journalism in the social media era.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Examining Platforms’ Affordances: Bridging Journalists’ and Users’ Practices of Online Engagement. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Affordance, Social media, Personalization, Bridging (networking). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Examining Platforms’ Affordances: Bridging Journalists’ and Users’ Practices of Online Engagement. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Affordance, Social media, Personalization, Bridging (networking). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Affordance, Social media, Personalization, Bridging (networking), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Affordance, Social media, Personalization, Bridging (networking), especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "案例研究",
-    "访谈",
-    "内容分析"
+    "interview"
   ],
   "method_tags_en": [
-    "case study",
-    "interview",
-    "content analysis"
+    "interview"
   ]
 }

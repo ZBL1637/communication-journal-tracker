@@ -15,7 +15,7 @@
     "USA"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-16T07:16:06.683Z",
+  "fetchedAt": "2026-04-16T09:10:26.838Z",
   "language": "en",
   "raw_title": "Unwrapping the gift of life: Newborn gender announcements as an interactional achievement",
   "raw_abstract": "",
@@ -27,23 +27,23 @@
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
-    "newborn gender announcements",
+    "gender announcements",
+    "newborn communication",
     "interactional achievement",
     "social interaction",
-    "communication studies",
-    "gender reveal"
+    "family communication"
   ],
   "inferred_keywords_zh": [
-    "新生儿性别宣布",
+    "性别宣布",
+    "新生儿沟通",
     "互动成就",
     "社会互动",
-    "传播研究",
-    "性别揭示"
+    "家庭沟通"
   ],
-  "plain_summary_zh": "这项研究探讨人们如何通过互动方式宣布新生儿的性别，将其视为一种社会成就。它关注宣布过程中的沟通行为和社会意义。",
-  "plain_summary_en": "This research examines how people announce the gender of newborns through interaction, treating it as a social achievement. It focuses on the communication behaviors and social meanings in the announcement process.",
-  "research_direction_zh": "传播研究中的社会互动分析，特别是日常生活中的仪式性沟通事件。",
-  "research_direction_en": "Social interaction analysis in communication studies, particularly ritualistic communication events in everyday life.",
+  "plain_summary_zh": "这项研究探讨了人们如何通过互动方式宣布新生儿的性别，将其视为一种社会成就，而不是简单的信息传递。",
+  "plain_summary_en": "This research examines how people announce the gender of newborns through interaction, treating it as a social achievement rather than just sharing information.",
+  "research_direction_zh": "研究关注社会互动中性别宣布的微观过程，探索沟通如何构建家庭和社会关系。",
+  "research_direction_en": "The research focuses on the micro-processes of gender announcements in social interaction, exploring how communication constructs family and social relationships.",
   "method_tags_zh": [
     "内容分析",
     "案例研究"

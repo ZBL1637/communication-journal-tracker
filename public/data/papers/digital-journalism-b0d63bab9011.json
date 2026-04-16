@@ -10,42 +10,59 @@
     "Ståle Grut",
     "Norway"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:12:48.475Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:06:00.283Z",
   "language": "en",
   "raw_title": "Convergent Epistemic Practices in Visual Fact-Checking",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Key (lock)",
+    "Sensemaking",
+    "Perspective (graphical)",
+    "Work (physics)"
+  ],
   "title_en": "Convergent Epistemic Practices in Visual Fact-Checking",
   "title_zh": "视觉事实核查中的趋同认知实践",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Key (lock)",
+    "Sensemaking",
+    "Perspective (graphical)",
+    "Work (physics)"
+  ],
+  "keywords_zh": [
+    "钥匙（锁）",
+    "意义建构",
+    "视角（图形）",
+    "工作（物理）"
+  ],
   "inferred_keywords_en": [
-    "visual fact-checking",
-    "epistemic practices",
+    "visual verification",
     "digital journalism",
-    "media verification",
-    "convergence"
+    "epistemology",
+    "media literacy",
+    "image analysis"
   ],
   "inferred_keywords_zh": [
-    "视觉事实核查",
-    "认知实践",
-    "数字新闻",
-    "媒体验证",
-    "趋同"
+    "视觉验证",
+    "数字新闻学",
+    "认识论",
+    "媒介素养",
+    "图像分析"
   ],
-  "plain_summary_zh": "这篇研究探讨了在数字新闻环境中，人们如何通过多种方法共同验证视觉内容的真实性，比如图片和视频。它关注不同验证方法如何融合，以提高事实核查的准确性和效率。",
-  "plain_summary_en": "This study explores how people in digital journalism use multiple methods together to verify the truthfulness of visual content, such as images and videos. It focuses on how different verification approaches converge to improve the accuracy and efficiency of fact-checking.",
-  "research_direction_zh": "研究数字新闻中视觉内容验证的方法融合与认知过程，旨在提升事实核查的可靠性和跨平台应用。",
-  "research_direction_en": "Investigates the convergence of methods and cognitive processes in visual content verification within digital journalism, aiming to enhance the reliability and cross-platform application of fact-checking.",
+  "plain_summary_zh": "这篇研究探讨了在数字新闻环境中，人们如何通过视觉内容进行事实核查。它关注不同背景的人如何采用相似的方法来验证图像和视频的真实性，以及这些方法如何帮助人们理解复杂的媒体信息。",
+  "plain_summary_en": "This research examines how people fact-check visual content in digital journalism. It focuses on how individuals from different backgrounds use similar methods to verify the authenticity of images and videos, and how these approaches help them understand complex media information.",
+  "research_direction_zh": "数字新闻学中的视觉验证与认知实践研究",
+  "research_direction_en": "Research on visual verification and epistemic practices in digital journalism",
   "method_tags_zh": [
     "案例研究",
-    "内容分析"
+    "内容分析",
+    "访谈"
   ],
   "method_tags_en": [
     "case study",
-    "content analysis"
+    "content analysis",
+    "interview"
   ]
 }

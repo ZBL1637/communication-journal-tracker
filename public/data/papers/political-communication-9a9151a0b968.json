@@ -15,7 +15,7 @@
     "Austin"
   ],
   "source": "rss",
-  "fetchedAt": "2026-04-16T07:07:20.961Z",
+  "fetchedAt": "2026-04-16T08:58:57.125Z",
   "language": "en",
   "raw_title": "Negativity and Misinformation",
   "raw_abstract": "",
@@ -40,10 +40,10 @@
     "媒体效果",
     "公众舆论"
   ],
-  "plain_summary_zh": "这篇研究探讨了负面情绪和错误信息在政治传播中的作用，分析它们如何影响公众对政治议题的理解和态度。",
-  "plain_summary_en": "This research examines the role of negativity and misinformation in political communication, analyzing how they affect public understanding and attitudes toward political issues.",
-  "research_direction_zh": "研究聚焦于政治传播中负面内容和错误信息的传播机制及其社会影响，旨在揭示它们如何塑造公众认知和政治行为。",
-  "research_direction_en": "The research focuses on the dissemination mechanisms and societal impacts of negative content and misinformation in political communication, aiming to uncover how they shape public perception and political behavior.",
+  "plain_summary_zh": "这篇研究探讨了负面情绪和错误信息在政治传播中的作用，分析它们如何影响公众对政治议题的看法和态度。",
+  "plain_summary_en": "This study examines the role of negativity and misinformation in political communication, analyzing how they influence public perceptions and attitudes toward political issues.",
+  "research_direction_zh": "研究聚焦于政治传播中的情感和信息质量，旨在理解负面内容和虚假信息如何塑造公众舆论和政治行为。",
+  "research_direction_en": "The research focuses on emotion and information quality in political communication, aiming to understand how negative content and false information shape public opinion and political behavior.",
   "method_tags_zh": [
     "内容分析",
     "调查"

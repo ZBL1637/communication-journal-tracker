@@ -7,8 +7,9 @@
   "issn": "2167-0811",
   "publishedAt": "2025-05-05T04:18:01.000Z",
   "authors": [
-    "Denise Fechner J.",
+    "Dafni Rose J",
     "Christian Pentzold",
+    "Denise Fechner J.",
     "Denise Fechner",
     "J. Christian Pentzold",
     "Bremen",
@@ -16,36 +17,60 @@
     "Leipzig",
     "Germany"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:09:17.174Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:01:23.210Z",
   "language": "en",
   "raw_title": "Predictive Data Stories: Characterizing a Nascent Data-Journalistic Genre",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Computer science",
+    "Big data",
+    "Data science",
+    "Political science",
+    "Internet privacy",
+    "World Wide Web",
+    "Data mining"
+  ],
   "title_en": "Predictive Data Stories: Characterizing a Nascent Data-Journalistic Genre",
   "title_zh": "预测性数据故事：描述一种新兴的数据新闻类型",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Computer science",
+    "Big data",
+    "Data science",
+    "Political science",
+    "Internet privacy",
+    "World Wide Web",
+    "Data mining"
+  ],
+  "keywords_zh": [
+    "计算机科学",
+    "大数据",
+    "数据科学",
+    "政治学",
+    "互联网隐私",
+    "万维网",
+    "数据挖掘"
+  ],
   "inferred_keywords_en": [
-    "predictive journalism",
-    "data storytelling",
-    "journalistic genres",
-    "digital journalism",
-    "emerging practices"
+    "Data journalism",
+    "Predictive analytics",
+    "Journalism studies",
+    "Media innovation",
+    "Digital storytelling"
   ],
   "inferred_keywords_zh": [
-    "预测性新闻",
-    "数据叙事",
-    "新闻类型",
-    "数字新闻",
-    "新兴实践"
+    "数据新闻",
+    "预测分析",
+    "新闻学研究",
+    "媒体创新",
+    "数字叙事"
   ],
-  "plain_summary_zh": "这篇研究探讨了一种新兴的新闻类型——预测性数据故事，它结合了数据分析和预测模型来讲述未来可能发生的事件。文章旨在描述这种类型的特征，帮助理解它在数字新闻中的发展和应用。",
-  "plain_summary_en": "This study explores an emerging journalistic genre called predictive data stories, which combines data analysis and predictive models to narrate potential future events. It aims to characterize this genre, helping to understand its development and application in digital journalism.",
-  "research_direction_zh": "研究聚焦于数字新闻中新兴的数据驱动叙事形式，特别是如何利用预测性分析来创新新闻报道，探索新闻类型在技术变革中的演变。",
-  "research_direction_en": "The research focuses on emerging data-driven narrative forms in digital journalism, particularly how predictive analysis can innovate news reporting, exploring the evolution of journalistic genres amid technological changes.",
+  "plain_summary_zh": "这篇文章研究了一种新兴的新闻类型——预测性数据故事。它探讨了如何利用大数据和数据分析来预测未来事件，并分析这种新闻形式的特点和发展趋势。",
+  "plain_summary_en": "This article examines an emerging type of journalism called predictive data stories. It explores how big data and data analysis are used to predict future events, and analyzes the characteristics and development trends of this journalistic form.",
+  "research_direction_zh": "研究数据新闻的创新形式，特别是预测性报道如何改变传统新闻实践，以及它对媒体行业和社会的影响。",
+  "research_direction_en": "Investigating innovative forms of data journalism, particularly how predictive reporting transforms traditional news practices and its impact on the media industry and society.",
   "method_tags_zh": [
     "内容分析",
     "案例研究"

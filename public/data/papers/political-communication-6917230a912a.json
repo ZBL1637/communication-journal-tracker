@@ -14,42 +14,59 @@
     "Free",
     "Berlin"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:06:39.200Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:58:09.527Z",
   "language": "en",
   "raw_title": "Claims of Victimhood Shield Politicians from Political Scandals",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Politics",
+    "Shield",
+    "Public opinion",
+    "Motivated reasoning"
+  ],
   "title_en": "Claims of Victimhood Shield Politicians from Political Scandals",
-  "title_zh": "受害声明保护政治家免受政治丑闻影响",
+  "title_zh": "声称受害可保护政客免受政治丑闻影响",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Politics",
+    "Shield",
+    "Public opinion",
+    "Motivated reasoning"
+  ],
+  "keywords_zh": [
+    "政治",
+    "保护",
+    "公众舆论",
+    "动机性推理"
+  ],
   "inferred_keywords_en": [
-    "political communication",
-    "victimhood",
-    "scandal management",
-    "political psychology",
-    "public perception"
+    "Political communication",
+    "Scandal management",
+    "Victimhood narratives",
+    "Media effects",
+    "Political psychology"
   ],
   "inferred_keywords_zh": [
     "政治传播",
-    "受害声明",
     "丑闻管理",
-    "政治心理学",
-    "公众认知"
+    "受害叙事",
+    "媒体效果",
+    "政治心理学"
   ],
-  "plain_summary_zh": "这项研究探讨政治家如何通过声称自己是受害者来减少政治丑闻对他们的负面影响。研究发现，当政治家把自己描绘成受害者时，公众可能更同情他们，从而减轻丑闻带来的损害。",
-  "plain_summary_en": "This research examines how politicians can reduce the negative impact of political scandals by claiming victimhood. The study finds that when politicians portray themselves as victims, the public may feel more sympathetic toward them, thereby mitigating the damage from scandals.",
-  "research_direction_zh": "探索政治传播中情感策略的有效性，特别是受害声明如何影响公众对政治丑闻的反应和评价。",
-  "research_direction_en": "Investigating the effectiveness of emotional strategies in political communication, specifically how claims of victimhood influence public responses to and evaluations of political scandals.",
+  "plain_summary_zh": "这项研究探讨了政客如何通过声称自己是受害者来减少政治丑闻对他们的负面影响。研究发现，当政客把自己描绘成受害者时，公众可能更同情他们，从而减轻丑闻带来的政治损害。",
+  "plain_summary_en": "This research examines how politicians can reduce the negative impact of political scandals by claiming victimhood. The study finds that when politicians portray themselves as victims, the public may sympathize with them more, thereby mitigating the political damage from scandals.",
+  "research_direction_zh": "探索政治传播中叙事策略对公众认知和态度的影响，特别是危机管理和形象修复机制。",
+  "research_direction_en": "Investigating how narrative strategies in political communication affect public perception and attitudes, particularly in crisis management and image repair mechanisms.",
   "method_tags_zh": [
     "实验",
-    "调查"
+    "调查",
+    "内容分析"
   ],
   "method_tags_en": [
     "experiment",
-    "survey"
+    "survey",
+    "content analysis"
   ]
 }

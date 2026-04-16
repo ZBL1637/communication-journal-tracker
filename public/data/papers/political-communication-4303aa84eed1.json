@@ -11,46 +11,63 @@
     "Notre Dame",
     "Indiana"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:05:00.596Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:55:51.152Z",
   "language": "en",
   "raw_title": "Outsiders in the Media: How a Sense of “Foreignness” Shapes Support for Censorship in China",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Censorship",
+    "China",
+    "Political science",
+    "Media studies",
+    "Sociology",
+    "Law"
+  ],
   "title_en": "Outsiders in the Media: How a Sense of “Foreignness” Shapes Support for Censorship in China",
-  "title_zh": "媒体中的外来者：\"外来感\"如何影响中国对审查制度的支持",
+  "title_zh": "媒体中的局外人：\"外来感\"如何影响中国对审查制度的支持",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "media studies",
-    "political communication",
-    "censorship",
-    "foreignness",
+  "keywords_en": [
+    "Censorship",
     "China",
-    "public opinion",
-    "media effects"
+    "Political science",
+    "Media studies",
+    "Sociology",
+    "Law"
+  ],
+  "keywords_zh": [
+    "审查制度",
+    "中国",
+    "政治学",
+    "媒体研究",
+    "社会学",
+    "法律"
+  ],
+  "inferred_keywords_en": [
+    "Foreignness",
+    "Media perception",
+    "Public opinion",
+    "Political communication",
+    "Cultural identity"
   ],
   "inferred_keywords_zh": [
-    "媒体研究",
-    "政治传播",
-    "审查制度",
     "外来感",
-    "中国",
+    "媒体认知",
     "公众舆论",
-    "媒体效果"
+    "政治传播",
+    "文化认同"
   ],
-  "plain_summary_zh": "这项研究探讨了当人们感觉某些媒体内容来自国外时，这种'外来感'如何影响他们对中国媒体审查制度的支持态度。研究发现，这种对外来内容的感知可能会改变人们对审查制度的看法。",
-  "plain_summary_en": "This research examines how the perception of media content as 'foreign' influences people's support for censorship in China. The study finds that feeling certain content comes from outside the country can affect attitudes toward media control.",
-  "research_direction_zh": "政治传播与媒体效果研究，特别关注跨国媒体内容感知对国内政策支持的影响机制。",
-  "research_direction_en": "Political communication and media effects research, particularly examining how perceptions of transnational media content influence support for domestic policies.",
+  "plain_summary_zh": "这项研究探讨了当人们感觉自己像\"局外人\"或\"外来者\"时，如何影响他们对中国媒体审查制度的看法。研究发现，这种\"外来感\"可能会改变人们对审查制度的支持程度。",
+  "plain_summary_en": "This research examines how feeling like an \"outsider\" or \"foreign\" affects people's views on media censorship in China. The study finds that this sense of foreignness can change how much people support censorship.",
+  "research_direction_zh": "探索社会身份认同与媒体政策态度之间的关系，特别是在跨文化或多元社会背景下。",
+  "research_direction_en": "Investigating the relationship between social identity and attitudes toward media policies, particularly in cross-cultural or diverse societal contexts.",
   "method_tags_zh": [
     "调查",
-    "实验"
+    "内容分析"
   ],
   "method_tags_en": [
     "survey",
-    "experiment"
+    "content analysis"
   ]
 }

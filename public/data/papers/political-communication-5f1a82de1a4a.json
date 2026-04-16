@@ -14,42 +14,65 @@
     "Orta Mah., Üniversite",
     "Tuzla/İstanbul"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:04:55.321Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:55:50.533Z",
   "language": "en",
   "raw_title": "Propaganda during Economic Crises: Reference Point Adjustment in Economic News",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Political science",
+    "Point (geometry)",
+    "Political economy",
+    "Economics",
+    "Economic history",
+    "Keynesian economics"
+  ],
   "title_en": "Propaganda during Economic Crises: Reference Point Adjustment in Economic News",
   "title_zh": "经济危机期间的宣传：经济新闻中的参考点调整",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Political science",
+    "Point (geometry)",
+    "Political economy",
+    "Economics",
+    "Economic history",
+    "Keynesian economics"
+  ],
+  "keywords_zh": [
+    "政治学",
+    "点（几何）",
+    "政治经济学",
+    "经济学",
+    "经济史",
+    "凯恩斯经济学"
+  ],
   "inferred_keywords_en": [
     "propaganda",
     "economic crises",
-    "reference point adjustment",
-    "economic news",
-    "media framing",
-    "political communication"
+    "reference points",
+    "news framing",
+    "media effects",
+    "economic communication"
   ],
   "inferred_keywords_zh": [
     "宣传",
     "经济危机",
-    "参考点调整",
-    "经济新闻",
-    "媒体框架",
-    "政治传播"
+    "参考点",
+    "新闻框架",
+    "媒体效果",
+    "经济传播"
   ],
-  "plain_summary_zh": "这项研究探讨在经济危机期间，媒体如何通过调整经济新闻中的参考点来进行宣传。它可能分析新闻报道如何通过改变比较基准来影响公众对经济状况的感知。",
-  "plain_summary_en": "This research examines how media use reference point adjustment in economic news for propaganda during economic crises. It likely analyzes how news reporting influences public perception of economic conditions by changing comparison benchmarks.",
-  "research_direction_zh": "政治传播中媒体框架与公众认知研究，特别关注危机时期的信息操纵策略。",
-  "research_direction_en": "Research on media framing and public perception in political communication, with specific focus on information manipulation strategies during crises.",
+  "plain_summary_zh": "这篇研究探讨在经济危机期间，新闻媒体如何通过调整参考点来影响公众对经济状况的看法。它关注宣传策略在经济报道中的应用，以及这些策略如何塑造人们对经济现实的理解。",
+  "plain_summary_en": "This research examines how news media influence public perceptions of economic conditions during crises by adjusting reference points. It focuses on propaganda strategies in economic reporting and how they shape understanding of economic realities.",
+  "research_direction_zh": "研究媒体在经济危机中的角色，特别是如何通过框架和参考点操纵来影响公众舆论和经济决策。",
+  "research_direction_en": "Investigating the role of media during economic crises, particularly how framing and reference point manipulation influence public opinion and economic decision-making.",
   "method_tags_zh": [
-    "内容分析"
+    "内容分析",
+    "案例研究"
   ],
   "method_tags_en": [
-    "content analysis"
+    "content analysis",
+    "case study"
   ]
 }

@@ -12,40 +12,45 @@
     "Athens",
     "Greece"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:11:18.766Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:03:58.915Z",
   "language": "en",
   "raw_title": "Digital Authoritarianism in the Birthplace of Democracy? Greece’s Digital Surveillance Scandal and the Lived Experiences of Targeted Journalists",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Lived experience",
+    "Authoritarianism",
+    "Electronic surveillance",
+    "Fake news",
+    "Journalism",
+    "Photojournalism"
+  ],
   "title_en": "Digital Authoritarianism in the Birthplace of Democracy? Greece’s Digital Surveillance Scandal and the Lived Experiences of Targeted Journalists",
-  "title_zh": "民主发源地的数字威权主义？希腊数字监控丑闻与被针对记者的生活经历",
+  "title_zh": "数字威权主义在民主发源地？希腊数字监控丑闻与被针对记者的生活体验",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "digital authoritarianism",
-    "surveillance",
-    "journalism",
-    "Greece",
-    "press freedom",
-    "digital rights",
-    "media studies"
+  "keywords_en": [
+    "Lived experience",
+    "Authoritarianism",
+    "Electronic surveillance",
+    "Fake news",
+    "Journalism",
+    "Photojournalism"
   ],
-  "inferred_keywords_zh": [
-    "数字威权主义",
-    "监控",
+  "keywords_zh": [
+    "生活体验",
+    "威权主义",
+    "电子监控",
+    "假新闻",
     "新闻业",
-    "希腊",
-    "新闻自由",
-    "数字权利",
-    "媒体研究"
+    "摄影新闻"
   ],
-  "plain_summary_zh": "这项研究探讨了希腊的数字监控丑闻如何影响被针对的记者。它调查了在民主国家中，数字监控如何威胁新闻自由和记者的工作与生活。",
-  "plain_summary_en": "This study examines how Greece's digital surveillance scandal affects targeted journalists. It investigates how digital surveillance in a democracy threatens press freedom and journalists' work and lives.",
-  "research_direction_zh": "研究数字监控对民主国家新闻业的影响，关注记者在数字威权主义下的经历和挑战。",
-  "research_direction_en": "Research on the impact of digital surveillance on journalism in democracies, focusing on journalists' experiences and challenges under digital authoritarianism.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_zh": "这篇研究探讨了希腊的数字监控丑闻如何影响被针对的记者，分析他们在数字威权主义环境下的生活体验。",
+  "plain_summary_en": "This study examines how Greece's digital surveillance scandal affects targeted journalists, analyzing their lived experiences in a digital authoritarian context.",
+  "research_direction_zh": "研究数字监控对新闻自由和记者安全的影响，特别是在民主国家中威权主义趋势的兴起。",
+  "research_direction_en": "Investigating the impact of digital surveillance on press freedom and journalist safety, particularly in the context of rising authoritarian trends in democracies.",
   "method_tags_zh": [
     "案例研究",
     "访谈"

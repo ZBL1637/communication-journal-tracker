@@ -19,46 +19,46 @@
     "Social Sciences",
     "Sweden"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:12:16.786Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:05:21.171Z",
   "language": "en",
   "raw_title": "The Time Dimension of Visual Journalism: The Rhythm of Photographic “Truth Claims”",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "Using theories of rhythm, temporality and photography, this study explores how the rhythm of visual news flow is shaped in today’s newsrooms and how it affects the truth-telling mission of news journalism. The material on which the study is based was collected in 2024 through participant observation and interviews with visual professionals at a regional Finnish newspaper, at a national Swedish newspaper, and through interviews with Russian visual professionals working in newsrooms in exile. The results show that the 24-h news cycle of online news, where there is a constant need for new visual material, as well as new opportunities for slower visual journalism, creates a rhythm where images do not need to give evidence to certain specific moments in time. Although visual journalism professionals express a restrictive attitude towards AI-generated images and a protective attitude towards photography as a registration, truth claims tend to focus on ‘abstract’ and ‘emotive’ truths. New opportunities to obtain detailed information on user behaviour also affect the rhythm of how, what, when and where to publish, and newsrooms are struggling to find a rhythm that corresponds to users’ experience of living in media-saturated societies.",
+  "raw_keywords": [
+    "Rhythm",
+    "Dimension (graph theory)",
+    "Fourth Dimension",
+    "Photography",
+    "Duration (music)"
+  ],
   "title_en": "The Time Dimension of Visual Journalism: The Rhythm of Photographic “Truth Claims”",
-  "title_zh": "视觉新闻的时间维度：摄影“真相主张”的节奏",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "visual journalism",
-    "photography",
-    "truth claims",
-    "time dimension",
-    "rhythm",
-    "media studies",
-    "journalism ethics"
+  "title_zh": "The Time Dimension of Visual Journalism: The Rhythm of Photographic “Truth Claims”",
+  "abstract_en": "Using theories of rhythm, temporality and photography, this study explores how the rhythm of visual news flow is shaped in today’s newsrooms and how it affects the truth-telling mission of news journalism. The material on which the study is based was collected in 2024 through participant observation and interviews with visual professionals at a regional Finnish newspaper, at a national Swedish newspaper, and through interviews with Russian visual professionals working in newsrooms in exile. The results show that the 24-h news cycle of online news, where there is a constant need for new visual material, as well as new opportunities for slower visual journalism, creates a rhythm where images do not need to give evidence to certain specific moments in time. Although visual journalism professionals express a restrictive attitude towards AI-generated images and a protective attitude towards photography as a registration, truth claims tend to focus on ‘abstract’ and ‘emotive’ truths. New opportunities to obtain detailed information on user behaviour also affect the rhythm of how, what, when and where to publish, and newsrooms are struggling to find a rhythm that corresponds to users’ experience of living in media-saturated societies.",
+  "abstract_zh": "Using theories of rhythm, temporality and photography, this study explores how the rhythm of visual news flow is shaped in today’s newsrooms and how it affects the truth-telling mission of news journalism. The material on which the study is based was collected in 2024 through participant observation and interviews with visual professionals at a regional Finnish newspaper, at a national Swedish newspaper, and through interviews with Russian visual professionals working in newsrooms in exile. The results show that the 24-h news cycle of online news, where there is a constant need for new visual material, as well as new opportunities for slower visual journalism, creates a rhythm where images do not need to give evidence to certain specific moments in time. Although visual journalism professionals express a restrictive attitude towards AI-generated images and a protective attitude towards photography as a registration, truth claims tend to focus on ‘abstract’ and ‘emotive’ truths. New opportunities to obtain detailed information on user behaviour also affect the rhythm of how, what, when and where to publish, and newsrooms are struggling to find a rhythm that corresponds to users’ experience of living in media-saturated societies.",
+  "keywords_en": [
+    "Rhythm",
+    "Dimension (graph theory)",
+    "Fourth Dimension",
+    "Photography",
+    "Duration (music)"
   ],
-  "inferred_keywords_zh": [
-    "视觉新闻",
-    "摄影",
-    "真相主张",
-    "时间维度",
-    "节奏",
-    "媒体研究",
-    "新闻伦理"
+  "keywords_zh": [
+    "Rhythm",
+    "Dimension (graph theory)",
+    "Fourth Dimension",
+    "Photography",
+    "Duration (music)"
   ],
-  "plain_summary_zh": "这篇文章探讨了视觉新闻中照片如何通过时间节奏来构建和传达“真相主张”。它分析了摄影在新闻报道中如何随时间变化影响观众对真实性的感知。",
-  "plain_summary_en": "This article examines how photographs in visual journalism construct and convey 'truth claims' through temporal rhythms. It analyzes how photography in news reporting influences audience perceptions of authenticity over time.",
-  "research_direction_zh": "视觉新闻与媒体研究，关注摄影在新闻报道中的时间动态和真实性构建。",
-  "research_direction_en": "Visual journalism and media studies, focusing on temporal dynamics and authenticity construction in photojournalism.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies The Time Dimension of Visual Journalism: The Rhythm of Photographic “Truth Claims”. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Rhythm, Dimension (graph theory), Fourth Dimension, Photography. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies The Time Dimension of Visual Journalism: The Rhythm of Photographic “Truth Claims”. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Rhythm, Dimension (graph theory), Fourth Dimension, Photography. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Rhythm, Dimension (graph theory), Fourth Dimension, Photography, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Rhythm, Dimension (graph theory), Fourth Dimension, Photography, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "内容分析",
-    "案例研究"
+    "interview"
   ],
   "method_tags_en": [
-    "content analysis",
-    "case study"
+    "interview"
   ]
 }

@@ -16,44 +16,49 @@
     "Freie Universität Berlin",
     "Germany"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:15:37.586Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:09:41.561Z",
   "language": "en",
   "raw_title": "Digital Turn Without Digital Methods? Mapping the Journey of Journalism Studies",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "Recent years have seen a growing diversity in journalism studies, primarily ascribed to digital transformation in the contemporary context. Analyzing 6,770 publications from the five major journalism journals—*Journalism*, *Journalism & Mass Communication Quarterly*, *Journalism Practice*, *Journalism Studies*, and *Digital Journalism*—between 1995 and 2022, we find new evidence that the digital turn is highly visible in journalism studies. Using document co-citation analysis, we first have identified distinct and coherent, yet loosely integrated, research clusters that focus on different journalistic topics, i.e., specialties. Second, we find that digital journalism has not only been integrated into the research agendas within the field but has also formed stand-alone and distinct research clusters. We further show that field structure has developed over the years in response to digital transformation. Yet, digital and computational methods remain in the stark minority compared with the more traditional methods. Our results suggest that journalism studies could benefit from novel inter-cluster communications and methodological innovations.",
+  "raw_keywords": [
+    "Journalism",
+    "Computer science",
+    "Political science",
+    "Sociology",
+    "Media studies",
+    "Public relations"
+  ],
   "title_en": "Digital Turn Without Digital Methods? Mapping the Journey of Journalism Studies",
-  "title_zh": "没有数字方法的数字转向？描绘新闻学研究的发展历程",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "digital journalism",
-    "journalism studies",
-    "research methods",
-    "digital turn",
-    "academic development",
-    "methodological innovation"
+  "title_zh": "Digital Turn Without Digital Methods? Mapping the Journey of Journalism Studies",
+  "abstract_en": "Recent years have seen a growing diversity in journalism studies, primarily ascribed to digital transformation in the contemporary context. Analyzing 6,770 publications from the five major journalism journals—*Journalism*, *Journalism & Mass Communication Quarterly*, *Journalism Practice*, *Journalism Studies*, and *Digital Journalism*—between 1995 and 2022, we find new evidence that the digital turn is highly visible in journalism studies. Using document co-citation analysis, we first have identified distinct and coherent, yet loosely integrated, research clusters that focus on different journalistic topics, i.e., specialties. Second, we find that digital journalism has not only been integrated into the research agendas within the field but has also formed stand-alone and distinct research clusters. We further show that field structure has developed over the years in response to digital transformation. Yet, digital and computational methods remain in the stark minority compared with the more traditional methods. Our results suggest that journalism studies could benefit from novel inter-cluster communications and methodological innovations.",
+  "abstract_zh": "Recent years have seen a growing diversity in journalism studies, primarily ascribed to digital transformation in the contemporary context. Analyzing 6,770 publications from the five major journalism journals—*Journalism*, *Journalism & Mass Communication Quarterly*, *Journalism Practice*, *Journalism Studies*, and *Digital Journalism*—between 1995 and 2022, we find new evidence that the digital turn is highly visible in journalism studies. Using document co-citation analysis, we first have identified distinct and coherent, yet loosely integrated, research clusters that focus on different journalistic topics, i.e., specialties. Second, we find that digital journalism has not only been integrated into the research agendas within the field but has also formed stand-alone and distinct research clusters. We further show that field structure has developed over the years in response to digital transformation. Yet, digital and computational methods remain in the stark minority compared with the more traditional methods. Our results suggest that journalism studies could benefit from novel inter-cluster communications and methodological innovations.",
+  "keywords_en": [
+    "Journalism",
+    "Computer science",
+    "Political science",
+    "Sociology",
+    "Media studies",
+    "Public relations"
   ],
-  "inferred_keywords_zh": [
-    "数字新闻",
-    "新闻学研究",
-    "研究方法",
-    "数字转向",
-    "学术发展",
-    "方法论创新"
+  "keywords_zh": [
+    "Journalism",
+    "Computer science",
+    "Political science",
+    "Sociology",
+    "Media studies",
+    "Public relations"
   ],
-  "plain_summary_zh": "这篇文章探讨了新闻学研究在数字时代的发展情况。它提出了一个重要问题：虽然新闻领域已经转向数字化，但研究方法是否也跟上了这种转变？文章回顾了新闻学研究的发展历程，分析了当前研究方法的现状，并思考了未来可能的发展方向。",
-  "plain_summary_en": "This article examines the development of journalism studies in the digital age. It raises an important question: while journalism has turned digital, have research methods kept pace with this transformation? The article reviews the journey of journalism studies, analyzes the current state of research methods, and considers potential future directions.",
-  "research_direction_zh": "新闻学研究方法论在数字时代的适应与创新，关注数字技术对新闻研究范式的影响和变革。",
-  "research_direction_en": "Adaptation and innovation of journalism research methodology in the digital age, focusing on the impact and transformation of digital technologies on journalism research paradigms.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Digital Turn Without Digital Methods? Mapping the Journey of Journalism Studies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Computer science, Political science, Sociology. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Digital Turn Without Digital Methods? Mapping the Journey of Journalism Studies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Computer science, Political science, Sociology. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Journalism, Computer science, Political science, Sociology, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Journalism, Computer science, Political science, Sociology, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "文献综述",
-    "理论分析"
+    "computational analysis"
   ],
   "method_tags_en": [
-    "literature review",
-    "theoretical analysis"
+    "computational analysis"
   ]
 }

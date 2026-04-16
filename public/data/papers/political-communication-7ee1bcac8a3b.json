@@ -20,46 +20,54 @@
     "Weidenbaum",
     "Government, and Public Policy."
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:07:08.655Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:58:42.336Z",
   "language": "en",
   "raw_title": "Truth-Seeking vs. Balance: The Credibility Dilemma in Correcting Political Misinformation",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Misinformation",
+    "Credibility",
+    "Dilemma",
+    "Politics",
+    "Political communication",
+    "Public opinion",
+    "Disinformation"
+  ],
   "title_en": "Truth-Seeking vs. Balance: The Credibility Dilemma in Correcting Political Misinformation",
   "title_zh": "求真与平衡：纠正政治错误信息中的可信度困境",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "political misinformation",
-    "credibility",
-    "correction strategies",
-    "truth-seeking",
-    "balance",
-    "media ethics",
-    "political communication"
+  "keywords_en": [
+    "Misinformation",
+    "Credibility",
+    "Dilemma",
+    "Politics",
+    "Political communication",
+    "Public opinion",
+    "Disinformation"
   ],
-  "inferred_keywords_zh": [
-    "政治错误信息",
+  "keywords_zh": [
+    "错误信息",
     "可信度",
-    "纠正策略",
-    "求真",
-    "平衡",
-    "媒体伦理",
-    "政治传播"
+    "困境",
+    "政治",
+    "政治传播",
+    "公众舆论",
+    "虚假信息"
   ],
-  "plain_summary_zh": "这篇文章探讨了在纠正政治错误信息时面临的一个难题：是应该坚持追求真相，还是保持平衡报道。研究发现，这两种方法都可能影响媒体或信息发布者的可信度，尤其是在政治传播中。",
-  "plain_summary_en": "This article examines a dilemma in correcting political misinformation: whether to prioritize truth-seeking or maintain balanced reporting. The research finds that both approaches can affect the credibility of media or information sources, particularly in political communication.",
-  "research_direction_zh": "研究政治传播中错误信息纠正策略的有效性及其对可信度的影响，探索如何在追求真相和保持平衡之间找到最佳实践。",
-  "research_direction_en": "Investigating the effectiveness of misinformation correction strategies in political communication and their impact on credibility, exploring best practices between truth-seeking and balance.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_zh": "这篇文章探讨了在纠正政治错误信息时面临的一个难题：是应该坚持追求真相，还是保持平衡报道。研究发现，这种选择会影响信息发布者的可信度，尤其是在政治传播领域。",
+  "plain_summary_en": "This article examines a dilemma in correcting political misinformation: whether to prioritize truth-seeking or maintain balanced reporting. The research finds that this choice affects the credibility of information sources, particularly in political communication contexts.",
+  "research_direction_zh": "政治传播中的信息纠正策略研究，关注可信度管理与公众认知影响",
+  "research_direction_en": "Research on information correction strategies in political communication, focusing on credibility management and public perception impacts",
   "method_tags_zh": [
-    "实验",
-    "内容分析"
+    "内容分析",
+    "实验"
   ],
   "method_tags_en": [
-    "experiment",
-    "content analysis"
+    "content analysis",
+    "experiment"
   ]
 }

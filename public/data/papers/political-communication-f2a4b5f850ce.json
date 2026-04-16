@@ -9,9 +9,10 @@
   "authors": [
     "Katherine Kountz",
     "Mor Yachin",
-    "Carol K. Winkler",
+    "Carol Winkler",
     "Dror Walter",
     "Anthony F. Lemieux",
+    "Carol K. Winkler",
     "Katherine Kountz Mor Yachin Carol K. Winkler Dror Walter Anthony F. Lemieux",
     "Georgia State",
     "Atlanta",
@@ -20,46 +21,43 @@
     "Conflict and",
     "Violence Initiative"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:06:11.095Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:57:32.976Z",
   "language": "en",
   "raw_title": "Resistance is Far-Right from Futile: Deplatforming, Resilience, and Persistent Presence Across Platforms as Drivers of Accelerationist Politics",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Politics",
+    "Resistance (ecology)",
+    "Public opinion",
+    "Political communication"
+  ],
   "title_en": "Resistance is Far-Right from Futile: Deplatforming, Resilience, and Persistent Presence Across Platforms as Drivers of Accelerationist Politics",
-  "title_zh": "抵抗并非徒劳：去平台化、韧性及跨平台持续存在作为加速主义政治的驱动因素",
+  "title_zh": "Resistance is Far-Right from Futile: Deplatforming, Resilience, and Persistent Presence Across Platforms as Drivers of Accelerationist Politics",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "deplatforming",
-    "resilience",
-    "persistent presence",
-    "accelerationist politics",
-    "far-right",
-    "online platforms",
-    "political communication"
+  "keywords_en": [
+    "Politics",
+    "Resistance (ecology)",
+    "Public opinion",
+    "Political communication"
   ],
-  "inferred_keywords_zh": [
-    "去平台化",
-    "韧性",
-    "持续存在",
-    "加速主义政治",
-    "极右翼",
-    "在线平台",
-    "政治传播"
+  "keywords_zh": [
+    "Politics",
+    "Resistance (ecology)",
+    "Public opinion",
+    "Political communication"
   ],
-  "plain_summary_zh": "这项研究探讨了极右翼团体在被主流平台封禁后，如何通过跨平台持续存在和展现韧性，反而推动了加速主义政治的发展。它分析了去平台化措施可能产生的意外后果。",
-  "plain_summary_en": "This study examines how far-right groups, after being banned from mainstream platforms, can drive accelerationist politics through persistent presence across platforms and resilience. It analyzes the unintended consequences of deplatforming measures.",
-  "research_direction_zh": "该研究属于政治传播领域，关注数字时代极端主义内容的传播机制、平台治理政策的有效性及其对政治激进化的影响。",
-  "research_direction_en": "This research falls within political communication, focusing on the dissemination mechanisms of extremist content in the digital age, the effectiveness of platform governance policies, and their impact on political radicalization.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Resistance is Far-Right from Futile: Deplatforming, Resilience, and Persistent Presence Across Platforms as Drivers of Accelerationist Politics. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Resistance (ecology), Public opinion, Political communication. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Resistance is Far-Right from Futile: Deplatforming, Resilience, and Persistent Presence Across Platforms as Drivers of Accelerationist Politics. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Resistance (ecology), Public opinion, Political communication. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Politics, Resistance (ecology), Public opinion, Political communication, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Politics, Resistance (ecology), Public opinion, Political communication, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "内容分析",
-    "案例研究"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "content analysis",
-    "case study"
+    "mixed methods"
   ]
 }

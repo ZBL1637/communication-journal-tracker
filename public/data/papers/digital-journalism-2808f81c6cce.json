@@ -11,50 +11,46 @@
     "National",
     "Singapore"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:14:51.454Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:08:40.047Z",
   "language": "en",
   "raw_title": "Building Legislative Legitimacy of “Fake News” Laws: A Study of How Governments May Seek to Legitimize Policy Interventions Against Fake News",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "With increasing fake news, more governments are looking to enact laws to counter the spread of falsehoods online. Such moves however, have been met with much criticism, for their potential censorship of oppositional voices and threats to free speech and media freedom. For such a law to be successfully implemented, this paper argues that it must first be viewed as legitimate. The author delves into the concept of “legislative legitimacy”, binding it to three key aspects of perceived trustworthiness of the authorities, procedural justice, and shared values between the authorities and the people. It then studies how a government may build this legitimacy by focusing on Singapore, a country that enacted its anti-fake news law in 2019, which has been deemed as one of the world’s most comprehensive. A critical discourse analysis of 172 news articles reveals key strategies undertaken in the Singapore context at the discursive, material and ideological levels – pertaining to consistent government messaging in discursive terms, transparency in the material make-up and individual implementations of the law, and an ideological alignment with the people to maintain peace and stability in Singapore – presenting learning points on the legitimacy-building process of such policy interventions against fake news.",
+  "raw_keywords": [
+    "Legitimacy",
+    "Legislature",
+    "Fake news",
+    "Psychological intervention",
+    "Government (linguistics)"
+  ],
   "title_en": "Building Legislative Legitimacy of “Fake News” Laws: A Study of How Governments May Seek to Legitimize Policy Interventions Against Fake News",
-  "title_zh": "构建“假新闻”法律的立法合法性：政府如何寻求合法化打击假新闻政策干预的研究",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "fake news",
-    "legislative legitimacy",
-    "policy intervention",
-    "government regulation",
-    "media law",
-    "disinformation",
-    "legal frameworks",
-    "political communication"
+  "title_zh": "Building Legislative Legitimacy of “Fake News” Laws: A Study of How Governments May Seek to Legitimize Policy Interventions Against Fake News",
+  "abstract_en": "With increasing fake news, more governments are looking to enact laws to counter the spread of falsehoods online. Such moves however, have been met with much criticism, for their potential censorship of oppositional voices and threats to free speech and media freedom. For such a law to be successfully implemented, this paper argues that it must first be viewed as legitimate. The author delves into the concept of “legislative legitimacy”, binding it to three key aspects of perceived trustworthiness of the authorities, procedural justice, and shared values between the authorities and the people. It then studies how a government may build this legitimacy by focusing on Singapore, a country that enacted its anti-fake news law in 2019, which has been deemed as one of the world’s most comprehensive. A critical discourse analysis of 172 news articles reveals key strategies undertaken in the Singapore context at the discursive, material and ideological levels – pertaining to consistent government messaging in discursive terms, transparency in the material make-up and individual implementations of the law, and an ideological alignment with the people to maintain peace and stability in Singapore – presenting learning points on the legitimacy-building process of such policy interventions against fake news.",
+  "abstract_zh": "With increasing fake news, more governments are looking to enact laws to counter the spread of falsehoods online. Such moves however, have been met with much criticism, for their potential censorship of oppositional voices and threats to free speech and media freedom. For such a law to be successfully implemented, this paper argues that it must first be viewed as legitimate. The author delves into the concept of “legislative legitimacy”, binding it to three key aspects of perceived trustworthiness of the authorities, procedural justice, and shared values between the authorities and the people. It then studies how a government may build this legitimacy by focusing on Singapore, a country that enacted its anti-fake news law in 2019, which has been deemed as one of the world’s most comprehensive. A critical discourse analysis of 172 news articles reveals key strategies undertaken in the Singapore context at the discursive, material and ideological levels – pertaining to consistent government messaging in discursive terms, transparency in the material make-up and individual implementations of the law, and an ideological alignment with the people to maintain peace and stability in Singapore – presenting learning points on the legitimacy-building process of such policy interventions against fake news.",
+  "keywords_en": [
+    "Legitimacy",
+    "Legislature",
+    "Fake news",
+    "Psychological intervention",
+    "Government (linguistics)"
   ],
-  "inferred_keywords_zh": [
-    "假新闻",
-    "立法合法性",
-    "政策干预",
-    "政府监管",
-    "媒体法",
-    "虚假信息",
-    "法律框架",
-    "政治传播"
+  "keywords_zh": [
+    "Legitimacy",
+    "Legislature",
+    "Fake news",
+    "Psychological intervention",
+    "Government (linguistics)"
   ],
-  "plain_summary_zh": "这项研究探讨了政府如何通过法律手段来打击假新闻，并让这些法律看起来合理合法。研究者分析了政府可能采取的策略，使公众接受这些针对假新闻的政策干预。",
-  "plain_summary_en": "This study examines how governments create laws to combat fake news and make these laws appear legitimate. The research analyzes strategies governments might use to gain public acceptance for policy interventions against fake news.",
-  "research_direction_zh": "该研究属于政治传播与媒体监管交叉领域，关注政府如何通过立法手段应对数字时代的虚假信息问题，并探讨政策合法性的构建机制。",
-  "research_direction_en": "This research falls within the intersection of political communication and media regulation, focusing on how governments use legislative approaches to address disinformation in the digital age and explore mechanisms for building policy legitimacy.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Building Legislative Legitimacy of “Fake News” Laws: A Study of How Governments May Seek to Legitimize Policy Interventions Against Fake News. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Legitimacy, Legislature, Fake news, Psychological intervention. The abstract suggests a discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Building Legislative Legitimacy of “Fake News” Laws: A Study of How Governments May Seek to Legitimize Policy Interventions Against Fake News. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Legitimacy, Legislature, Fake news, Psychological intervention. The abstract suggests a discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Legitimacy, Legislature, Fake news, Psychological intervention, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Legitimacy, Legislature, Fake news, Psychological intervention, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "案例研究",
-    "政策分析",
-    "文献综述"
+    "discourse analysis"
   ],
   "method_tags_en": [
-    "case study",
-    "policy analysis",
-    "literature review"
+    "discourse analysis"
   ]
 }

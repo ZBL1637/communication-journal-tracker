@@ -13,42 +13,54 @@
     "Illinois",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:04:41.906Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:55:30.275Z",
   "language": "en",
   "raw_title": "Performative Propaganda Engagement: How Celebrity Fans Engage with State Propaganda on Weibo",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Performative utterance",
+    "State (computer science)",
+    "Social media",
+    "Performativity",
+    "Politics"
+  ],
   "title_en": "Performative Propaganda Engagement: How Celebrity Fans Engage with State Propaganda on Weibo",
   "title_zh": "表演性宣传参与：名人粉丝如何在微博上与国家宣传互动",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Performative utterance",
+    "State (computer science)",
+    "Social media",
+    "Performativity",
+    "Politics"
+  ],
+  "keywords_zh": [
+    "表演性话语",
+    "国家（计算机科学）",
+    "社交媒体",
+    "表演性",
+    "政治"
+  ],
   "inferred_keywords_en": [
-    "celebrity fans",
-    "state propaganda",
-    "Weibo",
-    "social media engagement",
-    "political communication",
-    "performative behavior",
-    "online activism",
-    "digital propaganda"
+    "celebrity culture",
+    "online engagement",
+    "digital propaganda",
+    "fan communities",
+    "Weibo platform"
   ],
   "inferred_keywords_zh": [
-    "名人粉丝",
-    "国家宣传",
-    "微博",
-    "社交媒体参与",
-    "政治传播",
-    "表演性行为",
-    "网络行动主义",
-    "数字宣传"
+    "名人文化",
+    "在线参与",
+    "数字宣传",
+    "粉丝社群",
+    "微博平台"
   ],
-  "plain_summary_zh": "这项研究探讨了名人粉丝在微博上如何参与国家宣传内容。它关注粉丝们可能为了展示忠诚或支持而进行的表演性互动行为，而不是出于真正的政治信念。",
-  "plain_summary_en": "This research examines how celebrity fans engage with state propaganda content on Weibo. It focuses on the performative interactions fans might undertake to demonstrate loyalty or support, rather than genuine political belief.",
-  "research_direction_zh": "社交媒体时代政治传播与粉丝文化的交叉研究，特别关注数字平台上的国家宣传与公众参与机制。",
-  "research_direction_en": "Research at the intersection of political communication and fan culture in the social media era, particularly focusing on state propaganda and public engagement mechanisms on digital platforms.",
+  "plain_summary_zh": "这项研究探讨了名人粉丝在微博上如何参与国家宣传内容。它关注粉丝的互动行为是否具有表演性质，以及这种参与如何影响宣传效果。",
+  "plain_summary_en": "This study examines how celebrity fans engage with state propaganda content on Weibo. It focuses on whether fans' interactions are performative and how this engagement affects propaganda effectiveness.",
+  "research_direction_zh": "社交媒体上的政治传播与粉丝文化研究，关注数字时代宣传策略与公众互动的动态关系。",
+  "research_direction_en": "Research on political communication and fan culture on social media, focusing on the dynamics between propaganda strategies and public engagement in the digital age.",
   "method_tags_zh": [
     "内容分析",
     "案例研究"

@@ -14,40 +14,53 @@
     "South Koreab Yonsei",
     "South Korea"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:11:34.310Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:04:22.829Z",
   "language": "en",
   "raw_title": "A Way Out or Another Hurdle? Assessing the Impact of the “News Partnership Evaluation Committee” on Platform Dependence in South Korea",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "General partnership",
+    "Strategic partnership",
+    "Work (physics)",
+    "Government (linguistics)"
+  ],
   "title_en": "A Way Out or Another Hurdle? Assessing the Impact of the “News Partnership Evaluation Committee” on Platform Dependence in South Korea",
   "title_zh": "出路还是另一道障碍？评估“新闻合作评估委员会”对韩国平台依赖的影响",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "General partnership",
+    "Strategic partnership",
+    "Work (physics)",
+    "Government (linguistics)"
+  ],
+  "keywords_zh": [
+    "一般合作",
+    "战略合作",
+    "工作（物理学）",
+    "政府（语言学）"
+  ],
   "inferred_keywords_en": [
-    "news partnership",
-    "platform dependence",
-    "South Korea",
     "media policy",
+    "platform regulation",
+    "news industry",
+    "South Korea",
     "digital journalism",
-    "evaluation committee",
-    "media regulation"
+    "media economics"
   ],
   "inferred_keywords_zh": [
-    "新闻合作",
-    "平台依赖",
-    "韩国",
     "媒体政策",
-    "数字新闻",
-    "评估委员会",
-    "媒体监管"
+    "平台监管",
+    "新闻产业",
+    "韩国",
+    "数字新闻学",
+    "媒体经济学"
   ],
-  "plain_summary_zh": "这项研究探讨了韩国设立的“新闻合作评估委员会”如何影响新闻媒体对数字平台的依赖。它分析了这个委员会是帮助新闻机构减少对平台的依赖，还是反而增加了新的障碍。",
+  "plain_summary_zh": "这篇研究探讨了韩国设立的“新闻合作评估委员会”如何影响新闻媒体对数字平台的依赖。它分析这个委员会是帮助新闻机构减少对平台的依赖，还是反而增加了新的障碍。",
   "plain_summary_en": "This study examines how South Korea's 'News Partnership Evaluation Committee' affects news media's dependence on digital platforms. It analyzes whether this committee helps news organizations reduce platform reliance or creates additional hurdles.",
-  "research_direction_zh": "研究数字新闻生态系统中政策干预对媒体独立性和平台依赖的影响，特别关注韩国等东亚国家的监管框架。",
-  "research_direction_en": "Investigating the impact of policy interventions on media independence and platform dependence in digital journalism ecosystems, with particular focus on regulatory frameworks in East Asian countries like South Korea.",
+  "research_direction_zh": "研究数字时代媒体政策对新闻产业结构和经济依赖的影响，特别关注政府干预在平台与媒体关系中的作用。",
+  "research_direction_en": "Investigating how media policies in the digital era affect news industry structures and economic dependencies, with particular focus on government intervention in platform-media relationships.",
   "method_tags_zh": [
     "案例研究",
     "政策分析"

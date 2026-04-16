@@ -8,48 +8,56 @@
   "publishedAt": "2026-01-06T08:31:40.000Z",
   "authors": [
     "Magdalena Obermaier",
+    "Ursula Kristin Schmid",
     "Ursula K. Schmid",
     "LMU Munich",
     "Munich",
     "GermanyMagdalena Obermaier (Dr. LMU Munich), is a",
     "Germany. Her"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:05:42.186Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:56:52.848Z",
   "language": "en",
   "raw_title": "Pay it Forward? How Target Group and Social Norms Affect Online Bystander Intervention",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Bystander effect",
+    "Affect (linguistics)",
+    "Social norms approach",
+    "Intervention (counseling)",
+    "Group (periodic table)",
+    "Social comparison theory"
+  ],
   "title_en": "Pay it Forward? How Target Group and Social Norms Affect Online Bystander Intervention",
-  "title_zh": "传递善意？目标群体和社会规范如何影响网络旁观者干预",
+  "title_zh": "Pay it Forward? How Target Group and Social Norms Affect Online Bystander Intervention",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "online bystander intervention",
-    "social norms",
-    "target group",
-    "digital communication",
-    "prosocial behavior"
+  "keywords_en": [
+    "Bystander effect",
+    "Affect (linguistics)",
+    "Social norms approach",
+    "Intervention (counseling)",
+    "Group (periodic table)",
+    "Social comparison theory"
   ],
-  "inferred_keywords_zh": [
-    "网络旁观者干预",
-    "社会规范",
-    "目标群体",
-    "数字传播",
-    "亲社会行为"
+  "keywords_zh": [
+    "Bystander effect",
+    "Affect (linguistics)",
+    "Social norms approach",
+    "Intervention (counseling)",
+    "Group (periodic table)",
+    "Social comparison theory"
   ],
-  "plain_summary_zh": "这项研究探讨了在网络环境中，当人们看到他人需要帮助时，是什么因素促使他们采取行动。具体来说，它关注两个关键因素：需要帮助的人是谁（目标群体），以及周围人通常怎么做（社会规范）。研究发现，这些因素会影响人们是否愿意在网上伸出援手，比如在社交媒体上支持受欺负的人。",
-  "plain_summary_en": "This study explores what motivates people to help others online when they witness someone in need. It focuses on two key factors: who needs help (target group) and what others typically do (social norms). The research finds that these factors influence whether people are willing to intervene online, such as supporting someone being bullied on social media.",
-  "research_direction_zh": "该研究属于数字传播与亲社会行为交叉领域，旨在理解网络环境中的社会心理机制，特别是如何通过设计干预策略促进在线社区的积极互动和减少伤害。",
-  "research_direction_en": "This research falls within the intersection of digital communication and prosocial behavior, aiming to understand the social-psychological mechanisms in online environments, particularly how to design intervention strategies to foster positive interactions and reduce harm in digital communities.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Pay it Forward? How Target Group and Social Norms Affect Online Bystander Intervention. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Bystander effect, Affect (linguistics), Social norms approach, Intervention (counseling). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Pay it Forward? How Target Group and Social Norms Affect Online Bystander Intervention. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Bystander effect, Affect (linguistics), Social norms approach, Intervention (counseling). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Bystander effect, Affect (linguistics), Social norms approach, Intervention (counseling), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Bystander effect, Affect (linguistics), Social norms approach, Intervention (counseling), especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "实验",
-    "调查"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "experiment",
-    "survey"
+    "mixed methods"
   ]
 }

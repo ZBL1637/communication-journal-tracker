@@ -7,9 +7,10 @@
   "issn": "2167-0811",
   "publishedAt": "2025-10-29T07:45:41.000Z",
   "authors": [
-    "Babette Hermans",
+    "Bart Hermans",
     "Cato Waeterloos",
     "Michaël Opgenhaffen",
+    "Babette Hermans",
     "a Media",
     "Information & Persuasion",
     "Communication Science",
@@ -22,44 +23,47 @@
     "Hasselt",
     "Belgium"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:14:53.288Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:08:46.434Z",
   "language": "en",
   "raw_title": "The Remediation of Fact-Checks on Social Media: Insights from a Multi-Platform Content Analysis",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "The rise of social media has escalated the spread of misinformation, and the practice of fact-checking has become a key tool in the fight against it. Over time, the practice of fact-checking evolved and in recent years, fact-checking practices have shifted to social media platforms. However, social media’s unique logic requires fact-checkers to adapt—or “remediate” - their content to these platforms, which can prove to be challenging. Research is currently lacking on how fact-checks are remediated to this new format. This study examined how fact-checking organizations remediate their website fact-checks to different social media platforms, through an extensive content analysis ( N = 14.891) of website and social media fact-checks published by eight fact-checking organizations (Belgium, the US, the UK). Results show that transfer rates from the website to social media are generally high, but that there are differences across organizations. Fact-checks are diffused to social media with an initial widespread burst across platforms but are often not re-shared after this. Reposting of content happens mostly within the platform, with reposts across platforms occurring less often. There is a prevalence of hard news topics both in website fact-checks as on social media, indicating no trend of news softening.",
+  "raw_keywords": [
+    "Social media",
+    "Content analysis",
+    "Content (measure theory)",
+    "Social media optimization",
+    "Key (lock)",
+    "Media content"
+  ],
   "title_en": "The Remediation of Fact-Checks on Social Media: Insights from a Multi-Platform Content Analysis",
-  "title_zh": "社交媒体上事实核查的再媒介化：来自多平台内容分析的见解",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "fact-checking",
-    "social media",
-    "remediation",
-    "content analysis",
-    "multi-platform",
-    "digital journalism",
-    "misinformation",
-    "media studies"
+  "title_zh": "The Remediation of Fact-Checks on Social Media: Insights from a Multi-Platform Content Analysis",
+  "abstract_en": "The rise of social media has escalated the spread of misinformation, and the practice of fact-checking has become a key tool in the fight against it. Over time, the practice of fact-checking evolved and in recent years, fact-checking practices have shifted to social media platforms. However, social media’s unique logic requires fact-checkers to adapt—or “remediate” - their content to these platforms, which can prove to be challenging. Research is currently lacking on how fact-checks are remediated to this new format. This study examined how fact-checking organizations remediate their website fact-checks to different social media platforms, through an extensive content analysis ( N = 14.891) of website and social media fact-checks published by eight fact-checking organizations (Belgium, the US, the UK). Results show that transfer rates from the website to social media are generally high, but that there are differences across organizations. Fact-checks are diffused to social media with an initial widespread burst across platforms but are often not re-shared after this. Reposting of content happens mostly within the platform, with reposts across platforms occurring less often. There is a prevalence of hard news topics both in website fact-checks as on social media, indicating no trend of news softening.",
+  "abstract_zh": "The rise of social media has escalated the spread of misinformation, and the practice of fact-checking has become a key tool in the fight against it. Over time, the practice of fact-checking evolved and in recent years, fact-checking practices have shifted to social media platforms. However, social media’s unique logic requires fact-checkers to adapt—or “remediate” - their content to these platforms, which can prove to be challenging. Research is currently lacking on how fact-checks are remediated to this new format. This study examined how fact-checking organizations remediate their website fact-checks to different social media platforms, through an extensive content analysis ( N = 14.891) of website and social media fact-checks published by eight fact-checking organizations (Belgium, the US, the UK). Results show that transfer rates from the website to social media are generally high, but that there are differences across organizations. Fact-checks are diffused to social media with an initial widespread burst across platforms but are often not re-shared after this. Reposting of content happens mostly within the platform, with reposts across platforms occurring less often. There is a prevalence of hard news topics both in website fact-checks as on social media, indicating no trend of news softening.",
+  "keywords_en": [
+    "Social media",
+    "Content analysis",
+    "Content (measure theory)",
+    "Social media optimization",
+    "Key (lock)",
+    "Media content"
   ],
-  "inferred_keywords_zh": [
-    "事实核查",
-    "社交媒体",
-    "再媒介化",
-    "内容分析",
-    "多平台",
-    "数字新闻学",
-    "错误信息",
-    "媒体研究"
+  "keywords_zh": [
+    "Social media",
+    "Content analysis",
+    "Content (measure theory)",
+    "Social media optimization",
+    "Key (lock)",
+    "Media content"
   ],
-  "plain_summary_zh": "这项研究分析了事实核查内容在多个社交媒体平台上的传播和呈现方式。研究者通过内容分析的方法，探索了不同平台如何影响事实核查信息的传播效果和公众理解。",
-  "plain_summary_en": "This study analyzes how fact-checking content is disseminated and presented across multiple social media platforms. Using content analysis, researchers explore how different platforms affect the spread and public understanding of fact-checking information.",
-  "research_direction_zh": "数字新闻学中社交媒体平台对信息传播和公众认知的影响研究，特别关注事实核查内容的跨平台传播机制。",
-  "research_direction_en": "Research on the impact of social media platforms on information dissemination and public cognition in digital journalism, with particular focus on cross-platform dissemination mechanisms of fact-checking content.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies The Remediation of Fact-Checks on Social Media: Insights from a Multi-Platform Content Analysis. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, Content analysis, Content (measure theory), Social media optimization. The abstract suggests a content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies The Remediation of Fact-Checks on Social Media: Insights from a Multi-Platform Content Analysis. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, Content analysis, Content (measure theory), Social media optimization. The abstract suggests a content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Social media, Content analysis, Content (measure theory), Social media optimization, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Social media, Content analysis, Content (measure theory), Social media optimization, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "内容分析"
+    "content analysis"
   ],
   "method_tags_en": [
     "content analysis"

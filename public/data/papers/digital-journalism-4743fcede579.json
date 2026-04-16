@@ -9,10 +9,11 @@
   "authors": [
     "Sangwook Lee",
     "Taenyun Kim",
-    "Sungho Kim",
+    "Sung‐Ho Kim",
     "Kwan Min Lee",
     "Namkee Park",
     "Hayeon Song",
+    "Sungho Kim",
     "Sangwook Lee Taenyun Kim Sungho Kim Kwan Min Lee Namkee Park Hayeon Song",
     "Public Relations",
     "and Design",
@@ -37,40 +38,54 @@
     "South Koreaf",
     "South Korea"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:10:23.130Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:02:47.099Z",
   "language": "en",
   "raw_title": "Bringing People into the Story: How Virtual Reality Journalism Affects the Feeling of Presence",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Feeling",
+    "Journalism",
+    "Virtual reality",
+    "Work (physics)",
+    "Citizen journalism"
+  ],
   "title_en": "Bringing People into the Story: How Virtual Reality Journalism Affects the Feeling of Presence",
   "title_zh": "将人们带入故事：虚拟现实新闻如何影响临场感",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Feeling",
+    "Journalism",
+    "Virtual reality",
+    "Work (physics)",
+    "Citizen journalism"
+  ],
+  "keywords_zh": [
+    "感觉",
+    "新闻学",
+    "虚拟现实",
+    "工作（物理学）",
+    "公民新闻"
+  ],
   "inferred_keywords_en": [
-    "virtual reality",
-    "journalism",
-    "presence",
-    "immersion",
-    "storytelling",
-    "media effects",
-    "user experience"
+    "Presence",
+    "Immersion",
+    "Media effects",
+    "User experience",
+    "Digital storytelling"
   ],
   "inferred_keywords_zh": [
-    "虚拟现实",
-    "新闻",
     "临场感",
     "沉浸感",
-    "叙事",
     "媒体效果",
-    "用户体验"
+    "用户体验",
+    "数字叙事"
   ],
-  "plain_summary_zh": "这项研究探讨虚拟现实新闻如何影响人们的临场感，即感觉身临其境的程度。它可能研究虚拟现实技术如何让新闻故事更生动，以及这对观众理解新闻的影响。",
-  "plain_summary_en": "This research explores how virtual reality journalism affects people's feeling of presence, or how immersed they feel in a story. It likely examines how VR technology makes news stories more engaging and what this means for audience understanding.",
-  "research_direction_zh": "研究虚拟现实等新兴技术如何改变新闻传播和受众体验，关注沉浸式媒体对新闻感知和社会影响的作用。",
-  "research_direction_en": "Investigating how emerging technologies like virtual reality transform news delivery and audience experience, focusing on the role of immersive media in news perception and societal impact.",
+  "plain_summary_zh": "这项研究探讨了虚拟现实新闻如何影响人们的临场感，即感觉身临其境的程度。它关注虚拟现实技术如何改变新闻体验，让人们更深入地融入故事中。",
+  "plain_summary_en": "This study explores how virtual reality journalism affects people's feeling of presence, or how immersed they feel in a story. It focuses on how VR technology changes news experiences, making people feel more involved in the content.",
+  "research_direction_zh": "研究虚拟现实等新兴技术如何影响新闻传播效果和用户参与度，探索沉浸式媒体在信息传递中的潜力。",
+  "research_direction_en": "Investigating how emerging technologies like virtual reality impact journalism effectiveness and user engagement, exploring the potential of immersive media in information delivery.",
   "method_tags_zh": [
     "实验",
     "调查"

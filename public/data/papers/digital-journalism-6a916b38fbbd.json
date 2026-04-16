@@ -8,6 +8,7 @@
   "publishedAt": "2025-01-26T04:08:33.000Z",
   "authors": [
     "Mike Ananny",
+    "Jonathan D. Karr",
     "Jake Karr",
     "a Annenberg",
     "Southern California",
@@ -15,46 +16,73 @@
     "New York",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:07:54.037Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:59:31.309Z",
   "language": "en",
   "raw_title": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Journalism",
+    "Generative grammar",
+    "Tracing",
+    "Sociology",
+    "Computer science",
+    "Political science",
+    "Knowledge management",
+    "Epistemology",
+    "Cognitive science",
+    "Public relations",
+    "Artificial intelligence",
+    "Media studies",
+    "Psychology",
+    "Programming language"
+  ],
   "title_en": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
-  "title_zh": "媒体工会如何稳定技术炒作：追踪组织化新闻业对生成式人工智能的话语建构",
+  "title_zh": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "media unions",
-    "technological hype",
-    "generative AI",
-    "journalism",
-    "discourse analysis",
-    "labor organizing",
-    "technology adoption"
+  "keywords_en": [
+    "Journalism",
+    "Generative grammar",
+    "Tracing",
+    "Sociology",
+    "Computer science",
+    "Political science",
+    "Knowledge management",
+    "Epistemology",
+    "Cognitive science",
+    "Public relations",
+    "Artificial intelligence",
+    "Media studies",
+    "Psychology",
+    "Programming language"
   ],
-  "inferred_keywords_zh": [
-    "媒体工会",
-    "技术炒作",
-    "生成式人工智能",
-    "新闻业",
-    "话语分析",
-    "劳工组织",
-    "技术采用"
+  "keywords_zh": [
+    "Journalism",
+    "Generative grammar",
+    "Tracing",
+    "Sociology",
+    "Computer science",
+    "Political science",
+    "Knowledge management",
+    "Epistemology",
+    "Cognitive science",
+    "Public relations",
+    "Artificial intelligence",
+    "Media studies",
+    "Psychology",
+    "Programming language"
   ],
-  "plain_summary_zh": "这篇研究探讨媒体工会如何通过话语建构来稳定关于生成式人工智能的技术炒作。它追踪组织化新闻业如何讨论和塑造对AI技术的理解，帮助平衡过度乐观的宣传，关注技术对新闻工作和行业的影响。",
-  "plain_summary_en": "This research examines how media unions stabilize technological hype around generative AI through discursive constructions. It traces how organized journalism discusses and shapes understanding of AI technology, helping balance overly optimistic promotion while focusing on technology's impact on journalism work and industry.",
-  "research_direction_zh": "研究媒体工会和劳工组织在技术变革中的作用，特别是如何通过话语策略影响技术采用和社会认知，关注新闻业在人工智能时代的职业保护和工作转型。",
-  "research_direction_en": "Research on the role of media unions and labor organizing in technological change, particularly how discursive strategies influence technology adoption and social perception, focusing on professional protection and work transformation in journalism during the AI era.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Generative grammar, Tracing, Sociology. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Generative grammar, Tracing, Sociology. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Journalism, Generative grammar, Tracing, Sociology, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Journalism, Generative grammar, Tracing, Sociology, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "话语分析",
-    "案例研究"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "discourse analysis",
-    "case study"
+    "mixed methods"
   ]
 }

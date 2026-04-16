@@ -10,36 +10,49 @@
     "Michael Heseltine",
     "Oxford"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:06:24.184Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:57:50.919Z",
   "language": "en",
   "raw_title": "Going Local? Localized Rhetoric in Congressional Communications",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Rhetoric",
+    "Political communication",
+    "Rhetorical question",
+    "Politics"
+  ],
   "title_en": "Going Local? Localized Rhetoric in Congressional Communications",
-  "title_zh": "走向本土化？国会沟通中的本土化修辞",
+  "title_zh": "走向地方化？国会沟通中的地方化修辞",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Rhetoric",
+    "Political communication",
+    "Rhetorical question",
+    "Politics"
+  ],
+  "keywords_zh": [
+    "修辞",
+    "政治传播",
+    "修辞性提问",
+    "政治"
+  ],
   "inferred_keywords_en": [
-    "political communication",
-    "rhetoric",
-    "localization",
-    "congressional communications",
-    "political discourse"
+    "Congressional communications",
+    "Localized rhetoric",
+    "Political messaging",
+    "Legislative discourse"
   ],
   "inferred_keywords_zh": [
-    "政治传播",
-    "修辞",
-    "本土化",
     "国会沟通",
-    "政治话语"
+    "地方化修辞",
+    "政治信息传递",
+    "立法话语"
   ],
-  "plain_summary_zh": "这项研究探讨了美国国会议员在沟通中是否以及如何使用本土化的修辞策略，即调整语言和内容以更好地与地方选民建立联系。",
-  "plain_summary_en": "This study examines whether and how U.S. Congress members use localized rhetoric in their communications, adapting language and content to better connect with local constituents.",
-  "research_direction_zh": "研究政治传播中修辞策略的适应性和地方化趋势，特别是在立法机构沟通中的应用。",
-  "research_direction_en": "Investigating the adaptation and localization of rhetorical strategies in political communication, particularly within legislative communications.",
+  "plain_summary_zh": "这项研究探讨了美国国会议员在沟通中如何使用地方化的修辞策略，比如提及当地问题或使用方言，来与选民建立联系并增强说服力。",
+  "plain_summary_en": "This study examines how U.S. Congress members use localized rhetorical strategies, such as referencing local issues or using dialect, in their communications to connect with constituents and enhance persuasiveness.",
+  "research_direction_zh": "探索政治人物如何通过调整语言和内容来适应不同地区或群体的沟通需求，以提高政治传播的效果和影响力。",
+  "research_direction_en": "Investigating how political figures adapt their language and content to meet the communication needs of different regions or groups, aiming to improve the effectiveness and impact of political messaging.",
   "method_tags_zh": [
     "内容分析",
     "案例研究"

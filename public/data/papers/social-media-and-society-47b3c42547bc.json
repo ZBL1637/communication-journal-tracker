@@ -10,7 +10,7 @@
     "Zizi Papacharissi"
   ],
   "source": "crossref",
-  "fetchedAt": "2026-04-16T07:18:49.909Z",
+  "fetchedAt": "2026-04-16T09:13:20.077Z",
   "language": "en",
   "raw_title": "We Have Always Been Machines",
   "raw_abstract": "",
@@ -22,23 +22,23 @@
   "keywords_en": [],
   "keywords_zh": [],
   "inferred_keywords_en": [
-    "social media",
+    "posthumanism",
     "technology",
-    "human-machine relations",
-    "digital identity",
-    "communication theory"
+    "identity",
+    "social media",
+    "digital culture"
   ],
   "inferred_keywords_zh": [
-    "社交媒体",
+    "后人类主义",
     "技术",
-    "人机关系",
-    "数字身份",
-    "传播理论"
+    "身份认同",
+    "社交媒体",
+    "数字文化"
   ],
-  "plain_summary_zh": "这篇文章探讨了人类与机器之间的关系，认为从历史角度看，人类一直与机器和技术紧密相连。它可能讨论社交媒体时代如何重新定义这种关系，以及技术如何影响我们的身份和沟通方式。",
-  "plain_summary_en": "This article explores the relationship between humans and machines, suggesting that historically, humans have always been closely connected with machines and technology. It likely discusses how the social media era redefines this relationship and how technology affects our identity and communication methods.",
-  "research_direction_zh": "研究社交媒体时代人类与技术的关系演变，探讨数字身份、人机交互以及技术如何塑造社会沟通模式。",
-  "research_direction_en": "Examining the evolution of human-technology relationships in the social media era, exploring digital identity, human-machine interaction, and how technology shapes social communication patterns.",
+  "plain_summary_zh": "这篇文章探讨了人类与技术的关系，认为人类本质上一直与机器相似或相关。它可能讨论在数字时代，社交媒体和技术如何影响我们的身份和互动方式，挑战传统的人类与机器界限。",
+  "plain_summary_en": "This article explores the relationship between humans and technology, suggesting that humans have always been similar to or connected with machines. It likely discusses how social media and technology in the digital age affect our identities and interactions, challenging traditional boundaries between humans and machines.",
+  "research_direction_zh": "研究后人类主义、数字文化中的人类与技术融合，以及社交媒体对身份建构的影响。",
+  "research_direction_en": "Research on posthumanism, human-technology integration in digital culture, and the impact of social media on identity construction.",
   "method_tags_zh": [
     "理论分析",
     "文献综述"

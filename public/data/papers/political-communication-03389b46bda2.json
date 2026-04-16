@@ -10,42 +10,54 @@
     "Sean Ewing",
     "Los Angeles."
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:06:53.925Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:58:25.999Z",
   "language": "en",
   "raw_title": "Profit Over Public Good: The Impact of Investment Firm Ownership on Local News and Political Behavior",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Politics",
+    "Profit (economics)",
+    "Public ownership",
+    "Investment (military)",
+    "Public policy"
+  ],
   "title_en": "Profit Over Public Good: The Impact of Investment Firm Ownership on Local News and Political Behavior",
   "title_zh": "利润高于公共利益：投资公司所有权对地方新闻和政治行为的影响",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Politics",
+    "Profit (economics)",
+    "Public ownership",
+    "Investment (military)",
+    "Public policy"
+  ],
+  "keywords_zh": [
+    "政治",
+    "利润（经济学）",
+    "公共所有权",
+    "投资（军事）",
+    "公共政策"
+  ],
   "inferred_keywords_en": [
-    "investment firms",
     "local news",
     "media ownership",
+    "investment firms",
     "political behavior",
-    "profit motives",
-    "public good",
-    "journalism",
-    "democracy"
+    "media effects"
   ],
   "inferred_keywords_zh": [
-    "投资公司",
     "地方新闻",
     "媒体所有权",
+    "投资公司",
     "政治行为",
-    "利润动机",
-    "公共利益",
-    "新闻业",
-    "民主"
+    "媒体效果"
   ],
-  "plain_summary_zh": "这项研究探讨了当投资公司拥有地方新闻媒体时会发生什么。它调查了这种所有权如何可能优先考虑利润而非公共利益，从而影响新闻报道的质量和内容，并最终影响人们的政治行为和社区参与。",
-  "plain_summary_en": "This research examines what happens when investment firms own local news media. It investigates how this ownership might prioritize profit over public good, affecting the quality and content of news reporting, and ultimately influencing people's political behavior and community engagement.",
-  "research_direction_zh": "媒体所有权结构对新闻内容、民主进程和社会影响的比较研究。",
-  "research_direction_en": "Comparative studies on media ownership structures and their effects on news content, democratic processes, and societal impacts.",
+  "plain_summary_zh": "这项研究探讨了当投资公司拥有地方新闻媒体时，它们如何优先考虑利润而非公共利益，以及这如何影响当地社区的政治行为。",
+  "plain_summary_en": "This study examines how investment firms owning local news media prioritize profit over public good, and how this affects political behavior in local communities.",
+  "research_direction_zh": "研究媒体所有权结构对新闻内容质量和民主参与的影响，特别是在地方层面。",
+  "research_direction_en": "Investigating how media ownership structures affect news content quality and democratic engagement, particularly at the local level.",
   "method_tags_zh": [
     "内容分析",
     "案例研究",

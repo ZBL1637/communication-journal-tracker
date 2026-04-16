@@ -7,46 +7,69 @@
   "issn": "2167-0811",
   "publishedAt": "2025-04-09T08:22:38.000Z",
   "authors": [
+    "Nikki Usher",
     "Nik Usher",
     "San Diego",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:08:33.430Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:00:31.006Z",
   "language": "en",
   "raw_title": "Generative AI and Journalism: Hype, The Always Already New, and Directions for Scholarly Imagination",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "This essay pushes against hype about generative AI in both journalism and journalism scholarship. Emergent questions around the black box nature of AI, concerns about information disorder, and problems with the theft of intellectual property are recontextualized with a new focus – one that demands scholars think outside of the newsroom, center the natural and the cultural elements of journalism, and ultimately, remain critical about the always already new of new technologies and powerful companies looking to devalue human labor. A warning is issued about generative AI and journalism more generally, pushing us to study the importance of remembering unequal distributions of power and their connections to the rise of authoritarianism.",
+  "raw_keywords": [
+    "Journalism",
+    "Generative grammar",
+    "Sociology",
+    "Citizen journalism",
+    "Media studies",
+    "Epistemology",
+    "Political science",
+    "Computer science",
+    "Philosophy",
+    "Artificial intelligence",
+    "Law"
+  ],
   "title_en": "Generative AI and Journalism: Hype, The Always Already New, and Directions for Scholarly Imagination",
-  "title_zh": "生成式人工智能与新闻业：炒作、始终如新的现象及学术想象方向",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "generative AI",
-    "journalism",
-    "technology adoption",
-    "media innovation",
-    "scholarly research"
+  "title_zh": "Generative AI and Journalism: Hype, The Always Already New, and Directions for Scholarly Imagination",
+  "abstract_en": "This essay pushes against hype about generative AI in both journalism and journalism scholarship. Emergent questions around the black box nature of AI, concerns about information disorder, and problems with the theft of intellectual property are recontextualized with a new focus – one that demands scholars think outside of the newsroom, center the natural and the cultural elements of journalism, and ultimately, remain critical about the always already new of new technologies and powerful companies looking to devalue human labor. A warning is issued about generative AI and journalism more generally, pushing us to study the importance of remembering unequal distributions of power and their connections to the rise of authoritarianism.",
+  "abstract_zh": "This essay pushes against hype about generative AI in both journalism and journalism scholarship. Emergent questions around the black box nature of AI, concerns about information disorder, and problems with the theft of intellectual property are recontextualized with a new focus – one that demands scholars think outside of the newsroom, center the natural and the cultural elements of journalism, and ultimately, remain critical about the always already new of new technologies and powerful companies looking to devalue human labor. A warning is issued about generative AI and journalism more generally, pushing us to study the importance of remembering unequal distributions of power and their connections to the rise of authoritarianism.",
+  "keywords_en": [
+    "Journalism",
+    "Generative grammar",
+    "Sociology",
+    "Citizen journalism",
+    "Media studies",
+    "Epistemology",
+    "Political science",
+    "Computer science",
+    "Philosophy",
+    "Artificial intelligence",
+    "Law"
   ],
-  "inferred_keywords_zh": [
-    "生成式人工智能",
-    "新闻业",
-    "技术采用",
-    "媒体创新",
-    "学术研究"
+  "keywords_zh": [
+    "Journalism",
+    "Generative grammar",
+    "Sociology",
+    "Citizen journalism",
+    "Media studies",
+    "Epistemology",
+    "Political science",
+    "Computer science",
+    "Philosophy",
+    "Artificial intelligence",
+    "Law"
   ],
-  "plain_summary_zh": "这篇文章探讨了生成式人工智能在新闻业中的应用，分析了相关的炒作现象和持续创新的特点，并提出了未来学术研究的方向。",
-  "plain_summary_en": "This article examines the application of generative AI in journalism, analyzes related hype and ongoing innovation, and suggests directions for future scholarly research.",
-  "research_direction_zh": "探索生成式人工智能如何影响新闻生产、伦理规范及行业未来，为相关学术研究提供理论框架和实践指导。",
-  "research_direction_en": "Exploring how generative AI impacts news production, ethical norms, and industry future, providing theoretical frameworks and practical guidance for scholarly research.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Generative AI and Journalism: Hype, The Always Already New, and Directions for Scholarly Imagination. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Generative grammar, Sociology, Citizen journalism. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Generative AI and Journalism: Hype, The Always Already New, and Directions for Scholarly Imagination. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Generative grammar, Sociology, Citizen journalism. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Journalism, Generative grammar, Sociology, Citizen journalism, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Journalism, Generative grammar, Sociology, Citizen journalism, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "综述",
-    "案例分析"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "survey",
-    "case study"
+    "mixed methods"
   ]
 }

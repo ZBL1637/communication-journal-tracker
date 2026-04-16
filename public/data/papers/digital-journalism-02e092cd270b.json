@@ -17,46 +17,63 @@
     "OR",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:15:27.332Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:09:27.807Z",
   "language": "en",
   "raw_title": "What Makes for a Good News Experience: Developing a UX Perspective to Advance Audience Studies in Journalism",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Journalism",
+    "Perspective (graphical)",
+    "Audience participation",
+    "Technical Journalism",
+    "Citizen journalism",
+    "News media"
+  ],
   "title_en": "What Makes for a Good News Experience: Developing a UX Perspective to Advance Audience Studies in Journalism",
   "title_zh": "什么造就了良好的新闻体验：发展用户体验视角以推进新闻学中的受众研究",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Journalism",
+    "Perspective (graphical)",
+    "Audience participation",
+    "Technical Journalism",
+    "Citizen journalism",
+    "News media"
+  ],
+  "keywords_zh": [
+    "新闻学",
+    "视角（图形）",
+    "受众参与",
+    "技术新闻学",
+    "公民新闻",
+    "新闻媒体"
+  ],
   "inferred_keywords_en": [
-    "user experience",
-    "audience studies",
-    "journalism",
-    "news consumption",
-    "digital media",
-    "UX design",
-    "media research"
+    "User Experience",
+    "Audience Studies",
+    "Digital Journalism",
+    "Media Research",
+    "Human-Computer Interaction"
   ],
   "inferred_keywords_zh": [
     "用户体验",
     "受众研究",
-    "新闻学",
-    "新闻消费",
-    "数字媒体",
-    "UX设计",
-    "媒体研究"
+    "数字新闻学",
+    "媒体研究",
+    "人机交互"
   ],
-  "plain_summary_zh": "这篇文章探讨了如何通过用户体验（UX）的视角来研究新闻消费，旨在帮助理解什么因素能让人们觉得新闻体验好，从而改进新闻研究和实践。",
-  "plain_summary_en": "This article explores how to study news consumption from a user experience (UX) perspective, aiming to understand what makes a good news experience and improve journalism research and practice.",
-  "research_direction_zh": "研究新闻学中受众体验的优化，通过整合用户体验理论来深化对新闻消费行为的理解，推动新闻媒体的创新和发展。",
-  "research_direction_en": "Optimizing audience experience in journalism by integrating UX theory to deepen understanding of news consumption behavior and drive innovation in news media.",
+  "plain_summary_zh": "这篇文章探讨如何通过用户体验（UX）的视角来改善新闻体验，并推动新闻学中的受众研究。它关注读者如何与新闻互动，以及如何让新闻更易于理解和吸引人。",
+  "plain_summary_en": "This article explores how to improve news experiences using a user experience (UX) perspective and advance audience studies in journalism. It focuses on how readers interact with news and how to make news more understandable and engaging.",
+  "research_direction_zh": "研究新闻学中用户体验的应用，以增强受众参与和新闻质量，促进跨学科方法在媒体研究中的整合。",
+  "research_direction_en": "Investigating the application of user experience in journalism to enhance audience engagement and news quality, promoting interdisciplinary approaches in media research.",
   "method_tags_zh": [
     "文献综述",
-    "理论分析"
+    "案例分析"
   ],
   "method_tags_en": [
-    "literature review",
-    "theoretical analysis"
+    "Literature Review",
+    "Case Study"
   ]
 }

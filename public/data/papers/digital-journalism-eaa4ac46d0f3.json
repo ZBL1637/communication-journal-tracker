@@ -14,48 +14,63 @@
     "Israelb Collar",
     "Israel"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:12:48.354Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:06:01.742Z",
   "language": "en",
   "raw_title": "Journalistic Epistemic Authority in the Age of AI: The Incorporation of Generative AI in Newsrooms",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Generative grammar",
+    "Journalism",
+    "Discourse analysis",
+    "Fake news",
+    "Sensemaking",
+    "Legitimacy"
+  ],
   "title_en": "Journalistic Epistemic Authority in the Age of AI: The Incorporation of Generative AI in Newsrooms",
   "title_zh": "人工智能时代的新闻认知权威：生成式人工智能在新闻编辑室的融入",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Generative grammar",
+    "Journalism",
+    "Discourse analysis",
+    "Fake news",
+    "Sensemaking",
+    "Legitimacy"
+  ],
+  "keywords_zh": [
+    "生成语法",
+    "新闻学",
+    "话语分析",
+    "假新闻",
+    "意义建构",
+    "合法性"
+  ],
   "inferred_keywords_en": [
-    "journalistic authority",
-    "generative AI",
-    "newsrooms",
-    "epistemology",
-    "media technology",
-    "AI integration",
-    "digital journalism"
+    "Artificial Intelligence",
+    "News Production",
+    "Media Studies",
+    "Technology Adoption",
+    "Professional Practice"
   ],
   "inferred_keywords_zh": [
-    "新闻权威",
-    "生成式人工智能",
-    "新闻编辑室",
-    "认识论",
-    "媒体技术",
-    "人工智能整合",
-    "数字新闻"
+    "人工智能",
+    "新闻生产",
+    "媒体研究",
+    "技术采纳",
+    "专业实践"
   ],
-  "plain_summary_zh": "这篇研究探讨了在人工智能时代，新闻机构如何保持其作为可信信息来源的权威地位。它特别关注生成式人工智能（如能自动生成文本的AI工具）被引入新闻编辑室后，对新闻工作方式和公众信任的影响。研究可能分析新闻工作者如何适应这些新技术，以及AI工具是否改变了新闻生产的流程和质量标准。",
-  "plain_summary_en": "This research examines how news organizations maintain their authority as trusted sources of information in the age of artificial intelligence. It focuses specifically on the impact of generative AI (tools that can automatically create text) being introduced into newsrooms, affecting how journalism is done and public trust. The study likely analyzes how journalists adapt to these new technologies and whether AI tools change the processes and quality standards of news production.",
-  "research_direction_zh": "该研究属于数字新闻学领域，探索人工智能技术对新闻业核心功能——如信息验证、报道可信度和编辑决策——的变革性影响。它旨在理解新闻机构在技术快速演进中如何重新定义其社会角色和认知权威。",
-  "research_direction_en": "This research falls within the field of digital journalism, exploring the transformative impact of AI technologies on core functions of journalism, such as information verification, reporting credibility, and editorial decision-making. It aims to understand how news organizations redefine their social roles and epistemic authority amid rapid technological evolution.",
+  "plain_summary_zh": "这篇研究探讨了在人工智能时代，新闻编辑室如何融入生成式人工智能技术，以及这如何影响新闻行业的权威性和可信度。研究关注新闻工作者如何在使用AI工具时保持专业判断，以及公众对AI生成新闻的信任问题。",
+  "plain_summary_en": "This research examines how newsrooms incorporate generative AI technology in the age of artificial intelligence, and how this affects the authority and credibility of journalism. The study focuses on how journalists maintain professional judgment when using AI tools, and public trust in AI-generated news.",
+  "research_direction_zh": "探索人工智能技术对新闻行业专业实践、认知权威和公众信任的影响，特别是生成式AI在新闻生产中的整合与挑战。",
+  "research_direction_en": "Investigating the impact of AI technology on professional practices, epistemic authority, and public trust in journalism, particularly the integration and challenges of generative AI in news production.",
   "method_tags_zh": [
-    "案例研究",
-    "访谈",
-    "内容分析"
+    "话语分析",
+    "案例研究"
   ],
   "method_tags_en": [
-    "case study",
-    "interview",
-    "content analysis"
+    "Discourse analysis",
+    "Case study"
   ]
 }

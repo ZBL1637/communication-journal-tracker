@@ -12,42 +12,52 @@
     "Antwerpen",
     "Belgium"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:15:12.448Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:09:08.454Z",
   "language": "en",
   "raw_title": "Unmasking the Mechanism: How News Media Consumption Drives Conspiracy Beliefs",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "This study examines how different media types—social, alternative, and mainstream—indirectly influence CT beliefs through populist attitudes and misperceptions on divisive issues. We propose that news exposure impacts these factors, thereby affecting CT beliefs. Using a path analysis on a Belgian survey ( n = 2378), we find that populist attitudes and misperceptions mediate the relationship between news consumption and CT beliefs. Alternative and social media increase misperceptions, fueling CT beliefs, whereas mainstream media exposure lowers misperceptions. Exposure to social media encourages populist attitudes, while exposure to mainstream media reduces them. Especially for ideologically extreme individuals, alternative media strongly reinforces populist attitudes. This study clarifies how CT beliefs are directly and indirectly shaped by news consumption patterns, shedding light on the underlying mechanism.",
+  "raw_keywords": [
+    "Consumption (sociology)",
+    "News media",
+    "Journalism",
+    "Motivated reasoning",
+    "Fake news",
+    "Social media",
+    "Media relations"
+  ],
   "title_en": "Unmasking the Mechanism: How News Media Consumption Drives Conspiracy Beliefs",
-  "title_zh": "揭示机制：新闻媒体消费如何驱动阴谋论信念",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "news media consumption",
-    "conspiracy beliefs",
-    "media effects",
-    "digital journalism",
-    "misinformation"
+  "title_zh": "Unmasking the Mechanism: How News Media Consumption Drives Conspiracy Beliefs",
+  "abstract_en": "This study examines how different media types—social, alternative, and mainstream—indirectly influence CT beliefs through populist attitudes and misperceptions on divisive issues. We propose that news exposure impacts these factors, thereby affecting CT beliefs. Using a path analysis on a Belgian survey ( n = 2378), we find that populist attitudes and misperceptions mediate the relationship between news consumption and CT beliefs. Alternative and social media increase misperceptions, fueling CT beliefs, whereas mainstream media exposure lowers misperceptions. Exposure to social media encourages populist attitudes, while exposure to mainstream media reduces them. Especially for ideologically extreme individuals, alternative media strongly reinforces populist attitudes. This study clarifies how CT beliefs are directly and indirectly shaped by news consumption patterns, shedding light on the underlying mechanism.",
+  "abstract_zh": "This study examines how different media types—social, alternative, and mainstream—indirectly influence CT beliefs through populist attitudes and misperceptions on divisive issues. We propose that news exposure impacts these factors, thereby affecting CT beliefs. Using a path analysis on a Belgian survey ( n = 2378), we find that populist attitudes and misperceptions mediate the relationship between news consumption and CT beliefs. Alternative and social media increase misperceptions, fueling CT beliefs, whereas mainstream media exposure lowers misperceptions. Exposure to social media encourages populist attitudes, while exposure to mainstream media reduces them. Especially for ideologically extreme individuals, alternative media strongly reinforces populist attitudes. This study clarifies how CT beliefs are directly and indirectly shaped by news consumption patterns, shedding light on the underlying mechanism.",
+  "keywords_en": [
+    "Consumption (sociology)",
+    "News media",
+    "Journalism",
+    "Motivated reasoning",
+    "Fake news",
+    "Social media",
+    "Media relations"
   ],
-  "inferred_keywords_zh": [
-    "新闻媒体消费",
-    "阴谋论信念",
-    "媒体效果",
-    "数字新闻学",
-    "错误信息"
+  "keywords_zh": [
+    "Consumption (sociology)",
+    "News media",
+    "Journalism",
+    "Motivated reasoning",
+    "Fake news",
+    "Social media",
+    "Media relations"
   ],
-  "plain_summary_zh": "这项研究探讨了人们如何通过消费新闻媒体来形成或加强阴谋论信念。它试图揭示媒体内容如何影响人们对阴谋论的看法，特别是在数字新闻环境中。",
-  "plain_summary_en": "This research explores how people develop or strengthen conspiracy beliefs through news media consumption. It aims to uncover how media content influences perceptions of conspiracy theories, particularly in digital journalism contexts.",
-  "research_direction_zh": "研究关注媒体消费与阴谋论信念之间的因果关系，属于媒体效果和数字新闻学领域，旨在理解信息环境如何塑造公众认知。",
-  "research_direction_en": "The research focuses on the causal relationship between media consumption and conspiracy beliefs, within the fields of media effects and digital journalism, aiming to understand how information environments shape public perceptions.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Unmasking the Mechanism: How News Media Consumption Drives Conspiracy Beliefs. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Consumption (sociology), News media, Journalism, Motivated reasoning. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Unmasking the Mechanism: How News Media Consumption Drives Conspiracy Beliefs. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Consumption (sociology), News media, Journalism, Motivated reasoning. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Consumption (sociology), News media, Journalism, Motivated reasoning, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Consumption (sociology), News media, Journalism, Motivated reasoning, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "调查",
-    "内容分析"
+    "survey"
   ],
   "method_tags_en": [
-    "survey",
-    "content analysis"
+    "survey"
   ]
 }

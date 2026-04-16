@@ -12,46 +12,66 @@
     "Karlstad",
     "Sweden"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:08:04.226Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:59:48.453Z",
   "language": "en",
   "raw_title": "Navigating the AI Hype: Chinese Journalists’ Algorithmic Imaginaries and Role Perceptions in Reporting Emerging Technologies",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "This study explores how Chinese journalists perceive, use, and report on artificial intelligence (AI) amid the global discourse of AI hype. Drawing on qualitative analysis of 18 in-depth interviews with journalists from a range of Chinese news organisations, this research examines (1) journalists’ algorithmic imaginaries and their role in shaping AI narratives, (2) perceptions of AI hype and strategies for responsible reporting, and (3) the journalistic roles reflected. The findings show that journalists predominantly frame AI as a pragmatic tool for enhancing newsroom efficiency, while also acknowledging its broader societal significance. Although aware of speculative discourses, they reject the label of “media hype,” portraying their coverage as balanced, event-driven, and aligned with public interest. Situated within China’s distinctive political and media environment, this study highlights the complexities of journalistic practice in the algorithmic age and calls for a contextualised theorisation of media hype and AI’s discursive construction in non-Western settings.",
+  "raw_keywords": [
+    "Perception",
+    "Public relations",
+    "Political science",
+    "Emerging technologies",
+    "Media studies",
+    "Internet privacy",
+    "Sociology",
+    "Computer science",
+    "Data science",
+    "Psychology",
+    "Artificial intelligence"
+  ],
   "title_en": "Navigating the AI Hype: Chinese Journalists’ Algorithmic Imaginaries and Role Perceptions in Reporting Emerging Technologies",
-  "title_zh": "驾驭人工智能热潮：中国记者在报道新兴技术中的算法想象与角色认知",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "Chinese journalism",
-    "artificial intelligence",
-    "algorithmic imaginaries",
-    "role perceptions",
-    "emerging technologies",
-    "media studies",
-    "digital journalism"
+  "title_zh": "Navigating the AI Hype: Chinese Journalists’ Algorithmic Imaginaries and Role Perceptions in Reporting Emerging Technologies",
+  "abstract_en": "This study explores how Chinese journalists perceive, use, and report on artificial intelligence (AI) amid the global discourse of AI hype. Drawing on qualitative analysis of 18 in-depth interviews with journalists from a range of Chinese news organisations, this research examines (1) journalists’ algorithmic imaginaries and their role in shaping AI narratives, (2) perceptions of AI hype and strategies for responsible reporting, and (3) the journalistic roles reflected. The findings show that journalists predominantly frame AI as a pragmatic tool for enhancing newsroom efficiency, while also acknowledging its broader societal significance. Although aware of speculative discourses, they reject the label of “media hype,” portraying their coverage as balanced, event-driven, and aligned with public interest. Situated within China’s distinctive political and media environment, this study highlights the complexities of journalistic practice in the algorithmic age and calls for a contextualised theorisation of media hype and AI’s discursive construction in non-Western settings.",
+  "abstract_zh": "This study explores how Chinese journalists perceive, use, and report on artificial intelligence (AI) amid the global discourse of AI hype. Drawing on qualitative analysis of 18 in-depth interviews with journalists from a range of Chinese news organisations, this research examines (1) journalists’ algorithmic imaginaries and their role in shaping AI narratives, (2) perceptions of AI hype and strategies for responsible reporting, and (3) the journalistic roles reflected. The findings show that journalists predominantly frame AI as a pragmatic tool for enhancing newsroom efficiency, while also acknowledging its broader societal significance. Although aware of speculative discourses, they reject the label of “media hype,” portraying their coverage as balanced, event-driven, and aligned with public interest. Situated within China’s distinctive political and media environment, this study highlights the complexities of journalistic practice in the algorithmic age and calls for a contextualised theorisation of media hype and AI’s discursive construction in non-Western settings.",
+  "keywords_en": [
+    "Perception",
+    "Public relations",
+    "Political science",
+    "Emerging technologies",
+    "Media studies",
+    "Internet privacy",
+    "Sociology",
+    "Computer science",
+    "Data science",
+    "Psychology",
+    "Artificial intelligence"
   ],
-  "inferred_keywords_zh": [
-    "中国新闻业",
-    "人工智能",
-    "算法想象",
-    "角色认知",
-    "新兴技术",
-    "媒体研究",
-    "数字新闻"
+  "keywords_zh": [
+    "Perception",
+    "Public relations",
+    "Political science",
+    "Emerging technologies",
+    "Media studies",
+    "Internet privacy",
+    "Sociology",
+    "Computer science",
+    "Data science",
+    "Psychology",
+    "Artificial intelligence"
   ],
-  "plain_summary_zh": "这项研究探讨中国记者如何理解和应对人工智能等新兴技术带来的挑战。它关注记者们对算法的看法以及他们在报道这些技术时如何看待自己的角色。",
-  "plain_summary_en": "This study explores how Chinese journalists understand and respond to the challenges posed by emerging technologies like artificial intelligence. It focuses on journalists' views of algorithms and how they perceive their roles when reporting on these technologies.",
-  "research_direction_zh": "研究数字时代新闻工作者的专业身份与技术适应，特别是在非西方语境下。",
-  "research_direction_en": "Investigating the professional identity and technological adaptation of journalists in the digital age, particularly in non-Western contexts.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Navigating the AI Hype: Chinese Journalists’ Algorithmic Imaginaries and Role Perceptions in Reporting Emerging Technologies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Perception, Public relations, Political science, Emerging technologies. The abstract suggests a interview, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Navigating the AI Hype: Chinese Journalists’ Algorithmic Imaginaries and Role Perceptions in Reporting Emerging Technologies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Perception, Public relations, Political science, Emerging technologies. The abstract suggests a interview, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Perception, Public relations, Political science, Emerging technologies, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Perception, Public relations, Political science, Emerging technologies, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "访谈",
-    "案例研究"
+    "interview",
+    "computational analysis"
   ],
   "method_tags_en": [
     "interview",
-    "case study"
+    "computational analysis"
   ]
 }

@@ -15,42 +15,55 @@
     "Macao SAR",
     "China"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:10:48.728Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:03:24.887Z",
   "language": "en",
   "raw_title": "Podcasting as Alternative Media: Navigating Politics, Platform Power, and Journalistic Professionalism in China",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "China",
+    "Journalism",
+    "Work (physics)",
+    "Field (mathematics)"
+  ],
   "title_en": "Podcasting as Alternative Media: Navigating Politics, Platform Power, and Journalistic Professionalism in China",
   "title_zh": "播客作为替代媒体：在中国应对政治、平台权力与新闻专业主义",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "China",
+    "Journalism",
+    "Work (physics)",
+    "Field (mathematics)"
+  ],
+  "keywords_zh": [
+    "中国",
+    "新闻学",
+    "工作（物理学）",
+    "领域（数学）"
+  ],
   "inferred_keywords_en": [
     "podcasting",
     "alternative media",
-    "China",
-    "politics",
     "platform power",
     "journalistic professionalism",
+    "media politics",
     "digital journalism",
-    "media regulation"
+    "China media studies"
   ],
   "inferred_keywords_zh": [
     "播客",
     "替代媒体",
-    "中国",
-    "政治",
     "平台权力",
     "新闻专业主义",
-    "数字新闻",
-    "媒体监管"
+    "媒体政治",
+    "数字新闻学",
+    "中国媒体研究"
   ],
-  "plain_summary_zh": "这篇研究探讨了在中国，播客如何作为一种替代媒体形式运作。它分析了播客创作者如何在政治审查、大型平台的控制以及传统新闻专业标准之间找到平衡。研究关注播客如何提供不同于主流媒体的内容，同时应对中国的独特媒体环境挑战。",
-  "plain_summary_en": "This research examines how podcasting functions as an alternative media form in China. It analyzes how podcast creators navigate between political censorship, the influence of major platforms, and traditional journalistic standards. The study focuses on how podcasts offer content different from mainstream media while dealing with the unique challenges of China's media environment.",
-  "research_direction_zh": "数字媒体与替代新闻实践研究，特别关注非传统媒体形式在威权或受控环境中的运作机制、内容创新与生存策略。",
-  "research_direction_en": "Research on digital media and alternative journalism practices, particularly focusing on how non-traditional media forms operate, innovate content, and develop survival strategies in authoritarian or controlled environments.",
+  "plain_summary_zh": "这篇研究探讨了在中国，播客如何作为一种替代媒体形式运作。它分析了播客创作者如何应对政治限制、平台公司的权力影响，以及保持新闻专业标准的挑战。研究关注播客在传统媒体之外提供不同声音和内容的方式。",
+  "plain_summary_en": "This research examines how podcasting functions as an alternative media form in China. It analyzes how podcast creators navigate political constraints, the influence of platform companies' power, and challenges in maintaining journalistic standards. The study focuses on how podcasts provide different voices and content outside traditional media.",
+  "research_direction_zh": "数字媒体环境下的替代新闻实践研究，特别关注非传统媒体形式如何在中国特定的政治和平台生态中运作和发展。",
+  "research_direction_en": "Research on alternative journalistic practices in digital media environments, particularly focusing on how non-traditional media forms operate and develop within China's specific political and platform ecosystems.",
   "method_tags_zh": [
     "案例研究",
     "访谈",

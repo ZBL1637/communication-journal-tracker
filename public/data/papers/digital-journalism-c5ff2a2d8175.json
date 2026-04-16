@@ -19,42 +19,63 @@
     "USAb Medill",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:12:27.693Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:05:40.576Z",
   "language": "en",
   "raw_title": "Algorithmic News Content Personalization and Readers’ Attitudes",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Personalization",
+    "Content analysis",
+    "Journalism",
+    "Content (measure theory)",
+    "Key (lock)",
+    "Fake news"
+  ],
   "title_en": "Algorithmic News Content Personalization and Readers’ Attitudes",
   "title_zh": "算法新闻内容个性化与读者态度",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Personalization",
+    "Content analysis",
+    "Journalism",
+    "Content (measure theory)",
+    "Key (lock)",
+    "Fake news"
+  ],
+  "keywords_zh": [
+    "个性化",
+    "内容分析",
+    "新闻学",
+    "内容（测量理论）",
+    "钥匙（锁）",
+    "假新闻"
+  ],
   "inferred_keywords_en": [
     "algorithmic personalization",
-    "news consumption",
     "reader attitudes",
     "digital journalism",
+    "news consumption",
     "media effects"
   ],
   "inferred_keywords_zh": [
     "算法个性化",
-    "新闻消费",
     "读者态度",
     "数字新闻",
+    "新闻消费",
     "媒体效果"
   ],
-  "plain_summary_zh": "这项研究探讨了算法如何个性化新闻内容，以及这如何影响读者的态度和看法。",
-  "plain_summary_en": "This study examines how algorithms personalize news content and how this affects readers' attitudes and perceptions.",
-  "research_direction_zh": "数字新闻中算法个性化对用户行为和态度的影响研究",
-  "research_direction_en": "Research on the impact of algorithmic personalization on user behavior and attitudes in digital journalism",
+  "plain_summary_zh": "这项研究探讨了算法如何个性化推荐新闻内容，以及这种个性化如何影响读者对新闻的态度。研究人员调查了读者对不同类型个性化新闻的反应，试图了解算法推荐系统在新闻传播中的作用。",
+  "plain_summary_en": "This study examines how algorithms personalize news content and how this personalization affects readers' attitudes toward news. Researchers investigate readers' responses to different types of personalized news to understand the role of algorithmic recommendation systems in news dissemination.",
+  "research_direction_zh": "数字新闻环境中的算法个性化研究，关注个性化技术对新闻消费、读者信任和媒体效果的影响。",
+  "research_direction_en": "Research on algorithmic personalization in digital journalism environments, focusing on the impact of personalization technologies on news consumption, reader trust, and media effects.",
   "method_tags_zh": [
-    "调查",
-    "实验"
+    "内容分析",
+    "调查"
   ],
   "method_tags_en": [
-    "survey",
-    "experiment"
+    "content analysis",
+    "survey"
   ]
 }

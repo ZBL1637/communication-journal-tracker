@@ -12,6 +12,7 @@
     "Rachel R. Mourão",
     "Tim P. Vos",
     "Marialina C. Antolini",
+    "Gisele Souza Neuls",
     "Gisele S. Neuls",
     "Letters and Communication",
     "Federal",
@@ -25,38 +26,57 @@
     "MI",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:10:17.992Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:02:45.190Z",
   "language": "en",
   "raw_title": "News Characteristics, Newsworthiness and Secondary Gatekeeping in Brazil: Influences of Right-Wing Authoritarianism",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Gatekeeping",
+    "Journalism",
+    "Authoritarianism",
+    "Fake news",
+    "News media",
+    "News values"
+  ],
   "title_en": "News Characteristics, Newsworthiness and Secondary Gatekeeping in Brazil: Influences of Right-Wing Authoritarianism",
   "title_zh": "巴西新闻特征、新闻价值与次级把关：右翼威权主义的影响",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Gatekeeping",
+    "Journalism",
+    "Authoritarianism",
+    "Fake news",
+    "News media",
+    "News values"
+  ],
+  "keywords_zh": [
+    "把关",
+    "新闻学",
+    "威权主义",
+    "假新闻",
+    "新闻媒体",
+    "新闻价值"
+  ],
   "inferred_keywords_en": [
-    "gatekeeping",
-    "right-wing authoritarianism",
     "Brazil",
-    "news selection",
-    "media studies",
-    "political communication"
+    "Secondary gatekeeping",
+    "Right-wing politics",
+    "Media influence",
+    "Political communication"
   ],
   "inferred_keywords_zh": [
-    "把关",
-    "右翼威权主义",
     "巴西",
-    "新闻选择",
-    "媒体研究",
+    "次级把关",
+    "右翼政治",
+    "媒体影响",
     "政治传播"
   ],
-  "plain_summary_zh": "这项研究探讨了在巴西，右翼威权主义如何影响新闻的选择和传播过程。它关注新闻的特征和新闻价值，以及媒体在信息传播中的次级把关作用。",
-  "plain_summary_en": "This study examines how right-wing authoritarianism influences the selection and dissemination of news in Brazil. It focuses on news characteristics, newsworthiness, and the secondary gatekeeping role of media in information flow.",
-  "research_direction_zh": "研究探索政治意识形态如何塑造新闻媒体实践，特别是在威权主义背景下，对新闻把关和信息传播的影响。",
-  "research_direction_en": "The research explores how political ideologies shape news media practices, particularly the impact of authoritarianism on gatekeeping and information dissemination.",
+  "plain_summary_zh": "这项研究探讨了在巴西，右翼威权主义如何影响新闻的特征、新闻价值判断以及新闻传播过程中的次级把关行为。它关注政治意识形态如何塑造新闻选择和传播。",
+  "plain_summary_en": "This study examines how right-wing authoritarianism influences news characteristics, judgments of newsworthiness, and secondary gatekeeping in Brazil. It focuses on how political ideology shapes news selection and dissemination.",
+  "research_direction_zh": "研究探索政治意识形态（特别是右翼威权主义）对新闻生产和传播过程的影响，特别是在巴西这样的民主国家中，如何影响媒体把关和新闻价值判断。",
+  "research_direction_en": "The research explores how political ideologies, particularly right-wing authoritarianism, affect news production and dissemination processes, especially in democratic contexts like Brazil, influencing media gatekeeping and news value judgments.",
   "method_tags_zh": [
     "内容分析",
     "案例研究"

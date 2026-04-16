@@ -11,48 +11,51 @@
     "Université Sorbonne",
     "Paris Nord"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:11:03.703Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:03:42.480Z",
   "language": "en",
   "raw_title": "Contextualizing Platform Dependence and Publisher Disentanglements in India",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "International audience",
+  "raw_keywords": [
+    "Work (physics)",
+    "Government (linguistics)"
+  ],
   "title_en": "Contextualizing Platform Dependence and Publisher Disentanglements in India",
-  "title_zh": "印度平台依赖与出版商脱离的语境化研究",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "title_zh": "印度平台依赖与出版商脱钩的情境化研究",
+  "abstract_en": "International audience",
+  "abstract_zh": "国际读者",
+  "keywords_en": [
+    "Work (physics)",
+    "Government (linguistics)"
+  ],
+  "keywords_zh": [
+    "工作（物理学）",
+    "政府（语言学）"
+  ],
   "inferred_keywords_en": [
-    "platform dependence",
-    "publisher disentanglement",
     "digital journalism",
-    "India",
-    "media ecosystems",
-    "platform governance",
-    "publishing strategies"
+    "platform dependence",
+    "publisher independence",
+    "media studies",
+    "India"
   ],
   "inferred_keywords_zh": [
-    "平台依赖",
-    "出版商脱离",
     "数字新闻",
-    "印度",
-    "媒体生态系统",
-    "平台治理",
-    "出版策略"
+    "平台依赖",
+    "出版商独立性",
+    "媒体研究",
+    "印度"
   ],
-  "plain_summary_zh": "这篇研究探讨了印度新闻出版商如何依赖数字平台（如社交媒体和搜索引擎）来分发内容，以及他们试图减少这种依赖的策略。研究关注出版商与平台之间的关系变化，特别是在印度这样的数字媒体快速发展的环境中。",
-  "plain_summary_en": "This study examines how news publishers in India rely on digital platforms (like social media and search engines) to distribute content and the strategies they use to reduce this dependence. It focuses on the changing relationships between publishers and platforms, especially in India's rapidly evolving digital media landscape.",
-  "research_direction_zh": "研究数字新闻生态系统中出版商与平台之间的权力动态和依赖关系，特别是在全球南方国家如印度的背景下，探索媒体独立性和可持续性的策略。",
-  "research_direction_en": "Investigating the power dynamics and dependencies between publishers and platforms in digital journalism ecosystems, particularly in Global South contexts like India, to explore strategies for media independence and sustainability.",
+  "plain_summary_zh": "这篇研究探讨了印度新闻出版商如何依赖数字平台（如社交媒体和搜索引擎）来传播内容，以及他们如何尝试减少这种依赖以保持独立性。研究关注平台与出版商之间的关系变化，特别是在印度这样的数字媒体快速发展的国家。",
+  "plain_summary_en": "This research examines how news publishers in India rely on digital platforms (like social media and search engines) to distribute content, and how they try to reduce this dependence to maintain independence. It focuses on the changing relationships between platforms and publishers, especially in a country like India where digital media is growing rapidly.",
+  "research_direction_zh": "媒体生态学与平台化研究，关注数字时代新闻业的自主性和结构变化。",
+  "research_direction_en": "Media ecology and platformization studies, focusing on the autonomy and structural changes in journalism in the digital age.",
   "method_tags_zh": [
     "案例研究",
-    "访谈",
     "内容分析"
   ],
   "method_tags_en": [
     "case study",
-    "interview",
     "content analysis"
   ]
 }

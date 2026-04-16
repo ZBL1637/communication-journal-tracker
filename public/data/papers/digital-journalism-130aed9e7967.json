@@ -15,46 +15,48 @@
     "IN",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:14:40.471Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:08:27.994Z",
   "language": "en",
   "raw_title": "A Community Resilience Approach to Understanding News Deserts and Their Residents",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "The absence or decline of local journalism has damaging consequences for communities. Just as communities differ in the degree to which they successfully navigate crises, there may be differing degrees of community resilience observable within news deserts. The present study pairs a survey of residents of U.S. news deserts ( n = 1,007) with a content analysis of posts ( n = 3,010) from Facebook pages identified as distributors of local information in news deserts. Findings indicate that community attributes like flexibility and social cohesion are associated with greater perceptions of access to local news, feelings of being informed, local issue knowledge. Evidence also suggests social media meet critical information needs in these areas, rarely promoting false claims. Implications exist for the conceptualization of news deserts, including incorporating community resilience within frameworks for understanding news desert audiences. Approaches for improving information flow and quality within news deserts are discussed.",
+  "raw_keywords": [
+    "Resilience (materials science)",
+    "Community resilience",
+    "Work (physics)",
+    "Psychological resilience",
+    "Narrative"
+  ],
   "title_en": "A Community Resilience Approach to Understanding News Deserts and Their Residents",
-  "title_zh": "理解新闻荒漠及其居民的社区韧性方法",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "news deserts",
-    "community resilience",
-    "local journalism",
-    "media access",
-    "rural communities",
-    "digital divide"
+  "title_zh": "A Community Resilience Approach to Understanding News Deserts and Their Residents",
+  "abstract_en": "The absence or decline of local journalism has damaging consequences for communities. Just as communities differ in the degree to which they successfully navigate crises, there may be differing degrees of community resilience observable within news deserts. The present study pairs a survey of residents of U.S. news deserts ( n = 1,007) with a content analysis of posts ( n = 3,010) from Facebook pages identified as distributors of local information in news deserts. Findings indicate that community attributes like flexibility and social cohesion are associated with greater perceptions of access to local news, feelings of being informed, local issue knowledge. Evidence also suggests social media meet critical information needs in these areas, rarely promoting false claims. Implications exist for the conceptualization of news deserts, including incorporating community resilience within frameworks for understanding news desert audiences. Approaches for improving information flow and quality within news deserts are discussed.",
+  "abstract_zh": "The absence or decline of local journalism has damaging consequences for communities. Just as communities differ in the degree to which they successfully navigate crises, there may be differing degrees of community resilience observable within news deserts. The present study pairs a survey of residents of U.S. news deserts ( n = 1,007) with a content analysis of posts ( n = 3,010) from Facebook pages identified as distributors of local information in news deserts. Findings indicate that community attributes like flexibility and social cohesion are associated with greater perceptions of access to local news, feelings of being informed, local issue knowledge. Evidence also suggests social media meet critical information needs in these areas, rarely promoting false claims. Implications exist for the conceptualization of news deserts, including incorporating community resilience within frameworks for understanding news desert audiences. Approaches for improving information flow and quality within news deserts are discussed.",
+  "keywords_en": [
+    "Resilience (materials science)",
+    "Community resilience",
+    "Work (physics)",
+    "Psychological resilience",
+    "Narrative"
   ],
-  "inferred_keywords_zh": [
-    "新闻荒漠",
-    "社区韧性",
-    "地方新闻",
-    "媒体获取",
-    "农村社区",
-    "数字鸿沟"
+  "keywords_zh": [
+    "Resilience (materials science)",
+    "Community resilience",
+    "Work (physics)",
+    "Psychological resilience",
+    "Narrative"
   ],
-  "plain_summary_zh": "这项研究探讨了新闻荒漠现象——即缺乏本地新闻覆盖的地区。它采用社区韧性的视角，研究这些地区的居民如何应对信息获取的挑战，以及这对社区生活的影响。",
-  "plain_summary_en": "This study examines news deserts—areas with limited local news coverage. It uses a community resilience approach to understand how residents in these areas cope with information access challenges and the impact on community life.",
-  "research_direction_zh": "探索媒体地理学与社区发展交叉领域，关注信息不平等对地方社会韧性的影响。",
-  "research_direction_en": "Investigating the intersection of media geography and community development, focusing on how information inequality affects local social resilience.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies A Community Resilience Approach to Understanding News Deserts and Their Residents. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Resilience (materials science), Community resilience, Work (physics), Psychological resilience. The abstract suggests a survey, content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies A Community Resilience Approach to Understanding News Deserts and Their Residents. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Resilience (materials science), Community resilience, Work (physics), Psychological resilience. The abstract suggests a survey, content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Resilience (materials science), Community resilience, Work (physics), Psychological resilience, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Resilience (materials science), Community resilience, Work (physics), Psychological resilience, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "案例研究",
-    "访谈",
-    "调查"
+    "survey",
+    "content analysis"
   ],
   "method_tags_en": [
-    "case study",
-    "interview",
-    "survey"
+    "survey",
+    "content analysis"
   ]
 }

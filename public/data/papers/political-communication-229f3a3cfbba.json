@@ -12,42 +12,56 @@
     "National Chengchi",
     "Taipei"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:07:11.794Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:58:47.812Z",
   "language": "en",
   "raw_title": "Uneven Echoes: Gender’s Divergent Influence on Candidate Personalization and Voter Response in Taiwan",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Personalization",
+    "Context (archaeology)",
+    "Voting behavior"
+  ],
   "title_en": "Uneven Echoes: Gender’s Divergent Influence on Candidate Personalization and Voter Response in Taiwan",
-  "title_zh": "不均衡的回响：性别对台湾候选人个人化与选民反应的差异性影响",
+  "title_zh": "不均衡的回响：性别对台湾候选人个人化与选民反应的差异化影响",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Personalization",
+    "Context (archaeology)",
+    "Voting behavior"
+  ],
+  "keywords_zh": [
+    "个人化",
+    "背景（考古学）",
+    "投票行为"
+  ],
   "inferred_keywords_en": [
-    "gender politics",
-    "political communication",
-    "candidate personalization",
-    "voter behavior",
-    "Taiwan elections"
+    "Gender politics",
+    "Taiwan elections",
+    "Political communication",
+    "Candidate image",
+    "Voter psychology"
   ],
   "inferred_keywords_zh": [
     "性别政治",
+    "台湾选举",
     "政治传播",
-    "候选人个人化",
-    "选民行为",
-    "台湾选举"
+    "候选人形象",
+    "选民心理"
   ],
-  "plain_summary_zh": "这项研究探讨性别如何影响台湾政治中候选人的个人化表现以及选民的不同反应。它关注男性和女性候选人在竞选中的差异，以及这些差异如何影响选民的选择。",
-  "plain_summary_en": "This study examines how gender influences the personalization of candidates and voter responses in Taiwanese politics. It focuses on differences between male and female candidates in campaigns and how these affect voter choices.",
-  "research_direction_zh": "研究性别在政治传播中的作用，特别是在候选人形象塑造和选民互动方面，以理解性别如何塑造选举动态。",
-  "research_direction_en": "Investigating the role of gender in political communication, particularly in candidate image-building and voter engagement, to understand how gender shapes electoral dynamics.",
+  "plain_summary_zh": "这项研究探讨性别如何影响台湾政治中候选人的个人化程度以及选民的反应。研究发现，不同性别的候选人在塑造个人形象时面临不同的情况，而选民对这些形象的反应也存在差异。",
+  "plain_summary_en": "This study examines how gender affects the personalization of political candidates and voter responses in Taiwan. It finds that candidates of different genders face varying circumstances in shaping their personal images, and voters respond differently to these images.",
+  "research_direction_zh": "研究关注性别在政治传播中的角色，特别是候选人个人化策略与选民互动的性别差异，属于政治传播与性别研究的交叉领域。",
+  "research_direction_en": "The research focuses on the role of gender in political communication, specifically gender differences in candidate personalization strategies and voter interactions, intersecting political communication and gender studies.",
   "method_tags_zh": [
     "调查",
-    "内容分析"
+    "内容分析",
+    "案例研究"
   ],
   "method_tags_en": [
     "survey",
-    "content analysis"
+    "content analysis",
+    "case study"
   ]
 }

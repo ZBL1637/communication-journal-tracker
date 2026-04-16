@@ -17,48 +17,59 @@
     "Vrije Universiteit Amsterdamb",
     "Ghent"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:12:15.437Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:05:12.165Z",
   "language": "en",
   "raw_title": "The User Experience of TikTok and Its Compatibility with News",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Compatibility (geochemistry)",
+    "User experience design",
+    "Trustworthiness",
+    "User journey"
+  ],
   "title_en": "The User Experience of TikTok and Its Compatibility with News",
   "title_zh": "TikTok的用户体验及其与新闻的兼容性",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Compatibility (geochemistry)",
+    "User experience design",
+    "Trustworthiness",
+    "User journey"
+  ],
+  "keywords_zh": [
+    "兼容性（地球化学）",
+    "用户体验设计",
+    "可信度",
+    "用户旅程"
+  ],
   "inferred_keywords_en": [
     "TikTok",
-    "user experience",
     "news consumption",
-    "social media",
+    "social media platforms",
     "digital journalism",
-    "platform compatibility",
     "media studies"
   ],
   "inferred_keywords_zh": [
     "TikTok",
-    "用户体验",
     "新闻消费",
-    "社交媒体",
-    "数字新闻",
-    "平台兼容性",
+    "社交媒体平台",
+    "数字新闻学",
     "媒体研究"
   ],
-  "plain_summary_zh": "这篇研究探讨了TikTok作为社交媒体平台，其用户体验如何影响新闻内容的传播和消费。它分析了TikTok的设计和功能是否适合新闻分享，以及用户在这个平台上的行为如何塑造新闻获取方式。",
-  "plain_summary_en": "This research examines how TikTok's user experience affects the spread and consumption of news content. It analyzes whether TikTok's design and features are suitable for news sharing and how user behavior on the platform shapes news access.",
-  "research_direction_zh": "研究关注社交媒体平台（特别是短视频应用如TikTok）在新闻传播中的角色，探索用户体验、平台算法和内容格式如何影响新闻的可见性和可信度。",
-  "research_direction_en": "The research focuses on the role of social media platforms, particularly short-video apps like TikTok, in news dissemination, exploring how user experience, platform algorithms, and content formats affect news visibility and credibility.",
+  "plain_summary_zh": "这项研究探讨了TikTok作为社交媒体平台如何影响用户获取新闻的体验。它关注TikTok的设计特点是否适合新闻传播，以及用户是否信任平台上的新闻内容。研究旨在理解用户在TikTok上浏览新闻时的整体感受和路径。",
+  "plain_summary_en": "This research explores how TikTok, as a social media platform, affects users' experience of accessing news. It focuses on whether TikTok's design features are suitable for news dissemination and whether users trust news content on the platform. The study aims to understand users' overall feelings and pathways when browsing news on TikTok.",
+  "research_direction_zh": "数字新闻学中社交媒体平台与新闻消费的交互研究，关注用户体验、信任机制和平台设计对新闻传播的影响。",
+  "research_direction_en": "Research on the interaction between social media platforms and news consumption in digital journalism, focusing on user experience, trust mechanisms, and the impact of platform design on news dissemination.",
   "method_tags_zh": [
     "调查",
-    "内容分析",
+    "访谈",
     "案例研究"
   ],
   "method_tags_en": [
     "survey",
-    "content analysis",
+    "interview",
     "case study"
   ]
 }

@@ -8,6 +8,7 @@
   "publishedAt": "2025-05-22T05:42:00.000Z",
   "authors": [
     "Mohamed Nasr",
+    "Ann‐Kathrin Reinl",
     "Ann-Kathrin Reinl",
     "a European",
     "Politics Group",
@@ -21,40 +22,63 @@
     "of Political",
     "Electoral Studies"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:04:41.209Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:55:30.240Z",
   "language": "en",
   "raw_title": "United in Difficult Times? Investigating Party Communication on EU Solidarity",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Solidarity",
+    "Political science",
+    "Political economy",
+    "Sociology",
+    "Law",
+    "Politics"
+  ],
   "title_en": "United in Difficult Times? Investigating Party Communication on EU Solidarity",
   "title_zh": "困难时期团结一致？调查政党关于欧盟团结的沟通",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Solidarity",
+    "Political science",
+    "Political economy",
+    "Sociology",
+    "Law",
+    "Politics"
+  ],
+  "keywords_zh": [
+    "团结",
+    "政治学",
+    "政治经济学",
+    "社会学",
+    "法律",
+    "政治"
+  ],
   "inferred_keywords_en": [
-    "political communication",
-    "EU solidarity",
-    "party communication",
     "European Union",
-    "crisis communication"
+    "Party communication",
+    "Political discourse",
+    "Crisis communication",
+    "EU politics"
   ],
   "inferred_keywords_zh": [
-    "政治传播",
-    "欧盟团结",
+    "欧盟",
     "政党沟通",
-    "欧洲联盟",
-    "危机传播"
+    "政治话语",
+    "危机沟通",
+    "欧盟政治"
   ],
-  "plain_summary_zh": "这项研究探讨了在困难时期，欧洲政党如何就欧盟团结问题进行沟通。它调查了政党是否以及如何表达对欧盟团结的支持，以及这些沟通策略如何影响公众对欧盟的看法。",
-  "plain_summary_en": "This research explores how European political parties communicate about EU solidarity during difficult times. It investigates whether and how parties express support for EU solidarity, and how these communication strategies affect public perceptions of the EU.",
-  "research_direction_zh": "政治传播与欧盟治理研究，关注政党在危机中的沟通策略及其对欧洲一体化进程的影响。",
-  "research_direction_en": "Political communication and EU governance research, focusing on party communication strategies during crises and their impact on European integration.",
+  "plain_summary_zh": "这项研究探讨了在困难时期，欧洲政党如何沟通和讨论欧盟团结的问题。它关注政党如何表达对团结的支持或反对，以及这些沟通如何影响公众对欧盟的看法。",
+  "plain_summary_en": "This study explores how European political parties communicate and discuss EU solidarity during difficult times. It focuses on how parties express support or opposition to solidarity, and how this communication affects public perceptions of the EU.",
+  "research_direction_zh": "研究关注欧盟政治沟通、政党话语和危机时期的团结动态，旨在理解沟通如何塑造欧盟的凝聚力和政策支持。",
+  "research_direction_en": "The research focuses on EU political communication, party discourse, and solidarity dynamics during crises, aiming to understand how communication shapes EU cohesion and policy support.",
   "method_tags_zh": [
-    "内容分析"
+    "内容分析",
+    "案例研究"
   ],
   "method_tags_en": [
-    "content analysis"
+    "content analysis",
+    "case study"
   ]
 }

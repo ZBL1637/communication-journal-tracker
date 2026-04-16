@@ -17,46 +17,85 @@
     "Dortmund",
     "Germany"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:09:52.502Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:02:05.769Z",
   "language": "en",
   "raw_title": "Consumer Preferences and Willingness to Pay for Digital Journalism in Intermedia Competition: A Conjoint Analysis of Online News Users in the Austrian Market",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Conjoint analysis",
+    "Competition (biology)",
+    "Advertising",
+    "Journalism",
+    "Willingness to pay",
+    "Business",
+    "Marketing",
+    "Market competition",
+    "Economics",
+    "Preference",
+    "Microeconomics",
+    "Market economy"
+  ],
   "title_en": "Consumer Preferences and Willingness to Pay for Digital Journalism in Intermedia Competition: A Conjoint Analysis of Online News Users in the Austrian Market",
-  "title_zh": "媒介竞争中的消费者偏好与数字新闻付费意愿：奥地利市场在线新闻用户的联合分析",
+  "title_zh": "跨媒体竞争下数字新闻的消费者偏好与支付意愿：奥地利市场在线新闻用户的联合分析",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Conjoint analysis",
+    "Competition (biology)",
+    "Advertising",
+    "Journalism",
+    "Willingness to pay",
+    "Business",
+    "Marketing",
+    "Market competition",
+    "Economics",
+    "Preference",
+    "Microeconomics",
+    "Market economy"
+  ],
+  "keywords_zh": [
+    "联合分析",
+    "竞争（生物学）",
+    "广告",
+    "新闻业",
+    "支付意愿",
+    "商业",
+    "市场营销",
+    "市场竞争",
+    "经济学",
+    "偏好",
+    "微观经济学",
+    "市场经济"
+  ],
   "inferred_keywords_en": [
-    "digital journalism",
-    "consumer preferences",
-    "willingness to pay",
-    "intermedia competition",
-    "conjoint analysis",
-    "online news",
-    "Austrian market"
+    "Digital journalism",
+    "Online news",
+    "Consumer behavior",
+    "Media economics",
+    "Austrian market",
+    "Subscription models",
+    "Media competition"
   ],
   "inferred_keywords_zh": [
     "数字新闻",
-    "消费者偏好",
-    "付费意愿",
-    "媒介竞争",
-    "联合分析",
     "在线新闻",
-    "奥地利市场"
+    "消费者行为",
+    "媒体经济学",
+    "奥地利市场",
+    "订阅模式",
+    "媒体竞争"
   ],
-  "plain_summary_zh": "这项研究调查了奥地利在线新闻用户对数字新闻的偏好和付费意愿。研究人员使用联合分析方法，了解在多种媒介竞争的环境下，用户愿意为哪些新闻特征付费。",
-  "plain_summary_en": "This study examines Austrian online news users' preferences and willingness to pay for digital journalism. Using conjoint analysis, researchers explore what news features users are willing to pay for in a competitive media environment.",
-  "research_direction_zh": "数字新闻商业模式与消费者行为研究，关注媒介竞争环境下的付费意愿和用户偏好分析。",
-  "research_direction_en": "Research on digital journalism business models and consumer behavior, focusing on willingness to pay and user preferences in competitive media environments.",
+  "plain_summary_zh": "这项研究调查了奥地利在线新闻用户对数字新闻的偏好和支付意愿。研究人员使用联合分析方法，了解在跨媒体竞争环境下，消费者愿意为哪些新闻特征付费。研究发现可以帮助新闻机构设计更吸引人的数字产品。",
+  "plain_summary_en": "This study examines Austrian online news users' preferences and willingness to pay for digital journalism. Using conjoint analysis, researchers identify which news features consumers value most in a competitive media environment. The findings can help news organizations design more appealing digital products.",
+  "research_direction_zh": "媒体经济学与消费者行为研究，关注数字新闻商业模式在竞争市场中的可持续性。",
+  "research_direction_en": "Media economics and consumer behavior research, focusing on the sustainability of digital journalism business models in competitive markets.",
   "method_tags_zh": [
-    "联合分析",
-    "调查"
+    "调查",
+    "联合分析"
   ],
   "method_tags_en": [
-    "conjoint analysis",
-    "survey"
+    "survey",
+    "conjoint analysis"
   ]
 }

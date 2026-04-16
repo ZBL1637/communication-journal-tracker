@@ -13,36 +13,54 @@
     "Chicago",
     "Illinois"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:05:25.063Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:56:30.798Z",
   "language": "en",
   "raw_title": "How Should We Study Multiple Platforms? Lessons from Deliberative Systems Theory",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Political science",
+    "Sociology",
+    "Computer science",
+    "Epistemology",
+    "Philosophy"
+  ],
   "title_en": "How Should We Study Multiple Platforms? Lessons from Deliberative Systems Theory",
   "title_zh": "我们应如何研究多平台？来自审议系统理论的启示",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Political science",
+    "Sociology",
+    "Computer science",
+    "Epistemology",
+    "Philosophy"
+  ],
+  "keywords_zh": [
+    "政治学",
+    "社会学",
+    "计算机科学",
+    "认识论",
+    "哲学"
+  ],
   "inferred_keywords_en": [
-    "multiple platforms",
-    "deliberative systems theory",
-    "political communication",
-    "digital media",
-    "research methodology"
+    "deliberative democracy",
+    "digital platforms",
+    "research methodology",
+    "communication theory",
+    "interdisciplinary studies"
   ],
   "inferred_keywords_zh": [
-    "多平台",
-    "审议系统理论",
-    "政治传播",
-    "数字媒体",
-    "研究方法"
+    "审议民主",
+    "数字平台",
+    "研究方法论",
+    "传播理论",
+    "跨学科研究"
   ],
-  "plain_summary_zh": "这篇文章探讨了如何研究多个数字平台（如社交媒体、新闻网站等）在政治传播中的作用。作者建议借鉴审议系统理论，该理论关注不同平台如何共同影响公共讨论和决策。文章旨在为研究者提供新的方法来分析复杂的数字媒体环境。",
-  "plain_summary_en": "This article explores how to study the role of multiple digital platforms (such as social media, news websites) in political communication. The author suggests drawing lessons from deliberative systems theory, which focuses on how different platforms collectively influence public discussion and decision-making. The article aims to provide researchers with new approaches to analyze complex digital media environments.",
-  "research_direction_zh": "该研究属于政治传播领域，关注数字时代多平台环境下的公共审议和民主过程。它旨在开发跨平台研究方法，以更好地理解媒体系统如何塑造政治话语和社会互动。",
-  "research_direction_en": "This research falls within political communication, focusing on public deliberation and democratic processes in multi-platform digital environments. It aims to develop cross-platform research methodologies to better understand how media systems shape political discourse and social interactions.",
+  "plain_summary_zh": "这篇文章探讨了如何研究多个数字平台，比如社交媒体和在线论坛。它建议借鉴审议系统理论，这个理论关注人们如何通过讨论做出集体决策。文章认为，研究多个平台时，需要考虑它们如何共同影响公共讨论，而不是单独分析每个平台。",
+  "plain_summary_en": "This article explores how to study multiple digital platforms, such as social media and online forums. It suggests drawing lessons from deliberative systems theory, which focuses on how people make collective decisions through discussion. The article argues that when studying multiple platforms, we need to consider how they collectively influence public discourse, rather than analyzing each platform in isolation.",
+  "research_direction_zh": "该研究属于政治传播和数字媒体研究的交叉领域，旨在开发新的方法论来理解多平台环境中的公共审议和民主过程。",
+  "research_direction_en": "This research falls at the intersection of political communication and digital media studies, aiming to develop new methodologies for understanding public deliberation and democratic processes in multi-platform environments.",
   "method_tags_zh": [
     "理论分析",
     "案例研究"

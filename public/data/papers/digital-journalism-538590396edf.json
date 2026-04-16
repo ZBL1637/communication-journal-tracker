@@ -8,9 +8,10 @@
   "publishedAt": "2025-05-15T10:25:13.000Z",
   "authors": [
     "Allie Kosterich",
-    "Adam Saffer",
+    "Adam J. Saffer",
     "Matthew S. Weber",
     "Daniel Kreiss",
+    "Adam Saffer",
     "Fordham",
     "New York",
     "USAb",
@@ -19,48 +20,74 @@
     "New Brunswick",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:09:22.447Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:01:27.227Z",
   "language": "en",
   "raw_title": "Network Histories: Methods and Measures for Studying Interdependence and Interconnectedness Within Digital Journalism",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Journalism",
+    "Sociology",
+    "Actor–network theory",
+    "Epistemology",
+    "Public relations",
+    "Computer science",
+    "Media studies",
+    "Political science",
+    "Social science"
+  ],
   "title_en": "Network Histories: Methods and Measures for Studying Interdependence and Interconnectedness Within Digital Journalism",
   "title_zh": "网络历史：研究数字新闻业内部相互依赖与互联性的方法与测量",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Journalism",
+    "Sociology",
+    "Actor–network theory",
+    "Epistemology",
+    "Public relations",
+    "Computer science",
+    "Media studies",
+    "Political science",
+    "Social science"
+  ],
+  "keywords_zh": [
+    "新闻学",
+    "社会学",
+    "行动者网络理论",
+    "认识论",
+    "公共关系",
+    "计算机科学",
+    "媒体研究",
+    "政治学",
+    "社会科学"
+  ],
   "inferred_keywords_en": [
-    "network analysis",
-    "digital journalism",
-    "interdependence",
-    "interconnectedness",
-    "research methods",
-    "media studies",
-    "historical analysis"
+    "Network analysis",
+    "Digital media",
+    "Interconnectedness",
+    "Research methods",
+    "Media networks"
   ],
   "inferred_keywords_zh": [
     "网络分析",
-    "数字新闻",
-    "相互依赖",
+    "数字媒体",
     "互联性",
     "研究方法",
-    "媒体研究",
-    "历史分析"
+    "媒体网络"
   ],
-  "plain_summary_zh": "这篇文章探讨了如何研究数字新闻业中不同部分如何相互连接和依赖。它介绍了分析这些关系的方法和测量工具，帮助理解新闻机构、平台和技术如何共同工作。",
-  "plain_summary_en": "This article explores how to study how different parts of digital journalism connect and depend on each other. It introduces methods and measurement tools for analyzing these relationships, helping understand how news organizations, platforms, and technologies work together.",
-  "research_direction_zh": "该研究关注数字新闻生态系统的结构分析，旨在开发评估新闻网络动态和演变的方法论框架。",
-  "research_direction_en": "This research focuses on structural analysis of digital journalism ecosystems, aiming to develop methodological frameworks for assessing the dynamics and evolution of news networks.",
+  "plain_summary_zh": "这篇文章探讨如何研究数字新闻业中不同部分如何相互连接和依赖。它关注使用网络历史方法来理解新闻机构、技术和人员之间的关系。",
+  "plain_summary_en": "This article explores how to study how different parts of digital journalism connect and depend on each other. It focuses on using network history methods to understand relationships between news organizations, technologies, and people.",
+  "research_direction_zh": "数字新闻研究中的网络分析方法论，特别关注历史视角下的媒体网络演变和结构研究。",
+  "research_direction_en": "Network analysis methodology in digital journalism research, with particular focus on historical perspectives on media network evolution and structure.",
   "method_tags_zh": [
     "网络分析",
-    "历史分析",
-    "案例研究"
+    "案例研究",
+    "历史分析"
   ],
   "method_tags_en": [
     "network analysis",
-    "historical analysis",
-    "case study"
+    "case study",
+    "historical analysis"
   ]
 }

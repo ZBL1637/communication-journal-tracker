@@ -11,40 +11,78 @@
     "Dublin City",
     "Ireland"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:08:46.530Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:00:49.704Z",
   "language": "en",
   "raw_title": "Journalists’ Use of Social Media Disconnection Practices: ‘I Try Not to Block People, but…’",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Disconnection",
+    "Social media",
+    "Block (permutation group theory)",
+    "Public relations",
+    "Media studies",
+    "Sociology",
+    "Internet privacy",
+    "Political science",
+    "Business",
+    "Computer science",
+    "Law"
+  ],
   "title_en": "Journalists’ Use of Social Media Disconnection Practices: ‘I Try Not to Block People, but…’",
-  "title_zh": "记者使用社交媒体断开连接的做法：“我尽量不屏蔽人，但是……”",
+  "title_zh": "记者使用社交媒体断开连接实践：‘我尽量不屏蔽人，但是……’",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Disconnection",
+    "Social media",
+    "Block (permutation group theory)",
+    "Public relations",
+    "Media studies",
+    "Sociology",
+    "Internet privacy",
+    "Political science",
+    "Business",
+    "Computer science",
+    "Law"
+  ],
+  "keywords_zh": [
+    "断开连接",
+    "社交媒体",
+    "屏蔽（置换群理论）",
+    "公共关系",
+    "媒体研究",
+    "社会学",
+    "网络隐私",
+    "政治学",
+    "商业",
+    "计算机科学",
+    "法律"
+  ],
   "inferred_keywords_en": [
-    "social media disconnection",
-    "journalism practices",
-    "digital well-being",
-    "professional boundaries",
-    "online harassment"
+    "Journalism practice",
+    "Digital wellbeing",
+    "Online boundaries",
+    "Professional ethics",
+    "Work-life balance"
   ],
   "inferred_keywords_zh": [
-    "社交媒体断开连接",
     "新闻实践",
     "数字福祉",
-    "职业边界",
-    "网络骚扰"
+    "在线边界",
+    "职业道德",
+    "工作与生活平衡"
   ],
-  "plain_summary_zh": "这项研究探讨记者如何管理社交媒体使用，特别是他们断开连接的做法，比如屏蔽或限制互动，以应对在线挑战并保持职业平衡。",
-  "plain_summary_en": "This study explores how journalists manage their social media use, specifically their disconnection practices like blocking or limiting interactions, to handle online challenges and maintain professional balance.",
-  "research_direction_zh": "研究数字时代新闻工作者的心理健康和职业适应策略，关注社交媒体环境下的压力管理和边界设定。",
-  "research_direction_en": "Investigating mental health and professional adaptation strategies for journalists in the digital age, focusing on stress management and boundary-setting in social media contexts.",
+  "plain_summary_zh": "这项研究探讨记者如何管理他们在社交媒体上的互动，特别是当他们需要暂时或永久断开连接时。研究发现记者面临平衡职业需求和个人福祉的挑战，经常在保持开放沟通与保护自己免受负面互动之间挣扎。",
+  "plain_summary_en": "This research explores how journalists manage their social media interactions, particularly when they need to disconnect temporarily or permanently. The study finds that journalists face challenges balancing professional demands with personal wellbeing, often struggling between maintaining open communication and protecting themselves from negative interactions.",
+  "research_direction_zh": "数字时代新闻工作者的心理健康与职业实践研究，关注技术使用对专业身份和日常工作的影响。",
+  "research_direction_en": "Research on mental health and professional practices of journalists in the digital age, focusing on how technology use affects professional identity and daily work.",
   "method_tags_zh": [
-    "访谈"
+    "访谈",
+    "调查"
   ],
   "method_tags_en": [
-    "interview"
+    "interview",
+    "survey"
   ]
 }

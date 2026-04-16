@@ -7,9 +7,10 @@
   "issn": "1058-4609",
   "publishedAt": "2025-12-23T03:32:55.000Z",
   "authors": [
-    "Curd B. Knüpfer",
+    "Curd Knüpfer",
     "Yunkang Yang",
     "Mike Cowburn",
+    "Curd B. Knüpfer",
     "Curd B. Knüpfer Yunkang Yang Mike Cowburn a Digital Democracy",
     "Southern Denmark",
     "Odense",
@@ -19,44 +20,57 @@
     "Zeppelin",
     "Friedrichshafen"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:06:25.327Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:57:47.039Z",
   "language": "en",
   "raw_title": "The Logic of Connective Faction: How Digitally Networked Elites and Hyper-Partisan Media Radicalize Politics",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Politics",
+    "Government (linguistics)",
+    "Political communication",
+    "Key (lock)"
+  ],
   "title_en": "The Logic of Connective Faction: How Digitally Networked Elites and Hyper-Partisan Media Radicalize Politics",
   "title_zh": "连接性派系的逻辑：数字网络精英与极端党派媒体如何激化政治",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Politics",
+    "Government (linguistics)",
+    "Political communication",
+    "Key (lock)"
+  ],
+  "keywords_zh": [
+    "政治",
+    "政府（语言学）",
+    "政治传播",
+    "关键（锁）"
+  ],
   "inferred_keywords_en": [
     "digital networks",
     "political elites",
-    "hyper-partisan media",
-    "political radicalization",
-    "connective faction",
-    "political communication"
+    "media polarization",
+    "radicalization",
+    "partisanship"
   ],
   "inferred_keywords_zh": [
     "数字网络",
     "政治精英",
-    "极端党派媒体",
-    "政治激进化",
-    "连接性派系",
-    "政治传播"
+    "媒体极化",
+    "激进化",
+    "党派性"
   ],
-  "plain_summary_zh": "这篇文章探讨了数字时代政治精英如何通过网络连接，与极端党派媒体合作，导致政治变得更加极端化。它解释了这种“连接性派系”如何运作并影响政治环境。",
-  "plain_summary_en": "This article explores how political elites in the digital age use network connections and collaborate with hyper-partisan media to make politics more extreme. It explains how this 'connective faction' operates and impacts the political environment.",
-  "research_direction_zh": "研究数字媒体时代政治精英网络化与媒体极端化对政治进程的影响机制。",
-  "research_direction_en": "Investigating the mechanisms by which networked political elites and media extremism affect political processes in the digital media era.",
+  "plain_summary_zh": "这篇文章探讨了数字时代政治精英如何通过网络连接，与极端党派媒体合作，加剧政治对立和激进化。",
+  "plain_summary_en": "This article examines how political elites in the digital age use network connections and collaborate with hyper-partisan media to intensify political polarization and radicalization.",
+  "research_direction_zh": "研究数字媒体环境下政治传播的演变，特别是精英网络和媒体结构如何影响政治动态和民主进程。",
+  "research_direction_en": "Investigating the evolution of political communication in digital media environments, focusing on how elite networks and media structures shape political dynamics and democratic processes.",
   "method_tags_zh": [
-    "内容分析",
-    "案例研究"
+    "案例分析",
+    "内容分析"
   ],
   "method_tags_en": [
-    "content analysis",
-    "case study"
+    "case study",
+    "content analysis"
   ]
 }

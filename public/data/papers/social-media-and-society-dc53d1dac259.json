@@ -11,7 +11,7 @@
     "Seonhye Noh"
   ],
   "source": "crossref",
-  "fetchedAt": "2026-04-16T07:16:49.009Z",
+  "fetchedAt": "2026-04-16T09:11:14.283Z",
   "language": "en",
   "raw_title": "The AI Referee: How Online Interventions Shape Incivility and User Engagement in News Discussions",
   "raw_abstract": "This paper seeks to understand how online interventions shape incivility and user engagement with news comments. Using a novel dataset of over 39 million news comments on Korea’s largest online news source (Naver News), we examine changes in the share of comments that are categorized as uncivil before and after the introduction of two automated interventions aimed at flagging incivility. We trained two deep learning models to categorize comments and replicate each intervention. The findings reveal significant decreases in uncivil content following each intervention. Interestingly, we find mixed effects of the interventions on total engagement: while the number of comments and commenters decreased after the first intervention, both metrics increased after the second. Examining individual-level data reveals that the aggregate reduction in incivility cuts across all users regardless of pre-intervention incivility or commenting frequency.",

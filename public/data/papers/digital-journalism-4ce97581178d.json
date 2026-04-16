@@ -15,46 +15,70 @@
     "Amsterdam",
     "Netherlands"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:07:52.137Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:59:27.998Z",
   "language": "en",
   "raw_title": "AI Hype and its Function: An Ethnographic Study of the Local News AI Initiative of the Associated Press",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Ethnography",
+    "Function (biology)",
+    "Media studies",
+    "Political science",
+    "Sociology",
+    "Anthropology",
+    "Biology"
+  ],
   "title_en": "AI Hype and its Function: An Ethnographic Study of the Local News AI Initiative of the Associated Press",
-  "title_zh": "AI炒作及其功能：美联社本地新闻AI倡议的民族志研究",
+  "title_zh": "AI炒作及其功能：美联社本地新闻AI计划的民族志研究",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Ethnography",
+    "Function (biology)",
+    "Media studies",
+    "Political science",
+    "Sociology",
+    "Anthropology",
+    "Biology"
+  ],
+  "keywords_zh": [
+    "民族志",
+    "功能（生物学）",
+    "媒体研究",
+    "政治学",
+    "社会学",
+    "人类学",
+    "生物学"
+  ],
   "inferred_keywords_en": [
-    "artificial intelligence",
-    "local news",
+    "Artificial Intelligence",
+    "Local News",
     "Associated Press",
-    "ethnography",
-    "media innovation",
-    "technology adoption",
-    "journalism practice"
+    "Journalism Technology",
+    "News Innovation",
+    "Media Organizations",
+    "Digital Transformation"
   ],
   "inferred_keywords_zh": [
     "人工智能",
     "本地新闻",
     "美联社",
-    "民族志",
-    "媒体创新",
-    "技术采用",
-    "新闻实践"
+    "新闻技术",
+    "新闻创新",
+    "媒体组织",
+    "数字化转型"
   ],
-  "plain_summary_zh": "这项研究使用民族志方法，调查了美联社本地新闻AI倡议中AI炒作的实际作用和影响。它探讨了AI技术如何被新闻机构采用，以及炒作在推动或阻碍创新中的作用。",
-  "plain_summary_en": "This study uses ethnographic methods to investigate the actual role and impact of AI hype in the Associated Press's Local News AI Initiative. It explores how AI technology is adopted by news organizations and the role of hype in driving or hindering innovation.",
-  "research_direction_zh": "研究关注AI技术在新闻业中的实际应用和影响，特别是炒作现象如何塑造技术采纳和创新过程。",
-  "research_direction_en": "The research focuses on the practical application and impact of AI technology in journalism, particularly how hype shapes the process of technology adoption and innovation.",
+  "plain_summary_zh": "这项研究通过民族志方法，深入观察美联社的本地新闻AI计划，探讨AI炒作在新闻业中的实际作用和功能。",
+  "plain_summary_en": "This study uses ethnographic methods to closely observe the Associated Press's local news AI initiative, examining the actual role and function of AI hype in journalism.",
+  "research_direction_zh": "探索人工智能技术在新闻业中的应用及其社会影响，特别是媒体组织如何应对技术变革和公众期望。",
+  "research_direction_en": "Exploring the application of artificial intelligence technology in journalism and its social impact, particularly how media organizations respond to technological change and public expectations.",
   "method_tags_zh": [
     "民族志",
     "案例研究"
   ],
   "method_tags_en": [
-    "ethnography",
-    "case study"
+    "Ethnography",
+    "Case Study"
   ]
 }

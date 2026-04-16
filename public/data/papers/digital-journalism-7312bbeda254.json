@@ -13,46 +13,57 @@
     "Helsinki",
     "Finland"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:11:42.866Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:04:28.813Z",
   "language": "en",
   "raw_title": "Authoritarian Algorithmic Publics: Conceptualising the Nexus of Authoritarianism and Digital Innovation Uptake in Russian News Media",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "Scholarship on digital innovation uptake in journalism has expanded to include hybrid and authoritarian regimes. However, the intersection of digital innovation and algorithmisation with restricted media freedom remains undertheorised. This article introduces the concept of authoritarian algorithmic publics (AAP), building upon “authoritarian publics-at-large” (Toepfl) and “algorithmic publics” (Christen), and applies it to Russia. Based on in-depth interviews with media professionals in Russian media (N = 51) we elucidate how media professionals’ perceptions of advanced digital technologies, rooted in a journalistic culture shaped by the conditions of authoritarianism, affect the development of digital journalism in autocracies. Contrary to politically-determined perspectives on media development in autocracies, our findings suggest that political loyalty is a poor explanatory factor of digital innovation uptake. By examining three media outlets – RT, RBC, and Meduza – we illustrate digital innovation across the political spectrum, revealing a complexity of digital authoritarianism better captured by AAP. Both pro-state media, forming a non-critical public, and oppositional media, creating a leadership-critical public, may use similar technologies and practices for optimization. However, their different perceptions and tailored use of these tools lead to the production of distinct algorithmic publics.",
+  "raw_keywords": [
+    "Authoritarianism",
+    "Journalism",
+    "Nexus (standard)",
+    "Digital media",
+    "Scholarship",
+    "Politics",
+    "New media",
+    "News media"
+  ],
   "title_en": "Authoritarian Algorithmic Publics: Conceptualising the Nexus of Authoritarianism and Digital Innovation Uptake in Russian News Media",
-  "title_zh": "威权算法公众：概念化俄罗斯新闻媒体中威权主义与数字创新采纳的关联",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "authoritarianism",
-    "algorithmic publics",
-    "digital innovation",
-    "Russian media",
-    "news media",
-    "conceptual framework",
-    "technology adoption"
+  "title_zh": "Authoritarian Algorithmic Publics: Conceptualising the Nexus of Authoritarianism and Digital Innovation Uptake in Russian News Media",
+  "abstract_en": "Scholarship on digital innovation uptake in journalism has expanded to include hybrid and authoritarian regimes. However, the intersection of digital innovation and algorithmisation with restricted media freedom remains undertheorised. This article introduces the concept of authoritarian algorithmic publics (AAP), building upon “authoritarian publics-at-large” (Toepfl) and “algorithmic publics” (Christen), and applies it to Russia. Based on in-depth interviews with media professionals in Russian media (N = 51) we elucidate how media professionals’ perceptions of advanced digital technologies, rooted in a journalistic culture shaped by the conditions of authoritarianism, affect the development of digital journalism in autocracies. Contrary to politically-determined perspectives on media development in autocracies, our findings suggest that political loyalty is a poor explanatory factor of digital innovation uptake. By examining three media outlets – RT, RBC, and Meduza – we illustrate digital innovation across the political spectrum, revealing a complexity of digital authoritarianism better captured by AAP. Both pro-state media, forming a non-critical public, and oppositional media, creating a leadership-critical public, may use similar technologies and practices for optimization. However, their different perceptions and tailored use of these tools lead to the production of distinct algorithmic publics.",
+  "abstract_zh": "Scholarship on digital innovation uptake in journalism has expanded to include hybrid and authoritarian regimes. However, the intersection of digital innovation and algorithmisation with restricted media freedom remains undertheorised. This article introduces the concept of authoritarian algorithmic publics (AAP), building upon “authoritarian publics-at-large” (Toepfl) and “algorithmic publics” (Christen), and applies it to Russia. Based on in-depth interviews with media professionals in Russian media (N = 51) we elucidate how media professionals’ perceptions of advanced digital technologies, rooted in a journalistic culture shaped by the conditions of authoritarianism, affect the development of digital journalism in autocracies. Contrary to politically-determined perspectives on media development in autocracies, our findings suggest that political loyalty is a poor explanatory factor of digital innovation uptake. By examining three media outlets – RT, RBC, and Meduza – we illustrate digital innovation across the political spectrum, revealing a complexity of digital authoritarianism better captured by AAP. Both pro-state media, forming a non-critical public, and oppositional media, creating a leadership-critical public, may use similar technologies and practices for optimization. However, their different perceptions and tailored use of these tools lead to the production of distinct algorithmic publics.",
+  "keywords_en": [
+    "Authoritarianism",
+    "Journalism",
+    "Nexus (standard)",
+    "Digital media",
+    "Scholarship",
+    "Politics",
+    "New media",
+    "News media"
   ],
-  "inferred_keywords_zh": [
-    "威权主义",
-    "算法公众",
-    "数字创新",
-    "俄罗斯媒体",
-    "新闻媒体",
-    "概念框架",
-    "技术采纳"
+  "keywords_zh": [
+    "Authoritarianism",
+    "Journalism",
+    "Nexus (standard)",
+    "Digital media",
+    "Scholarship",
+    "Politics",
+    "New media",
+    "News media"
   ],
-  "plain_summary_zh": "这篇研究探讨了俄罗斯新闻媒体如何结合威权主义政治与数字技术创新。它提出了一个概念框架来分析威权国家如何利用算法等技术来塑造公众舆论，同时保持对媒体的控制。研究聚焦于俄罗斯作为案例，展示了数字工具如何被整合进威权治理中。",
-  "plain_summary_en": "This study examines how Russian news media combine authoritarian politics with digital technology innovations. It proposes a conceptual framework to analyze how authoritarian states use algorithms and other technologies to shape public opinion while maintaining media control. Focusing on Russia as a case, it shows how digital tools are integrated into authoritarian governance.",
-  "research_direction_zh": "研究探索威权主义与数字媒体技术的交叉点，特别是在新闻传播领域。它旨在理解威权政权如何适应和利用数字创新来巩固权力，为比较威权数字媒体研究提供理论基础。",
-  "research_direction_en": "The research explores the intersection of authoritarianism and digital media technologies, particularly in journalism. It aims to understand how authoritarian regimes adapt and leverage digital innovations to consolidate power, providing a theoretical basis for comparative studies of authoritarian digital media.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Authoritarian Algorithmic Publics: Conceptualising the Nexus of Authoritarianism and Digital Innovation Uptake in Russian News Media. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Authoritarianism, Journalism, Nexus (standard), Digital media. The abstract suggests a interview, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Authoritarian Algorithmic Publics: Conceptualising the Nexus of Authoritarianism and Digital Innovation Uptake in Russian News Media. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Authoritarianism, Journalism, Nexus (standard), Digital media. The abstract suggests a interview, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Authoritarianism, Journalism, Nexus (standard), Digital media, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Authoritarianism, Journalism, Nexus (standard), Digital media, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "案例研究",
-    "概念分析"
+    "interview",
+    "computational analysis"
   ],
   "method_tags_en": [
-    "case study",
-    "conceptual analysis"
+    "interview",
+    "computational analysis"
   ]
 }

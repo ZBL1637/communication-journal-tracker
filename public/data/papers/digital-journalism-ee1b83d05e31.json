@@ -16,36 +16,63 @@
     "and Associate Professor",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:08:37.249Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:00:31.922Z",
   "language": "en",
   "raw_title": "The Harming and the Helping: Perceived Organizational Effects on Mental Health in the Newsroom",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Mental health",
+    "Psychology",
+    "Public relations",
+    "Social psychology",
+    "Internet privacy",
+    "Political science",
+    "Computer science",
+    "Psychiatry"
+  ],
   "title_en": "The Harming and the Helping: Perceived Organizational Effects on Mental Health in the Newsroom",
   "title_zh": "伤害与帮助：新闻编辑室中组织对心理健康的影响感知",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Mental health",
+    "Psychology",
+    "Public relations",
+    "Social psychology",
+    "Internet privacy",
+    "Political science",
+    "Computer science",
+    "Psychiatry"
+  ],
+  "keywords_zh": [
+    "心理健康",
+    "心理学",
+    "公共关系",
+    "社会心理学",
+    "网络隐私",
+    "政治学",
+    "计算机科学",
+    "精神病学"
+  ],
   "inferred_keywords_en": [
-    "newsroom mental health",
-    "organizational effects",
-    "journalist well-being",
-    "workplace environment",
-    "media industry"
+    "Journalism",
+    "Organizational culture",
+    "Workplace wellbeing",
+    "Media industry",
+    "Stress management"
   ],
   "inferred_keywords_zh": [
-    "新闻编辑室心理健康",
-    "组织影响",
-    "记者福祉",
-    "工作环境",
-    "媒体行业"
+    "新闻学",
+    "组织文化",
+    "职场福祉",
+    "媒体行业",
+    "压力管理"
   ],
-  "plain_summary_zh": "这项研究探讨了新闻编辑室的组织环境如何影响记者的心理健康，包括可能造成伤害的因素和提供帮助的方面。",
-  "plain_summary_en": "This research examines how the organizational environment in newsrooms affects journalists' mental health, including factors that may cause harm and aspects that provide support.",
-  "research_direction_zh": "媒体组织心理学与新闻从业者职业健康研究",
-  "research_direction_en": "Media organizational psychology and occupational health of journalists",
+  "plain_summary_zh": "这项研究探讨了新闻编辑室中的组织因素如何影响记者的心理健康。它关注哪些组织行为可能对心理健康产生负面影响，哪些可能提供支持。",
+  "plain_summary_en": "This study examines how organizational factors in newsrooms affect journalists' mental health. It looks at which organizational behaviors might harm mental health and which might help support it.",
+  "research_direction_zh": "研究新闻媒体行业中的组织心理学和职场健康，特别关注压力环境下的员工福祉。",
+  "research_direction_en": "Research on organizational psychology and workplace wellbeing in the news media industry, with particular focus on employee welfare in high-stress environments.",
   "method_tags_zh": [
     "调查",
     "访谈"

@@ -11,40 +11,59 @@
     "Patrick R.",
     "Johnson Marquette"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:10:54.074Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:03:29.051Z",
   "language": "en",
   "raw_title": "The Weight of the Rainbow: LGBTQ+ Journalists’ Navigation of Mental Health and Identity in Digital News Ecosystems",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Identity (music)",
+    "Mental health",
+    "Digital health",
+    "Health communication",
+    "Journalism",
+    "News media"
+  ],
   "title_en": "The Weight of the Rainbow: LGBTQ+ Journalists’ Navigation of Mental Health and Identity in Digital News Ecosystems",
   "title_zh": "彩虹的重量：LGBTQ+记者在数字新闻生态系统中对心理健康与身份的探索",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Identity (music)",
+    "Mental health",
+    "Digital health",
+    "Health communication",
+    "Journalism",
+    "News media"
+  ],
+  "keywords_zh": [
+    "身份（音乐）",
+    "心理健康",
+    "数字健康",
+    "健康传播",
+    "新闻学",
+    "新闻媒体"
+  ],
   "inferred_keywords_en": [
     "LGBTQ+ journalists",
-    "mental health",
-    "identity",
-    "digital news ecosystems",
-    "journalism studies",
-    "workplace challenges",
-    "media diversity"
+    "Digital news ecosystems",
+    "Identity navigation",
+    "Mental health challenges",
+    "Professional identity",
+    "Media workplace"
   ],
   "inferred_keywords_zh": [
     "LGBTQ+记者",
-    "心理健康",
-    "身份认同",
     "数字新闻生态系统",
-    "新闻学研究",
-    "职场挑战",
-    "媒体多样性"
+    "身份探索",
+    "心理健康挑战",
+    "职业身份",
+    "媒体工作场所"
   ],
-  "plain_summary_zh": "这项研究探讨了LGBTQ+记者如何在数字新闻环境中处理心理健康和身份认同问题，关注他们在工作中面临的独特挑战和应对策略。",
-  "plain_summary_en": "This study examines how LGBTQ+ journalists navigate mental health and identity issues in digital news environments, focusing on the unique challenges they face at work and their coping strategies.",
-  "research_direction_zh": "该研究属于新闻学与媒体研究领域，关注数字时代记者群体的心理健康、身份认同与职场环境的关系，特别是针对少数群体记者的研究。",
-  "research_direction_en": "This research falls within journalism and media studies, focusing on the relationship between journalists' mental health, identity, and workplace environments in the digital age, particularly for minority journalists.",
+  "plain_summary_zh": "这项研究探讨了LGBTQ+记者如何在数字新闻环境中处理自己的身份和心理健康问题。它关注这些记者在工作中面临的独特挑战，以及数字媒体如何影响他们的职业和个人生活。",
+  "plain_summary_en": "This study explores how LGBTQ+ journalists navigate their identity and mental health in digital news environments. It focuses on the unique challenges these journalists face in their work and how digital media affects their professional and personal lives.",
+  "research_direction_zh": "研究关注数字新闻行业中少数群体记者的职业体验和心理健康，探索身份认同与工作环境的互动关系，为媒体多样性和员工福祉提供见解。",
+  "research_direction_en": "The research examines the professional experiences and mental health of minority journalists in digital news, exploring the interaction between identity and work environments to provide insights into media diversity and employee well-being.",
   "method_tags_zh": [
     "访谈",
     "案例研究"

@@ -7,6 +7,13 @@
   "issn": "1058-4609",
   "publishedAt": "2025-10-16T11:45:11.000Z",
   "authors": [
+    "Kris Ruijgrok",
+    "Ward Berenschot",
+    "Fatima Gaw",
+    "Janjira Sombatpoonsiri",
+    "Mariam Jayne",
+    "M. Agonos",
+    "Yatun Sastramidjaja",
     "K. Ruijgrok",
     "W. Berenschot",
     "F. Gaw",
@@ -43,52 +50,49 @@
     "of Communication",
     "The International Journal of Press/Politics"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:04:46.269Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:55:31.483Z",
   "language": "en",
   "raw_title": "Towards the Comparative Study of Domestic Influence Operations: Cyber Troops and Elite Competition in Indonesia, the Philippines and Thailand",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "Online influence operations (IO) are typically studied as isolated cases, often independent of their political context. In this study, based on 78 in-depth interviews with industry insiders, we explore the differences in the nature of IO campaigns across Indonesia, the Philippines, and Thailand, and investigate how this variation is linked to the political dynamics in these countries. We argue that the observed disparities in IO campaigns' aims, organization, and funding are closely tied to the distinct nature of elite competition in each country, specifically the degree to which ruling elites harness state institutions to suppress opposition and the character of election campaigns. Whereas Indonesia's candidate-centered election campaigns lead to fragmented, ad-hoc forms of IO, in the Philippines IO efforts are, like election campaigns, more commonly led by PR agencies. In contrast, the more state-centric and institutionalized IO campaigns in Thailand align with the substantial involvement of state institutions in electioneering in that country. We propose two reasons why IO campaigns mirror the structure of elite competition: First, the nature of political competition molds the motivations of the elites funding IO and, second, many IO campaigns are integrated into, or complement, politicians' and parties' official election campaign teams. With our comparative approach, we provide a deeper understanding of IO and their close alignment with national political-economic structures.",
+  "raw_keywords": [
+    "Elite",
+    "Opposition (politics)",
+    "Politics",
+    "Competition (biology)",
+    "State (computer science)",
+    "Local election"
+  ],
   "title_en": "Towards the Comparative Study of Domestic Influence Operations: Cyber Troops and Elite Competition in Indonesia, the Philippines and Thailand",
-  "title_zh": "国内影响力操作的比较研究：印度尼西亚、菲律宾和泰国的网络部队与精英竞争",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "influence operations",
-    "cyber troops",
-    "elite competition",
-    "comparative politics",
-    "Southeast Asia",
-    "political communication",
-    "digital propaganda",
-    "Indonesia",
-    "Philippines",
-    "Thailand"
+  "title_zh": "Towards the Comparative Study of Domestic Influence Operations: Cyber Troops and Elite Competition in Indonesia, the Philippines and Thailand",
+  "abstract_en": "Online influence operations (IO) are typically studied as isolated cases, often independent of their political context. In this study, based on 78 in-depth interviews with industry insiders, we explore the differences in the nature of IO campaigns across Indonesia, the Philippines, and Thailand, and investigate how this variation is linked to the political dynamics in these countries. We argue that the observed disparities in IO campaigns' aims, organization, and funding are closely tied to the distinct nature of elite competition in each country, specifically the degree to which ruling elites harness state institutions to suppress opposition and the character of election campaigns. Whereas Indonesia's candidate-centered election campaigns lead to fragmented, ad-hoc forms of IO, in the Philippines IO efforts are, like election campaigns, more commonly led by PR agencies. In contrast, the more state-centric and institutionalized IO campaigns in Thailand align with the substantial involvement of state institutions in electioneering in that country. We propose two reasons why IO campaigns mirror the structure of elite competition: First, the nature of political competition molds the motivations of the elites funding IO and, second, many IO campaigns are integrated into, or complement, politicians' and parties' official election campaign teams. With our comparative approach, we provide a deeper understanding of IO and their close alignment with national political-economic structures.",
+  "abstract_zh": "Online influence operations (IO) are typically studied as isolated cases, often independent of their political context. In this study, based on 78 in-depth interviews with industry insiders, we explore the differences in the nature of IO campaigns across Indonesia, the Philippines, and Thailand, and investigate how this variation is linked to the political dynamics in these countries. We argue that the observed disparities in IO campaigns' aims, organization, and funding are closely tied to the distinct nature of elite competition in each country, specifically the degree to which ruling elites harness state institutions to suppress opposition and the character of election campaigns. Whereas Indonesia's candidate-centered election campaigns lead to fragmented, ad-hoc forms of IO, in the Philippines IO efforts are, like election campaigns, more commonly led by PR agencies. In contrast, the more state-centric and institutionalized IO campaigns in Thailand align with the substantial involvement of state institutions in electioneering in that country. We propose two reasons why IO campaigns mirror the structure of elite competition: First, the nature of political competition molds the motivations of the elites funding IO and, second, many IO campaigns are integrated into, or complement, politicians' and parties' official election campaign teams. With our comparative approach, we provide a deeper understanding of IO and their close alignment with national political-economic structures.",
+  "keywords_en": [
+    "Elite",
+    "Opposition (politics)",
+    "Politics",
+    "Competition (biology)",
+    "State (computer science)",
+    "Local election"
   ],
-  "inferred_keywords_zh": [
-    "影响力操作",
-    "网络部队",
-    "精英竞争",
-    "比较政治",
-    "东南亚",
-    "政治传播",
-    "数字宣传",
-    "印度尼西亚",
-    "菲律宾",
-    "泰国"
+  "keywords_zh": [
+    "Elite",
+    "Opposition (politics)",
+    "Politics",
+    "Competition (biology)",
+    "State (computer science)",
+    "Local election"
   ],
-  "plain_summary_zh": "这项研究比较了印度尼西亚、菲律宾和泰国这三个东南亚国家中，政治精英如何利用网络部队进行国内影响力操作。网络部队指的是有组织的在线团体，他们通过社交媒体等平台传播特定信息来影响公众舆论。研究发现，这些操作与国内政治竞争密切相关，精英们利用网络部队来攻击对手、塑造自身形象或推动特定议程。",
-  "plain_summary_en": "This study compares how political elites in three Southeast Asian countries—Indonesia, the Philippines, and Thailand—use cyber troops for domestic influence operations. Cyber troops are organized online groups that spread specific information through platforms like social media to influence public opinion. The research finds these operations are closely tied to domestic political competition, with elites using cyber troops to attack opponents, shape their own image, or advance specific agendas.",
-  "research_direction_zh": "探索数字时代政治传播的新形式，特别是网络部队在国内政治竞争中的作用，为比较政治学和传播学提供跨区域案例研究。",
-  "research_direction_en": "Exploring new forms of political communication in the digital age, particularly the role of cyber troops in domestic political competition, providing cross-regional case studies for comparative politics and communication studies.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Towards the Comparative Study of Domestic Influence Operations: Cyber Troops and Elite Competition in Indonesia, the Philippines and Thailand. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Elite, Opposition (politics), Politics, Competition (biology). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Towards the Comparative Study of Domestic Influence Operations: Cyber Troops and Elite Competition in Indonesia, the Philippines and Thailand. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Elite, Opposition (politics), Politics, Competition (biology). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Elite, Opposition (politics), Politics, Competition (biology), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Elite, Opposition (politics), Politics, Competition (biology), especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "案例研究",
-    "比较分析"
+    "interview"
   ],
   "method_tags_en": [
-    "case study",
-    "comparative analysis"
+    "interview"
   ]
 }

@@ -7,6 +7,7 @@
   "issn": "2167-0811",
   "publishedAt": "2024-12-03T06:24:10.000Z",
   "authors": [
+    "Gregory Perreault",
     "Gregory P. Perreault",
     "Gregory P.",
     "Perreault The Zimmerman",
@@ -15,48 +16,61 @@
     "FL",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:13:41.165Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:07:04.918Z",
   "language": "en",
   "raw_title": "Mitigating Hostility in Digital Journalism: Digital Hostility as Ossifier of Field Boundaries",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "The rising prevalence of white nationalism necessitates an evaluation of the tactics of journalists employ to manage digital hostility. Through the lens of Bourdieu’s field theory, the present study reflects a two-step interview procedure with 31 North American journalists, followed by participant observation and long-form depth interviews with four North American audience editors. The study argues that managing hostility is rooted in the habitus of North American journalists, with audience editors in particular offering layered mitigation tactics that work like second nature. Yet this mitigation hardens field boundaries and discourages journalists from digital connection with audiences.",
+  "raw_keywords": [
+    "Hostility",
+    "Journalism",
+    "Field (mathematics)",
+    "Social psychology",
+    "Political science",
+    "Public relations",
+    "Psychology",
+    "Computer science",
+    "Law",
+    "Mathematics"
+  ],
   "title_en": "Mitigating Hostility in Digital Journalism: Digital Hostility as Ossifier of Field Boundaries",
-  "title_zh": "缓解数字新闻中的敌意：数字敌意作为领域边界的固化者",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "digital journalism",
-    "hostility",
-    "field boundaries",
-    "online communication",
-    "journalism ethics",
-    "digital media",
-    "professional boundaries"
+  "title_zh": "Mitigating Hostility in Digital Journalism: Digital Hostility as Ossifier of Field Boundaries",
+  "abstract_en": "The rising prevalence of white nationalism necessitates an evaluation of the tactics of journalists employ to manage digital hostility. Through the lens of Bourdieu’s field theory, the present study reflects a two-step interview procedure with 31 North American journalists, followed by participant observation and long-form depth interviews with four North American audience editors. The study argues that managing hostility is rooted in the habitus of North American journalists, with audience editors in particular offering layered mitigation tactics that work like second nature. Yet this mitigation hardens field boundaries and discourages journalists from digital connection with audiences.",
+  "abstract_zh": "The rising prevalence of white nationalism necessitates an evaluation of the tactics of journalists employ to manage digital hostility. Through the lens of Bourdieu’s field theory, the present study reflects a two-step interview procedure with 31 North American journalists, followed by participant observation and long-form depth interviews with four North American audience editors. The study argues that managing hostility is rooted in the habitus of North American journalists, with audience editors in particular offering layered mitigation tactics that work like second nature. Yet this mitigation hardens field boundaries and discourages journalists from digital connection with audiences.",
+  "keywords_en": [
+    "Hostility",
+    "Journalism",
+    "Field (mathematics)",
+    "Social psychology",
+    "Political science",
+    "Public relations",
+    "Psychology",
+    "Computer science",
+    "Law",
+    "Mathematics"
   ],
-  "inferred_keywords_zh": [
-    "数字新闻",
-    "敌意",
-    "领域边界",
-    "在线交流",
-    "新闻伦理",
-    "数字媒体",
-    "专业边界"
+  "keywords_zh": [
+    "Hostility",
+    "Journalism",
+    "Field (mathematics)",
+    "Social psychology",
+    "Political science",
+    "Public relations",
+    "Psychology",
+    "Computer science",
+    "Law",
+    "Mathematics"
   ],
-  "plain_summary_zh": "这篇研究探讨数字新闻中如何减少敌意，并分析数字敌意如何强化新闻领域的边界。它关注在线环境中的负面互动及其对新闻专业性的影响。",
-  "plain_summary_en": "This research examines how to reduce hostility in digital journalism and analyzes how digital hostility strengthens the boundaries of the journalism field. It focuses on negative interactions in online environments and their impact on journalistic professionalism.",
-  "research_direction_zh": "研究数字新闻中的敌意现象及其对新闻领域边界的影响，探索缓解策略以维护新闻专业性和公共对话质量。",
-  "research_direction_en": "Investigating hostility phenomena in digital journalism and their impact on field boundaries, exploring mitigation strategies to maintain journalistic professionalism and public discourse quality.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Mitigating Hostility in Digital Journalism: Digital Hostility as Ossifier of Field Boundaries. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Hostility, Journalism, Field (mathematics), Social psychology. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Mitigating Hostility in Digital Journalism: Digital Hostility as Ossifier of Field Boundaries. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Hostility, Journalism, Field (mathematics), Social psychology. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Hostility, Journalism, Field (mathematics), Social psychology, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Hostility, Journalism, Field (mathematics), Social psychology, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "内容分析",
-    "案例研究",
-    "访谈"
+    "interview"
   ],
   "method_tags_en": [
-    "content analysis",
-    "case study",
     "interview"
   ]
 }

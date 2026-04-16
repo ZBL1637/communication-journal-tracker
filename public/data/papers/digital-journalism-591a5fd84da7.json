@@ -7,8 +7,9 @@
   "issn": "2167-0811",
   "publishedAt": "2025-10-10T07:37:48.000Z",
   "authors": [
-    "Ragnhild Kristine Olsen",
+    "Ragnhild Kr. Olsen",
     "Helle Sjøvaag",
+    "Ragnhild Kristine Olsen",
     "Ragnhild Kristine",
     "Olsen Helle Sjøvaag",
     "Oslo Metropolitan",
@@ -17,46 +18,48 @@
     "Stavanger",
     "Norway"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:14:34.790Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:08:19.585Z",
   "language": "en",
   "raw_title": "Platform Retraction? Discourses of Entanglement and Disentanglement in News Media’s Platform Engagement",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "Amid concerns about legacy news media’s dependency on third-party platforms, recent research calls for a more nuanced understanding of the platform–publisher relationship. This study explores how news organizations can strategically counter platform power, including retracting from platforms to regain control over audiences, data, and revenues. Using a discursive institutionalism lens, we examine how public service media (PSM) and commercial news media in Norway have articulated and implemented social media platform strategies. Based on discourse analysis of annual reports and interviews with 20 media professionals from public service, commercial media, and industry associations, we propose a novel framework for understanding platform (dis)entanglement. The framework reveals isomorphic patterns—both between platforms and legacy media, and between public service and commercial media. Drawing on the concept of reverse isomorphism, the study shows how PSM organization NRK can absorb platform disengagement risks, unlike commercial outlets facing prohibitive costs. The commercial actors find themselves in a double bind, experiencing isomorphism in two distinct ways: first, in relation to platforms, which they cannot abandon due to their business models; and second, in relation to PSM, which they perceive as upholding journalistic values they aspire to but are unable to replicate.",
+  "raw_keywords": [
+    "Quantum entanglement",
+    "Key (lock)",
+    "Work (physics)",
+    "Politics",
+    "Fake news"
+  ],
   "title_en": "Platform Retraction? Discourses of Entanglement and Disentanglement in News Media’s Platform Engagement",
-  "title_zh": "平台撤退？新闻媒体平台参与中的纠缠与解缠话语",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "platform engagement",
-    "news media",
-    "digital journalism",
-    "entanglement",
-    "disentanglement",
-    "platform retraction",
-    "media discourse"
+  "title_zh": "Platform Retraction? Discourses of Entanglement and Disentanglement in News Media’s Platform Engagement",
+  "abstract_en": "Amid concerns about legacy news media’s dependency on third-party platforms, recent research calls for a more nuanced understanding of the platform–publisher relationship. This study explores how news organizations can strategically counter platform power, including retracting from platforms to regain control over audiences, data, and revenues. Using a discursive institutionalism lens, we examine how public service media (PSM) and commercial news media in Norway have articulated and implemented social media platform strategies. Based on discourse analysis of annual reports and interviews with 20 media professionals from public service, commercial media, and industry associations, we propose a novel framework for understanding platform (dis)entanglement. The framework reveals isomorphic patterns—both between platforms and legacy media, and between public service and commercial media. Drawing on the concept of reverse isomorphism, the study shows how PSM organization NRK can absorb platform disengagement risks, unlike commercial outlets facing prohibitive costs. The commercial actors find themselves in a double bind, experiencing isomorphism in two distinct ways: first, in relation to platforms, which they cannot abandon due to their business models; and second, in relation to PSM, which they perceive as upholding journalistic values they aspire to but are unable to replicate.",
+  "abstract_zh": "Amid concerns about legacy news media’s dependency on third-party platforms, recent research calls for a more nuanced understanding of the platform–publisher relationship. This study explores how news organizations can strategically counter platform power, including retracting from platforms to regain control over audiences, data, and revenues. Using a discursive institutionalism lens, we examine how public service media (PSM) and commercial news media in Norway have articulated and implemented social media platform strategies. Based on discourse analysis of annual reports and interviews with 20 media professionals from public service, commercial media, and industry associations, we propose a novel framework for understanding platform (dis)entanglement. The framework reveals isomorphic patterns—both between platforms and legacy media, and between public service and commercial media. Drawing on the concept of reverse isomorphism, the study shows how PSM organization NRK can absorb platform disengagement risks, unlike commercial outlets facing prohibitive costs. The commercial actors find themselves in a double bind, experiencing isomorphism in two distinct ways: first, in relation to platforms, which they cannot abandon due to their business models; and second, in relation to PSM, which they perceive as upholding journalistic values they aspire to but are unable to replicate.",
+  "keywords_en": [
+    "Quantum entanglement",
+    "Key (lock)",
+    "Work (physics)",
+    "Politics",
+    "Fake news"
   ],
-  "inferred_keywords_zh": [
-    "平台参与",
-    "新闻媒体",
-    "数字新闻",
-    "纠缠",
-    "解缠",
-    "平台撤退",
-    "媒体话语"
+  "keywords_zh": [
+    "Quantum entanglement",
+    "Key (lock)",
+    "Work (physics)",
+    "Politics",
+    "Fake news"
   ],
-  "plain_summary_zh": "这篇研究探讨新闻媒体如何与数字平台互动，分析它们之间复杂的关系。研究关注媒体是否在减少对平台的依赖，以及这种变化背后的原因和影响。",
-  "plain_summary_en": "This study examines how news media interact with digital platforms, analyzing the complex relationships between them. It focuses on whether media are reducing their reliance on platforms and the reasons and impacts behind this change.",
-  "research_direction_zh": "研究数字新闻领域中媒体与平台关系的动态变化，包括合作、依赖和独立策略的演变。",
-  "research_direction_en": "Investigating the dynamic changes in the relationship between media and platforms in digital journalism, including the evolution of cooperation, dependency, and independence strategies.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Platform Retraction? Discourses of Entanglement and Disentanglement in News Media’s Platform Engagement. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Quantum entanglement, Key (lock), Work (physics), Politics. The abstract suggests a interview, discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Platform Retraction? Discourses of Entanglement and Disentanglement in News Media’s Platform Engagement. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Quantum entanglement, Key (lock), Work (physics), Politics. The abstract suggests a interview, discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Quantum entanglement, Key (lock), Work (physics), Politics, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Quantum entanglement, Key (lock), Work (physics), Politics, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "话语分析",
-    "案例研究"
+    "interview",
+    "discourse analysis"
   ],
   "method_tags_en": [
-    "discourse analysis",
-    "case study"
+    "interview",
+    "discourse analysis"
   ]
 }

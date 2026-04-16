@@ -12,44 +12,73 @@
     "Oslo",
     "Norway"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:13:48.167Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:07:16.669Z",
   "language": "en",
   "raw_title": "Digitalization and Meaning in Journalistic Work (MJoW): The Increasing Importance of the Symbolic Dimension",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Meaning (existential)",
+    "Dimension (graph theory)",
+    "Work (physics)",
+    "Sociology",
+    "The Symbolic",
+    "Epistemology",
+    "Public relations",
+    "Computer science",
+    "Media studies",
+    "Political science",
+    "Psychology",
+    "Engineering",
+    "Mathematics",
+    "Philosophy"
+  ],
   "title_en": "Digitalization and Meaning in Journalistic Work (MJoW): The Increasing Importance of the Symbolic Dimension",
-  "title_zh": "新闻工作的数字化与意义（MJoW）：象征维度日益增长的重要性",
+  "title_zh": "Digitalization and Meaning in Journalistic Work (MJoW): The Increasing Importance of the Symbolic Dimension",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "digital journalism",
-    "journalistic work",
-    "symbolic dimension",
-    "meaning-making",
-    "digital transformation",
-    "media studies"
+  "keywords_en": [
+    "Meaning (existential)",
+    "Dimension (graph theory)",
+    "Work (physics)",
+    "Sociology",
+    "The Symbolic",
+    "Epistemology",
+    "Public relations",
+    "Computer science",
+    "Media studies",
+    "Political science",
+    "Psychology",
+    "Engineering",
+    "Mathematics",
+    "Philosophy"
   ],
-  "inferred_keywords_zh": [
-    "数字新闻",
-    "新闻工作",
-    "象征维度",
-    "意义建构",
-    "数字化转型",
-    "媒体研究"
+  "keywords_zh": [
+    "Meaning (existential)",
+    "Dimension (graph theory)",
+    "Work (physics)",
+    "Sociology",
+    "The Symbolic",
+    "Epistemology",
+    "Public relations",
+    "Computer science",
+    "Media studies",
+    "Political science",
+    "Psychology",
+    "Engineering",
+    "Mathematics",
+    "Philosophy"
   ],
-  "plain_summary_zh": "这篇研究探讨了数字化如何影响新闻工作的意义。它认为，随着新闻业越来越依赖数字技术，新闻工作的象征层面（比如价值观、身份认同和意义）变得比以前更重要。研究关注记者如何在数字环境中找到工作的意义和价值。",
-  "plain_summary_en": "This research explores how digitalization affects the meaning of journalistic work. It argues that as journalism becomes more reliant on digital technologies, the symbolic aspects of journalistic work (such as values, identity, and meaning) are becoming increasingly important. The study focuses on how journalists find meaning and value in their work within digital environments.",
-  "research_direction_zh": "研究关注新闻业数字化转型中的人文和社会层面，特别是新闻工作的意义、价值观和象征性实践如何适应和演变。",
-  "research_direction_en": "The research direction focuses on the human and social dimensions of digital transformation in journalism, particularly how the meaning, values, and symbolic practices of journalistic work adapt and evolve.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Digitalization and Meaning in Journalistic Work (MJoW): The Increasing Importance of the Symbolic Dimension. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Meaning (existential), Dimension (graph theory), Work (physics), Sociology. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Digitalization and Meaning in Journalistic Work (MJoW): The Increasing Importance of the Symbolic Dimension. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Meaning (existential), Dimension (graph theory), Work (physics), Sociology. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Meaning (existential), Dimension (graph theory), Work (physics), Sociology, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Meaning (existential), Dimension (graph theory), Work (physics), Sociology, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "访谈",
-    "案例研究"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "interview",
-    "case study"
+    "mixed methods"
   ]
 }

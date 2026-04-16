@@ -14,44 +14,48 @@
     "Universität Berlin",
     "Germany"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:11:33.134Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:04:19.363Z",
   "language": "en",
   "raw_title": "Updating Public Value: How Journalists Understand Their Societal Role in the Context of Digital Platforms",
-  "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_abstract": "Journalism’s role transformation from gatekeeper to one of many communicating actors on digital platforms increasingly necessitates the profession to reflect on the societal value it can provide on digital platforms. Applying the concepts of ‘public value’ and ‘platformization,’ this case study examines funk, a unique content network from German public service media that produces content mainly for a young audience using social media platforms for distribution. Building on a newsroom observation that informed subsequent qualitative interviews with nine members of funk, the findings reveal that, while public value perceptions align with traditional understandings of public value, they are adapted to the digital environment. Furthermore, the funk members reflect on reaching the target group, interactivity, and technical features of digital platforms to enhance public value, while also stressing the boundaries mainly stemming from the commercially-oriented logic of digital platforms.",
+  "raw_keywords": [
+    "Context (archaeology)",
+    "Social media",
+    "Journalism",
+    "Key (lock)",
+    "Work (physics)"
+  ],
   "title_en": "Updating Public Value: How Journalists Understand Their Societal Role in the Context of Digital Platforms",
-  "title_zh": "更新公共价值：数字平台背景下记者如何理解其社会角色",
-  "abstract_en": "",
-  "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "journalism",
-    "public value",
-    "digital platforms",
-    "societal role",
-    "professional identity",
-    "media transformation"
+  "title_zh": "Updating Public Value: How Journalists Understand Their Societal Role in the Context of Digital Platforms",
+  "abstract_en": "Journalism’s role transformation from gatekeeper to one of many communicating actors on digital platforms increasingly necessitates the profession to reflect on the societal value it can provide on digital platforms. Applying the concepts of ‘public value’ and ‘platformization,’ this case study examines funk, a unique content network from German public service media that produces content mainly for a young audience using social media platforms for distribution. Building on a newsroom observation that informed subsequent qualitative interviews with nine members of funk, the findings reveal that, while public value perceptions align with traditional understandings of public value, they are adapted to the digital environment. Furthermore, the funk members reflect on reaching the target group, interactivity, and technical features of digital platforms to enhance public value, while also stressing the boundaries mainly stemming from the commercially-oriented logic of digital platforms.",
+  "abstract_zh": "Journalism’s role transformation from gatekeeper to one of many communicating actors on digital platforms increasingly necessitates the profession to reflect on the societal value it can provide on digital platforms. Applying the concepts of ‘public value’ and ‘platformization,’ this case study examines funk, a unique content network from German public service media that produces content mainly for a young audience using social media platforms for distribution. Building on a newsroom observation that informed subsequent qualitative interviews with nine members of funk, the findings reveal that, while public value perceptions align with traditional understandings of public value, they are adapted to the digital environment. Furthermore, the funk members reflect on reaching the target group, interactivity, and technical features of digital platforms to enhance public value, while also stressing the boundaries mainly stemming from the commercially-oriented logic of digital platforms.",
+  "keywords_en": [
+    "Context (archaeology)",
+    "Social media",
+    "Journalism",
+    "Key (lock)",
+    "Work (physics)"
   ],
-  "inferred_keywords_zh": [
-    "新闻业",
-    "公共价值",
-    "数字平台",
-    "社会角色",
-    "职业认同",
-    "媒体转型"
+  "keywords_zh": [
+    "Context (archaeology)",
+    "Social media",
+    "Journalism",
+    "Key (lock)",
+    "Work (physics)"
   ],
-  "plain_summary_zh": "这项研究探讨了在数字平台（如社交媒体和新闻网站）日益重要的时代，记者如何重新思考自己的工作对社会有什么价值。研究人员想了解记者们如何看待自己在数字环境中的角色，以及他们如何适应新的工作方式。",
-  "plain_summary_en": "This study explores how journalists are rethinking the value of their work to society in an era where digital platforms (like social media and news websites) are increasingly important. Researchers want to understand how journalists view their roles in digital environments and how they adapt to new ways of working.",
-  "research_direction_zh": "新闻职业认同与数字媒体转型研究",
-  "research_direction_en": "Research on journalistic professional identity and digital media transformation",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Updating Public Value: How Journalists Understand Their Societal Role in the Context of Digital Platforms. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Context (archaeology), Social media, Journalism, Key (lock). The abstract suggests a interview, case study approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Updating Public Value: How Journalists Understand Their Societal Role in the Context of Digital Platforms. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Context (archaeology), Social media, Journalism, Key (lock). The abstract suggests a interview, case study approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Context (archaeology), Social media, Journalism, Key (lock), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Context (archaeology), Social media, Journalism, Key (lock), especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "访谈",
-    "调查"
+    "interview",
+    "case study"
   ],
   "method_tags_en": [
     "interview",
-    "survey"
+    "case study"
   ]
 }

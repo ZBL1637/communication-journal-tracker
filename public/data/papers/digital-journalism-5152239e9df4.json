@@ -16,46 +16,77 @@
     "TX",
     "USA"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:08:25.300Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:00:13.057Z",
   "language": "en",
   "raw_title": "Automating Essential Work: News Media and Technology Hype in a Critical Sector 2014–2024",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Work (physics)",
+    "News media",
+    "Computer science",
+    "Political science",
+    "Data science",
+    "Public relations",
+    "Media studies",
+    "Sociology",
+    "Engineering",
+    "Mechanical engineering"
+  ],
   "title_en": "Automating Essential Work: News Media and Technology Hype in a Critical Sector 2014–2024",
-  "title_zh": "自动化关键工作：新闻媒体与技术炒作在关键领域（2014-2024）",
+  "title_zh": "自动化关键工作：新闻媒体与技术炒作在一个关键领域 2014–2024",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Work (physics)",
+    "News media",
+    "Computer science",
+    "Political science",
+    "Data science",
+    "Public relations",
+    "Media studies",
+    "Sociology",
+    "Engineering",
+    "Mechanical engineering"
+  ],
+  "keywords_zh": [
+    "工作（物理学）",
+    "新闻媒体",
+    "计算机科学",
+    "政治学",
+    "数据科学",
+    "公共关系",
+    "媒体研究",
+    "社会学",
+    "工程学",
+    "机械工程"
+  ],
   "inferred_keywords_en": [
-    "news automation",
-    "technology hype",
+    "automation",
     "journalism",
-    "critical sector",
-    "media studies",
-    "2014-2024"
+    "technology adoption",
+    "media industry",
+    "critical analysis"
   ],
   "inferred_keywords_zh": [
-    "新闻自动化",
-    "技术炒作",
-    "新闻学",
-    "关键领域",
-    "媒体研究",
-    "2014-2024"
+    "自动化",
+    "新闻业",
+    "技术采用",
+    "媒体产业",
+    "批判性分析"
   ],
-  "plain_summary_zh": "这篇研究探讨了2014年至2024年间，新闻媒体如何应对自动化技术，特别是在关键领域中的技术炒作现象。它分析了自动化对新闻工作的影响，以及媒体行业如何适应这些变化。",
-  "plain_summary_en": "This study examines how news media have responded to automation technologies from 2014 to 2024, focusing on technology hype in critical sectors. It analyzes the impact of automation on journalism and how the media industry adapts to these changes.",
-  "research_direction_zh": "研究新闻媒体在技术变革中的角色，特别是自动化如何重塑新闻生产和传播，以及技术炒作对行业和社会的影响。",
-  "research_direction_en": "Investigating the role of news media in technological change, specifically how automation reshapes news production and dissemination, and the impact of technology hype on the industry and society.",
+  "plain_summary_zh": "这篇研究探讨了2014年至2024年间，新闻媒体如何应对自动化技术，并分析了相关技术炒作的影响。它关注自动化在关键工作领域的应用，以及媒体行业对此的反应和变化。",
+  "plain_summary_en": "This research examines how news media has responded to automation technology from 2014 to 2024, analyzing the impact of related technology hype. It focuses on the application of automation in essential work areas and the reactions and changes within the media industry.",
+  "research_direction_zh": "研究新闻媒体在技术变革中的角色，特别是自动化如何影响媒体工作流程和行业结构，以及技术炒作对公众认知和政策制定的影响。",
+  "research_direction_en": "Investigating the role of news media in technological change, specifically how automation affects media workflows and industry structures, and the impact of technology hype on public perception and policy-making.",
   "method_tags_zh": [
     "内容分析",
     "案例研究",
-    "访谈"
+    "调查"
   ],
   "method_tags_en": [
     "content analysis",
     "case study",
-    "interview"
+    "survey"
   ]
 }

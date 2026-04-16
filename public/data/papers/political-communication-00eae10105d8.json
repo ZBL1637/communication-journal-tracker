@@ -9,8 +9,9 @@
   "authors": [
     "Yuan Hsiao",
     "Chingching Chang",
-    "You-Jian Wu",
+    "Yi‐Hsuan Wu",
     "Hao-Hsuan Wang",
+    "You-Jian Wu",
     "Yale",
     "New Haven",
     "CT",
@@ -29,48 +30,43 @@
     "RCHSS",
     "Virginia Polytechnic"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:06:04.499Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T08:57:14.990Z",
   "language": "en",
   "raw_title": "Toxicity and Moral Rhetoric in Video- and Text-Based Digital Platforms: A Multimethod Study of Political Talk Shows and News Articles in Taiwan",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Politics",
+    "Rhetoric",
+    "Political rhetoric",
+    "Political communication"
+  ],
   "title_en": "Toxicity and Moral Rhetoric in Video- and Text-Based Digital Platforms: A Multimethod Study of Political Talk Shows and News Articles in Taiwan",
-  "title_zh": "视频与文本数字平台中的毒性与道德修辞：台湾政治谈话节目与新闻文章的多方法研究",
+  "title_zh": "Toxicity and Moral Rhetoric in Video- and Text-Based Digital Platforms: A Multimethod Study of Political Talk Shows and News Articles in Taiwan",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
-  "inferred_keywords_en": [
-    "political communication",
-    "digital platforms",
-    "toxicity",
-    "moral rhetoric",
-    "multimethod",
-    "Taiwan",
-    "talk shows",
-    "news articles"
+  "keywords_en": [
+    "Politics",
+    "Rhetoric",
+    "Political rhetoric",
+    "Political communication"
   ],
-  "inferred_keywords_zh": [
-    "政治传播",
-    "数字平台",
-    "毒性",
-    "道德修辞",
-    "多方法",
-    "台湾",
-    "谈话节目",
-    "新闻文章"
+  "keywords_zh": [
+    "Politics",
+    "Rhetoric",
+    "Political rhetoric",
+    "Political communication"
   ],
-  "plain_summary_zh": "这项研究探讨了台湾数字平台上政治谈话节目和新闻文章中的毒性言论和道德修辞。研究者使用多种方法分析视频和文本内容，了解这些平台如何影响政治讨论的质量。",
-  "plain_summary_en": "This study examines toxic discourse and moral rhetoric in political talk shows and news articles on digital platforms in Taiwan. Researchers use multiple methods to analyze video and text content, exploring how these platforms affect the quality of political discussions.",
-  "research_direction_zh": "该研究属于政治传播领域，关注数字媒体环境中的言论质量和道德话语模式，特别聚焦于跨平台比较和多模态内容分析。",
-  "research_direction_en": "This research falls within political communication, focusing on discourse quality and moral rhetoric patterns in digital media environments, with particular emphasis on cross-platform comparisons and multimodal content analysis.",
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Toxicity and Moral Rhetoric in Video- and Text-Based Digital Platforms: A Multimethod Study of Political Talk Shows and News Articles in Taiwan. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Rhetoric, Political rhetoric, Political communication. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Toxicity and Moral Rhetoric in Video- and Text-Based Digital Platforms: A Multimethod Study of Political Talk Shows and News Articles in Taiwan. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Rhetoric, Political rhetoric, Political communication. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Politics, Rhetoric, Political rhetoric, Political communication, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Politics, Rhetoric, Political rhetoric, Political communication, especially how institutions, platforms, and audiences shape communication outcomes.",
   "method_tags_zh": [
-    "内容分析",
-    "多方法"
+    "mixed methods"
   ],
   "method_tags_en": [
-    "content analysis",
-    "multimethod"
+    "mixed methods"
   ]
 }

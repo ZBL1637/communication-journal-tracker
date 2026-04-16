@@ -8,8 +8,9 @@
   "publishedAt": "2025-11-03T01:26:17.000Z",
   "authors": [
     "Nicole K. Stewart",
-    "Joseph M. Nicolai",
+    "Joseph M. Nicolaï",
     "Graeme Beamiss",
+    "Joseph M. Nicolai",
     "Nicole K.",
     "Stewart Joseph",
     "M. Nicolai",
@@ -25,40 +26,55 @@
     "Abbotsford",
     "Canada"
   ],
-  "source": "rss",
-  "fetchedAt": "2026-04-16T07:11:25.084Z",
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T09:04:08.439Z",
   "language": "en",
   "raw_title": "Twitch’s Digital News Standard: Breaking Journalistic Boundaries in Platform Streaming Environments",
   "raw_abstract": "",
-  "raw_keywords": [],
+  "raw_keywords": [
+    "Journalism",
+    "Work (physics)",
+    "Digital media",
+    "Key (lock)"
+  ],
   "title_en": "Twitch’s Digital News Standard: Breaking Journalistic Boundaries in Platform Streaming Environments",
-  "title_zh": "Twitch的数字新闻标准：在平台流媒体环境中打破新闻界限",
+  "title_zh": "Twitch的数字新闻标准：在平台流媒体环境中打破新闻边界",
   "abstract_en": "",
   "abstract_zh": "",
-  "keywords_en": [],
-  "keywords_zh": [],
+  "keywords_en": [
+    "Journalism",
+    "Work (physics)",
+    "Digital media",
+    "Key (lock)"
+  ],
+  "keywords_zh": [
+    "新闻学",
+    "工作（物理学）",
+    "数字媒体",
+    "钥匙（锁）"
+  ],
   "inferred_keywords_en": [
     "Twitch",
+    "streaming platforms",
+    "journalistic standards",
     "digital journalism",
-    "live streaming",
     "platform studies",
-    "journalistic boundaries",
-    "news standards",
-    "media convergence"
+    "media boundaries",
+    "live streaming"
   ],
   "inferred_keywords_zh": [
     "Twitch",
-    "数字新闻",
-    "直播流媒体",
-    "平台研究",
-    "新闻界限",
+    "流媒体平台",
     "新闻标准",
-    "媒体融合"
+    "数字新闻学",
+    "平台研究",
+    "媒体边界",
+    "直播"
   ],
-  "plain_summary_zh": "这篇研究探讨了Twitch平台如何通过其直播流媒体环境重新定义数字新闻的标准和实践。它分析了Twitch如何打破传统新闻的界限，为新闻传播创造了新的可能性。",
-  "plain_summary_en": "This research explores how the Twitch platform redefines digital news standards and practices through its live streaming environment. It analyzes how Twitch breaks traditional journalistic boundaries, creating new possibilities for news dissemination.",
-  "research_direction_zh": "研究数字媒体平台（如Twitch）如何影响新闻业的演变，特别是在直播流媒体环境中新闻生产、传播和消费方式的变革。",
-  "research_direction_en": "Investigating how digital media platforms (like Twitch) influence the evolution of journalism, particularly in the transformation of news production, dissemination, and consumption in live streaming environments.",
+  "plain_summary_zh": "这篇研究探讨了Twitch平台如何建立数字新闻标准，并挑战传统新闻的边界。它关注在流媒体环境中，新闻工作如何适应新的平台规则和观众互动方式。",
+  "plain_summary_en": "This research examines how Twitch establishes digital news standards and challenges traditional journalistic boundaries. It focuses on how news work adapts to new platform rules and audience interactions in streaming environments.",
+  "research_direction_zh": "研究数字平台如何重塑新闻实践和标准，特别是在互动流媒体环境中。",
+  "research_direction_en": "Investigating how digital platforms reshape journalistic practices and standards, particularly in interactive streaming environments.",
   "method_tags_zh": [
     "案例研究",
     "内容分析"
