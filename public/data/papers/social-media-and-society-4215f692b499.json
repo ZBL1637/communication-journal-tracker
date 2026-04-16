@@ -1,0 +1,52 @@
+{
+  "id": "social-media-and-society-4215f692b499",
+  "doi": "10.1177/20563051261437922",
+  "url": "https://doi.org/10.1177/20563051261437922",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Lana Swartz"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-16T22:34:22.012Z",
+  "language": "en",
+  "raw_title": "Social Media in the Scam Age",
+  "raw_abstract": "This essay examines scams as a central organizing logic of contemporary social media rather than peripheral criminal activity. Drawing on research in cryptocurrency and financial technology alongside childhood experiences in 1990s Miami, the piece argues that social media is entering a “scam age” where boundaries between legitimate and illegitimate economic activity increasingly blur and the technological and social systems that make those distinctions are being rebuilt. It calls for social media scholars to explore the work that scams—and the idea of “scams”—do in the production of social media, the future, and the future of social media.",
+  "raw_keywords": [],
+  "title_en": "Social Media in the Scam Age",
+  "title_zh": "诈骗时代的社交媒体",
+  "abstract_en": "This essay examines scams as a central organizing logic of contemporary social media rather than peripheral criminal activity. Drawing on research in cryptocurrency and financial technology alongside childhood experiences in 1990s Miami, the piece argues that social media is entering a “scam age” where boundaries between legitimate and illegitimate economic activity increasingly blur and the technological and social systems that make those distinctions are being rebuilt. It calls for social media scholars to explore the work that scams—and the idea of “scams”—do in the production of social media, the future, and the future of social media.",
+  "abstract_zh": "本文探讨了诈骗作为当代社交媒体的核心组织逻辑，而非边缘犯罪活动。文章结合加密货币和金融科技的研究以及1990年代迈阿密的童年经历，认为社交媒体正在进入一个“诈骗时代”，合法与非法经济活动之间的界限日益模糊，区分这些活动的技术和社会系统正在重建。文章呼吁社交媒体学者探索诈骗以及“诈骗”概念在社交媒体生产、未来以及社交媒体未来中的作用。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "social media",
+    "scams",
+    "cryptocurrency",
+    "financial technology",
+    "economic activity",
+    "legitimacy",
+    "digital platforms"
+  ],
+  "inferred_keywords_zh": [
+    "社交媒体",
+    "诈骗",
+    "加密货币",
+    "金融科技",
+    "经济活动",
+    "合法性",
+    "数字平台"
+  ],
+  "plain_summary_zh": "这篇文章认为，诈骗不再是社交媒体的边缘问题，而是其核心运作方式。作者通过研究加密货币和金融科技，结合个人经历，指出社交媒体正进入“诈骗时代”，合法和非法活动的界限变得模糊。文章建议学者们研究诈骗如何影响社交媒体的发展和未来。",
+  "plain_summary_en": "This essay argues that scams are not just side issues but central to how social media works today. The author uses research on cryptocurrency and fintech, along with personal experiences, to show that social media is entering a 'scam age' where the line between legal and illegal activities is blurring. It suggests scholars should study how scams shape social media's development and future.",
+  "research_direction_zh": "探索诈骗在数字平台经济中的核心作用，分析技术与社会系统如何重构合法与非法的边界，以及这对社交媒体未来发展的影响。",
+  "research_direction_en": "Investigating the central role of scams in digital platform economies, analyzing how technological and social systems redefine boundaries between legitimate and illegitimate activities, and examining implications for the future of social media.",
+  "method_tags_zh": [
+    "案例研究"
+  ],
+  "method_tags_en": [
+    "case study"
+  ]
+}

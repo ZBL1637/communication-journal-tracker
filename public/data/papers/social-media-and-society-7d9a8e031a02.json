@@ -1,0 +1,50 @@
+{
+  "id": "social-media-and-society-7d9a8e031a02",
+  "doi": "10.1177/20563051261436101",
+  "url": "https://doi.org/10.1177/20563051261436101",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Anne Helmond"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-16T22:34:30.674Z",
+  "language": "en",
+  "raw_title": "The Platformization of Everything: From the End of the Like Button to AI Infrastructure in Space",
+  "raw_abstract": "A decade after the term was coined, “platformization” has evolved from describing the infrastructural expansion of platforms into other domains to capturing a broader transformation in how platforms organize (digital) life. This article traces this shift from the early social web to today’s AI-centered platform models. The retirement of Facebook’s Like button and Google’s “Suncatcher” space-based AI initiative are used as illustrative examples to demonstrate how platforms continually adapt their expansion strategies. Although the concept has been productively adopted across disciplines, its frequent conflation with the term “digitization” has led to conceptual erosion, weakening its analytical precision. To reclaim its explanatory power, this article redefines platformization as a form of platform-specific “transcoding”: a situated process whereby practices and domains are made “platform-ready.”",
+  "raw_keywords": [],
+  "title_en": "The Platformization of Everything: From the End of the Like Button to AI Infrastructure in Space",
+  "title_zh": "万物的平台化：从点赞按钮的终结到太空中的AI基础设施",
+  "abstract_en": "A decade after the term was coined, “platformization” has evolved from describing the infrastructural expansion of platforms into other domains to capturing a broader transformation in how platforms organize (digital) life. This article traces this shift from the early social web to today’s AI-centered platform models. The retirement of Facebook’s Like button and Google’s “Suncatcher” space-based AI initiative are used as illustrative examples to demonstrate how platforms continually adapt their expansion strategies. Although the concept has been productively adopted across disciplines, its frequent conflation with the term “digitization” has led to conceptual erosion, weakening its analytical precision. To reclaim its explanatory power, this article redefines platformization as a form of platform-specific “transcoding”: a situated process whereby practices and domains are made “platform-ready.”",
+  "abstract_zh": "自“平台化”一词被创造出来十年后，它已经从描述平台向其他领域的基础设施扩张，演变为捕捉平台如何组织（数字）生活的更广泛转变。本文追溯了从早期社交网络到当今以AI为中心的平台模式的这一转变。Facebook点赞按钮的退役和谷歌“Suncatcher”太空AI计划被用作说明性例子，展示平台如何不断调整其扩张策略。尽管这一概念已在多个学科中被富有成效地采用，但它与“数字化”一词的频繁混淆导致了概念侵蚀，削弱了其分析精度。为了恢复其解释力，本文将平台化重新定义为一种平台特定的“转码”：一种使实践和领域变得“平台就绪”的情境化过程。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "platformization",
+    "digital transformation",
+    "AI infrastructure",
+    "social media platforms",
+    "conceptual analysis"
+  ],
+  "inferred_keywords_zh": [
+    "平台化",
+    "数字化转型",
+    "AI基础设施",
+    "社交媒体平台",
+    "概念分析"
+  ],
+  "plain_summary_zh": "这篇文章探讨了“平台化”这个概念如何从最初描述科技公司扩张，变成了解释它们如何改变我们数字生活的方式。作者用Facebook取消点赞按钮和谷歌开发太空AI的例子，说明平台在不断寻找新方法来影响更多领域。文章指出，很多人把“平台化”和“数字化”混为一谈，这削弱了它的分析价值。因此，作者重新定义平台化为一种“转码”过程，意思是把各种活动和领域改造成适合平台运作的形式。",
+  "plain_summary_en": "This article examines how the concept of 'platformization' has evolved from describing tech companies' expansion to explaining how they reshape our digital lives. Using examples like Facebook removing the Like button and Google's space-based AI projects, the author shows how platforms keep adapting their strategies to influence more areas. The article notes that people often confuse 'platformization' with 'digitization,' which weakens its analytical usefulness. To address this, the author redefines platformization as a 'transcoding' process, meaning transforming various activities and domains to fit platform operations.",
+  "research_direction_zh": "该研究属于数字媒体与平台研究领域，关注平台技术如何渗透并重构社会、经济和文化实践。研究方向包括平台理论的演进、平台基础设施的扩展，以及AI时代平台权力的新形态。",
+  "research_direction_en": "This research falls within the field of digital media and platform studies, focusing on how platform technologies permeate and reshape social, economic, and cultural practices. The research direction includes the evolution of platform theory, the expansion of platform infrastructure, and new forms of platform power in the AI era.",
+  "method_tags_zh": [
+    "概念分析",
+    "案例研究"
+  ],
+  "method_tags_en": [
+    "conceptual analysis",
+    "case study"
+  ]
+}

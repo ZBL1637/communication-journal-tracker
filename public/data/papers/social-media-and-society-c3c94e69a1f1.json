@@ -1,0 +1,48 @@
+{
+  "id": "social-media-and-society-c3c94e69a1f1",
+  "doi": "10.1177/20563051261437487",
+  "url": "https://doi.org/10.1177/20563051261437487",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "danah boyd"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-16T22:34:07.318Z",
+  "language": "en",
+  "raw_title": "Social Media Is Now Parasocial Media",
+  "raw_abstract": "When practitioners used the term “social media” to describe the internet tools that emerged in the mid-aughts, they were giving a name to the kinds of platforms and protocols that allowed people to socialize with friends and communities of interest by using digital technologies. Twenty years later, users of social media are far more likely to scroll than post – and the content that they consume is often strategically produced and algorithmically curated. In this essay, I argue that the very essence of social media has changed. To more effectively interrogate what we are witnessing, we need to stop presuming that these tools are “social media” and begin recognizing that they are now “parasocial media.” Doing so raises new questions about digitally mediated sociality, not to mention the politics and governance of these platforms.",
+  "raw_keywords": [],
+  "title_en": "Social Media Is Now Parasocial Media",
+  "title_zh": "社交媒体如今已成为准社会媒体",
+  "abstract_en": "When practitioners used the term “social media” to describe the internet tools that emerged in the mid-aughts, they were giving a name to the kinds of platforms and protocols that allowed people to socialize with friends and communities of interest by using digital technologies. Twenty years later, users of social media are far more likely to scroll than post – and the content that they consume is often strategically produced and algorithmically curated. In this essay, I argue that the very essence of social media has changed. To more effectively interrogate what we are witnessing, we need to stop presuming that these tools are “social media” and begin recognizing that they are now “parasocial media.” Doing so raises new questions about digitally mediated sociality, not to mention the politics and governance of these platforms.",
+  "abstract_zh": "当从业者使用“社交媒体”一词来描述21世纪初出现的互联网工具时，他们是在为那些允许人们通过数字技术与朋友和兴趣社区进行社交的平台和协议命名。二十年后，社交媒体的用户更倾向于浏览而非发布内容——他们消费的内容往往是经过战略生产和算法策划的。在这篇文章中，我认为社交媒体的本质已经发生了变化。为了更有效地审视我们所目睹的现象，我们需要停止假设这些工具是“社交媒体”，并开始认识到它们现在是“准社会媒体”。这样做引发了关于数字媒介社会性的新问题，更不用说这些平台的政治和治理了。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "parasocial media",
+    "social media evolution",
+    "algorithmic curation",
+    "digital sociality",
+    "platform governance"
+  ],
+  "inferred_keywords_zh": [
+    "准社会媒体",
+    "社交媒体演变",
+    "算法策划",
+    "数字社会性",
+    "平台治理"
+  ],
+  "plain_summary_zh": "这篇文章认为，社交媒体已经从最初的社交工具转变为一种“准社会媒体”。过去，人们用它来与朋友互动；现在，用户更多是浏览内容，而这些内容是由算法精心策划的。作者建议我们改变对社交媒体的看法，以更好地理解其对社会和政治的影响。",
+  "plain_summary_en": "This essay argues that social media has evolved from a tool for socializing into \"parasocial media.\" Originally used for interacting with friends, users now mostly scroll through content that is algorithmically curated. The author suggests we need to rethink how we view these platforms to better understand their social and political impacts.",
+  "research_direction_zh": "探讨社交媒体向准社会媒体的转变，及其对数字社会性、平台治理和政治的影响。",
+  "research_direction_en": "Examining the shift from social media to parasocial media and its implications for digital sociality, platform governance, and politics.",
+  "method_tags_zh": [
+    "理论分析"
+  ],
+  "method_tags_en": [
+    "theoretical analysis"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "digital-journalism-0f19d4b5452c",
+  "doi": "10.1080/21670811.2026.2652342",
+  "url": "https://doi.org/10.1080/21670811.2026.2652342",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-04-15T11:45:48.000Z",
+  "authors": [
+    "Natali Helberger",
+    "Media & Democracy",
+    "The Netherlands"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-16T22:33:48.671Z",
+  "language": "en",
+  "raw_title": "Infrastructures of Media Freedom: Expanding Journalism’s Ethical Horizon",
+  "raw_abstract": "",
+  "raw_keywords": [
+    "Horizon",
+    "Work (physics)",
+    "Key (lock)",
+    "Variety (cybernetics)"
+  ],
+  "title_en": "Infrastructures of Media Freedom: Expanding Journalism’s Ethical Horizon",
+  "title_zh": "媒体自由的基础设施：拓展新闻业的伦理视野",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [
+    "Horizon",
+    "Work (physics)",
+    "Key (lock)",
+    "Variety (cybernetics)"
+  ],
+  "keywords_zh": [
+    "视野",
+    "工作（物理学）",
+    "钥匙（锁）",
+    "多样性（控制论）"
+  ],
+  "inferred_keywords_en": [
+    "media freedom",
+    "journalism ethics",
+    "infrastructure",
+    "digital journalism",
+    "democracy"
+  ],
+  "inferred_keywords_zh": [
+    "媒体自由",
+    "新闻伦理",
+    "基础设施",
+    "数字新闻",
+    "民主"
+  ],
+  "plain_summary_zh": "这篇文章探讨了如何通过构建媒体自由的基础设施来拓展新闻业的伦理视野。它讨论了在数字时代，媒体自由不仅涉及传统的内容生产，还包括技术平台、法律框架和社会结构等基础设施。文章旨在帮助读者理解媒体自由的多维度特性及其对新闻伦理的影响。",
+  "plain_summary_en": "This article explores how to expand journalism's ethical horizon by building infrastructures of media freedom. It discusses that in the digital age, media freedom involves not only traditional content production but also infrastructures such as technological platforms, legal frameworks, and social structures. The article aims to help readers understand the multi-dimensional nature of media freedom and its impact on journalism ethics.",
+  "research_direction_zh": "研究聚焦于媒体自由的基础设施建设，旨在拓展新闻伦理的理论和实践边界，探讨数字环境下如何通过技术、法律和社会创新来保障和促进媒体自由。",
+  "research_direction_en": "The research focuses on the infrastructure of media freedom, aiming to expand the theoretical and practical boundaries of journalism ethics, and explores how to safeguard and promote media freedom through technological, legal, and social innovations in the digital environment.",
+  "method_tags_zh": [
+    "理论分析",
+    "案例研究"
+  ],
+  "method_tags_en": [
+    "theoretical analysis",
+    "case study"
+  ]
+}

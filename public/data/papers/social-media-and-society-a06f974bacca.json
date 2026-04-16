@@ -1,0 +1,61 @@
+{
+  "id": "social-media-and-society-a06f974bacca",
+  "doi": "10.1177/20563051261432482",
+  "url": "https://doi.org/10.1177/20563051261432482",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Eszter Hargittai",
+    "John Palfrey"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-16T22:34:10.018Z",
+  "language": "en",
+  "raw_title": "Social Media has Aged, It’s Time It Got Wise",
+  "raw_abstract": "As social media platforms mature, their user base is simultaneously aging, with older adults now representing the fastest-growing demographic of users. Despite persistent myths contrasting “digital natives” with “clueless seniors,” empirical evidence demonstrates that socioeconomic status, rather than age, is the primary driver of digital inequality. The study, design, and regulation of social media must undergo a paradigm shift to embrace older adults as active, vital participants. Market self-regulation has failed to address critical issues like privacy and interoperability and thus deliberate government intervention is needed to ensure user autonomy and data portability. To fulfill its potential, the social media ecosystem must “wise up,” abandoning ageist tropes and recognizing older adults not as passive victims, but as capable users, valuable support sources, and essential stakeholders in technology design.",
+  "raw_keywords": [],
+  "title_en": "Social Media has Aged, It’s Time It Got Wise",
+  "title_zh": "社交媒体已成熟，是时候变得明智了",
+  "abstract_en": "As social media platforms mature, their user base is simultaneously aging, with older adults now representing the fastest-growing demographic of users. Despite persistent myths contrasting “digital natives” with “clueless seniors,” empirical evidence demonstrates that socioeconomic status, rather than age, is the primary driver of digital inequality. The study, design, and regulation of social media must undergo a paradigm shift to embrace older adults as active, vital participants. Market self-regulation has failed to address critical issues like privacy and interoperability and thus deliberate government intervention is needed to ensure user autonomy and data portability. To fulfill its potential, the social media ecosystem must “wise up,” abandoning ageist tropes and recognizing older adults not as passive victims, but as capable users, valuable support sources, and essential stakeholders in technology design.",
+  "abstract_zh": "随着社交媒体平台日趋成熟，其用户群体也在同步老龄化，老年人现已成为增长最快的用户群体。尽管存在将“数字原住民”与“茫然老年人”对比的持久迷思，但实证证据表明，社会经济地位而非年龄才是数字不平等的主要驱动因素。社交媒体的研究、设计和监管必须经历范式转变，将老年人视为积极、重要的参与者。市场自我监管未能解决隐私和互操作性等关键问题，因此需要政府有意识的干预来确保用户自主权和数据可移植性。为充分发挥其潜力，社交媒体生态系统必须“明智起来”，摒弃年龄歧视的陈词滥调，认识到老年人不是被动的受害者，而是有能力的用户、宝贵的支持来源以及技术设计中必不可少的利益相关者。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "social media",
+    "older adults",
+    "digital inequality",
+    "ageism",
+    "user demographics",
+    "privacy",
+    "interoperability",
+    "government regulation",
+    "technology design",
+    "data portability"
+  ],
+  "inferred_keywords_zh": [
+    "社交媒体",
+    "老年人",
+    "数字不平等",
+    "年龄歧视",
+    "用户人口统计",
+    "隐私",
+    "互操作性",
+    "政府监管",
+    "技术设计",
+    "数据可移植性"
+  ],
+  "plain_summary_zh": "这篇研究指出，老年人现在是社交媒体增长最快的用户群体，但社会常常错误地认为他们不擅长使用科技。实际上，影响人们使用科技的主要因素是经济条件，而不是年龄。文章建议，社交媒体应该改变观念，把老年人当作重要的用户来对待，同时政府需要加强监管，保护用户隐私和数据权利，让社交媒体对所有人更友好。",
+  "plain_summary_en": "This research highlights that older adults are now the fastest-growing group of social media users, but society often mistakenly assumes they're not tech-savvy. In reality, economic factors, not age, are the main drivers of digital access. The article suggests that social media should shift its perspective to treat older adults as important users, while governments need to strengthen regulations to protect privacy and data rights, making social media more inclusive for everyone.",
+  "research_direction_zh": "探索社交媒体老龄化趋势下的用户行为、数字包容性政策以及跨代技术设计策略，旨在消除年龄歧视并促进所有年龄段的公平参与。",
+  "research_direction_en": "Investigating user behavior under the aging trend of social media, digital inclusion policies, and intergenerational technology design strategies, aiming to eliminate ageism and promote equitable participation across all age groups.",
+  "method_tags_zh": [
+    "实证研究",
+    "政策分析"
+  ],
+  "method_tags_en": [
+    "empirical research",
+    "policy analysis"
+  ]
+}

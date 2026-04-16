@@ -12,21 +12,21 @@
       "a[href*='/article-abstract/']",
       "a[href*='/doi/']"
     ],
-    "paperCount": 11,
-    "latestPublishedAt": "2026-02-07T00:00:00.000Z",
+    "paperCount": 12,
+    "latestPublishedAt": "2026-04-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "And",
-      "The",
-      "Polarization",
-      "Adaptive",
-      "For"
+      "artificial intelligence",
+      "technological hype",
+      "media discourse",
+      "innovation studies",
+      "communication studies"
     ],
     "topKeywordsZh": [
-      "And",
-      "The",
-      "Polarization",
-      "Adaptive",
-      "For"
+      "人工智能",
+      "技术炒作",
+      "媒体话语",
+      "创新研究",
+      "传播研究"
     ]
   },
   {
@@ -74,21 +74,21 @@
       ".meta__title a",
       "h5 a"
     ],
-    "paperCount": 97,
-    "latestPublishedAt": "2026-04-10T03:21:53.000Z",
+    "paperCount": 98,
+    "latestPublishedAt": "2026-04-15T11:45:48.000Z",
     "topKeywordsEn": [
-      "Journalism",
-      "Social media",
-      "Public engagement",
-      "Citizen journalism",
-      "Social engagement"
+      "Horizon",
+      "Work (physics)",
+      "Key (lock)",
+      "Variety (cybernetics)",
+      "media freedom"
     ],
     "topKeywordsZh": [
-      "新闻业",
-      "社交媒体",
-      "公众参与",
-      "公民新闻",
-      "社会参与"
+      "视野",
+      "工作（物理学）",
+      "钥匙（锁）",
+      "多样性（控制论）",
+      "媒体自由"
     ]
   },
   {
@@ -136,21 +136,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 30,
+    "paperCount": 36,
     "latestPublishedAt": "2026-04-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "News",
-      "They",
-      "Trust",
-      "Friends",
-      "Algorithms"
+      "And",
+      "The",
+      "Has",
+      "Internet",
+      "Early"
     ],
     "topKeywordsZh": [
-      "News",
-      "They",
-      "Trust",
-      "Friends",
-      "Algorithms"
+      "And",
+      "The",
+      "Has",
+      "Internet",
+      "Early"
     ]
   },
   {
