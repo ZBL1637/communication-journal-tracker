@@ -20,6 +20,7 @@ export interface PaperSourceMeta {
   label: string;
   url: string;
   detailFetched: boolean;
+  openAlexFetched?: boolean;
 }
 
 export interface PaperCandidate {

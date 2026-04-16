@@ -8,6 +8,7 @@ import { buildExistingPaperMap, dedupeCandidates, getDedupeKey } from './dedupe.
 import { enrichCandidateFromDetailPage } from './detail.js';
 import { ensureDir, readJson, writeJson } from './fs.js';
 import { logger } from './logger.js';
+import { enrichCandidateFromOpenAlexDoi } from './openalex.js';
 import { fetchRssCandidates } from './rss.js';
 import { fetchTocCandidates } from './toc.js';
 import { buildTrends } from './trends.js';
@@ -57,10 +58,16 @@ const loadExistingPapers = async () => {
 };
 
 const DETAIL_SCRAPE_BLOCKLIST = ['tandfonline.com'];
+const OPENALEX_ENRICHMENT_JOURNALS = new Set(['digital-journalism', 'political-communication']);
 
 const shouldFetchCrossrefDoi = (candidate: PaperCandidate) =>
   Boolean(candidate.doi) &&
   candidate.source.type !== 'crossref' &&
+  (!hasMeaningfulAbstract(candidate.abstract) || !hasKeywords(candidate.keywords) || isNoisyAuthors(candidate.authors));
+
+const shouldFetchOpenAlex = (candidate: PaperCandidate) =>
+  Boolean(candidate.doi) &&
+  OPENALEX_ENRICHMENT_JOURNALS.has(candidate.journalSlug) &&
   (!hasMeaningfulAbstract(candidate.abstract) || !hasKeywords(candidate.keywords) || isNoisyAuthors(candidate.authors));
 
 const shouldFetchDetail = (candidate: PaperCandidate) => {
@@ -143,9 +150,12 @@ const materializeRecord = async (
   const withCrossref = shouldFetchCrossrefDoi(candidate)
     ? await enrichCandidateFromCrossrefDoi(candidate, runtime)
     : candidate;
-  const withDetail = shouldFetchDetail(withCrossref)
-    ? await enrichCandidateFromDetailPage(withCrossref, runtime)
+  const withOpenAlex = shouldFetchOpenAlex(withCrossref)
+    ? await enrichCandidateFromOpenAlexDoi(withCrossref, runtime)
     : withCrossref;
+  const withDetail = shouldFetchDetail(withOpenAlex)
+    ? await enrichCandidateFromDetailPage(withOpenAlex, runtime)
+    : withOpenAlex;
 
   const rawTitle = normalizeWhitespace(withDetail.title);
   const rawAbstract = normalizeAbstractText(withDetail.abstract);
@@ -164,6 +174,14 @@ const materializeRecord = async (
   );
 
   const paperId = buildPaperId(withDetail);
+  const sourceParts: string[] = [withDetail.source.type];
+  if (withDetail.source.openAlexFetched) {
+    sourceParts.push('openalex');
+  }
+  if (withDetail.source.detailFetched) {
+    sourceParts.push('detail');
+  }
+
   return {
     id: paperId,
     doi: normalizeDoi(withDetail.doi),
@@ -173,7 +191,7 @@ const materializeRecord = async (
     issn: withDetail.issn,
     publishedAt: withDetail.publishedAt || new Date().toISOString(),
     authors: cleanAuthors(withDetail.authors),
-    source: withDetail.source.detailFetched ? `${withDetail.source.type}+detail` : withDetail.source.type,
+    source: sourceParts.join('+'),
     fetchedAt: new Date().toISOString(),
     language,
     raw_title: rawTitle,
