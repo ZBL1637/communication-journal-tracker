@@ -1,14 +1,11 @@
 import { createHashRouter } from 'react-router-dom';
 
 import { AppShell } from '../components/AppShell';
-import { normalizeBasePath } from '../lib/routing';
 import { HomePage } from '../pages/HomePage';
 import { JournalPage } from '../pages/JournalPage';
 import { NotFoundPage } from '../pages/NotFoundPage';
 import { PaperDetailPage } from '../pages/PaperDetailPage';
 import { TrendsPage } from '../pages/TrendsPage';
-
-const basename = normalizeBasePath();
 
 export const router = createHashRouter(
   [
@@ -35,8 +32,5 @@ export const router = createHashRouter(
         }
       ]
     }
-  ],
-  {
-    basename: basename === '/' ? undefined : basename.replace(/\/$/, '')
-  }
+  ]
 );
