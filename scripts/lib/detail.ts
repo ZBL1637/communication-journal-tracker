@@ -7,6 +7,7 @@ import { logger } from './logger.js';
 import {
   absoluteUrl,
   cleanAuthors,
+  normalizeAbstractText,
   normalizeDoi,
   normalizeWhitespace,
   parseDateToIso,
@@ -64,13 +65,13 @@ export const enrichCandidateFromDetailPage = async (
       normalizeWhitespace(String(jsonLd.name ?? ''));
 
     const abstract =
-      stripHtml(
+      normalizeAbstractText(
         metaContent($, ['meta[name="dc.Description"]', 'meta[name="description"]', 'meta[name="citation_abstract"]'])
       ) ||
-      stripHtml(
+      normalizeAbstractText(
         $('.abstract, .hlFld-Abstract, section.abstract, #abstract, [data-title="Abstract"]').first().text()
       ) ||
-      stripHtml(String(jsonLd.description ?? ''));
+      normalizeAbstractText(String(jsonLd.description ?? ''));
 
     const authorsFromMeta = $('meta[name="citation_author"]')
       .map((_, element) => normalizeWhitespace($(element).attr('content')))

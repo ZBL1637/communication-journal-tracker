@@ -3,7 +3,7 @@ import path from 'node:path';
 
 import { dataDir, loadJournalsConfig, loadRuntimeConfig, papersDir } from './config.js';
 import { enrichCandidateWithAi } from './ai.js';
-import { fetchCrossrefCandidates } from './crossref.js';
+import { enrichCandidateFromCrossrefDoi, fetchCrossrefCandidates } from './crossref.js';
 import { buildExistingPaperMap, dedupeCandidates, getDedupeKey } from './dedupe.js';
 import { enrichCandidateFromDetailPage } from './detail.js';
 import { ensureDir, readJson, writeJson } from './fs.js';
@@ -25,7 +25,12 @@ import {
   buildPaperId,
   cleanAuthors,
   detectLanguage,
+  hasKeywords,
+  hasMeaningfulAbstract,
+  isNoisyAuthors,
+  mapWithConcurrency,
   mergeUniqueStrings,
+  normalizeAbstractText,
   normalizeDoi,
   normalizeWhitespace,
   sortPapersDesc
@@ -51,17 +56,50 @@ const loadExistingPapers = async () => {
   return existingRecords;
 };
 
-const shouldFetchDetail = (candidate: PaperCandidate) =>
-  Boolean(candidate.url) &&
-  (!candidate.abstract || !candidate.keywords || candidate.keywords.length === 0 || candidate.source.type === 'toc');
+const DETAIL_SCRAPE_BLOCKLIST = ['tandfonline.com'];
+
+const shouldFetchCrossrefDoi = (candidate: PaperCandidate) =>
+  Boolean(candidate.doi) &&
+  candidate.source.type !== 'crossref' &&
+  (!hasMeaningfulAbstract(candidate.abstract) || !hasKeywords(candidate.keywords) || isNoisyAuthors(candidate.authors));
+
+const shouldFetchDetail = (candidate: PaperCandidate) => {
+  if (!candidate.url) {
+    return false;
+  }
+
+  let host = '';
+  try {
+    host = new URL(candidate.url).hostname.toLowerCase();
+  } catch {
+    host = '';
+  }
+
+  if (DETAIL_SCRAPE_BLOCKLIST.some((domain) => host.includes(domain))) {
+    return false;
+  }
+
+  if (candidate.source.type === 'toc') {
+    return true;
+  }
+
+  return !hasMeaningfulAbstract(candidate.abstract) || isNoisyAuthors(candidate.authors) || !hasKeywords(candidate.keywords);
+};
 
 const isIgnoredTitle = (title: string) => {
   const normalized = title.trim().toLowerCase();
   return (
     normalized === '' ||
     normalized === 'pdf' ||
+    normalized === 'correction' ||
+    normalized === 'corrigendum' ||
+    normalized === 'erratum' ||
+    normalized === 'retraction' ||
     normalized === 'issue information' ||
     normalized.startsWith('correction to:') ||
+    normalized.startsWith('corrigendum to:') ||
+    normalized.startsWith('erratum to:') ||
+    normalized.startsWith('retraction to:') ||
     normalized.startsWith('book review:') ||
     normalized === 'thanks to reviewers'
   );
@@ -102,12 +140,15 @@ const materializeRecord = async (
   candidate: PaperCandidate,
   runtime = loadRuntimeConfig()
 ): Promise<PaperRecord | null> => {
-  const withDetail = shouldFetchDetail(candidate)
-    ? await enrichCandidateFromDetailPage(candidate, runtime)
+  const withCrossref = shouldFetchCrossrefDoi(candidate)
+    ? await enrichCandidateFromCrossrefDoi(candidate, runtime)
     : candidate;
+  const withDetail = shouldFetchDetail(withCrossref)
+    ? await enrichCandidateFromDetailPage(withCrossref, runtime)
+    : withCrossref;
 
   const rawTitle = normalizeWhitespace(withDetail.title);
-  const rawAbstract = normalizeWhitespace(withDetail.abstract);
+  const rawAbstract = normalizeAbstractText(withDetail.abstract);
   if (isIgnoredTitle(rawTitle) || (!rawTitle && !withDetail.url)) {
     return null;
   }
@@ -235,12 +276,15 @@ export const runPipeline = async (options: PipelineOptions): Promise<PipelineSum
     const candidates = await collectCandidatesForJournal(journal, options, runtime);
     allCandidates.push(...candidates);
 
-    for (const candidate of candidates) {
+    const journalRecords = await mapWithConcurrency(candidates, runtime.maxConcurrency, async (candidate) => {
       if (options.mode === 'incremental' && existingMap.has(getDedupeKey(candidate))) {
-        continue;
+        return null;
       }
 
-      const record = await materializeRecord(candidate, runtime);
+      return materializeRecord(candidate, runtime);
+    });
+
+    for (const record of journalRecords) {
       if (record) {
         newRecords.push(record);
       }

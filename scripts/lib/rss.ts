@@ -7,6 +7,7 @@ import { logger } from './logger.js';
 import {
   absoluteUrl,
   cleanAuthors,
+  normalizeAbstractText,
   normalizeDoi,
   normalizeWhitespace,
   parseDateToIso,
@@ -78,7 +79,7 @@ export const fetchRssCandidates = async (
         ),
         authors,
         title: normalizeWhitespace(String(item.title ?? item['dc:title'] ?? '')),
-        abstract: stripHtml(String(item.description ?? item.summary ?? item.content ?? '')),
+        abstract: normalizeAbstractText(stripHtml(String(item.description ?? item.summary ?? item.content ?? ''))),
         keywords: splitKeywords(String(item.category ?? item['dc:subject'] ?? '')),
         source: {
           type: 'rss',

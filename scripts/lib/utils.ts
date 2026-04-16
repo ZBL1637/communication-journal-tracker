@@ -31,6 +31,22 @@ const EN_STOPWORDS = new Set([
   'platform'
 ]);
 
+const ABSTRACT_PLACEHOLDER_PATTERNS = [
+  /^\.$/,
+  /^volume\s+\d+/i,
+  /^issue\s+\d+/i,
+  /^advance article/i,
+  /^ahead of print/i,
+  /^no abstract/i,
+  /^abstract unavailable/i,
+  /^pages?\s+\d+/i
+];
+
+const AUTHOR_AFFILIATION_PATTERN =
+  /\b(?:Department|School|Faculty|College|Institute|Center|Centre|Laboratory|Laboratories|Lab|University|Hospital|Clinic|Academy|Research)\b/i;
+
+const NAME_TOKEN_PATTERN = /^[\p{L}][\p{L}'’.\-]*$/u;
+
 export const normalizeWhitespace = (value: string | undefined | null) =>
   (value ?? '').replace(/\s+/g, ' ').replace(/\u00a0/g, ' ').trim();
 
@@ -76,6 +92,19 @@ export const normalizeDoi = (value: string | undefined | null) => {
 
   return normalized || '';
 };
+
+export const normalizeAbstractText = (value: string | undefined | null) => {
+  const normalized = stripHtml(value);
+  if (!normalized) {
+    return '';
+  }
+
+  return ABSTRACT_PLACEHOLDER_PATTERNS.some((pattern) => pattern.test(normalized)) ? '' : normalized;
+};
+
+export const hasMeaningfulAbstract = (value: string | undefined | null) => Boolean(normalizeAbstractText(value));
+
+export const hasKeywords = (values: string[] | undefined | null) => Array.isArray(values) && values.length > 0;
 
 export const toSlug = (value: string) =>
   normalizeWhitespace(value)
@@ -147,12 +176,54 @@ export const buildPaperId = (candidate: PaperCandidate) => {
   return `${prefix}-${hash}`;
 };
 
-export const cleanAuthors = (values: string[]) =>
-  uniq(
+const splitCompactAuthorNames = (value: string) => {
+  const tokens = normalizeWhitespace(value).split(/\s+/).filter(Boolean);
+  if (tokens.length < 4 || tokens.length > 8 || !tokens.every((token) => NAME_TOKEN_PATTERN.test(token))) {
+    return [value];
+  }
+
+  const chunks: string[] = [];
+  let index = 0;
+  while (index < tokens.length) {
+    const remaining = tokens.length - index;
+    const size = remaining === 3 ? 3 : 2;
+    chunks.push(tokens.slice(index, index + size).join(' '));
+    index += size;
+  }
+
+  return chunks;
+};
+
+const cleanAuthorValue = (value: string) =>
+  normalizeWhitespace(value)
+    .replace(/\b[a-z]\s+(?=(?:Department|School|Faculty|College|Institute|Center|Centre|Laboratory|Lab|University|Hospital|Clinic)\b)/gi, ' ')
+    .split(/\s+(?=(?:Department|School|Faculty|College|Institute|Center|Centre|Laboratory|Lab|University|Hospital|Clinic|Academy|Research)\b)/i)[0]
+    .replace(/\s+\d[\w-]*$/g, '')
+    .replace(/[;,]+$/g, '')
+    .trim();
+
+export const isNoisyAuthors = (values: string[] | undefined | null) => {
+  const source = Array.isArray(values) ? values : [];
+  if (source.length === 0) {
+    return true;
+  }
+
+  return source.some((value) => {
+    const normalized = normalizeWhitespace(value);
+    return normalized.length > 80 || AUTHOR_AFFILIATION_PATTERN.test(normalized);
+  });
+};
+
+export const cleanAuthors = (values: string[]) => {
+  const cleaned = uniq(
     values
+      .flatMap((value) => splitCompactAuthorNames(cleanAuthorValue(value)))
       .map((value) => normalizeWhitespace(value))
-      .filter(Boolean)
+      .filter((value) => Boolean(value) && !AUTHOR_AFFILIATION_PATTERN.test(value) && value.length <= 80)
   );
+
+  return cleaned;
+};
 
 export const sortPapersDesc = <T extends Pick<PaperRecord, 'publishedAt' | 'fetchedAt'>>(papers: T[]) =>
   [...papers].sort((left, right) => {
@@ -165,6 +236,27 @@ export const sortPapersDesc = <T extends Pick<PaperRecord, 'publishedAt' | 'fetc
   });
 
 export const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
+
+export const mapWithConcurrency = async <T, R>(
+  values: T[],
+  concurrency: number,
+  mapper: (value: T, index: number) => Promise<R>
+) => {
+  const safeConcurrency = Math.max(1, concurrency);
+  const results = new Array<R>(values.length);
+  let nextIndex = 0;
+
+  const worker = async () => {
+    while (nextIndex < values.length) {
+      const currentIndex = nextIndex;
+      nextIndex += 1;
+      results[currentIndex] = await mapper(values[currentIndex], currentIndex);
+    }
+  };
+
+  await Promise.all(Array.from({ length: Math.min(safeConcurrency, values.length) }, () => worker()));
+  return results;
+};
 
 export const topWords = (value: string, limit = 8) => {
   const tokens = normalizeWhitespace(value)

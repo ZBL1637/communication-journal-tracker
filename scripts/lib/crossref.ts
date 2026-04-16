@@ -2,7 +2,16 @@ import type { JournalConfig, PaperCandidate, RuntimeConfig } from './types.js';
 
 import { fetchJson } from './client.js';
 import { logger } from './logger.js';
-import { normalizeDoi, normalizeWhitespace, splitKeywords, stripHtml } from './utils.js';
+import {
+  cleanAuthors,
+  hasKeywords,
+  hasMeaningfulAbstract,
+  isNoisyAuthors,
+  normalizeAbstractText,
+  normalizeDoi,
+  normalizeWhitespace,
+  splitKeywords
+} from './utils.js';
 
 interface CrossrefMessage {
   'next-cursor'?: string;
@@ -29,6 +38,34 @@ const pickDate = (item: Record<string, unknown>) => {
   }
 
   return '';
+};
+
+const mapCrossrefItem = (item: Record<string, unknown>) => {
+  const title = Array.isArray(item.title) ? normalizeWhitespace(String(item.title[0] ?? '')) : '';
+  const abstract = normalizeAbstractText(String(item.abstract ?? ''));
+  const authors = Array.isArray(item.author)
+    ? cleanAuthors(
+        item.author
+          .map((author) =>
+            normalizeWhitespace(
+              `${String((author as Record<string, unknown>).given ?? '')} ${String(
+                (author as Record<string, unknown>).family ?? ''
+              )}`
+            )
+          )
+          .filter(Boolean)
+      )
+    : [];
+
+  return {
+    doi: normalizeDoi(String(item.DOI ?? '')),
+    url: normalizeWhitespace(String(item.URL ?? '')),
+    publishedAt: pickDate(item),
+    authors,
+    title,
+    abstract,
+    keywords: splitKeywords(Array.isArray(item.subject) ? (item.subject as string[]) : [])
+  };
 };
 
 export const fetchCrossrefCandidates = async (
@@ -59,31 +96,19 @@ export const fetchCrossrefCandidates = async (
       const items = payload.message?.items ?? [];
 
       for (const item of items) {
-        const title = Array.isArray(item.title) ? normalizeWhitespace(String(item.title[0] ?? '')) : '';
-        const abstract = stripHtml(String(item.abstract ?? ''));
-        const authors = Array.isArray(item.author)
-          ? item.author
-              .map((author) =>
-                normalizeWhitespace(
-                  `${String((author as Record<string, unknown>).given ?? '')} ${String(
-                    (author as Record<string, unknown>).family ?? ''
-                  )}`
-                )
-              )
-              .filter(Boolean)
-          : [];
+        const mapped = mapCrossrefItem(item);
 
         results.push({
-          doi: normalizeDoi(String(item.DOI ?? '')),
-          url: normalizeWhitespace(String(item.URL ?? '')),
+          doi: mapped.doi,
+          url: mapped.url,
           journalName: journal.name,
           journalSlug: journal.slug,
           issn: journal.issn,
-          publishedAt: pickDate(item),
-          authors,
-          title,
-          abstract,
-          keywords: splitKeywords(Array.isArray(item.subject) ? (item.subject as string[]) : []),
+          publishedAt: mapped.publishedAt,
+          authors: mapped.authors,
+          title: mapped.title,
+          abstract: mapped.abstract,
+          keywords: mapped.keywords,
           source: {
             type: 'crossref',
             label: 'Crossref journals API',
@@ -106,4 +131,43 @@ export const fetchCrossrefCandidates = async (
   }
 
   return typeof limitPerJournal === 'number' ? results.slice(0, limitPerJournal) : results;
+};
+
+interface CrossrefWorkResponse {
+  message?: Record<string, unknown>;
+}
+
+export const enrichCandidateFromCrossrefDoi = async (
+  candidate: PaperCandidate,
+  runtime: RuntimeConfig
+): Promise<PaperCandidate> => {
+  const doi = normalizeDoi(candidate.doi);
+  if (!doi) {
+    return candidate;
+  }
+
+  const url = `https://api.crossref.org/works/${encodeURIComponent(doi)}`;
+
+  try {
+    const payload = await fetchJson<CrossrefWorkResponse>(url, runtime, undefined, `${candidate.journalSlug} Crossref DOI`);
+    const item = payload.message;
+    if (!item) {
+      return candidate;
+    }
+
+    const mapped = mapCrossrefItem(item);
+    return {
+      ...candidate,
+      doi: mapped.doi || candidate.doi,
+      url: mapped.url || candidate.url,
+      publishedAt: candidate.publishedAt || mapped.publishedAt,
+      authors: isNoisyAuthors(candidate.authors) ? mapped.authors : cleanAuthors([...mapped.authors, ...candidate.authors]),
+      title: candidate.title || mapped.title,
+      abstract: hasMeaningfulAbstract(candidate.abstract) ? candidate.abstract : mapped.abstract,
+      keywords: hasKeywords(candidate.keywords) ? candidate.keywords : mapped.keywords
+    };
+  } catch (error) {
+    logger.warn(`Crossref DOI lookup failed for ${doi}: ${(error as Error).message}`);
+    return candidate;
+  }
 };
