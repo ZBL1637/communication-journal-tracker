@@ -1,0 +1,52 @@
+{
+  "id": "policy-and-internet-3e3642e1c38f",
+  "doi": "10.1002/poi3.70041",
+  "url": "https://doi.org/10.1002/poi3.70041",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-06-01T00:00:00.000Z",
+  "authors": [
+    "Bram Rijsbosch",
+    "Gijs van Dijck",
+    "Konrad Kollnig"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-20T22:36:48.310Z",
+  "language": "en",
+  "raw_title": "Missing the Mark: Adoption of Watermarking for Generative AI Systems in Practice and Implications Under the New EU AI Act",
+  "raw_abstract": "ABSTRACT AI‐generated images have become so good in recent years that individuals often cannot distinguish them from ‘real’ images. This development, combined with the rapid spread of AI‐generated content online, creates a series of societal risks. Watermarking, a technique that involves embedding information within the content to indicate their AI‐generated nature, has emerged as a primary mechanism to address these risks. Indeed, watermarking and AI labelling measures are now becoming a legal requirement in many jurisdictions, including under the 2024 EU AI Act. Yet, despite the widespread use of AI image generation systems, the practical implications and current status of implementation of these measures remain largely unexamined. The present paper therefore provides both an empirical and a legal analysis of these measures. In our legal analysis, we identify four categories of generative AI deployment scenarios and outline how the legal obligations could apply in each. In our empirical analysis, we find that only a minority number of AI image generators currently implement adequate watermarking (38%) and deep fake labelling (18%) practices. In response, we suggest a range of avenues of how the implementation of these legally mandated techniques can be improved, and publicly share our tooling for detecting watermarks.",
+  "raw_keywords": [],
+  "title_en": "Missing the Mark: Adoption of Watermarking for Generative AI Systems in Practice and Implications Under the New EU AI Act",
+  "title_zh": "Missing the Mark: Adoption of Watermarking for Generative AI Systems in Practice and Implications Under the New EU AI Act",
+  "abstract_en": "ABSTRACT AI‐generated images have become so good in recent years that individuals often cannot distinguish them from ‘real’ images. This development, combined with the rapid spread of AI‐generated content online, creates a series of societal risks. Watermarking, a technique that involves embedding information within the content to indicate their AI‐generated nature, has emerged as a primary mechanism to address these risks. Indeed, watermarking and AI labelling measures are now becoming a legal requirement in many jurisdictions, including under the 2024 EU AI Act. Yet, despite the widespread use of AI image generation systems, the practical implications and current status of implementation of these measures remain largely unexamined. The present paper therefore provides both an empirical and a legal analysis of these measures. In our legal analysis, we identify four categories of generative AI deployment scenarios and outline how the legal obligations could apply in each. In our empirical analysis, we find that only a minority number of AI image generators currently implement adequate watermarking (38%) and deep fake labelling (18%) practices. In response, we suggest a range of avenues of how the implementation of these legally mandated techniques can be improved, and publicly share our tooling for detecting watermarks.",
+  "abstract_zh": "ABSTRACT AI‐generated images have become so good in recent years that individuals often cannot distinguish them from ‘real’ images. This development, combined with the rapid spread of AI‐generated content online, creates a series of societal risks. Watermarking, a technique that involves embedding information within the content to indicate their AI‐generated nature, has emerged as a primary mechanism to address these risks. Indeed, watermarking and AI labelling measures are now becoming a legal requirement in many jurisdictions, including under the 2024 EU AI Act. Yet, despite the widespread use of AI image generation systems, the practical implications and current status of implementation of these measures remain largely unexamined. The present paper therefore provides both an empirical and a legal analysis of these measures. In our legal analysis, we identify four categories of generative AI deployment scenarios and outline how the legal obligations could apply in each. In our empirical analysis, we find that only a minority number of AI image generators currently implement adequate watermarking (38%) and deep fake labelling (18%) practices. In response, we suggest a range of avenues of how the implementation of these legally mandated techniques can be improved, and publicly share our tooling for detecting watermarks.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "The",
+    "And",
+    "Watermarking",
+    "Legal",
+    "Generated",
+    "Measures"
+  ],
+  "inferred_keywords_zh": [
+    "The",
+    "And",
+    "Watermarking",
+    "Legal",
+    "Generated",
+    "Measures"
+  ],
+  "plain_summary_en": "This paper studies Missing the Mark: Adoption of Watermarking for Generative AI Systems in Practice and Implications Under the New EU AI Act. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Watermarking, Legal. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Missing the Mark: Adoption of Watermarking for Generative AI Systems in Practice and Implications Under the New EU AI Act. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Watermarking, Legal. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around The, And, Watermarking, Legal, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around The, And, Watermarking, Legal, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "mixed methods"
+  ],
+  "method_tags_en": [
+    "mixed methods"
+  ]
+}

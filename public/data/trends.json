@@ -1,42 +1,62 @@
 {
-  "generatedAt": "2026-04-19T22:27:50.917Z",
+  "generatedAt": "2026-04-20T22:36:51.136Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 7,
-      "overview_en": "Across 7 papers, the most visible themes are And, The, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 7 papers, the most visible themes are And, The, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 8,
+      "overview_en": "Across 8 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 8 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "And",
         "The",
+        "And",
         "Policy",
-        "Compliance",
-        "Enforcement"
+        "Watermarking",
+        "Legal"
       ],
       "hot_topics_zh": [
-        "And",
         "The",
+        "And",
         "Policy",
-        "Compliance",
-        "Enforcement"
+        "Watermarking",
+        "Legal"
       ],
       "high_frequency_keywords": [
         {
-          "label_en": "And",
-          "label_zh": "And",
-          "count": 4
-        },
-        {
           "label_en": "The",
           "label_zh": "The",
-          "count": 4
+          "count": 5
+        },
+        {
+          "label_en": "And",
+          "label_zh": "And",
+          "count": 5
         },
         {
           "label_en": "Policy",
           "label_zh": "Policy",
           "count": 2
+        },
+        {
+          "label_en": "Watermarking",
+          "label_zh": "Watermarking",
+          "count": 1
+        },
+        {
+          "label_en": "Legal",
+          "label_zh": "Legal",
+          "count": 1
+        },
+        {
+          "label_en": "Generated",
+          "label_zh": "Generated",
+          "count": 1
+        },
+        {
+          "label_en": "Measures",
+          "label_zh": "Measures",
+          "count": 1
         },
         {
           "label_en": "Compliance",
@@ -52,33 +72,13 @@
           "label_en": "Data",
           "label_zh": "Data",
           "count": 1
-        },
-        {
-          "label_en": "Regimes",
-          "label_zh": "Regimes",
-          "count": 1
-        },
-        {
-          "label_en": "Public",
-          "label_zh": "Public",
-          "count": 1
-        },
-        {
-          "label_en": "Feedback",
-          "label_zh": "Feedback",
-          "count": 1
-        },
-        {
-          "label_en": "Opinion",
-          "label_zh": "Opinion",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 3
+          "count": 4
         },
         {
           "label_en": "computational analysis",
@@ -124,25 +124,25 @@
         "The",
         "Social media",
         "Policy",
-        "Work (physics)"
+        "digital journalism"
       ],
       "hot_topics_zh": [
         "And",
         "The",
         "社交媒体",
         "Policy",
-        "工作（物理学）"
+        "数字新闻"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 10
+          "count": 11
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 9
+          "count": 10
         },
         {
           "label_en": "Social media",
@@ -155,18 +155,8 @@
           "count": 2
         },
         {
-          "label_en": "Work (physics)",
-          "label_zh": "工作（物理学）",
-          "count": 2
-        },
-        {
           "label_en": "digital journalism",
           "label_zh": "数字新闻",
-          "count": 2
-        },
-        {
-          "label_en": "Discourse analysis",
-          "label_zh": "话语分析",
           "count": 2
         },
         {
@@ -175,13 +165,23 @@
           "count": 2
         },
         {
-          "label_en": "Compliance",
-          "label_zh": "Compliance",
+          "label_en": "Watermarking",
+          "label_zh": "Watermarking",
           "count": 1
         },
         {
-          "label_en": "Enforcement",
-          "label_zh": "Enforcement",
+          "label_en": "Legal",
+          "label_zh": "Legal",
+          "count": 1
+        },
+        {
+          "label_en": "Generated",
+          "label_zh": "Generated",
+          "count": 1
+        },
+        {
+          "label_en": "Measures",
+          "label_zh": "Measures",
           "count": 1
         }
       ],
@@ -242,9 +242,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 163,
-      "overview_en": "Across 163 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 163 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 164,
+      "overview_en": "Across 164 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 164 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -263,12 +263,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 72
+          "count": 73
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 68
+          "count": 69
         },
         {
           "label_en": "Politics",
@@ -330,7 +330,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 28
+          "count": 29
         },
         {
           "label_en": "review",
@@ -514,7 +514,7 @@
     {
       "journalName": "Policy & Internet",
       "journalSlug": "policy-and-internet",
-      "paperCount": 21,
+      "paperCount": 22,
       "topic_bias_en": [
         "And",
         "The",
@@ -528,14 +528,14 @@
         "Policy"
       ],
       "method_bias_en": [
-        "survey",
         "mixed methods",
+        "survey",
         "computational analysis",
         "interview"
       ],
       "method_bias_zh": [
-        "survey",
         "mixed methods",
+        "survey",
         "computational analysis",
         "interview"
       ]
@@ -601,12 +601,12 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 72
+      "count": 73
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 68
+      "count": 69
     },
     {
       "label_en": "Politics",
@@ -678,7 +678,7 @@
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 28
+      "count": 29
     },
     {
       "label_en": "review",
