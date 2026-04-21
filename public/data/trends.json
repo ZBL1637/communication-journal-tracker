@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-04-20T22:36:51.136Z",
+  "generatedAt": "2026-04-21T22:36:12.390Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 8,
-      "overview_en": "Across 8 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 8 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 7,
+      "overview_en": "Across 7 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 7 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
@@ -103,11 +103,6 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 1
-        },
-        {
-          "label_en": "review",
-          "label_zh": "review",
           "count": 1
         }
       ]
@@ -242,22 +237,22 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 164,
-      "overview_en": "Across 164 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 164 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 163,
+      "overview_en": "Across 163 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 163 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
         "Politics",
         "Social media",
-        "Journalism"
+        "political communication"
       ],
       "hot_topics_zh": [
         "And",
         "The",
         "政治",
         "社交媒体",
-        "新闻业"
+        "政治传播"
       ],
       "high_frequency_keywords": [
         {
@@ -281,13 +276,13 @@
           "count": 20
         },
         {
-          "label_en": "Journalism",
-          "label_zh": "新闻业",
-          "count": 19
-        },
-        {
           "label_en": "political communication",
           "label_zh": "政治传播",
+          "count": 18
+        },
+        {
+          "label_en": "Journalism",
+          "label_zh": "新闻业",
           "count": 18
         },
         {
@@ -315,7 +310,7 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 40
+          "count": 39
         },
         {
           "label_en": "content analysis",
@@ -340,7 +335,7 @@
         {
           "label_en": "interview",
           "label_zh": "访谈",
-          "count": 19
+          "count": 18
         },
         {
           "label_en": "computational analysis",
@@ -427,7 +422,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 34,
+      "paperCount": 33,
       "topic_bias_en": [
         "Journalism",
         "Work (physics)",
@@ -619,13 +614,13 @@
       "count": 20
     },
     {
-      "label_en": "Journalism",
-      "label_zh": "新闻业",
-      "count": 19
-    },
-    {
       "label_en": "political communication",
       "label_zh": "政治传播",
+      "count": 18
+    },
+    {
+      "label_en": "Journalism",
+      "label_zh": "新闻业",
       "count": 18
     },
     {
@@ -663,7 +658,7 @@
     {
       "label_en": "case study",
       "label_zh": "案例研究",
-      "count": 40
+      "count": 39
     },
     {
       "label_en": "content analysis",
@@ -688,7 +683,7 @@
     {
       "label_en": "interview",
       "label_zh": "访谈",
-      "count": 19
+      "count": 18
     },
     {
       "label_en": "computational analysis",
