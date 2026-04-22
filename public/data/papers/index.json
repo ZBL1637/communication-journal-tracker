@@ -227,6 +227,60 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "political-communication-f9b5e3f0c2bc",
+    "doi": "10.1080/10584609.2026.2656633",
+    "url": "https://doi.org/10.1080/10584609.2026.2656633",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-04-22T06:41:19.000Z",
+    "authors": [
+      "Dror K. Markus",
+      "Effi Levi",
+      "Tamir Sheafer",
+      "Shaul R. Shenhav",
+      "Dror K. Markus Effi Levi Tamir Sheafer Shaul R. Shenhav",
+      "The Hebrew",
+      "Jerusalem",
+      "Israelb",
+      "Israelc"
+    ],
+    "title_en": "From Showers to Hurricanes: A Typology of Media Storms",
+    "title_zh": "从阵雨到飓风：媒体风暴的类型学",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "media storms",
+      "typology",
+      "political communication",
+      "news cycles",
+      "media attention",
+      "public discourse"
+    ],
+    "inferred_keywords_zh": [
+      "媒体风暴",
+      "类型学",
+      "政治传播",
+      "新闻周期",
+      "媒体关注",
+      "公共话语"
+    ],
+    "plain_summary_zh": "这篇文章提出了一个媒体风暴的类型学，将媒体对事件的关注程度从轻微（如阵雨）到强烈（如飓风）进行分类。它帮助理解不同规模的媒体事件如何影响公共讨论。",
+    "plain_summary_en": "This article presents a typology of media storms, categorizing media attention to events from mild (like showers) to intense (like hurricanes). It helps understand how media events of different scales impact public discourse.",
+    "research_direction_zh": "研究媒体事件如何根据其强度和持续时间进行分类，以及这种分类对政治传播和公共舆论的影响。",
+    "research_direction_en": "Investigating how media events are categorized based on their intensity and duration, and the implications of this categorization for political communication and public opinion.",
+    "method_tags_zh": [
+      "内容分析",
+      "案例研究"
+    ],
+    "method_tags_en": [
+      "content analysis",
+      "case study"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-04-22T22:40:44.058Z"
+  },
+  {
     "id": "digital-journalism-0f19d4b5452c",
     "doi": "10.1080/21670811.2026.2652342",
     "url": "https://doi.org/10.1080/21670811.2026.2652342",
