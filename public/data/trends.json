@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-04-23T22:37:15.731Z",
+  "generatedAt": "2026-04-24T22:34:12.519Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 7,
-      "overview_en": "Across 7 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 7 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, content analysis to explain what these changes mean for communication.",
+      "paperCount": 8,
+      "overview_en": "Across 8 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 8 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
@@ -106,6 +106,16 @@
           "count": 1
         },
         {
+          "label_en": "systematic literature review",
+          "label_zh": "系统文献综述",
+          "count": 1
+        },
+        {
+          "label_en": "thematic analysis",
+          "label_zh": "主题分析",
+          "count": 1
+        },
+        {
           "label_en": "case study",
           "label_zh": "案例研究",
           "count": 1
@@ -116,9 +126,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 25,
-      "overview_en": "Across 25 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 25 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 27,
+      "overview_en": "Across 27 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 27 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -232,9 +242,9 @@
           "count": 2
         },
         {
-          "label_en": "expert interviews",
-          "label_zh": "专家访谈",
-          "count": 1
+          "label_en": "survey",
+          "label_zh": "调查",
+          "count": 2
         }
       ]
     },
@@ -242,9 +252,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 163,
-      "overview_en": "Across 163 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 163 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 165,
+      "overview_en": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -324,8 +334,8 @@
         },
         {
           "label_en": "survey",
-          "label_zh": "survey",
-          "count": 30
+          "label_zh": "调查",
+          "count": 31
         },
         {
           "label_en": "mixed methods",
@@ -485,7 +495,7 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 36,
+      "paperCount": 37,
       "topic_bias_en": [
         "And",
         "The",
@@ -507,7 +517,7 @@
       "method_bias_zh": [
         "computational analysis",
         "mixed methods",
-        "survey",
+        "调查",
         "interview"
       ]
     },
@@ -572,28 +582,30 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 14,
+      "paperCount": 15,
       "topic_bias_en": [
         "Systematic Review",
         "Meta-Analysis",
-        "Dream of Red Mansion",
-        "Female Servants"
+        "Deep Learning",
+        "Augmented Reality"
       ],
       "topic_bias_zh": [
         "Systematic Review",
         "Meta-Analysis",
-        "Dream of Red Mansion",
-        "Female Servants"
+        "深度学习",
+        "增强现实"
       ],
       "method_bias_en": [
         "review",
-        "computational analysis",
-        "discourse analysis"
+        "systematic literature review",
+        "thematic analysis",
+        "computational analysis"
       ],
       "method_bias_zh": [
         "review",
-        "computational analysis",
-        "discourse analysis"
+        "系统文献综述",
+        "主题分析",
+        "computational analysis"
       ]
     }
   ],
@@ -672,8 +684,8 @@
     },
     {
       "label_en": "survey",
-      "label_zh": "survey",
-      "count": 30
+      "label_zh": "调查",
+      "count": 31
     },
     {
       "label_en": "mixed methods",

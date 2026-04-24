@@ -136,21 +136,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 36,
+    "paperCount": 37,
     "latestPublishedAt": "2026-04-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "And",
-      "The",
-      "Has",
-      "Internet",
-      "Early"
+      "platform safety technology",
+      "online harms",
+      "user engagement",
+      "digital literacy",
+      "gender differences"
     ],
     "topKeywordsZh": [
-      "And",
-      "The",
-      "Has",
-      "Internet",
-      "Early"
+      "平台安全技术",
+      "网络伤害",
+      "用户参与",
+      "数字素养",
+      "性别差异"
     ]
   },
   {
@@ -229,21 +229,21 @@
       ".obj_article_summary h3 a",
       ".cmp_article_list__item h3 a"
     ],
-    "paperCount": 15,
-    "latestPublishedAt": "2026-04-13T00:00:00.000Z",
+    "paperCount": 16,
+    "latestPublishedAt": "2026-04-23T00:00:00.000Z",
     "topKeywordsEn": [
-      "Dream of Red Mansion",
-      "Female Servants",
-      "Communication Pathways",
-      "Fragmented Information",
-      "Classic Literature"
+      "Deep Learning",
+      "Augmented Reality",
+      "Object Tracking",
+      "Communication",
+      "Technology"
     ],
     "topKeywordsZh": [
-      "Dream of Red Mansion",
-      "Female Servants",
-      "Communication Pathways",
-      "Fragmented Information",
-      "Classic Literature"
+      "深度学习",
+      "增强现实",
+      "物体追踪",
+      "传播",
+      "技术"
     ]
   }
 ]

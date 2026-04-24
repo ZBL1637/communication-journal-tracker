@@ -1,0 +1,52 @@
+{
+  "id": "social-media-and-society-223b8de0faf2",
+  "doi": "10.1177/20563051261431383",
+  "url": "https://doi.org/10.1177/20563051261431383",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Jonathan Bright",
+    "Florence E. Enock",
+    "Pica Johansson",
+    "Francesca Stevens",
+    "Helen Z. Margetts"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-04-24T22:33:55.996Z",
+  "language": "en",
+  "raw_title": "Understanding Engagement With Platform Safety Technology for Reducing Exposure to Online Harms",
+  "raw_abstract": "User-facing ‘platform safety technology’ encompasses an array of tools offered by social media platforms to help people protect themselves from harm, for example allowing people to report content or block other users. These tools are an increasingly important part of online safety; however, little is known about how users engage with them. We present findings from a nationally representative survey of UK adults examining their experiences with online harms and safety technologies. The results show that online harm is widespread: 67% of respondents report having encountered harmful content online. Among those who are aware of safety tools, over 80% have used at least one, indicating high uptake when knowledge of the tools is present. Awareness of specific tools is varied, with people more aware of ‘post hoc’ safety tools, taken in response to harm exposure (such as reporting or blocking), than preventive measures (such as altering feed algorithms). However, satisfaction with safety technologies is generally low. People who have previously seen online harms are more likely to use safety tools, implying a ‘learning the hard way’ route to engagement. Those higher in digital literacy are also more likely to use some of these tools, raising concerns about the accessibility of these technologies. In addition, women are more likely to engage in particular types of online ‘safety work’. These findings have significant implications for platform designers, regulators, researchers and policymakers seeking to create a safer and more equitable online environment.",
+  "raw_keywords": [],
+  "title_en": "Understanding Engagement With Platform Safety Technology for Reducing Exposure to Online Harms",
+  "title_zh": "理解用户对平台安全技术的参与以减少网络伤害暴露",
+  "abstract_en": "User-facing ‘platform safety technology’ encompasses an array of tools offered by social media platforms to help people protect themselves from harm, for example allowing people to report content or block other users. These tools are an increasingly important part of online safety; however, little is known about how users engage with them. We present findings from a nationally representative survey of UK adults examining their experiences with online harms and safety technologies. The results show that online harm is widespread: 67% of respondents report having encountered harmful content online. Among those who are aware of safety tools, over 80% have used at least one, indicating high uptake when knowledge of the tools is present. Awareness of specific tools is varied, with people more aware of ‘post hoc’ safety tools, taken in response to harm exposure (such as reporting or blocking), than preventive measures (such as altering feed algorithms). However, satisfaction with safety technologies is generally low. People who have previously seen online harms are more likely to use safety tools, implying a ‘learning the hard way’ route to engagement. Those higher in digital literacy are also more likely to use some of these tools, raising concerns about the accessibility of these technologies. In addition, women are more likely to engage in particular types of online ‘safety work’. These findings have significant implications for platform designers, regulators, researchers and policymakers seeking to create a safer and more equitable online environment.",
+  "abstract_zh": "面向用户的“平台安全技术”包括社交媒体平台提供的一系列工具，旨在帮助人们保护自己免受伤害，例如允许用户举报内容或屏蔽其他用户。这些工具在网络安全中日益重要，但人们对用户如何参与这些工具知之甚少。我们通过对英国成年人的全国代表性调查，考察了他们在网络伤害和安全技术方面的经历。结果显示，网络伤害普遍存在：67%的受访者表示曾在网上遇到有害内容。在了解安全工具的人中，超过80%至少使用过一种工具，表明在知晓工具的情况下使用率很高。对特定工具的认知各不相同，人们更了解“事后”安全工具（如举报或屏蔽），而非预防措施（如调整信息流算法）。然而，对安全技术的满意度普遍较低。之前遭遇过网络伤害的人更可能使用安全工具，这暗示了一种“吃一堑长一智”的参与路径。数字素养较高的人也更可能使用某些工具，引发了对这些技术可及性的担忧。此外，女性更可能参与特定类型的在线“安全工作”。这些发现对寻求创建更安全、更公平的网络环境的平台设计者、监管者、研究人员和政策制定者具有重要意义。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "platform safety technology",
+    "online harms",
+    "user engagement",
+    "digital literacy",
+    "gender differences"
+  ],
+  "inferred_keywords_zh": [
+    "平台安全技术",
+    "网络伤害",
+    "用户参与",
+    "数字素养",
+    "性别差异"
+  ],
+  "plain_summary_zh": "这项研究调查了英国成年人如何使用社交媒体平台提供的安全工具（如举报和屏蔽功能）来保护自己。结果发现，大多数人都遇到过网络伤害，但很多人不知道这些工具的存在。一旦知道，大多数人都会使用。不过，人们对预防性工具（如调整算法）的了解较少，且对工具的满意度不高。女性更常使用这些工具，而数字技能高的人也更可能使用，这可能导致数字鸿沟。",
+  "plain_summary_en": "This study surveyed UK adults on how they use safety tools on social media (like reporting and blocking). Most people had encountered online harm, but many were unaware of the tools. Once aware, most used them. However, people knew less about preventive tools (like adjusting algorithms) and were generally unsatisfied. Women used these tools more, and digitally skilled people were more likely to use them, raising equity concerns.",
+  "research_direction_zh": "网络平台安全技术与用户行为研究",
+  "research_direction_en": "Online platform safety technology and user behavior",
+  "method_tags_zh": [
+    "调查"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

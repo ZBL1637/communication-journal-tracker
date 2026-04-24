@@ -1,0 +1,58 @@
+{
+  "id": "review-of-communication-research-2d9738e5199b",
+  "doi": "10.52152/RCR.V14.S3",
+  "url": "https://doi.org/10.52152/rcr.v14.s3",
+  "journalName": "Review of Communication Research",
+  "journalSlug": "review-of-communication-research",
+  "issn": "2255-4165",
+  "publishedAt": "2026-04-23T00:00:00.000Z",
+  "authors": [
+    "Duoduo Mou",
+    "Aida Ali",
+    "Ajune Wannis Ismail"
+  ],
+  "source": "crossref+detail",
+  "fetchedAt": "2026-04-24T22:34:12.516Z",
+  "language": "en",
+  "raw_title": "Exploration of Deep Learning-based Augmented Reality Complex Scene Object Tracking Technology in Communication",
+  "raw_abstract": "The emergence of deep learning (DL) and augmented reality (AR) have revolutionized the landscape of communication and media industries. A detailed connection between AR-based object tracking and digital communication together with user experience remains absent throughout academic research. The research aims to fill this literature gap by performing a systematic literature review (SLR) that studies the confluence of AR object-tracking systems and communication technologies. The main purpose focuses on evaluating how AR elevates user connection alongside perceptual abilities and media interface experiences in light of emerging trends and tracking roadmaps in AR-based applications. The review design incorporates structured SLR methodology which selects studies from main databases through precise search terms. The review performed thematic analysis to extract major themes from previous study findings and gaps. AR object tracking proved to be a major digital communication advancement that improves user interactions on social networks and marketing channels together with brand promo activities. Changes in self-perception together with identity transformation emerge as major psychological results from AR interactions. The study shows why AR technology is crucial for creating immersive responses through interactive communication which will shape future developments of AR solutions in digital media platforms along with marketing and communication strategies.",
+  "raw_keywords": [
+    "Deep Learning",
+    "Augmented Reality",
+    "Object Tracking",
+    "Communication",
+    "Technology"
+  ],
+  "title_en": "Exploration of Deep Learning-based Augmented Reality Complex Scene Object Tracking Technology in Communication",
+  "title_zh": "基于深度学习的增强现实复杂场景物体追踪技术在传播中的应用探索",
+  "abstract_en": "The emergence of deep learning (DL) and augmented reality (AR) have revolutionized the landscape of communication and media industries. A detailed connection between AR-based object tracking and digital communication together with user experience remains absent throughout academic research. The research aims to fill this literature gap by performing a systematic literature review (SLR) that studies the confluence of AR object-tracking systems and communication technologies. The main purpose focuses on evaluating how AR elevates user connection alongside perceptual abilities and media interface experiences in light of emerging trends and tracking roadmaps in AR-based applications. The review design incorporates structured SLR methodology which selects studies from main databases through precise search terms. The review performed thematic analysis to extract major themes from previous study findings and gaps. AR object tracking proved to be a major digital communication advancement that improves user interactions on social networks and marketing channels together with brand promo activities. Changes in self-perception together with identity transformation emerge as major psychological results from AR interactions. The study shows why AR technology is crucial for creating immersive responses through interactive communication which will shape future developments of AR solutions in digital media platforms along with marketing and communication strategies.",
+  "abstract_zh": "深度学习和增强现实的出现彻底改变了传播和媒体行业的格局。学术研究中仍然缺乏关于基于AR的物体追踪与数字通信及用户体验之间详细联系的探讨。本研究旨在通过系统文献综述来填补这一空白，研究AR物体追踪系统与传播技术的融合。主要目的是评估AR如何提升用户连接、感知能力和媒体界面体验，并关注AR应用中的新兴趋势和追踪路线图。综述设计采用结构化系统文献综述方法，通过精确搜索词从主要数据库中筛选研究。综述进行了主题分析，以提取先前研究发现和空白中的主要主题。AR物体追踪被证明是数字通信的一项重大进步，它改善了社交网络、营销渠道和品牌推广活动中的用户互动。自我感知的变化和身份转变是AR互动的主要心理结果。该研究显示了AR技术对于通过互动通信创造沉浸式反应的重要性，这将塑造AR解决方案在数字媒体平台以及营销和传播策略中的未来发展。",
+  "keywords_en": [
+    "Deep Learning",
+    "Augmented Reality",
+    "Object Tracking",
+    "Communication",
+    "Technology"
+  ],
+  "keywords_zh": [
+    "深度学习",
+    "增强现实",
+    "物体追踪",
+    "传播",
+    "技术"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_zh": "这篇文章通过系统文献综述，研究了增强现实（AR）物体追踪技术如何改善数字通信和用户体验。作者发现，AR物体追踪能提升社交网络、营销和品牌推广中的用户互动，并影响用户的自我感知和身份认同。研究认为，AR技术对创造沉浸式互动通信至关重要，将影响未来数字媒体和营销策略的发展。",
+  "plain_summary_en": "This article uses a systematic literature review to study how augmented reality (AR) object tracking technology improves digital communication and user experience. The authors found that AR object tracking enhances user interaction in social networks, marketing, and brand promotion, and affects users' self-perception and identity. The study suggests that AR technology is crucial for creating immersive interactive communication and will shape future digital media and marketing strategies.",
+  "research_direction_zh": "增强现实与传播技术的交叉研究，特别是物体追踪在提升用户体验和互动通信中的作用。",
+  "research_direction_en": "Intersection of augmented reality and communication technology, focusing on object tracking's role in enhancing user experience and interactive communication.",
+  "method_tags_zh": [
+    "系统文献综述",
+    "主题分析"
+  ],
+  "method_tags_en": [
+    "systematic literature review",
+    "thematic analysis"
+  ]
+}
