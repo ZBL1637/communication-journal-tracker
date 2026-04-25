@@ -1,0 +1,61 @@
+{
+  "id": "political-communication-3a162895a30c",
+  "doi": "10.1080/10584609.2026.2664157",
+  "url": "https://doi.org/10.1080/10584609.2026.2664157",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-04-24T12:40:36.000Z",
+  "authors": [
+    "Jakob Ohme",
+    "LK Seiling",
+    "Jakob Ohme LK Seiling DSA40 Data Access Collaboratory",
+    "Weizenbaum",
+    "Berlin",
+    "GermanyJakob Ohme (PhD"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-04-25T22:29:13.438Z",
+  "language": "en",
+  "raw_title": "Finally, Access: How Article 40 DSA Changes Platform Research in Practice",
+  "raw_abstract": "",
+  "raw_keywords": [
+    "Key (lock)"
+  ],
+  "title_en": "Finally, Access: How Article 40 DSA Changes Platform Research in Practice",
+  "title_zh": "终于获得访问权：第40条DSA如何改变平台研究的实践",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [
+    "Key (lock)"
+  ],
+  "keywords_zh": [
+    "钥匙（锁）"
+  ],
+  "inferred_keywords_en": [
+    "Digital Services Act",
+    "platform research",
+    "data access",
+    "Article 40",
+    "regulation"
+  ],
+  "inferred_keywords_zh": [
+    "数字服务法案",
+    "平台研究",
+    "数据访问",
+    "第40条",
+    "监管"
+  ],
+  "plain_summary_zh": "本文讨论了《数字服务法案》第40条如何为研究人员提供访问平台数据的新途径，从而改变平台研究的实践。",
+  "plain_summary_en": "This article discusses how Article 40 of the Digital Services Act provides researchers with new ways to access platform data, thereby changing the practice of platform research.",
+  "research_direction_zh": "平台数据访问与监管政策研究",
+  "research_direction_en": "Platform data access and regulatory policy research",
+  "method_tags_zh": [
+    "案例研究",
+    "法律分析"
+  ],
+  "method_tags_en": [
+    "case study",
+    "legal analysis"
+  ]
+}

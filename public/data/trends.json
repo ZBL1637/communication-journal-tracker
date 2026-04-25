@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-04-24T22:34:12.519Z",
+  "generatedAt": "2026-04-25T22:29:20.336Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 8,
-      "overview_en": "Across 8 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 8 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, content analysis to explain what these changes mean for communication.",
+      "paperCount": 9,
+      "overview_en": "Across 9 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 9 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
@@ -86,6 +86,11 @@
           "count": 2
         },
         {
+          "label_en": "case study",
+          "label_zh": "案例研究",
+          "count": 2
+        },
+        {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
           "count": 1
@@ -93,6 +98,11 @@
         {
           "label_en": "expert interviews",
           "label_zh": "专家访谈",
+          "count": 1
+        },
+        {
+          "label_en": "legal analysis",
+          "label_zh": "法律分析",
           "count": 1
         },
         {
@@ -114,11 +124,6 @@
           "label_en": "thematic analysis",
           "label_zh": "主题分析",
           "count": 1
-        },
-        {
-          "label_en": "case study",
-          "label_zh": "案例研究",
-          "count": 1
         }
       ]
     },
@@ -126,9 +131,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 27,
-      "overview_en": "Across 27 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 27 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 28,
+      "overview_en": "Across 28 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 28 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -170,6 +175,11 @@
           "count": 2
         },
         {
+          "label_en": "Key (lock)",
+          "label_zh": "钥匙（锁）",
+          "count": 2
+        },
+        {
           "label_en": "digital media",
           "label_zh": "数字媒体",
           "count": 2
@@ -188,18 +198,13 @@
           "label_en": "News",
           "label_zh": "News",
           "count": 2
-        },
-        {
-          "label_en": "Watermarking",
-          "label_zh": "Watermarking",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 7
+          "count": 8
         },
         {
           "label_en": "mixed methods",
@@ -252,9 +257,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 165,
-      "overview_en": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 166,
+      "overview_en": "Across 166 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 166 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -311,13 +316,13 @@
           "count": 12
         },
         {
-          "label_en": "media effects",
-          "label_zh": "媒体效果",
-          "count": 9
-        },
-        {
           "label_en": "Key (lock)",
           "label_zh": "钥匙（锁）",
+          "count": 10
+        },
+        {
+          "label_en": "media effects",
+          "label_zh": "媒体效果",
           "count": 9
         }
       ],
@@ -325,7 +330,7 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 40
+          "count": 41
         },
         {
           "label_en": "content analysis",
@@ -408,7 +413,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 27,
+      "paperCount": 28,
       "topic_bias_en": [
         "political communication",
         "Politics",
@@ -651,13 +656,13 @@
       "count": 12
     },
     {
-      "label_en": "media effects",
-      "label_zh": "媒体效果",
-      "count": 9
-    },
-    {
       "label_en": "Key (lock)",
       "label_zh": "钥匙（锁）",
+      "count": 10
+    },
+    {
+      "label_en": "media effects",
+      "label_zh": "媒体效果",
       "count": 9
     },
     {
@@ -675,7 +680,7 @@
     {
       "label_en": "case study",
       "label_zh": "案例研究",
-      "count": 40
+      "count": 41
     },
     {
       "label_en": "content analysis",
