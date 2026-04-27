@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T22:30:27.775Z",
+  "generatedAt": "2026-04-27T22:43:05.080Z",
   "snapshots": [
     {
       "key": "7d",
@@ -257,9 +257,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 166,
-      "overview_en": "Across 166 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 166 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 167,
+      "overview_en": "Across 167 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 167 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -340,7 +340,7 @@
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 31
+          "count": 32
         },
         {
           "label_en": "mixed methods",
@@ -587,7 +587,7 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 15,
+      "paperCount": 16,
       "topic_bias_en": [
         "Systematic Review",
         "Meta-Analysis",
@@ -690,7 +690,7 @@
     {
       "label_en": "survey",
       "label_zh": "调查",
-      "count": 31
+      "count": 32
     },
     {
       "label_en": "mixed methods",
