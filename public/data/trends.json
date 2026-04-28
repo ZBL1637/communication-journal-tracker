@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T22:43:05.080Z",
+  "generatedAt": "2026-04-28T22:48:58.650Z",
   "snapshots": [
     {
       "key": "7d",
@@ -257,38 +257,33 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 167,
-      "overview_en": "Across 167 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 167 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 165,
+      "overview_en": "Across 165 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 165 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
-        "Social media",
         "Politics",
-        "political communication"
+        "political communication",
+        "Social media"
       ],
       "hot_topics_zh": [
         "And",
         "The",
-        "社交媒体",
         "政治",
-        "政治传播"
+        "政治传播",
+        "社交媒体"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 73
+          "count": 72
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 69
-        },
-        {
-          "label_en": "Social media",
-          "label_zh": "社交媒体",
-          "count": 20
+          "count": 68
         },
         {
           "label_en": "Politics",
@@ -298,6 +293,11 @@
         {
           "label_en": "political communication",
           "label_zh": "政治传播",
+          "count": 19
+        },
+        {
+          "label_en": "Social media",
+          "label_zh": "社交媒体",
           "count": 19
         },
         {
@@ -318,7 +318,7 @@
         {
           "label_en": "Key (lock)",
           "label_zh": "钥匙（锁）",
-          "count": 10
+          "count": 9
         },
         {
           "label_en": "media effects",
@@ -335,12 +335,12 @@
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 39
+          "count": 38
         },
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 32
+          "count": 31
         },
         {
           "label_en": "mixed methods",
@@ -442,7 +442,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 32,
+      "paperCount": 31,
       "topic_bias_en": [
         "Journalism",
         "Work (physics)",
@@ -558,7 +558,7 @@
     {
       "journalName": "International Journal of Press/Politics",
       "journalSlug": "international-journal-of-press-politics",
-      "paperCount": 16,
+      "paperCount": 15,
       "topic_bias_en": [
         "And",
         "The",
@@ -572,14 +572,14 @@
         "Political"
       ],
       "method_bias_en": [
-        "survey",
         "mixed methods",
+        "survey",
         "experiment",
         "content analysis"
       ],
       "method_bias_zh": [
-        "survey",
         "mixed methods",
+        "survey",
         "experiment",
         "content analysis"
       ]
@@ -618,17 +618,12 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 73
+      "count": 72
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 69
-    },
-    {
-      "label_en": "Social media",
-      "label_zh": "社交媒体",
-      "count": 20
+      "count": 68
     },
     {
       "label_en": "Politics",
@@ -638,6 +633,11 @@
     {
       "label_en": "political communication",
       "label_zh": "政治传播",
+      "count": 19
+    },
+    {
+      "label_en": "Social media",
+      "label_zh": "社交媒体",
       "count": 19
     },
     {
@@ -658,7 +658,7 @@
     {
       "label_en": "Key (lock)",
       "label_zh": "钥匙（锁）",
-      "count": 10
+      "count": 9
     },
     {
       "label_en": "media effects",
@@ -685,12 +685,12 @@
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 39
+      "count": 38
     },
     {
       "label_en": "survey",
       "label_zh": "调查",
-      "count": 32
+      "count": 31
     },
     {
       "label_en": "mixed methods",
