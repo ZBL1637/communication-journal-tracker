@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T22:48:58.650Z",
+  "generatedAt": "2026-04-29T22:51:22.058Z",
   "snapshots": [
     {
       "key": "7d",
@@ -131,9 +131,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 28,
-      "overview_en": "Across 28 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 28 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 27,
+      "overview_en": "Across 27 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 27 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -222,11 +222,6 @@
           "count": 3
         },
         {
-          "label_en": "experiment",
-          "label_zh": "experiment",
-          "count": 3
-        },
-        {
           "label_en": "content analysis",
           "label_zh": "内容分析",
           "count": 2
@@ -247,6 +242,11 @@
           "count": 2
         },
         {
+          "label_en": "experiment",
+          "label_zh": "experiment",
+          "count": 2
+        },
+        {
           "label_en": "survey",
           "label_zh": "调查",
           "count": 2
@@ -257,48 +257,48 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 165,
-      "overview_en": "Across 165 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 165 papers, the most visible themes are And, The, Politics. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 162,
+      "overview_en": "Across 162 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 162 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
+        "Social media",
         "Politics",
-        "political communication",
-        "Social media"
+        "political communication"
       ],
       "hot_topics_zh": [
         "And",
         "The",
+        "社交媒体",
         "政治",
-        "政治传播",
-        "社交媒体"
+        "政治传播"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 72
+          "count": 71
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 68
-        },
-        {
-          "label_en": "Politics",
-          "label_zh": "政治",
-          "count": 20
-        },
-        {
-          "label_en": "political communication",
-          "label_zh": "政治传播",
-          "count": 19
+          "count": 67
         },
         {
           "label_en": "Social media",
           "label_zh": "社交媒体",
           "count": 19
+        },
+        {
+          "label_en": "Politics",
+          "label_zh": "政治",
+          "count": 19
+        },
+        {
+          "label_en": "political communication",
+          "label_zh": "政治传播",
+          "count": 18
         },
         {
           "label_en": "Journalism",
@@ -340,12 +340,12 @@
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 31
+          "count": 29
         },
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 28
+          "count": 27
         },
         {
           "label_en": "review",
@@ -413,18 +413,18 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 28,
+      "paperCount": 27,
       "topic_bias_en": [
         "political communication",
         "Politics",
-        "public opinion",
-        "social media"
+        "social media",
+        "public opinion"
       ],
       "topic_bias_zh": [
         "政治传播",
         "政治",
-        "公众舆论",
-        "社交媒体"
+        "社交媒体",
+        "公众舆论"
       ],
       "method_bias_en": [
         "content analysis",
@@ -558,7 +558,7 @@
     {
       "journalName": "International Journal of Press/Politics",
       "journalSlug": "international-journal-of-press-politics",
-      "paperCount": 15,
+      "paperCount": 14,
       "topic_bias_en": [
         "And",
         "The",
@@ -573,21 +573,21 @@
       ],
       "method_bias_en": [
         "mixed methods",
-        "survey",
         "experiment",
-        "content analysis"
+        "content analysis",
+        "survey"
       ],
       "method_bias_zh": [
         "mixed methods",
-        "survey",
         "experiment",
-        "content analysis"
+        "content analysis",
+        "survey"
       ]
     },
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 16,
+      "paperCount": 15,
       "topic_bias_en": [
         "Systematic Review",
         "Meta-Analysis",
@@ -618,27 +618,27 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 72
+      "count": 71
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 68
-    },
-    {
-      "label_en": "Politics",
-      "label_zh": "政治",
-      "count": 20
-    },
-    {
-      "label_en": "political communication",
-      "label_zh": "政治传播",
-      "count": 19
+      "count": 67
     },
     {
       "label_en": "Social media",
       "label_zh": "社交媒体",
       "count": 19
+    },
+    {
+      "label_en": "Politics",
+      "label_zh": "政治",
+      "count": 19
+    },
+    {
+      "label_en": "political communication",
+      "label_zh": "政治传播",
+      "count": 18
     },
     {
       "label_en": "Journalism",
@@ -690,12 +690,12 @@
     {
       "label_en": "survey",
       "label_zh": "调查",
-      "count": 31
+      "count": 29
     },
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 28
+      "count": 27
     },
     {
       "label_en": "review",
