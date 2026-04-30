@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-04-29T22:51:22.058Z",
+  "generatedAt": "2026-04-30T22:44:50.180Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
       "paperCount": 9,
-      "overview_en": "Across 9 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 9 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, content analysis to explain what these changes mean for communication.",
+      "overview_en": "Across 9 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 9 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
-        "political communication",
         "Policy",
+        "political communication",
         "Watermarking"
       ],
       "hot_topics_zh": [
         "The",
         "And",
-        "政治传播",
         "Policy",
+        "政治传播",
         "Watermarking"
       ],
       "high_frequency_keywords": [
@@ -34,13 +34,13 @@
           "count": 4
         },
         {
-          "label_en": "political communication",
-          "label_zh": "政治传播",
-          "count": 3
-        },
-        {
           "label_en": "Policy",
           "label_zh": "Policy",
+          "count": 2
+        },
+        {
+          "label_en": "political communication",
+          "label_zh": "政治传播",
           "count": 2
         },
         {
@@ -81,16 +81,6 @@
           "count": 3
         },
         {
-          "label_en": "content analysis",
-          "label_zh": "内容分析",
-          "count": 2
-        },
-        {
-          "label_en": "case study",
-          "label_zh": "案例研究",
-          "count": 2
-        },
-        {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
           "count": 1
@@ -98,6 +88,21 @@
         {
           "label_en": "expert interviews",
           "label_zh": "专家访谈",
+          "count": 1
+        },
+        {
+          "label_en": "content analysis",
+          "label_zh": "内容分析",
+          "count": 1
+        },
+        {
+          "label_en": "survey experiment",
+          "label_zh": "调查实验",
+          "count": 1
+        },
+        {
+          "label_en": "case study",
+          "label_zh": "案例研究",
           "count": 1
         },
         {
@@ -119,11 +124,6 @@
           "label_en": "systematic literature review",
           "label_zh": "系统文献综述",
           "count": 1
-        },
-        {
-          "label_en": "thematic analysis",
-          "label_zh": "主题分析",
-          "count": 1
         }
       ]
     },
@@ -131,9 +131,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 27,
-      "overview_en": "Across 27 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 27 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 28,
+      "overview_en": "Across 28 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 28 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -175,6 +175,16 @@
           "count": 2
         },
         {
+          "label_en": "journalism ethics",
+          "label_zh": "新闻伦理",
+          "count": 2
+        },
+        {
+          "label_en": "trust",
+          "label_zh": "信任",
+          "count": 2
+        },
+        {
           "label_en": "Key (lock)",
           "label_zh": "钥匙（锁）",
           "count": 2
@@ -187,16 +197,6 @@
         {
           "label_en": "public discourse",
           "label_zh": "公共话语",
-          "count": 2
-        },
-        {
-          "label_en": "digital journalism",
-          "label_zh": "数字新闻",
-          "count": 2
-        },
-        {
-          "label_en": "News",
-          "label_zh": "News",
           "count": 2
         }
       ],
@@ -257,9 +257,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 162,
-      "overview_en": "Across 162 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 162 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 163,
+      "overview_en": "Across 163 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 163 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -442,7 +442,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 31,
+      "paperCount": 32,
       "topic_bias_en": [
         "Journalism",
         "Work (physics)",

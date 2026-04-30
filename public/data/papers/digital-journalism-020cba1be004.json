@@ -1,0 +1,55 @@
+{
+  "id": "digital-journalism-020cba1be004",
+  "doi": "10.1080/21670811.2026.2664428",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2026.2664428?af=R",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-04-29T03:56:49.000Z",
+  "authors": [
+    "Jessica Zier",
+    "Nicholas Diakopoulos",
+    "a Communication Studies",
+    "Northwestern"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-04-30T22:44:41.779Z",
+  "language": "en",
+  "raw_title": "Beyond the Byline: Audience Expectations for AI Disclosure in News Media",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "Beyond the Byline: Audience Expectations for AI Disclosure in News Media",
+  "title_zh": "超越署名：受众对新闻媒体中人工智能披露的期望",
+  "abstract_en": "This study investigates audience expectations regarding the disclosure of artificial intelligence (AI) involvement in news production. Through a survey experiment, we examine how different levels of AI disclosure (none, basic, detailed) affect audience perceptions of credibility, transparency, and trust. Findings reveal that audiences generally expect some form of disclosure, with detailed disclosures enhancing perceived transparency without significantly harming credibility. However, expectations vary based on the type of AI use (e.g., content generation vs. editing). The study contributes to discussions on AI ethics in journalism and provides practical recommendations for news organizations.",
+  "abstract_zh": "本研究调查了受众对新闻生产中人工智能（AI）参与披露的期望。通过一项调查实验，我们考察了不同水平的AI披露（无披露、基本披露、详细披露）如何影响受众对可信度、透明度和信任的看法。研究结果显示，受众普遍期望某种形式的披露，详细披露增强了感知透明度，而不会显著损害可信度。然而，期望因AI使用的类型（例如，内容生成与编辑）而异。该研究为新闻业中AI伦理的讨论做出了贡献，并为新闻机构提供了实用建议。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "AI disclosure",
+    "audience expectations",
+    "journalism ethics",
+    "credibility",
+    "transparency",
+    "trust",
+    "survey experiment"
+  ],
+  "inferred_keywords_zh": [
+    "人工智能披露",
+    "受众期望",
+    "新闻伦理",
+    "可信度",
+    "透明度",
+    "信任",
+    "调查实验"
+  ],
+  "plain_summary_zh": "这项研究想知道读者对新闻中使用人工智能（AI）有什么看法。研究人员通过问卷调查发现，读者希望新闻机构告诉他们是否使用了AI，而且说得越详细越好。这样做不会让读者觉得新闻不可信，反而会觉得更透明。不过，读者对AI写文章和AI编辑文章的态度有点不一样。研究结果可以帮助新闻机构更好地决定如何向读者说明AI的使用情况。",
+  "plain_summary_en": "This study explores what readers think about news organizations using artificial intelligence (AI). Through a survey, researchers found that readers want to be told when AI is used, and the more details the better. Being transparent about AI use doesn't make the news seem less trustworthy; in fact, it makes it seem more open. However, readers' expectations differ depending on whether AI is used to write or just edit content. The findings can help news organizations decide how to inform their audience about AI involvement.",
+  "research_direction_zh": "人工智能在新闻业中的应用与伦理",
+  "research_direction_en": "AI applications and ethics in journalism",
+  "method_tags_zh": [
+    "调查实验"
+  ],
+  "method_tags_en": [
+    "survey experiment"
+  ]
+}

@@ -227,6 +227,55 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "digital-journalism-020cba1be004",
+    "doi": "10.1080/21670811.2026.2664428",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2026.2664428?af=R",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-04-29T03:56:49.000Z",
+    "authors": [
+      "Jessica Zier",
+      "Nicholas Diakopoulos",
+      "a Communication Studies",
+      "Northwestern"
+    ],
+    "title_en": "Beyond the Byline: Audience Expectations for AI Disclosure in News Media",
+    "title_zh": "超越署名：受众对新闻媒体中人工智能披露的期望",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "AI disclosure",
+      "audience expectations",
+      "journalism ethics",
+      "credibility",
+      "transparency",
+      "trust",
+      "survey experiment"
+    ],
+    "inferred_keywords_zh": [
+      "人工智能披露",
+      "受众期望",
+      "新闻伦理",
+      "可信度",
+      "透明度",
+      "信任",
+      "调查实验"
+    ],
+    "plain_summary_zh": "这项研究想知道读者对新闻中使用人工智能（AI）有什么看法。研究人员通过问卷调查发现，读者希望新闻机构告诉他们是否使用了AI，而且说得越详细越好。这样做不会让读者觉得新闻不可信，反而会觉得更透明。不过，读者对AI写文章和AI编辑文章的态度有点不一样。研究结果可以帮助新闻机构更好地决定如何向读者说明AI的使用情况。",
+    "plain_summary_en": "This study explores what readers think about news organizations using artificial intelligence (AI). Through a survey, researchers found that readers want to be told when AI is used, and the more details the better. Being transparent about AI use doesn't make the news seem less trustworthy; in fact, it makes it seem more open. However, readers' expectations differ depending on whether AI is used to write or just edit content. The findings can help news organizations decide how to inform their audience about AI involvement.",
+    "research_direction_zh": "人工智能在新闻业中的应用与伦理",
+    "research_direction_en": "AI applications and ethics in journalism",
+    "method_tags_zh": [
+      "调查实验"
+    ],
+    "method_tags_en": [
+      "survey experiment"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-04-30T22:44:41.779Z"
+  },
+  {
     "id": "political-communication-3a162895a30c",
     "doi": "10.1080/10584609.2026.2664157",
     "url": "https://doi.org/10.1080/10584609.2026.2664157",
