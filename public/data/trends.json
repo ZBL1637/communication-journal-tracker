@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-04-30T22:44:50.180Z",
+  "generatedAt": "2026-05-01T22:42:04.525Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 9,
-      "overview_en": "Across 9 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 9 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 7,
+      "overview_en": "Across 7 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 7 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
         "Policy",
-        "political communication",
-        "Watermarking"
+        "Watermarking",
+        "Legal"
       ],
       "hot_topics_zh": [
         "The",
         "And",
         "Policy",
-        "政治传播",
-        "Watermarking"
+        "Watermarking",
+        "Legal"
       ],
       "high_frequency_keywords": [
         {
@@ -36,11 +36,6 @@
         {
           "label_en": "Policy",
           "label_zh": "Policy",
-          "count": 2
-        },
-        {
-          "label_en": "political communication",
-          "label_zh": "政治传播",
           "count": 2
         },
         {
@@ -71,6 +66,11 @@
         {
           "label_en": "Enforcement",
           "label_zh": "Enforcement",
+          "count": 1
+        },
+        {
+          "label_en": "Data",
+          "label_zh": "Data",
           "count": 1
         }
       ],
@@ -108,21 +108,6 @@
         {
           "label_en": "legal analysis",
           "label_zh": "法律分析",
-          "count": 1
-        },
-        {
-          "label_en": "literature review",
-          "label_zh": "文献综述",
-          "count": 1
-        },
-        {
-          "label_en": "theoretical discussion",
-          "label_zh": "理论探讨",
-          "count": 1
-        },
-        {
-          "label_en": "systematic literature review",
-          "label_zh": "系统文献综述",
           "count": 1
         }
       ]
