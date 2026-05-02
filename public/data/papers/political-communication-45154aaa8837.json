@@ -1,0 +1,53 @@
+{
+  "id": "political-communication-45154aaa8837",
+  "doi": "10.1080/10584609.2026.2665427",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2665427?af=R",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-05-02T02:27:23.000Z",
+  "authors": [
+    "Laura Edelson Khoury",
+    "Northeastern",
+    "Boston",
+    "USA"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-05-02T22:32:45.028Z",
+  "language": "en",
+  "raw_title": "What the DSA Means Outside Europe: Research Access and Its Limits",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "What the DSA Means Outside Europe: Research Access and Its Limits",
+  "title_zh": "《数字服务法》在欧洲之外的意义：研究可及性及其限制",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "Digital Services Act",
+    "research access",
+    "platform regulation",
+    "data access",
+    "non-European impact"
+  ],
+  "inferred_keywords_zh": [
+    "数字服务法",
+    "研究可及性",
+    "平台监管",
+    "数据访问",
+    "非欧洲影响"
+  ],
+  "plain_summary_zh": "本文探讨欧盟《数字服务法》（DSA）对欧洲以外地区研究人员获取平台数据的影响，分析DSA在促进研究可及性方面的作用及其局限性。",
+  "plain_summary_en": "This article examines the impact of the EU's Digital Services Act (DSA) on researchers' access to platform data outside Europe, analyzing the DSA's role in facilitating research access and its limitations.",
+  "research_direction_zh": "数字平台监管与数据可及性研究",
+  "research_direction_en": "Digital platform regulation and data accessibility research",
+  "method_tags_zh": [
+    "政策分析",
+    "案例研究"
+  ],
+  "method_tags_en": [
+    "policy analysis",
+    "case study"
+  ]
+}
