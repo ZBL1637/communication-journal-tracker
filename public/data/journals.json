@@ -229,21 +229,21 @@
       ".obj_article_summary h3 a",
       ".cmp_article_list__item h3 a"
     ],
-    "paperCount": 17,
-    "latestPublishedAt": "2026-04-23T00:00:00.000Z",
+    "paperCount": 18,
+    "latestPublishedAt": "2026-04-30T00:00:00.000Z",
     "topKeywordsEn": [
-      "Deep Learning",
-      "Augmented Reality",
-      "Object Tracking",
-      "Communication",
-      "Technology"
+      "Digital Leadership",
+      "Personality Traits",
+      "Visual Communication",
+      "Student Engagement",
+      "Educational Technology"
     ],
     "topKeywordsZh": [
-      "深度学习",
-      "增强现实",
-      "物体追踪",
-      "传播",
-      "技术"
+      "数字领导力",
+      "人格特质",
+      "视觉传达",
+      "学生参与度",
+      "教育技术"
     ]
   }
 ]
