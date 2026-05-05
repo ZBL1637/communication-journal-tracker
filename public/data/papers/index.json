@@ -227,6 +227,442 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "research-on-language-and-social-interaction-f8c7b22710b1",
+    "doi": "10.1080/08351813.2026.2624344",
+    "url": "https://doi.org/10.1080/08351813.2026.2624344",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-05-05T04:08:57.000Z",
+    "authors": [
+      "Arnulf Deppermann",
+      "Alexandra Gubina",
+      "Leibniz-Institut für",
+      "Deutsche Sprache",
+      "Mannheim",
+      "Germany"
+    ],
+    "title_en": "Action categorization in Conversation Analysis and Interactional Linguistics: Challenges and perspectives",
+    "title_zh": "会话分析与互动语言学中的行为分类：挑战与视角",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "conversation analysis",
+      "interactional linguistics",
+      "action categorization",
+      "social interaction",
+      "methodology"
+    ],
+    "inferred_keywords_zh": [
+      "会话分析",
+      "互动语言学",
+      "行为分类",
+      "社会互动",
+      "方法论"
+    ],
+    "plain_summary_zh": "本文探讨了在会话分析和互动语言学中如何对人们的行为进行分类，讨论了其中的挑战和未来研究方向。",
+    "plain_summary_en": "This article discusses how to categorize people's actions in conversation analysis and interactional linguistics, addressing challenges and future research directions.",
+    "research_direction_zh": "会话分析与互动语言学中的行为分类方法论",
+    "research_direction_en": "Methodology of action categorization in conversation analysis and interactional linguistics",
+    "method_tags_zh": [
+      "文献综述",
+      "理论分析"
+    ],
+    "method_tags_en": [
+      "literature review",
+      "theoretical analysis"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-05T22:50:20.939Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-1c2017df6f0e",
+    "doi": "10.1080/08351813.2026.2624984",
+    "url": "https://doi.org/10.1080/08351813.2026.2624984",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-05-05T04:08:57.000Z",
+    "authors": [
+      "Elizabeth Couper-Kuhlen",
+      "Finno-Ugrian and",
+      "Scandinavian Studies",
+      "Helsinki",
+      "Finland"
+    ],
+    "title_en": "Should we indict action categorization?",
+    "title_zh": "我们是否应该指控行动分类？",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "action categorization",
+      "conversation analysis",
+      "social interaction"
+    ],
+    "inferred_keywords_zh": [
+      "行动分类",
+      "会话分析",
+      "社会互动"
+    ],
+    "plain_summary_zh": "这篇文章探讨了在语言和社会互动研究中，是否应该对行动进行分类提出质疑。它可能讨论了分类的利弊以及替代方法。",
+    "plain_summary_en": "This article discusses whether we should question the categorization of actions in the study of language and social interaction. It likely examines the pros and cons of categorization and alternative approaches.",
+    "research_direction_zh": "语言与社会互动中的行动分类与分析方法",
+    "research_direction_en": "Action categorization and analytical methods in language and social interaction",
+    "method_tags_zh": [
+      "理论探讨",
+      "文献综述"
+    ],
+    "method_tags_en": [
+      "theoretical discussion",
+      "literature review"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-05T22:50:20.903Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-78081ec12f13",
+    "doi": "10.1080/08351813.2026.2624980",
+    "url": "https://doi.org/10.1080/08351813.2026.2624980",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-05-05T04:08:57.000Z",
+    "authors": [
+      "Alexandra Gubina",
+      "Arnulf Deppermann",
+      "Barbara A. Fox",
+      "Chase Wesley Raymond",
+      "Sandra A. Thompson",
+      "Leibniz",
+      "Mannheim",
+      "Germanyb",
+      "Colorado Boulderc",
+      "Santa Barbara"
+    ],
+    "title_en": "On the “next-turn proof procedure” in the analysis of social interaction: Trouble formulations in the context of practical activities",
+    "title_zh": "论社会互动分析中的“下一话轮证明程序”：实践活动语境中的问题表述",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "conversation analysis",
+      "next-turn proof procedure",
+      "trouble formulations",
+      "practical activities",
+      "social interaction"
+    ],
+    "inferred_keywords_zh": [
+      "会话分析",
+      "下一话轮证明程序",
+      "问题表述",
+      "实践活动",
+      "社会互动"
+    ],
+    "plain_summary_zh": "本文探讨了会话分析中一种称为“下一话轮证明程序”的方法，该方法通过观察说话者如何回应前一个话轮来理解互动。研究聚焦于人们在日常实践活动中如何表达和解决沟通问题。",
+    "plain_summary_en": "This paper examines a method in conversation analysis called the 'next-turn proof procedure,' which looks at how speakers respond to previous turns to understand interaction. It focuses on how people formulate and resolve troubles in practical activities.",
+    "research_direction_zh": "会话分析与互动语言学",
+    "research_direction_en": "Conversation Analysis and Interactional Linguistics",
+    "method_tags_zh": [
+      "会话分析",
+      "案例研究"
+    ],
+    "method_tags_en": [
+      "conversation analysis",
+      "case study"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-05T22:50:15.550Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-b5c5498c4415",
+    "doi": "10.1080/08351813.2026.2624981",
+    "url": "https://doi.org/10.1080/08351813.2026.2624981",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-05-05T04:08:57.000Z",
+    "authors": [
+      "Kobin H. Kendrick",
+      "Paul Drew",
+      "Kobin H.",
+      "Kendrick Paul Drew",
+      "York",
+      "UK"
+    ],
+    "title_en": "Addressee points in conflictual interactions: A reductionist analysis of action",
+    "title_zh": "冲突互动中的受话点：行动的还原分析",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "conversation analysis",
+      "conflict interaction",
+      "addressee",
+      "action formation",
+      "reductionist analysis"
+    ],
+    "inferred_keywords_zh": [
+      "会话分析",
+      "冲突互动",
+      "受话者",
+      "行动构成",
+      "还原分析"
+    ],
+    "plain_summary_zh": "本文研究人们在争吵或争论等冲突性对话中，如何通过语言细节（如称呼、眼神、手势）来指定谁是说话对象，并分析这些行为如何构成社会行动。",
+    "plain_summary_en": "This study examines how people in conflictual conversations, such as arguments or disputes, use linguistic details (like address terms, gaze, gestures) to designate who they are speaking to, and analyzes how these behaviors constitute social actions.",
+    "research_direction_zh": "会话分析与互动语言学",
+    "research_direction_en": "Conversation Analysis and Interactional Linguistics",
+    "method_tags_zh": [
+      "会话分析",
+      "案例研究"
+    ],
+    "method_tags_en": [
+      "conversation analysis",
+      "case study"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-05T22:50:15.507Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-6f82e7c9cbff",
+    "doi": "10.1080/08351813.2026.2624978",
+    "url": "https://doi.org/10.1080/08351813.2026.2624978",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-05-05T04:08:57.000Z",
+    "authors": [
+      "Barbara A. Fox",
+      "Sandra A. Thompson",
+      "Barbara A.",
+      "Fox Sandra",
+      "A. Thompson",
+      "Colorado Boulder",
+      "Coloradob",
+      "Santa Barbara",
+      "USA"
+    ],
+    "title_en": "I wonder + indirect question: Action formation and action ascription",
+    "title_zh": "I wonder + 间接疑问句：行动形成与行动归因",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "conversation analysis",
+      "indirect questions",
+      "action formation",
+      "action ascription",
+      "epistemic stance"
+    ],
+    "inferred_keywords_zh": [
+      "会话分析",
+      "间接疑问句",
+      "行动形成",
+      "行动归因",
+      "认知立场"
+    ],
+    "plain_summary_zh": "本文研究英语中“I wonder”加上间接疑问句（如“I wonder if you could help me”）这种表达方式在对话中如何构成特定的社交行动（如请求、建议等），以及听话人如何理解这些行动。通过分析真实对话，作者揭示了这种句式在互动中的功能。",
+    "plain_summary_en": "This study examines how the expression 'I wonder' followed by an indirect question (e.g., 'I wonder if you could help me') forms specific social actions (such as requests, suggestions) in conversation, and how listeners interpret these actions. By analyzing real conversations, the authors reveal the interactive functions of this construction.",
+    "research_direction_zh": "会话分析与互动语言学",
+    "research_direction_en": "Conversation Analysis and Interactional Linguistics",
+    "method_tags_zh": [
+      "会话分析",
+      "语料库分析"
+    ],
+    "method_tags_en": [
+      "conversation analysis",
+      "corpus analysis"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-05T22:50:15.398Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-f5ec87a2361d",
+    "doi": "10.1080/08351813.2026.2624345",
+    "url": "https://doi.org/10.1080/08351813.2026.2624345",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-05-05T04:08:57.000Z",
+    "authors": [
+      "Giovanni Rossi",
+      "Tanya Stivers",
+      "Andrew Chalfoun",
+      "Los Angeles"
+    ],
+    "title_en": "When requests are not articulated: Accountability and social action ascription",
+    "title_zh": "当请求未被明确表达：责任归属与社会行动归因",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "requests",
+      "accountability",
+      "social action ascription",
+      "conversation analysis",
+      "interactional linguistics"
+    ],
+    "inferred_keywords_zh": [
+      "请求",
+      "责任归属",
+      "社会行动归因",
+      "会话分析",
+      "互动语言学"
+    ],
+    "plain_summary_zh": "本文探讨在社交互动中，人们如何理解那些没有明确说出的请求，以及如何将责任归因于这些隐含的行动。",
+    "plain_summary_en": "This article explores how people understand requests that are not explicitly stated in social interaction, and how accountability is attributed to these implicit actions.",
+    "research_direction_zh": "语言与社会互动中的隐含意义与责任归属研究",
+    "research_direction_en": "Study of implicit meaning and accountability in language and social interaction",
+    "method_tags_zh": [
+      "会话分析",
+      "语料库分析"
+    ],
+    "method_tags_en": [
+      "conversation analysis",
+      "corpus analysis"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-05T22:50:09.638Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-7162563bfb11",
+    "doi": "10.1080/08351813.2026.2624976",
+    "url": "https://doi.org/10.1080/08351813.2026.2624976",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-05-05T04:08:57.000Z",
+    "authors": [
+      "Lorenza Mondada",
+      "Switzerland"
+    ],
+    "title_en": "The multiple accountabilities of offering something here and now: Giving a gift or imposing an obligation?",
+    "title_zh": "此时此地提供某物的多重责任：是赠送礼物还是强加义务？",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "gift-giving",
+      "obligation",
+      "conversation analysis",
+      "social interaction",
+      "accountability"
+    ],
+    "inferred_keywords_zh": [
+      "赠送礼物",
+      "义务",
+      "会话分析",
+      "社会互动",
+      "责任"
+    ],
+    "plain_summary_zh": "这项研究探讨了在日常互动中，当一个人向另一个人提供某物（比如一杯茶或一个礼物）时，这种行为可能被理解为慷慨的赠予，也可能被视为施加了一种义务。研究者通过分析对话细节，揭示了这种提供行为如何同时承担多种社会责任。",
+    "plain_summary_en": "This study examines how, in everyday interactions, when someone offers something (like a cup of tea or a gift), the act can be understood either as a generous gift or as imposing an obligation. By analyzing conversational details, the researcher reveals how such offers carry multiple social accountabilities at the same time.",
+    "research_direction_zh": "会话分析与互动社会语言学",
+    "research_direction_en": "Conversation Analysis and Interactional Sociolinguistics",
+    "method_tags_zh": [
+      "会话分析",
+      "案例研究"
+    ],
+    "method_tags_en": [
+      "conversation analysis",
+      "case study"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-05T22:50:09.503Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-71316bf1f9a1",
+    "doi": "10.1080/08351813.2026.2624977",
+    "url": "https://doi.org/10.1080/08351813.2026.2624977",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-05-05T04:08:57.000Z",
+    "authors": [
+      "Axel Schmidt",
+      "Arnulf Deppermann",
+      "Arnulf Deppermann Pragmatics",
+      "Leibniz-Institut für Deutsche Sprache (IDS)",
+      "Germany"
+    ],
+    "title_en": "On action type labels: Can enactments in theater rehearsals be understood as proposals?",
+    "title_zh": "论行动类型标签：戏剧排练中的表演能否被理解为提议？",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "conversation analysis",
+      "theater rehearsals",
+      "action type labels",
+      "proposals",
+      "enactments"
+    ],
+    "inferred_keywords_zh": [
+      "会话分析",
+      "戏剧排练",
+      "行动类型标签",
+      "提议",
+      "表演"
+    ],
+    "plain_summary_zh": "这项研究探讨了在戏剧排练中，演员的表演行为是否可以被视为一种“提议”。研究者通过分析排练中的对话和互动，试图理解人们如何给行动贴上标签，以及这些标签如何影响我们对交流的理解。",
+    "plain_summary_en": "This study explores whether actors' enactments in theater rehearsals can be understood as 'proposals'. By analyzing conversations and interactions during rehearsals, the researchers aim to understand how people label actions and how these labels affect our understanding of communication.",
+    "research_direction_zh": "会话分析与互动语言学",
+    "research_direction_en": "Conversation Analysis and Interactional Linguistics",
+    "method_tags_zh": [
+      "会话分析",
+      "案例研究"
+    ],
+    "method_tags_en": [
+      "conversation analysis",
+      "case study"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-05T22:50:08.799Z"
+  },
+  {
+    "id": "journal-of-communication-fc89eb8bb0f8",
+    "doi": "10.1093/joc/jqag004",
+    "url": "https://doi.org/10.1093/joc/jqag004",
+    "journalName": "JOURNAL OF COMMUNICATION",
+    "journalSlug": "journal-of-communication",
+    "issn": "0021-9916",
+    "publishedAt": "2026-05-05T00:00:00.000Z",
+    "authors": [
+      "Noemi Festic",
+      "Moritz Büchi",
+      "Michael Latzer",
+      "Céline Odermatt"
+    ],
+    "title_en": "Dataveillance inhibits legitimate communication: causal evidence for chilling effects",
+    "title_zh": "数据监控抑制合法沟通：寒蝉效应的因果证据",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "chilling effects",
+      "dataveillance",
+      "self-censorship",
+      "online communication",
+      "field experiment"
+    ],
+    "inferred_keywords_zh": [
+      "寒蝉效应",
+      "数据监控",
+      "自我审查",
+      "在线沟通",
+      "现场实验"
+    ],
+    "plain_summary_zh": "这项研究发现，当人们知道自己的在线行为可能被监控时，他们会更不愿意分享观点、搜索信息或透露个人信息，即使这些活动是合法的。这种“寒蝉效应”在女性、年长和受教育程度较低的人群中更为明显。研究通过一个长达六周的在线实验证明了这一点。",
+    "plain_summary_en": "This study found that when people know their online behavior might be monitored, they become less willing to share opinions, seek information, or disclose personal information, even if those activities are legal. This 'chilling effect' is stronger among women, older people, and those with less education. The finding comes from a six-week online experiment.",
+    "research_direction_zh": "数字监控对沟通自由和民主参与的影响",
+    "research_direction_en": "Impact of digital surveillance on communication freedom and democratic participation",
+    "method_tags_zh": [
+      "现场实验",
+      "纵向研究",
+      "焦点小组"
+    ],
+    "method_tags_en": [
+      "field experiment",
+      "longitudinal study",
+      "focus group"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-05T22:49:59.041Z"
+  },
+  {
     "id": "political-communication-45154aaa8837",
     "doi": "10.1080/10584609.2026.2665427",
     "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2665427?af=R",
@@ -272,6 +708,146 @@
     ],
     "source": "rss",
     "fetchedAt": "2026-05-02T22:32:45.028Z"
+  },
+  {
+    "id": "international-journal-of-press-politics-6af629bcfa21",
+    "doi": "10.1177/19401612261440998",
+    "url": "https://doi.org/10.1177/19401612261440998",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-04-30T00:00:00.000Z",
+    "authors": [
+      "Alena Kluknavská",
+      "Olga Eisele",
+      "Petro Tolochko"
+    ],
+    "title_en": "“Liar, Liar, Pants on Fire!” An Automated Analysis of Polarities of Mediated Truth Contestation in Austrian and Czech News Media",
+    "title_zh": "“说谎者，说谎者，裤子着火！”奥地利和捷克新闻媒体中中介化真相争夺的自动化分析",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "truth contestation",
+      "automated content analysis",
+      "migration coverage",
+      "media polarization",
+      "post-truth politics"
+    ],
+    "inferred_keywords_zh": [
+      "真相争夺",
+      "自动化内容分析",
+      "移民报道",
+      "媒体极化",
+      "后真相政治"
+    ],
+    "plain_summary_zh": "这项研究分析了奥地利和捷克新闻媒体如何讨论移民话题中的真假问题。研究者用计算机分析了超过16万篇新闻文章，发现小报和严肃报纸、主流媒体和另类媒体在谈论真假时方式不同。他们还发现，民粹主义政客和政府官员在媒体中经常参与真假争论。这项研究帮助我们理解在“后真相”时代，媒体如何影响人们对事实的看法。",
+    "plain_summary_en": "This study analyzes how Austrian and Czech news media discuss truth and lies in migration coverage. Using computer analysis of over 160,000 news articles, the researchers found that tabloids and broadsheets, as well as mainstream and alternative media, differ in how they talk about truth and falsehood. They also found that populist politicians and government officials often engage in truth debates in the media. This research helps us understand how media shape perceptions of facts in a 'post-truth' era.",
+    "research_direction_zh": "政治传播与计算社会科学交叉领域，研究媒体在真相争夺和极化中的作用",
+    "research_direction_en": "Intersection of political communication and computational social science, studying media's role in truth contestation and polarization",
+    "method_tags_zh": [
+      "自动化内容分析",
+      "潜在语义缩放",
+      "命名实体识别"
+    ],
+    "method_tags_en": [
+      "automated content analysis",
+      "latent semantic scaling",
+      "named entity recognition"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-05T22:50:53.018Z"
+  },
+  {
+    "id": "international-journal-of-press-politics-99d7661735d7",
+    "doi": "10.1177/19401612261442026",
+    "url": "https://doi.org/10.1177/19401612261442026",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-04-30T00:00:00.000Z",
+    "authors": [
+      "Gowhar Farooq"
+    ],
+    "title_en": "Making Room for Journalism: Cultivating Spaces to Sustain Practices, Camaraderie and Community Amidst Repression",
+    "title_zh": "为新闻业腾出空间：在压制中培育维持实践、友情和社区的空间",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "journalism under repression",
+      "Kashmir",
+      "journalistic space",
+      "community resilience",
+      "adaptive strategies"
+    ],
+    "inferred_keywords_zh": [
+      "压制下的新闻业",
+      "克什米尔",
+      "新闻空间",
+      "社区韧性",
+      "适应性策略"
+    ],
+    "plain_summary_zh": "这篇文章研究了克什米尔记者在政治压制下如何创造新的工作和社交空间来继续做新闻。2019年克什米尔自治被取消后，很多记者失去了办公室和聚会场所。他们通过建立非正式的工作空间和参与公共社交活动来保持联系和继续报道。这些做法虽然不在正规新闻机构内，但对维持新闻业非常重要。",
+    "plain_summary_en": "This article studies how journalists in Kashmir create new work and social spaces to continue journalism under political repression. After the revocation of autonomy in 2019, many journalists lost their offices and meeting places. They adapt by forming informal workspaces and engaging in public social rituals to stay connected and keep reporting. These practices, though outside formal news institutions, are crucial for sustaining journalism.",
+    "research_direction_zh": "新闻业在政治压制下的空间适应与社区韧性",
+    "research_direction_en": "Journalistic space adaptation and community resilience under political repression",
+    "method_tags_zh": [
+      "民族志访谈",
+      "参与观察"
+    ],
+    "method_tags_en": [
+      "ethnographic interview",
+      "participant observation"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-05T22:50:52.698Z"
+  },
+  {
+    "id": "international-journal-of-press-politics-3ac2cee4f154",
+    "doi": "10.1177/19401612261435333",
+    "url": "https://doi.org/10.1177/19401612261435333",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-04-30T00:00:00.000Z",
+    "authors": [
+      "Tianru Guan",
+      "Yilu Yang",
+      "Wenhui Guo"
+    ],
+    "title_en": "Simulated superiority and mediated geopolitics: affective responses to AI-generated political parody in Chinese digital space",
+    "title_zh": "模拟优越与媒介化地缘政治：中国数字空间中对AI生成政治模仿秀的情感反应",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "AI-generated political parody",
+      "simulated superiority",
+      "geopolitical emotion",
+      "national identity",
+      "visual realism",
+      "China",
+      "US-China relations"
+    ],
+    "inferred_keywords_zh": [
+      "AI生成政治模仿秀",
+      "模拟优越",
+      "地缘政治情感",
+      "国家认同",
+      "视觉真实性",
+      "中国",
+      "中美关系"
+    ],
+    "plain_summary_zh": "这项研究探讨了AI生成的搞笑政治视频如何影响中国网民对中美关系的感受。研究者发现，观看这类视频会让人们感到更优越，同时减少对美国的敌意，但只有视频看起来非常真实时，才会降低人们对地缘政治威胁的感知。",
+    "plain_summary_en": "This study explores how AI-generated funny political videos affect Chinese netizens' feelings about US-China relations. Researchers found that watching such videos makes people feel more superior and less hostile toward the US, but only when the videos look very realistic does it reduce perceived geopolitical threat.",
+    "research_direction_zh": "政治传播与人工智能的交叉研究，关注AI生成内容如何影响公众情感和国家认同。",
+    "research_direction_en": "Intersection of political communication and artificial intelligence, focusing on how AI-generated content influences public emotions and national identity.",
+    "method_tags_zh": [
+      "实验"
+    ],
+    "method_tags_en": [
+      "experiment"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-05T22:50:51.626Z"
   },
   {
     "id": "review-of-communication-research-2a95bfe967cc",
@@ -986,6 +1562,109 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-04-16T09:17:32.917Z"
+  },
+  {
+    "id": "social-media-and-society-0ed67b529664",
+    "doi": "10.1177/20563051261443896",
+    "url": "https://doi.org/10.1177/20563051261443896",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Areej Alhouli",
+      "Sussie Morrish"
+    ],
+    "title_en": "When Not to Post: Inhibition and the Digital Presentation of Self of Muslim Women",
+    "title_zh": "何时不发布：抑制与穆斯林女性的数字自我呈现",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "inhibition",
+      "self-presentation",
+      "social media",
+      "Muslim women",
+      "Kuwait",
+      "New Zealand",
+      "audience control",
+      "post permanence",
+      "privacy",
+      "moral accountability",
+      "collective belonging"
+    ],
+    "inferred_keywords_zh": [
+      "抑制",
+      "自我呈现",
+      "社交媒体",
+      "穆斯林女性",
+      "科威特",
+      "新西兰",
+      "受众控制",
+      "帖子持久性",
+      "隐私",
+      "道德责任",
+      "集体归属感"
+    ],
+    "plain_summary_zh": "这项研究通过采访科威特和新西兰的穆斯林女性，发现她们在社交媒体上发布内容时会进行内部克制，这种克制取决于谁能看到内容以及内容是否永久存在。在科威特，克制主要来自法律和社会监督；在新西兰，则来自作为少数群体的代表压力。已婚女性比未婚女性更克制。",
+    "plain_summary_en": "This study interviewed Muslim women in Kuwait and New Zealand and found that they internally restrain themselves from posting on social media based on who can see the content and whether it is permanent. In Kuwait, restraint comes from legal and social monitoring; in New Zealand, from minority visibility and representational concerns. Married women are more restrained than unmarried ones.",
+    "research_direction_zh": "社交媒体中的自我呈现与抑制机制",
+    "research_direction_en": "Self-presentation and inhibition mechanisms in social media",
+    "method_tags_zh": [
+      "深度访谈"
+    ],
+    "method_tags_en": [
+      "in-depth interview"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-05T22:50:34.924Z"
+  },
+  {
+    "id": "social-media-and-society-2ff51979bbef",
+    "doi": "10.1177/20563051261446819",
+    "url": "https://doi.org/10.1177/20563051261446819",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Jie Cui"
+    ],
+    "title_en": "Gamification, Datafication, and Performativity: How Interface Design Builds “Stardew Valley” in Rural Governance",
+    "title_zh": "游戏化、数据化与表演性：界面设计如何在乡村治理中构建“星露谷物语”",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "gamification",
+      "datafication",
+      "performativity",
+      "rural governance",
+      "digital platform",
+      "China",
+      "interface design",
+      "Stardew Valley"
+    ],
+    "inferred_keywords_zh": [
+      "游戏化",
+      "数据化",
+      "表演性",
+      "乡村治理",
+      "数字平台",
+      "中国",
+      "界面设计",
+      "星露谷物语"
+    ],
+    "plain_summary_zh": "这篇文章研究了中国一个叫“川善治”的乡村治理数字平台。它发现这个平台通过游戏化的设计（比如升级、积分和星级评分）来激励村民参与，同时用数据监控来管理，并塑造一种和谐、勤劳、道德高尚的乡村形象。这种设计结合了中国的群众路线传统、儒家思想、数字平台的参与指标和现代官僚管理。",
+    "plain_summary_en": "This article studies a Chinese digital platform for rural governance called 'ChuanShanZhi'. It finds that the platform uses game-like features (such as upgrades, points, and star ratings) to motivate villagers, employs data tracking for management, and promotes a vision of a harmonious, hardworking, and morally good countryside. This design combines China's mass line tradition, Confucian values, digital engagement metrics, and modern bureaucratic management.",
+    "research_direction_zh": "数字治理与乡村发展",
+    "research_direction_en": "Digital governance and rural development",
+    "method_tags_zh": [
+      "案例研究"
+    ],
+    "method_tags_en": [
+      "case study"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-05T22:50:33.931Z"
   },
   {
     "id": "social-media-and-society-223b8de0faf2",

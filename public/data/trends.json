@@ -1,28 +1,33 @@
 {
-  "generatedAt": "2026-05-04T22:50:45.031Z",
+  "generatedAt": "2026-05-05T22:50:55.257Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 8,
-      "overview_en": "Across 8 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 8 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 20,
+      "overview_en": "Across 20 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on conversation analysis, case study to explain what these changes mean for communication.",
+      "overview_zh": "Across 20 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on conversation analysis, case study to explain what these changes mean for communication.",
       "hot_topics_en": [
+        "conversation analysis",
         "The",
         "And",
-        "Policy",
-        "Watermarking",
-        "Legal"
+        "social interaction",
+        "Policy"
       ],
       "hot_topics_zh": [
+        "会话分析",
         "The",
         "And",
-        "Policy",
-        "Watermarking",
-        "Legal"
+        "社会互动",
+        "Policy"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
+          "count": 8
+        },
         {
           "label_en": "The",
           "label_zh": "The",
@@ -34,51 +39,66 @@
           "count": 4
         },
         {
+          "label_en": "social interaction",
+          "label_zh": "社会互动",
+          "count": 4
+        },
+        {
           "label_en": "Policy",
           "label_zh": "Policy",
+          "count": 2
+        },
+        {
+          "label_en": "interactional linguistics",
+          "label_zh": "互动语言学",
+          "count": 2
+        },
+        {
+          "label_en": "action categorization",
+          "label_zh": "行为分类",
+          "count": 2
+        },
+        {
+          "label_en": "action formation",
+          "label_zh": "行动构成",
+          "count": 2
+        },
+        {
+          "label_en": "accountability",
+          "label_zh": "责任归属",
           "count": 2
         },
         {
           "label_en": "Watermarking",
           "label_zh": "Watermarking",
           "count": 1
-        },
-        {
-          "label_en": "Legal",
-          "label_zh": "Legal",
-          "count": 1
-        },
-        {
-          "label_en": "Generated",
-          "label_zh": "Generated",
-          "count": 1
-        },
-        {
-          "label_en": "Measures",
-          "label_zh": "Measures",
-          "count": 1
-        },
-        {
-          "label_en": "Compliance",
-          "label_zh": "Compliance",
-          "count": 1
-        },
-        {
-          "label_en": "Enforcement",
-          "label_zh": "Enforcement",
-          "count": 1
-        },
-        {
-          "label_en": "Data",
-          "label_zh": "Data",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
+          "count": 6
+        },
+        {
+          "label_en": "case study",
+          "label_zh": "案例研究",
+          "count": 5
+        },
+        {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
           "count": 3
+        },
+        {
+          "label_en": "literature review",
+          "label_zh": "文献综述",
+          "count": 2
+        },
+        {
+          "label_en": "corpus analysis",
+          "label_zh": "语料库分析",
+          "count": 2
         },
         {
           "label_en": "computational analysis",
@@ -96,23 +116,13 @@
           "count": 1
         },
         {
-          "label_en": "policy analysis",
-          "label_zh": "政策分析",
+          "label_en": "theoretical analysis",
+          "label_zh": "理论分析",
           "count": 1
         },
         {
-          "label_en": "case study",
-          "label_zh": "案例研究",
-          "count": 1
-        },
-        {
-          "label_en": "systematic literature review",
-          "label_zh": "系统性文献综述",
-          "count": 1
-        },
-        {
-          "label_en": "survey experiment",
-          "label_zh": "调查实验",
+          "label_en": "theoretical discussion",
+          "label_zh": "理论探讨",
           "count": 1
         }
       ]
@@ -121,24 +131,29 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 19,
-      "overview_en": "Across 19 papers, the most visible themes are The, And, political communication. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 19 papers, the most visible themes are The, And, political communication. Researchers most often rely on case study, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 31,
+      "overview_en": "Across 31 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 31 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
+        "conversation analysis",
         "The",
         "And",
-        "political communication",
-        "Policy",
-        "Digital Services Act"
+        "social interaction",
+        "political communication"
       ],
       "hot_topics_zh": [
+        "会话分析",
         "The",
         "And",
-        "政治传播",
-        "Policy",
-        "数字服务法"
+        "社会互动",
+        "政治传播"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
+          "count": 8
+        },
         {
           "label_en": "The",
           "label_zh": "The",
@@ -148,6 +163,11 @@
           "label_en": "And",
           "label_zh": "And",
           "count": 6
+        },
+        {
+          "label_en": "social interaction",
+          "label_zh": "社会互动",
+          "count": 4
         },
         {
           "label_en": "political communication",
@@ -160,33 +180,23 @@
           "count": 2
         },
         {
-          "label_en": "Digital Services Act",
-          "label_zh": "数字服务法",
+          "label_en": "interactional linguistics",
+          "label_zh": "互动语言学",
           "count": 2
         },
         {
-          "label_en": "data access",
-          "label_zh": "数据访问",
+          "label_en": "action categorization",
+          "label_zh": "行为分类",
           "count": 2
         },
         {
-          "label_en": "journalism ethics",
-          "label_zh": "新闻伦理",
+          "label_en": "action formation",
+          "label_zh": "行动构成",
           "count": 2
         },
         {
-          "label_en": "Key (lock)",
-          "label_zh": "钥匙（锁）",
-          "count": 2
-        },
-        {
-          "label_en": "digital media",
-          "label_zh": "数字媒体",
-          "count": 2
-        },
-        {
-          "label_en": "public discourse",
-          "label_zh": "公共话语",
+          "label_en": "accountability",
+          "label_zh": "责任归属",
           "count": 2
         }
       ],
@@ -194,11 +204,21 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
+          "count": 10
+        },
+        {
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
           "count": 6
         },
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
+          "count": 4
+        },
+        {
+          "label_en": "literature review",
+          "label_zh": "文献综述",
           "count": 4
         },
         {
@@ -217,29 +237,19 @@
           "count": 2
         },
         {
-          "label_en": "systematic literature review",
-          "label_zh": "系统性文献综述",
+          "label_en": "theoretical analysis",
+          "label_zh": "理论分析",
           "count": 2
         },
         {
-          "label_en": "literature review",
-          "label_zh": "文献综述",
+          "label_en": "theoretical discussion",
+          "label_zh": "理论探讨",
           "count": 2
         },
         {
-          "label_en": "expert interviews",
-          "label_zh": "专家访谈",
-          "count": 1
-        },
-        {
-          "label_en": "policy analysis",
-          "label_zh": "政策分析",
-          "count": 1
-        },
-        {
-          "label_en": "survey experiment",
-          "label_zh": "调查实验",
-          "count": 1
+          "label_en": "corpus analysis",
+          "label_zh": "语料库分析",
+          "count": 2
         }
       ]
     },
@@ -247,9 +257,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 162,
-      "overview_en": "Across 162 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 162 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 175,
+      "overview_en": "Across 175 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 175 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -268,17 +278,17 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 71
+          "count": 70
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 67
+          "count": 66
         },
         {
           "label_en": "Social media",
           "label_zh": "社交媒体",
-          "count": 18
+          "count": 19
         },
         {
           "label_en": "Politics",
@@ -306,13 +316,13 @@
           "count": 11
         },
         {
-          "label_en": "media effects",
-          "label_zh": "媒体效果",
-          "count": 9
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
+          "count": 10
         },
         {
-          "label_en": "Political",
-          "label_zh": "Political",
+          "label_en": "media effects",
+          "label_zh": "媒体效果",
           "count": 9
         }
       ],
@@ -320,7 +330,7 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 40
+          "count": 45
         },
         {
           "label_en": "content analysis",
@@ -330,7 +340,7 @@
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 29
+          "count": 28
         },
         {
           "label_en": "mixed methods",
@@ -354,18 +364,18 @@
         },
         {
           "label_en": "experiment",
-          "label_zh": "experiment",
-          "count": 15
+          "label_zh": "实验",
+          "count": 16
         },
         {
           "label_en": "literature review",
           "label_zh": "文献综述",
-          "count": 7
+          "count": 9
         },
         {
-          "label_en": "discourse analysis",
-          "label_zh": "话语分析",
-          "count": 7
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
+          "count": 8
         }
       ]
     }
@@ -374,7 +384,7 @@
     {
       "journalName": "JOURNAL OF COMMUNICATION",
       "journalSlug": "journal-of-communication",
-      "paperCount": 12,
+      "paperCount": 13,
       "topic_bias_en": [
         "The",
         "And",
@@ -461,47 +471,47 @@
     {
       "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
       "journalSlug": "research-on-language-and-social-interaction",
-      "paperCount": 4,
+      "paperCount": 12,
       "topic_bias_en": [
         "conversation analysis",
         "social interaction",
-        "Hebrew",
-        "Ken"
+        "interactional linguistics",
+        "action categorization"
       ],
       "topic_bias_zh": [
         "会话分析",
         "社会互动",
-        "Hebrew",
-        "Ken"
+        "互动语言学",
+        "行为分类"
       ],
       "method_bias_en": [
         "conversation analysis",
         "case study",
-        "review",
-        "discourse analysis"
+        "literature review",
+        "corpus analysis"
       ],
       "method_bias_zh": [
         "会话分析",
         "案例研究",
-        "review",
-        "话语分析"
+        "文献综述",
+        "语料库分析"
       ]
     },
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 37,
+      "paperCount": 39,
       "topic_bias_en": [
         "And",
         "The",
-        "Online",
-        "social media"
+        "social media",
+        "Online"
       ],
       "topic_bias_zh": [
         "And",
         "The",
-        "Online",
-        "社交媒体"
+        "社交媒体",
+        "Online"
       ],
       "method_bias_en": [
         "computational analysis",
@@ -548,7 +558,7 @@
     {
       "journalName": "International Journal of Press/Politics",
       "journalSlug": "international-journal-of-press-politics",
-      "paperCount": 14,
+      "paperCount": 16,
       "topic_bias_en": [
         "And",
         "The",
@@ -562,14 +572,14 @@
         "Political"
       ],
       "method_bias_en": [
-        "mixed methods",
         "experiment",
+        "mixed methods",
         "content analysis",
         "survey"
       ],
       "method_bias_zh": [
+        "实验",
         "mixed methods",
-        "experiment",
         "content analysis",
         "survey"
       ]
@@ -608,17 +618,17 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 71
+      "count": 70
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 67
+      "count": 66
     },
     {
       "label_en": "Social media",
       "label_zh": "社交媒体",
-      "count": 18
+      "count": 19
     },
     {
       "label_en": "Politics",
@@ -646,6 +656,11 @@
       "count": 11
     },
     {
+      "label_en": "conversation analysis",
+      "label_zh": "会话分析",
+      "count": 10
+    },
+    {
       "label_en": "media effects",
       "label_zh": "媒体效果",
       "count": 9
@@ -659,18 +674,13 @@
       "label_en": "Key (lock)",
       "label_zh": "钥匙（锁）",
       "count": 8
-    },
-    {
-      "label_en": "News media",
-      "label_zh": "新闻媒体",
-      "count": 8
     }
   ],
   "high_frequency_methods": [
     {
       "label_en": "case study",
       "label_zh": "案例研究",
-      "count": 40
+      "count": 45
     },
     {
       "label_en": "content analysis",
@@ -680,7 +690,7 @@
     {
       "label_en": "survey",
       "label_zh": "调查",
-      "count": 29
+      "count": 28
     },
     {
       "label_en": "mixed methods",
@@ -704,13 +714,18 @@
     },
     {
       "label_en": "experiment",
-      "label_zh": "experiment",
-      "count": 15
+      "label_zh": "实验",
+      "count": 16
     },
     {
       "label_en": "literature review",
       "label_zh": "文献综述",
-      "count": 7
+      "count": 9
+    },
+    {
+      "label_en": "conversation analysis",
+      "label_zh": "会话分析",
+      "count": 8
     },
     {
       "label_en": "discourse analysis",
@@ -720,12 +735,7 @@
     {
       "label_en": "theoretical analysis",
       "label_zh": "理论分析",
-      "count": 5
-    },
-    {
-      "label_en": "policy analysis",
-      "label_zh": "政策分析",
-      "count": 4
+      "count": 6
     }
   ]
 }

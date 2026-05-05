@@ -1,0 +1,54 @@
+{
+  "id": "social-media-and-society-2ff51979bbef",
+  "doi": "10.1177/20563051261446819",
+  "url": "https://doi.org/10.1177/20563051261446819",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Jie Cui"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-05T22:50:33.931Z",
+  "language": "mixed",
+  "raw_title": "Gamification, Datafication, and Performativity: How Interface Design Builds “Stardew Valley” in Rural Governance",
+  "raw_abstract": "In recent years, we have witnessed the Chinese government’s ambition for datafied governance and rural revitalization under the mind-set of technological optimism. Focusing on an emerging digital platform for rural governance—“ChuanShanZhi” (川善治; CSZ)—as a case study, this study interprets new design-centered techniques in Chinese primary-level governance from three lenses: gamification, datafication, and performativity. Specifically, CSZ’s design integrates motivational elements from games (e.g., upgrade, competition, and collaboration), datafied tracking means (e.g., surveillance), and user-generated content to operationalize political and social goals through the playful engagement of scores, points, and star ratings; streamline and centralize bureaucratic workflows; and perform a state-aligned vision of rurality, one that is harmonious, productive, and morally virtuous. In this process, CSZ reveals a distinct design logic behind China’s digital rural governance, which synthesizes socialist mass line traditions, Confucian moral discipline, digital platforms’ engagement metrics, and contemporary bureaucratic rationalization.",
+  "raw_keywords": [],
+  "title_en": "Gamification, Datafication, and Performativity: How Interface Design Builds “Stardew Valley” in Rural Governance",
+  "title_zh": "游戏化、数据化与表演性：界面设计如何在乡村治理中构建“星露谷物语”",
+  "abstract_en": "In recent years, we have witnessed the Chinese government’s ambition for datafied governance and rural revitalization under the mind-set of technological optimism. Focusing on an emerging digital platform for rural governance—“ChuanShanZhi” (川善治; CSZ)—as a case study, this study interprets new design-centered techniques in Chinese primary-level governance from three lenses: gamification, datafication, and performativity. Specifically, CSZ’s design integrates motivational elements from games (e.g., upgrade, competition, and collaboration), datafied tracking means (e.g., surveillance), and user-generated content to operationalize political and social goals through the playful engagement of scores, points, and star ratings; streamline and centralize bureaucratic workflows; and perform a state-aligned vision of rurality, one that is harmonious, productive, and morally virtuous. In this process, CSZ reveals a distinct design logic behind China’s digital rural governance, which synthesizes socialist mass line traditions, Confucian moral discipline, digital platforms’ engagement metrics, and contemporary bureaucratic rationalization.",
+  "abstract_zh": "近年来，我们目睹了中国政府在技术乐观主义心态下对数据化治理和乡村振兴的雄心。本研究聚焦于一个新兴的乡村治理数字平台——“川善治”（CSZ）作为案例，从游戏化、数据化和表演性三个视角解读中国基层治理中新的以设计为中心的技术。具体而言，CSZ的设计整合了游戏中的激励元素（如升级、竞争和协作）、数据化追踪手段（如监控）和用户生成内容，通过分数、积分和星级评分的趣味性参与来运作政治和社会目标；简化并集中官僚工作流程；并表演一种与国家一致的乡村愿景，即和谐、生产性和道德高尚。在此过程中，CSZ揭示了中国数字乡村治理背后独特的设计逻辑，它综合了社会主义群众路线传统、儒家道德纪律、数字平台的参与度指标和当代官僚理性化。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "gamification",
+    "datafication",
+    "performativity",
+    "rural governance",
+    "digital platform",
+    "China",
+    "interface design",
+    "Stardew Valley"
+  ],
+  "inferred_keywords_zh": [
+    "游戏化",
+    "数据化",
+    "表演性",
+    "乡村治理",
+    "数字平台",
+    "中国",
+    "界面设计",
+    "星露谷物语"
+  ],
+  "plain_summary_zh": "这篇文章研究了中国一个叫“川善治”的乡村治理数字平台。它发现这个平台通过游戏化的设计（比如升级、积分和星级评分）来激励村民参与，同时用数据监控来管理，并塑造一种和谐、勤劳、道德高尚的乡村形象。这种设计结合了中国的群众路线传统、儒家思想、数字平台的参与指标和现代官僚管理。",
+  "plain_summary_en": "This article studies a Chinese digital platform for rural governance called 'ChuanShanZhi'. It finds that the platform uses game-like features (such as upgrades, points, and star ratings) to motivate villagers, employs data tracking for management, and promotes a vision of a harmonious, hardworking, and morally good countryside. This design combines China's mass line tradition, Confucian values, digital engagement metrics, and modern bureaucratic management.",
+  "research_direction_zh": "数字治理与乡村发展",
+  "research_direction_en": "Digital governance and rural development",
+  "method_tags_zh": [
+    "案例研究"
+  ],
+  "method_tags_en": [
+    "case study"
+  ]
+}

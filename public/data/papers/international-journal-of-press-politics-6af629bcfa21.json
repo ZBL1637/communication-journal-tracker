@@ -1,0 +1,54 @@
+{
+  "id": "international-journal-of-press-politics-6af629bcfa21",
+  "doi": "10.1177/19401612261440998",
+  "url": "https://doi.org/10.1177/19401612261440998",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2026-04-30T00:00:00.000Z",
+  "authors": [
+    "Alena Kluknavská",
+    "Olga Eisele",
+    "Petro Tolochko"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-05T22:50:53.018Z",
+  "language": "en",
+  "raw_title": "“Liar, Liar, Pants on Fire!” An Automated Analysis of Polarities of Mediated Truth Contestation in Austrian and Czech News Media",
+  "raw_abstract": "This paper analyzes the discursive dynamics of mediated truth contestation by examining how assertions of truthfulness and references to falsehood are constructed in Austrian and Czech news coverage of migration. Employing automated content analysis on an extensive dataset of 162,943 news articles (2013–2019), we apply latent semantic scaling to assess differences between tabloid and broadsheet newspapers and between mainstream and alternative news media, investigating how media formats and media types shape the discursive construction of truthfulness and falsehoods in news articles. We further use named entity recognition techniques to examine the role of populist politicians, government representatives, and EU actors in mediated truth contestation, and consider cross-national differences to investigate how political contexts influence these dynamics. By integrating insights from political communication and computational text analysis, this study contributes to debates on post-truth politics, media polarization, and the strategic use of truth and lies in democratic discourse.",
+  "raw_keywords": [],
+  "title_en": "“Liar, Liar, Pants on Fire!” An Automated Analysis of Polarities of Mediated Truth Contestation in Austrian and Czech News Media",
+  "title_zh": "“说谎者，说谎者，裤子着火！”奥地利和捷克新闻媒体中中介化真相争夺的自动化分析",
+  "abstract_en": "This paper analyzes the discursive dynamics of mediated truth contestation by examining how assertions of truthfulness and references to falsehood are constructed in Austrian and Czech news coverage of migration. Employing automated content analysis on an extensive dataset of 162,943 news articles (2013–2019), we apply latent semantic scaling to assess differences between tabloid and broadsheet newspapers and between mainstream and alternative news media, investigating how media formats and media types shape the discursive construction of truthfulness and falsehoods in news articles. We further use named entity recognition techniques to examine the role of populist politicians, government representatives, and EU actors in mediated truth contestation, and consider cross-national differences to investigate how political contexts influence these dynamics. By integrating insights from political communication and computational text analysis, this study contributes to debates on post-truth politics, media polarization, and the strategic use of truth and lies in democratic discourse.",
+  "abstract_zh": "本文通过考察奥地利和捷克关于移民的新闻报道中如何构建真实性断言和虚假性引用，分析了中介化真相争夺的话语动态。采用自动化内容分析方法，对2013年至2019年间162,943篇新闻文章的大型数据集进行分析，我们应用潜在语义缩放来评估小报与大报、主流媒体与替代新闻媒体之间的差异，研究媒体格式和媒体类型如何塑造新闻文章中真实性和虚假性的话语构建。我们进一步使用命名实体识别技术来考察民粹主义政治家、政府代表和欧盟行为者在中介化真相争夺中的作用，并考虑跨国差异以研究政治背景如何影响这些动态。通过整合政治传播和计算文本分析的见解，本研究为后真相政治、媒体极化以及民主话语中真相与谎言的策略性使用等辩论做出了贡献。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "truth contestation",
+    "automated content analysis",
+    "migration coverage",
+    "media polarization",
+    "post-truth politics"
+  ],
+  "inferred_keywords_zh": [
+    "真相争夺",
+    "自动化内容分析",
+    "移民报道",
+    "媒体极化",
+    "后真相政治"
+  ],
+  "plain_summary_zh": "这项研究分析了奥地利和捷克新闻媒体如何讨论移民话题中的真假问题。研究者用计算机分析了超过16万篇新闻文章，发现小报和严肃报纸、主流媒体和另类媒体在谈论真假时方式不同。他们还发现，民粹主义政客和政府官员在媒体中经常参与真假争论。这项研究帮助我们理解在“后真相”时代，媒体如何影响人们对事实的看法。",
+  "plain_summary_en": "This study analyzes how Austrian and Czech news media discuss truth and lies in migration coverage. Using computer analysis of over 160,000 news articles, the researchers found that tabloids and broadsheets, as well as mainstream and alternative media, differ in how they talk about truth and falsehood. They also found that populist politicians and government officials often engage in truth debates in the media. This research helps us understand how media shape perceptions of facts in a 'post-truth' era.",
+  "research_direction_zh": "政治传播与计算社会科学交叉领域，研究媒体在真相争夺和极化中的作用",
+  "research_direction_en": "Intersection of political communication and computational social science, studying media's role in truth contestation and polarization",
+  "method_tags_zh": [
+    "自动化内容分析",
+    "潜在语义缩放",
+    "命名实体识别"
+  ],
+  "method_tags_en": [
+    "automated content analysis",
+    "latent semantic scaling",
+    "named entity recognition"
+  ]
+}

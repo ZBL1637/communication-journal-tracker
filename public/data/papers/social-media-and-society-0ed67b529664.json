@@ -1,0 +1,61 @@
+{
+  "id": "social-media-and-society-0ed67b529664",
+  "doi": "10.1177/20563051261443896",
+  "url": "https://doi.org/10.1177/20563051261443896",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Areej Alhouli",
+    "Sussie Morrish"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-05T22:50:34.924Z",
+  "language": "en",
+  "raw_title": "When Not to Post: Inhibition and the Digital Presentation of Self of Muslim Women",
+  "raw_abstract": "This article examines how inhibition, understood as an internal suppression of impulses, shapes the presentation of self on social media. While research on digital participation has emphasized posting, identity construction, impression management, and self-censorship, less attention has been paid to the mechanisms of inhibition. Drawing on 50 in-depth interviews with Muslim women in Kuwait (a Muslim-majority context) and New Zealand (a Muslim-minority context), the analysis shows that digital restraint is internally regulated and contextually grounded, rather than solely reactive to external pressure. Findings reveal a continuum of inhibition structured by audience control and post permanence. Inhibition is lowest when content is ephemeral and directed to controlled audiences, and highest when content is permanent and visible to broad publics. Across both contexts, privacy, moral accountability, and collective belonging underpin posting decisions, although the sources of inhibition differ. In Kuwait, inhibition is shaped by legal oversight and social monitoring, whereas in New Zealand, it is shaped by minority visibility and representational concern. Marital status further intensifies inhibition across settings, with married women reporting heightened restraint. By conceptualizing inhibition as an internal mechanism of digital self-presentation, this study highlights restraint as a central dimension of social media participation and demonstrates how platform affordances structure everyday decisions about visibility in culturally distinct contexts.",
+  "raw_keywords": [],
+  "title_en": "When Not to Post: Inhibition and the Digital Presentation of Self of Muslim Women",
+  "title_zh": "何时不发布：抑制与穆斯林女性的数字自我呈现",
+  "abstract_en": "This article examines how inhibition, understood as an internal suppression of impulses, shapes the presentation of self on social media. While research on digital participation has emphasized posting, identity construction, impression management, and self-censorship, less attention has been paid to the mechanisms of inhibition. Drawing on 50 in-depth interviews with Muslim women in Kuwait (a Muslim-majority context) and New Zealand (a Muslim-minority context), the analysis shows that digital restraint is internally regulated and contextually grounded, rather than solely reactive to external pressure. Findings reveal a continuum of inhibition structured by audience control and post permanence. Inhibition is lowest when content is ephemeral and directed to controlled audiences, and highest when content is permanent and visible to broad publics. Across both contexts, privacy, moral accountability, and collective belonging underpin posting decisions, although the sources of inhibition differ. In Kuwait, inhibition is shaped by legal oversight and social monitoring, whereas in New Zealand, it is shaped by minority visibility and representational concern. Marital status further intensifies inhibition across settings, with married women reporting heightened restraint. By conceptualizing inhibition as an internal mechanism of digital self-presentation, this study highlights restraint as a central dimension of social media participation and demonstrates how platform affordances structure everyday decisions about visibility in culturally distinct contexts.",
+  "abstract_zh": "本文探讨了抑制（理解为对冲动的内部压制）如何塑造社交媒体上的自我呈现。虽然关于数字参与的研究强调了发布、身份建构、印象管理和自我审查，但对抑制机制的关注较少。基于对科威特（穆斯林占多数的环境）和新西兰（穆斯林占少数的环境）50名穆斯林女性的深度访谈，分析表明数字克制是内部调节且基于情境的，而不仅仅是对外部压力的反应。研究发现揭示了由受众控制和帖子持久性构成的抑制连续体。当内容是短暂的且面向受控受众时，抑制最低；当内容是永久的且对广泛公众可见时，抑制最高。在这两种环境中，隐私、道德责任和集体归属感支撑着发布决策，尽管抑制的来源不同。在科威特，抑制受到法律监督和社会监控的影响；而在新西兰，抑制受到少数群体可见性和代表性关切的影响。婚姻状况进一步加剧了不同环境中的抑制，已婚女性报告了更高的克制。通过将抑制概念化为数字自我呈现的内部机制，本研究强调了克制作为社交媒体参与的核心维度，并展示了平台可供性如何在文化不同的环境中构建关于可见性的日常决策。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "inhibition",
+    "self-presentation",
+    "social media",
+    "Muslim women",
+    "Kuwait",
+    "New Zealand",
+    "audience control",
+    "post permanence",
+    "privacy",
+    "moral accountability",
+    "collective belonging"
+  ],
+  "inferred_keywords_zh": [
+    "抑制",
+    "自我呈现",
+    "社交媒体",
+    "穆斯林女性",
+    "科威特",
+    "新西兰",
+    "受众控制",
+    "帖子持久性",
+    "隐私",
+    "道德责任",
+    "集体归属感"
+  ],
+  "plain_summary_zh": "这项研究通过采访科威特和新西兰的穆斯林女性，发现她们在社交媒体上发布内容时会进行内部克制，这种克制取决于谁能看到内容以及内容是否永久存在。在科威特，克制主要来自法律和社会监督；在新西兰，则来自作为少数群体的代表压力。已婚女性比未婚女性更克制。",
+  "plain_summary_en": "This study interviewed Muslim women in Kuwait and New Zealand and found that they internally restrain themselves from posting on social media based on who can see the content and whether it is permanent. In Kuwait, restraint comes from legal and social monitoring; in New Zealand, from minority visibility and representational concerns. Married women are more restrained than unmarried ones.",
+  "research_direction_zh": "社交媒体中的自我呈现与抑制机制",
+  "research_direction_en": "Self-presentation and inhibition mechanisms in social media",
+  "method_tags_zh": [
+    "深度访谈"
+  ],
+  "method_tags_en": [
+    "in-depth interview"
+  ]
+}

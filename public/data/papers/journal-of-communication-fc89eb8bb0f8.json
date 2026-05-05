@@ -1,0 +1,55 @@
+{
+  "id": "journal-of-communication-fc89eb8bb0f8",
+  "doi": "10.1093/joc/jqag004",
+  "url": "https://doi.org/10.1093/joc/jqag004",
+  "journalName": "JOURNAL OF COMMUNICATION",
+  "journalSlug": "journal-of-communication",
+  "issn": "0021-9916",
+  "publishedAt": "2026-05-05T00:00:00.000Z",
+  "authors": [
+    "Noemi Festic",
+    "Moritz Büchi",
+    "Michael Latzer",
+    "Céline Odermatt"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-05T22:49:59.041Z",
+  "language": "en",
+  "raw_title": "Dataveillance inhibits legitimate communication: causal evidence for chilling effects",
+  "raw_abstract": "Abstract Chilling effects are an undesirable consequence of the datafication of communication: people may refrain from entirely lawful online activities due to fear of negative repercussions based on their digital traces. Our preregistered, longitudinal online field experiment randomly exposed 827 participants to accounts of dataveillance at 19 prompts across six weeks. Within individuals, this reduced comfort with online opinion sharing, information seeking, and information disclosure. Across individuals, greater total exposure was not robustly associated with lower comfort. Women, older, and less-educated participants reported lower overall comfort, with no evidence of sociodemographic moderation of chilling effects. Follow-up focus groups validated these results. Our study advances chilling effects theory and contributes causal evidence for dataveillance-induced self-censorship in a representative sample. The implications of this subtle relinquishing of autonomy are relevant for individual well-being and democratic participation in societies increasingly shaped by dataveillance.",
+  "raw_keywords": [],
+  "title_en": "Dataveillance inhibits legitimate communication: causal evidence for chilling effects",
+  "title_zh": "数据监控抑制合法沟通：寒蝉效应的因果证据",
+  "abstract_en": "Chilling effects are an undesirable consequence of the datafication of communication: people may refrain from entirely lawful online activities due to fear of negative repercussions based on their digital traces. Our preregistered, longitudinal online field experiment randomly exposed 827 participants to accounts of dataveillance at 19 prompts across six weeks. Within individuals, this reduced comfort with online opinion sharing, information seeking, and information disclosure. Across individuals, greater total exposure was not robustly associated with lower comfort. Women, older, and less-educated participants reported lower overall comfort, with no evidence of sociodemographic moderation of chilling effects. Follow-up focus groups validated these results. Our study advances chilling effects theory and contributes causal evidence for dataveillance-induced self-censorship in a representative sample. The implications of this subtle relinquishing of autonomy are relevant for individual well-being and democratic participation in societies increasingly shaped by dataveillance.",
+  "abstract_zh": "寒蝉效应是沟通数据化的不良后果：人们可能因担心基于数字痕迹的负面后果而避免完全合法的在线活动。我们预先注册的纵向在线现场实验在六周内通过19次提示随机让827名参与者接触数据监控的描述。在个体内部，这降低了他们在线上分享观点、搜索信息和披露信息的舒适度。在个体之间，更高的总暴露量与较低的舒适度之间没有稳健关联。女性、年长和受教育程度较低的参与者报告了较低的总体舒适度，没有证据表明社会人口特征调节寒蝉效应。后续焦点小组验证了这些结果。我们的研究推进了寒蝉效应理论，并为代表性样本中数据监控引发的自我审查提供了因果证据。这种微妙的自主权放弃对个人福祉和民主参与的影响，在日益受数据监控影响的社会中具有重要意义。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "chilling effects",
+    "dataveillance",
+    "self-censorship",
+    "online communication",
+    "field experiment"
+  ],
+  "inferred_keywords_zh": [
+    "寒蝉效应",
+    "数据监控",
+    "自我审查",
+    "在线沟通",
+    "现场实验"
+  ],
+  "plain_summary_zh": "这项研究发现，当人们知道自己的在线行为可能被监控时，他们会更不愿意分享观点、搜索信息或透露个人信息，即使这些活动是合法的。这种“寒蝉效应”在女性、年长和受教育程度较低的人群中更为明显。研究通过一个长达六周的在线实验证明了这一点。",
+  "plain_summary_en": "This study found that when people know their online behavior might be monitored, they become less willing to share opinions, seek information, or disclose personal information, even if those activities are legal. This 'chilling effect' is stronger among women, older people, and those with less education. The finding comes from a six-week online experiment.",
+  "research_direction_zh": "数字监控对沟通自由和民主参与的影响",
+  "research_direction_en": "Impact of digital surveillance on communication freedom and democratic participation",
+  "method_tags_zh": [
+    "现场实验",
+    "纵向研究",
+    "焦点小组"
+  ],
+  "method_tags_en": [
+    "field experiment",
+    "longitudinal study",
+    "focus group"
+  ]
+}

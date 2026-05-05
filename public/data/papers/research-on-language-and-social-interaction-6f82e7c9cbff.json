@@ -1,0 +1,58 @@
+{
+  "id": "research-on-language-and-social-interaction-6f82e7c9cbff",
+  "doi": "10.1080/08351813.2026.2624978",
+  "url": "https://doi.org/10.1080/08351813.2026.2624978",
+  "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+  "journalSlug": "research-on-language-and-social-interaction",
+  "issn": "0835-1813",
+  "publishedAt": "2026-05-05T04:08:57.000Z",
+  "authors": [
+    "Barbara A. Fox",
+    "Sandra A. Thompson",
+    "Barbara A.",
+    "Fox Sandra",
+    "A. Thompson",
+    "Colorado Boulder",
+    "Coloradob",
+    "Santa Barbara",
+    "USA"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-05-05T22:50:15.398Z",
+  "language": "en",
+  "raw_title": "I wonder + indirect question: Action formation and action ascription",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "I wonder + indirect question: Action formation and action ascription",
+  "title_zh": "I wonder + 间接疑问句：行动形成与行动归因",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "conversation analysis",
+    "indirect questions",
+    "action formation",
+    "action ascription",
+    "epistemic stance"
+  ],
+  "inferred_keywords_zh": [
+    "会话分析",
+    "间接疑问句",
+    "行动形成",
+    "行动归因",
+    "认知立场"
+  ],
+  "plain_summary_zh": "本文研究英语中“I wonder”加上间接疑问句（如“I wonder if you could help me”）这种表达方式在对话中如何构成特定的社交行动（如请求、建议等），以及听话人如何理解这些行动。通过分析真实对话，作者揭示了这种句式在互动中的功能。",
+  "plain_summary_en": "This study examines how the expression 'I wonder' followed by an indirect question (e.g., 'I wonder if you could help me') forms specific social actions (such as requests, suggestions) in conversation, and how listeners interpret these actions. By analyzing real conversations, the authors reveal the interactive functions of this construction.",
+  "research_direction_zh": "会话分析与互动语言学",
+  "research_direction_en": "Conversation Analysis and Interactional Linguistics",
+  "method_tags_zh": [
+    "会话分析",
+    "语料库分析"
+  ],
+  "method_tags_en": [
+    "conversation analysis",
+    "corpus analysis"
+  ]
+}

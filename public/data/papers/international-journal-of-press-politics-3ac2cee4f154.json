@@ -1,0 +1,54 @@
+{
+  "id": "international-journal-of-press-politics-3ac2cee4f154",
+  "doi": "10.1177/19401612261435333",
+  "url": "https://doi.org/10.1177/19401612261435333",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2026-04-30T00:00:00.000Z",
+  "authors": [
+    "Tianru Guan",
+    "Yilu Yang",
+    "Wenhui Guo"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-05T22:50:51.626Z",
+  "language": "en",
+  "raw_title": "Simulated superiority and mediated geopolitics: affective responses to AI-generated political parody in Chinese digital space",
+  "raw_abstract": "As generative AI technologies reshape the landscape of political communication, they are increasingly used to craft symbolic narratives of international rivalry. This study investigates how AI-generated political parodies circulating in Chinese digital spaces function as affective tools of “simulated superiority,” helping public process geopolitical tension and reassert national identity. Based on a between-subjects experiment ( N = 397) conducted during the 2025 U.S.–China tariff dispute, we find that exposure to AI-generated political parody increases feelings of collective superiority and reduces aggressive attitudes toward the United States, while reductions in perceived geopolitical threat emerge primarily under conditions of high perceived visual realism. Theoretically, we extend classical superiority theory by highlighting three core features of generative parody—de-authorship, narrative re-imagination, and perceived visual realism—as mechanisms of affective political expression. Our findings suggest that AI-generated satire can mediate geopolitical emotions and shape symbolic boundaries of competition and belonging, offering new insight into how technologically produced content influences global political imaginaries and mediated public sentiment.",
+  "raw_keywords": [],
+  "title_en": "Simulated superiority and mediated geopolitics: affective responses to AI-generated political parody in Chinese digital space",
+  "title_zh": "模拟优越与媒介化地缘政治：中国数字空间中对AI生成政治模仿秀的情感反应",
+  "abstract_en": "As generative AI technologies reshape the landscape of political communication, they are increasingly used to craft symbolic narratives of international rivalry. This study investigates how AI-generated political parodies circulating in Chinese digital spaces function as affective tools of “simulated superiority,” helping public process geopolitical tension and reassert national identity. Based on a between-subjects experiment ( N = 397) conducted during the 2025 U.S.–China tariff dispute, we find that exposure to AI-generated political parody increases feelings of collective superiority and reduces aggressive attitudes toward the United States, while reductions in perceived geopolitical threat emerge primarily under conditions of high perceived visual realism. Theoretically, we extend classical superiority theory by highlighting three core features of generative parody—de-authorship, narrative re-imagination, and perceived visual realism—as mechanisms of affective political expression. Our findings suggest that AI-generated satire can mediate geopolitical emotions and shape symbolic boundaries of competition and belonging, offering new insight into how technologically produced content influences global political imaginaries and mediated public sentiment.",
+  "abstract_zh": "随着生成式人工智能技术重塑政治传播格局，它们越来越多地被用于构建国际竞争的象征性叙事。本研究调查了中国数字空间中流传的AI生成政治模仿秀如何作为“模拟优越”的情感工具，帮助公众处理地缘政治紧张并重申国家认同。基于2025年中美关税争端期间进行的一项被试间实验（N=397），我们发现接触AI生成的政治模仿秀会增加集体优越感，并减少对美国的攻击性态度，而感知地缘政治威胁的降低主要出现在高感知视觉真实性的条件下。在理论上，我们通过强调生成式模仿秀的三个核心特征——去作者性、叙事再想象和感知视觉真实性——作为情感政治表达的机制，扩展了经典优越理论。我们的发现表明，AI生成的讽刺可以调解地缘政治情感，并塑造竞争与归属的象征边界，为技术生成的内容如何影响全球政治想象和中介化的公众情绪提供了新见解。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "AI-generated political parody",
+    "simulated superiority",
+    "geopolitical emotion",
+    "national identity",
+    "visual realism",
+    "China",
+    "US-China relations"
+  ],
+  "inferred_keywords_zh": [
+    "AI生成政治模仿秀",
+    "模拟优越",
+    "地缘政治情感",
+    "国家认同",
+    "视觉真实性",
+    "中国",
+    "中美关系"
+  ],
+  "plain_summary_zh": "这项研究探讨了AI生成的搞笑政治视频如何影响中国网民对中美关系的感受。研究者发现，观看这类视频会让人们感到更优越，同时减少对美国的敌意，但只有视频看起来非常真实时，才会降低人们对地缘政治威胁的感知。",
+  "plain_summary_en": "This study explores how AI-generated funny political videos affect Chinese netizens' feelings about US-China relations. Researchers found that watching such videos makes people feel more superior and less hostile toward the US, but only when the videos look very realistic does it reduce perceived geopolitical threat.",
+  "research_direction_zh": "政治传播与人工智能的交叉研究，关注AI生成内容如何影响公众情感和国家认同。",
+  "research_direction_en": "Intersection of political communication and artificial intelligence, focusing on how AI-generated content influences public emotions and national identity.",
+  "method_tags_zh": [
+    "实验"
+  ],
+  "method_tags_en": [
+    "experiment"
+  ]
+}

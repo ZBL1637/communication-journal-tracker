@@ -12,21 +12,21 @@
       "a[href*='/article-abstract/']",
       "a[href*='/doi/']"
     ],
-    "paperCount": 12,
-    "latestPublishedAt": "2026-04-01T00:00:00.000Z",
+    "paperCount": 13,
+    "latestPublishedAt": "2026-05-05T00:00:00.000Z",
     "topKeywordsEn": [
-      "artificial intelligence",
-      "technological hype",
-      "media discourse",
-      "innovation studies",
-      "communication studies"
+      "chilling effects",
+      "dataveillance",
+      "self-censorship",
+      "online communication",
+      "field experiment"
     ],
     "topKeywordsZh": [
-      "人工智能",
-      "技术炒作",
-      "媒体话语",
-      "创新研究",
-      "传播研究"
+      "寒蝉效应",
+      "数据监控",
+      "自我审查",
+      "在线沟通",
+      "现场实验"
     ]
   },
   {
@@ -105,21 +105,21 @@
       ".meta__title a",
       "h5 a"
     ],
-    "paperCount": 4,
-    "latestPublishedAt": "2026-01-12T09:29:48.000Z",
+    "paperCount": 12,
+    "latestPublishedAt": "2026-05-05T04:08:57.000Z",
     "topKeywordsEn": [
-      "Hebrew",
-      "Ken",
-      "Yes",
-      "Minimal",
-      "Format"
+      "conversation analysis",
+      "interactional linguistics",
+      "action categorization",
+      "social interaction",
+      "methodology"
     ],
     "topKeywordsZh": [
-      "Hebrew",
-      "Ken",
-      "Yes",
-      "Minimal",
-      "Format"
+      "会话分析",
+      "互动语言学",
+      "行为分类",
+      "社会互动",
+      "方法论"
     ]
   },
   {
@@ -136,21 +136,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 37,
+    "paperCount": 39,
     "latestPublishedAt": "2026-04-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "platform safety technology",
-      "online harms",
-      "user engagement",
-      "digital literacy",
-      "gender differences"
+      "inhibition",
+      "self-presentation",
+      "social media",
+      "Muslim women",
+      "Kuwait"
     ],
     "topKeywordsZh": [
-      "平台安全技术",
-      "网络伤害",
-      "用户参与",
-      "数字素养",
-      "性别差异"
+      "抑制",
+      "自我呈现",
+      "社交媒体",
+      "穆斯林女性",
+      "科威特"
     ]
   },
   {
@@ -198,21 +198,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 17,
-    "latestPublishedAt": "2026-04-14T00:00:00.000Z",
+    "paperCount": 20,
+    "latestPublishedAt": "2026-04-30T00:00:00.000Z",
     "topKeywordsEn": [
-      "The",
-      "And",
-      "Scandals",
-      "Political",
-      "Talk"
+      "truth contestation",
+      "automated content analysis",
+      "migration coverage",
+      "media polarization",
+      "post-truth politics"
     ],
     "topKeywordsZh": [
-      "The",
-      "And",
-      "Scandals",
-      "Political",
-      "Talk"
+      "真相争夺",
+      "自动化内容分析",
+      "移民报道",
+      "媒体极化",
+      "后真相政治"
     ]
   },
   {
