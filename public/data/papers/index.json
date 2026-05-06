@@ -614,6 +614,71 @@
     "fetchedAt": "2026-05-05T22:50:08.799Z"
   },
   {
+    "id": "political-communication-8ee06dfa7ec8",
+    "doi": "10.1080/10584609.2026.2664717",
+    "url": "https://doi.org/10.1080/10584609.2026.2664717",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-05-05T03:31:25.000Z",
+    "authors": [
+      "Н.А. Хохлов",
+      "Daniil Romanov",
+      "Alexander Baturo",
+      "Nikita Khokhlov",
+      "Dublin",
+      "Irelandb",
+      "Oxford",
+      "UKc",
+      "Dublin City",
+      "IrelandNikita Khokhlov is an Assistant Professor and Ad Astra Fellow at the"
+    ],
+    "title_en": "“Everything for the Front, Everything for Victory”? Elite Incentives and Rhetorical Adaptation of Russia’s Members of Parliament on Social Media",
+    "title_zh": "“一切为了前线，一切为了胜利”？精英激励与俄罗斯议会议员在社交媒体上的修辞适应",
+    "keywords_en": [
+      "Parliament",
+      "Rhetorical question",
+      "Elite",
+      "Incentive",
+      "Social media",
+      "Adaptation"
+    ],
+    "keywords_zh": [
+      "议会",
+      "修辞问题",
+      "精英",
+      "激励",
+      "社交媒体",
+      "适应"
+    ],
+    "inferred_keywords_en": [
+      "Russia",
+      "War in Ukraine",
+      "Political communication",
+      "Authoritarianism"
+    ],
+    "inferred_keywords_zh": [
+      "俄罗斯",
+      "乌克兰战争",
+      "政治传播",
+      "威权主义"
+    ],
+    "plain_summary_zh": "这项研究分析了俄罗斯议员在乌克兰战争开始后如何在社交媒体上改变他们的言论。他们发现，支持政府的议员很快开始使用支持战争的语言，而反对派议员虽然受到限制，但也调整了他们的说法。这显示了在威权体制下，政治人物的个人利益如何影响他们的公开言论。",
+    "plain_summary_en": "This study analyzes how Russian members of parliament changed their social media rhetoric after the war in Ukraine began. They found that pro-government deputies quickly adopted pro-war language, while opposition deputies, though constrained, also adjusted their speech. This shows how personal incentives shape public statements under authoritarian rule.",
+    "research_direction_zh": "政治传播与威权体制下的精英行为",
+    "research_direction_en": "Political communication and elite behavior under authoritarianism",
+    "method_tags_zh": [
+      "内容分析",
+      "定量分析"
+    ],
+    "method_tags_en": [
+      "content analysis",
+      "quantitative analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-05-06T22:45:15.196Z"
+  },
+  {
     "id": "journal-of-communication-fc89eb8bb0f8",
     "doi": "10.1093/joc/jqag004",
     "url": "https://doi.org/10.1093/joc/jqag004",

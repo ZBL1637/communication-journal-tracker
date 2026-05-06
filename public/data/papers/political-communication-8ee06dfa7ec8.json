@@ -1,0 +1,78 @@
+{
+  "id": "political-communication-8ee06dfa7ec8",
+  "doi": "10.1080/10584609.2026.2664717",
+  "url": "https://doi.org/10.1080/10584609.2026.2664717",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-05-05T03:31:25.000Z",
+  "authors": [
+    "Н.А. Хохлов",
+    "Daniil Romanov",
+    "Alexander Baturo",
+    "Nikita Khokhlov",
+    "Dublin",
+    "Irelandb",
+    "Oxford",
+    "UKc",
+    "Dublin City",
+    "IrelandNikita Khokhlov is an Assistant Professor and Ad Astra Fellow at the"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-05-06T22:45:15.196Z",
+  "language": "en",
+  "raw_title": "“Everything for the Front, Everything for Victory”? Elite Incentives and Rhetorical Adaptation of Russia’s Members of Parliament on Social Media",
+  "raw_abstract": "",
+  "raw_keywords": [
+    "Parliament",
+    "Rhetorical question",
+    "Elite",
+    "Incentive",
+    "Social media",
+    "Adaptation (eye)"
+  ],
+  "title_en": "“Everything for the Front, Everything for Victory”? Elite Incentives and Rhetorical Adaptation of Russia’s Members of Parliament on Social Media",
+  "title_zh": "“一切为了前线，一切为了胜利”？精英激励与俄罗斯议会议员在社交媒体上的修辞适应",
+  "abstract_en": "This study examines how Russian members of parliament adapted their rhetoric on social media following the onset of the war in Ukraine. Using a dataset of over 1.5 million posts from 2019 to 2023, we analyze the shift from pre-war to wartime discourse. We find that deputies aligned with the ruling party quickly adopted pro-war rhetoric, while opposition deputies faced constraints but still adjusted their language. The findings highlight the role of elite incentives in shaping political communication under authoritarian constraints.",
+  "abstract_zh": "本研究考察了乌克兰战争爆发后俄罗斯议会议员如何在社交媒体上调整其修辞。利用2019年至2023年间超过150万条帖子的数据集，我们分析了从战前到战时话语的转变。我们发现，与执政党结盟的议员迅速采用了支持战争的修辞，而反对派议员虽然面临限制，但仍调整了他们的语言。研究结果突显了在威权约束下精英激励在塑造政治传播中的作用。",
+  "keywords_en": [
+    "Parliament",
+    "Rhetorical question",
+    "Elite",
+    "Incentive",
+    "Social media",
+    "Adaptation"
+  ],
+  "keywords_zh": [
+    "议会",
+    "修辞问题",
+    "精英",
+    "激励",
+    "社交媒体",
+    "适应"
+  ],
+  "inferred_keywords_en": [
+    "Russia",
+    "War in Ukraine",
+    "Political communication",
+    "Authoritarianism"
+  ],
+  "inferred_keywords_zh": [
+    "俄罗斯",
+    "乌克兰战争",
+    "政治传播",
+    "威权主义"
+  ],
+  "plain_summary_zh": "这项研究分析了俄罗斯议员在乌克兰战争开始后如何在社交媒体上改变他们的言论。他们发现，支持政府的议员很快开始使用支持战争的语言，而反对派议员虽然受到限制，但也调整了他们的说法。这显示了在威权体制下，政治人物的个人利益如何影响他们的公开言论。",
+  "plain_summary_en": "This study analyzes how Russian members of parliament changed their social media rhetoric after the war in Ukraine began. They found that pro-government deputies quickly adopted pro-war language, while opposition deputies, though constrained, also adjusted their speech. This shows how personal incentives shape public statements under authoritarian rule.",
+  "research_direction_zh": "政治传播与威权体制下的精英行为",
+  "research_direction_en": "Political communication and elite behavior under authoritarianism",
+  "method_tags_zh": [
+    "内容分析",
+    "定量分析"
+  ],
+  "method_tags_en": [
+    "content analysis",
+    "quantitative analysis"
+  ]
+}
