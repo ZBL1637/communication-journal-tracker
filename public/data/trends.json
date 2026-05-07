@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-06T22:45:23.061Z",
+  "generatedAt": "2026-05-07T22:54:37.716Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 21,
-      "overview_en": "Across 21 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on conversation analysis, case study to explain what these changes mean for communication.",
-      "overview_zh": "Across 21 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on conversation analysis, case study to explain what these changes mean for communication.",
+      "paperCount": 20,
+      "overview_en": "Across 20 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on conversation analysis, case study to explain what these changes mean for communication.",
+      "overview_zh": "Across 20 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on conversation analysis, case study to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
         "The",
@@ -131,9 +131,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 32,
-      "overview_en": "Across 32 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 32 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "paperCount": 31,
+      "overview_en": "Across 31 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 31 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
         "The",
@@ -175,11 +175,6 @@
           "count": 4
         },
         {
-          "label_en": "Social media",
-          "label_zh": "社交媒体",
-          "count": 3
-        },
-        {
           "label_en": "Policy",
           "label_zh": "Policy",
           "count": 2
@@ -198,13 +193,18 @@
           "label_en": "action formation",
           "label_zh": "行动构成",
           "count": 2
+        },
+        {
+          "label_en": "accountability",
+          "label_zh": "责任归属",
+          "count": 2
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 10
+          "count": 9
         },
         {
           "label_en": "conversation analysis",
@@ -257,9 +257,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 176,
-      "overview_en": "Across 176 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 176 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 174,
+      "overview_en": "Across 174 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 174 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -278,12 +278,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 70
+          "count": 69
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 66
+          "count": 65
         },
         {
           "label_en": "Social media",
@@ -293,12 +293,12 @@
         {
           "label_en": "political communication",
           "label_zh": "政治传播",
-          "count": 18
+          "count": 17
         },
         {
           "label_en": "Politics",
           "label_zh": "政治",
-          "count": 18
+          "count": 17
         },
         {
           "label_en": "Journalism",
@@ -335,7 +335,7 @@
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 37
+          "count": 36
         },
         {
           "label_en": "survey",
@@ -353,14 +353,14 @@
           "count": 20
         },
         {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 17
-        },
-        {
           "label_en": "interview",
           "label_zh": "访谈",
           "count": 17
+        },
+        {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 16
         },
         {
           "label_en": "experiment",
@@ -413,18 +413,18 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 28,
+      "paperCount": 27,
       "topic_bias_en": [
         "Political communication",
         "Politics",
         "Social media",
-        "public opinion"
+        "media effects"
       ],
       "topic_bias_zh": [
         "政治传播",
         "政治",
         "社交媒体",
-        "公众舆论"
+        "媒体效果"
       ],
       "method_bias_en": [
         "content analysis",
@@ -558,7 +558,7 @@
     {
       "journalName": "International Journal of Press/Politics",
       "journalSlug": "international-journal-of-press-politics",
-      "paperCount": 16,
+      "paperCount": 15,
       "topic_bias_en": [
         "And",
         "The",
@@ -618,12 +618,12 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 70
+      "count": 69
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 66
+      "count": 65
     },
     {
       "label_en": "Social media",
@@ -633,12 +633,12 @@
     {
       "label_en": "political communication",
       "label_zh": "政治传播",
-      "count": 18
+      "count": 17
     },
     {
       "label_en": "Politics",
       "label_zh": "政治",
-      "count": 18
+      "count": 17
     },
     {
       "label_en": "Journalism",
@@ -685,7 +685,7 @@
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 37
+      "count": 36
     },
     {
       "label_en": "survey",
@@ -703,14 +703,14 @@
       "count": 20
     },
     {
-      "label_en": "computational analysis",
-      "label_zh": "computational analysis",
-      "count": 17
-    },
-    {
       "label_en": "interview",
       "label_zh": "访谈",
       "count": 17
+    },
+    {
+      "label_en": "computational analysis",
+      "label_zh": "computational analysis",
+      "count": 16
     },
     {
       "label_en": "experiment",
