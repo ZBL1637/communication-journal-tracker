@@ -227,6 +227,72 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "digital-journalism-a9d5121d2554",
+    "doi": "10.1080/21670811.2026.2669534",
+    "url": "https://doi.org/10.1080/21670811.2026.2669534",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-05-07T11:50:15.000Z",
+    "authors": [
+      "André K. Rodarte",
+      "Carolina V. Kuahara",
+      "Ahmer Arif",
+      "André K. Rodarte Carolina V. Kuahara Ahmer Arif a Digital Democracy",
+      "Southern Denmark",
+      "Odense",
+      "Denmarkb",
+      "Texas at Austin",
+      "Austin",
+      "Texas",
+      "USAc"
+    ],
+    "title_en": "Who Controls the Narrative? How Brazilian Parliamentarians Pursue Epistemic Authority in Times of Crisis",
+    "title_zh": "谁掌控叙事？巴西议员如何在危机时期追求认知权威",
+    "keywords_en": [
+      "Government (linguistics)",
+      "Work (physics)",
+      "Power (physics)",
+      "Legitimacy",
+      "Politics"
+    ],
+    "keywords_zh": [
+      "政府（语言学）",
+      "工作（物理学）",
+      "权力（物理学）",
+      "合法性",
+      "政治"
+    ],
+    "inferred_keywords_en": [
+      "epistemic authority",
+      "narrative control",
+      "crisis communication",
+      "Brazilian parliament",
+      "political discourse"
+    ],
+    "inferred_keywords_zh": [
+      "认知权威",
+      "叙事控制",
+      "危机传播",
+      "巴西议会",
+      "政治话语"
+    ],
+    "plain_summary_zh": "这项研究探讨了巴西议员在危机时期如何争夺话语权，试图建立自己的认知权威，从而影响公众对事件的看法。",
+    "plain_summary_en": "This study examines how Brazilian parliamentarians compete for narrative control during crises, seeking to establish epistemic authority and shape public perception of events.",
+    "research_direction_zh": "政治传播与危机话语中的权威建构",
+    "research_direction_en": "Political communication and authority construction in crisis discourse",
+    "method_tags_zh": [
+      "内容分析",
+      "案例研究"
+    ],
+    "method_tags_en": [
+      "content analysis",
+      "case study"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-05-08T22:48:43.483Z"
+  },
+  {
     "id": "research-on-language-and-social-interaction-f8c7b22710b1",
     "doi": "10.1080/08351813.2026.2624344",
     "url": "https://doi.org/10.1080/08351813.2026.2624344",

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-07T22:54:37.716Z",
+  "generatedAt": "2026-05-08T22:48:49.651Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 20,
-      "overview_en": "Across 20 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on conversation analysis, case study to explain what these changes mean for communication.",
-      "overview_zh": "Across 20 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on conversation analysis, case study to explain what these changes mean for communication.",
+      "paperCount": 17,
+      "overview_en": "Across 17 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 17 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
         "The",
@@ -76,14 +76,14 @@
       ],
       "high_frequency_methods": [
         {
-          "label_en": "conversation analysis",
-          "label_zh": "会话分析",
+          "label_en": "case study",
+          "label_zh": "案例研究",
           "count": 6
         },
         {
-          "label_en": "case study",
-          "label_zh": "案例研究",
-          "count": 5
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
+          "count": 6
         },
         {
           "label_en": "mixed methods",
@@ -93,7 +93,7 @@
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 2
+          "count": 3
         },
         {
           "label_en": "literature review",
@@ -131,9 +131,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 31,
-      "overview_en": "Across 31 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 31 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "paperCount": 30,
+      "overview_en": "Across 30 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 30 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
         "The",
@@ -157,12 +157,12 @@
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "political communication",
@@ -180,6 +180,16 @@
           "count": 2
         },
         {
+          "label_en": "Government (linguistics)",
+          "label_zh": "政府（语言学）",
+          "count": 2
+        },
+        {
+          "label_en": "Work (physics)",
+          "label_zh": "工作（物理学）",
+          "count": 2
+        },
+        {
           "label_en": "interactional linguistics",
           "label_zh": "互动语言学",
           "count": 2
@@ -188,23 +198,13 @@
           "label_en": "action categorization",
           "label_zh": "行为分类",
           "count": 2
-        },
-        {
-          "label_en": "action formation",
-          "label_zh": "行动构成",
-          "count": 2
-        },
-        {
-          "label_en": "accountability",
-          "label_zh": "责任归属",
-          "count": 2
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 9
+          "count": 10
         },
         {
           "label_en": "conversation analysis",
@@ -217,24 +217,14 @@
           "count": 4
         },
         {
-          "label_en": "literature review",
-          "label_zh": "文献综述",
+          "label_en": "content analysis",
+          "label_zh": "内容分析",
           "count": 4
         },
         {
-          "label_en": "content analysis",
-          "label_zh": "内容分析",
-          "count": 3
-        },
-        {
-          "label_en": "review",
-          "label_zh": "review",
-          "count": 3
-        },
-        {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 2
+          "label_en": "literature review",
+          "label_zh": "文献综述",
+          "count": 4
         },
         {
           "label_en": "theoretical analysis",
@@ -250,6 +240,16 @@
           "label_en": "corpus analysis",
           "label_zh": "语料库分析",
           "count": 2
+        },
+        {
+          "label_en": "systematic literature review",
+          "label_zh": "系统性文献综述",
+          "count": 2
+        },
+        {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 1
         }
       ]
     },
@@ -257,22 +257,22 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 174,
-      "overview_en": "Across 174 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 174 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 175,
+      "overview_en": "Across 175 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 175 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
         "Social media",
-        "political communication",
-        "Politics"
+        "Politics",
+        "political communication"
       ],
       "hot_topics_zh": [
         "And",
         "The",
         "社交媒体",
-        "政治传播",
-        "政治"
+        "政治",
+        "政治传播"
       ],
       "high_frequency_keywords": [
         {
@@ -291,13 +291,13 @@
           "count": 20
         },
         {
-          "label_en": "political communication",
-          "label_zh": "政治传播",
-          "count": 17
-        },
-        {
           "label_en": "Politics",
           "label_zh": "政治",
+          "count": 18
+        },
+        {
+          "label_en": "political communication",
+          "label_zh": "政治传播",
           "count": 17
         },
         {
@@ -308,7 +308,7 @@
         {
           "label_en": "Work (physics)",
           "label_zh": "工作（物理学）",
-          "count": 14
+          "count": 15
         },
         {
           "label_en": "digital journalism",
@@ -330,12 +330,12 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 45
+          "count": 46
         },
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 36
+          "count": 37
         },
         {
           "label_en": "survey",
@@ -442,16 +442,16 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 30,
+      "paperCount": 31,
       "topic_bias_en": [
-        "Journalism",
         "Work (physics)",
+        "Journalism",
         "digital journalism",
         "Social media"
       ],
       "topic_bias_zh": [
-        "新闻业",
         "工作（物理学）",
+        "新闻业",
         "数字新闻",
         "社交媒体"
       ],
@@ -631,13 +631,13 @@
       "count": 20
     },
     {
-      "label_en": "political communication",
-      "label_zh": "政治传播",
-      "count": 17
-    },
-    {
       "label_en": "Politics",
       "label_zh": "政治",
+      "count": 18
+    },
+    {
+      "label_en": "political communication",
+      "label_zh": "政治传播",
       "count": 17
     },
     {
@@ -648,7 +648,7 @@
     {
       "label_en": "Work (physics)",
       "label_zh": "工作（物理学）",
-      "count": 14
+      "count": 15
     },
     {
       "label_en": "digital journalism",
@@ -671,8 +671,8 @@
       "count": 9
     },
     {
-      "label_en": "Key (lock)",
-      "label_zh": "钥匙（锁）",
+      "label_en": "Government (linguistics)",
+      "label_zh": "政府（语言学）",
       "count": 8
     }
   ],
@@ -680,12 +680,12 @@
     {
       "label_en": "case study",
       "label_zh": "案例研究",
-      "count": 45
+      "count": 46
     },
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 36
+      "count": 37
     },
     {
       "label_en": "survey",
