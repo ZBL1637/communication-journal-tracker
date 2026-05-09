@@ -227,6 +227,62 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "international-journal-of-press-politics-8b177da787e9",
+    "doi": "10.1177/19401612261442761",
+    "url": "https://doi.org/10.1177/19401612261442761",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-05-09T00:00:00.000Z",
+    "authors": [
+      "Taewoo Kang",
+      "Tim Vos",
+      "Thomas Hanitzsch",
+      "Neil Thurman",
+      "Imke Henkel",
+      "Sina Thäsler-Kordonouri",
+      "Wiebke Loosen"
+    ],
+    "title_en": "Going with the Mainstream: Exploring GPT Representation of Journalistic Culture",
+    "title_zh": "随主流：探索GPT对新闻文化的表征",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "generative AI",
+      "journalistic culture",
+      "large language models",
+      "GPT-4",
+      "journalistic roles",
+      "epistemology",
+      "ethics",
+      "Worlds of Journalism Study"
+    ],
+    "inferred_keywords_zh": [
+      "生成式人工智能",
+      "新闻文化",
+      "大型语言模型",
+      "GPT-4",
+      "新闻角色",
+      "认识论",
+      "伦理",
+      "世界新闻业研究"
+    ],
+    "plain_summary_zh": "这项研究测试了AI模型GPT-4o在回答关于新闻价值观的问题时，其答案与哪些记者群体最相似。结果发现，GPT-4o的答案最像政治中间派、全职、在电视台工作的记者，而不太像右翼、兼职或没有学位的记者。这提醒记者在使用AI时要注意其可能存在的偏见。",
+    "plain_summary_en": "This study tested how the AI model GPT-4o answers questions about journalistic values and compared its answers to real journalists. It found that GPT-4o's answers most resemble those of politically centrist, full-time journalists working in TV, and less like right-leaning, part-time, or non-degree-holding journalists. This suggests journalists should be aware of potential biases when using AI tools.",
+    "research_direction_zh": "人工智能在新闻业中的应用及其对新闻实践、伦理和记者能动性的影响",
+    "research_direction_en": "Application of AI in journalism and its impact on journalistic practice, ethics, and journalist agency",
+    "method_tags_zh": [
+      "调查",
+      "比较分析"
+    ],
+    "method_tags_en": [
+      "survey",
+      "comparative analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-09T22:35:45.346Z"
+  },
+  {
     "id": "digital-journalism-a9d5121d2554",
     "doi": "10.1080/21670811.2026.2669534",
     "url": "https://doi.org/10.1080/21670811.2026.2669534",

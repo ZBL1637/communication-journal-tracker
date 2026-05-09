@@ -198,21 +198,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 20,
-    "latestPublishedAt": "2026-04-30T00:00:00.000Z",
+    "paperCount": 21,
+    "latestPublishedAt": "2026-05-09T00:00:00.000Z",
     "topKeywordsEn": [
-      "truth contestation",
-      "automated content analysis",
-      "migration coverage",
-      "media polarization",
-      "post-truth politics"
+      "generative AI",
+      "journalistic culture",
+      "large language models",
+      "GPT-4",
+      "journalistic roles"
     ],
     "topKeywordsZh": [
-      "真相争夺",
-      "自动化内容分析",
-      "移民报道",
-      "媒体极化",
-      "后真相政治"
+      "生成式人工智能",
+      "新闻文化",
+      "大型语言模型",
+      "GPT-4",
+      "新闻角色"
     ]
   },
   {

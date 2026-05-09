@@ -1,0 +1,62 @@
+{
+  "id": "international-journal-of-press-politics-8b177da787e9",
+  "doi": "10.1177/19401612261442761",
+  "url": "https://doi.org/10.1177/19401612261442761",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2026-05-09T00:00:00.000Z",
+  "authors": [
+    "Taewoo Kang",
+    "Tim Vos",
+    "Thomas Hanitzsch",
+    "Neil Thurman",
+    "Imke Henkel",
+    "Sina Thäsler-Kordonouri",
+    "Wiebke Loosen"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-09T22:35:45.346Z",
+  "language": "en",
+  "raw_title": "Going with the Mainstream: Exploring GPT Representation of Journalistic Culture",
+  "raw_abstract": "As generative AI becomes increasingly integrated into journalism, questions about its implications for journalistic practice grow more urgent. Despite the rise of AI systems, news organizations often lack an informed understanding of how these systems operate, potentially undermining journalists’ capacity to exercise agency in AI-assisted news production. This study explores how large language models (LLMs), such as ChatGPT, can reflect journalistic value systems. It does this by prompting the GPT-4o model to respond to survey items from the Worlds of Journalism Study that measure journalistic role perceptions, epistemologies, and ethics. These responses were compared to actual survey data from the US, UK, and Germany. Our findings suggest that GPT-4o’s outputs correspond most strongly to the survey responses of politically centrist, full-time journalists whose employers have a TV background, while showing less alignment with right-leaning, part-time, and non-degree-holding journalists. These propensities were most pronounced in the German dataset. While we do not assert that GPT-4o’s cultural orientation directly translates to its journalistic applications, the results reveal which groups of journalists’ perspectives the LLM is more—or less—likely to reflect. By mapping this alignment, the study offers an empirical point of departure for guiding how journalists can maintain agency in their use of LLMs, and thereby contributes to ongoing discourse about the ethical, epistemological, and institutional dimensions of AI in journalism.",
+  "raw_keywords": [],
+  "title_en": "Going with the Mainstream: Exploring GPT Representation of Journalistic Culture",
+  "title_zh": "随主流：探索GPT对新闻文化的表征",
+  "abstract_en": "As generative AI becomes increasingly integrated into journalism, questions about its implications for journalistic practice grow more urgent. Despite the rise of AI systems, news organizations often lack an informed understanding of how these systems operate, potentially undermining journalists’ capacity to exercise agency in AI-assisted news production. This study explores how large language models (LLMs), such as ChatGPT, can reflect journalistic value systems. It does this by prompting the GPT-4o model to respond to survey items from the Worlds of Journalism Study that measure journalistic role perceptions, epistemologies, and ethics. These responses were compared to actual survey data from the US, UK, and Germany. Our findings suggest that GPT-4o’s outputs correspond most strongly to the survey responses of politically centrist, full-time journalists whose employers have a TV background, while showing less alignment with right-leaning, part-time, and non-degree-holding journalists. These propensities were most pronounced in the German dataset. While we do not assert that GPT-4o’s cultural orientation directly translates to its journalistic applications, the results reveal which groups of journalists’ perspectives the LLM is more—or less—likely to reflect. By mapping this alignment, the study offers an empirical point of departure for guiding how journalists can maintain agency in their use of LLMs, and thereby contributes to ongoing discourse about the ethical, epistemological, and institutional dimensions of AI in journalism.",
+  "abstract_zh": "随着生成式人工智能日益融入新闻业，关于其对新闻实践影响的问题变得更加紧迫。尽管AI系统兴起，新闻机构往往缺乏对这些系统如何运作的深入了解，这可能削弱记者在AI辅助新闻生产中的能动性。本研究探讨了大型语言模型（如ChatGPT）如何反映新闻价值体系。通过提示GPT-4o模型回答来自“世界新闻业研究”的调查项目（测量新闻角色认知、认识论和伦理），并将这些回答与美国、英国和德国的实际调查数据进行比较。我们的发现表明，GPT-4o的输出与政治中间派、全职、雇主具有电视背景的记者的调查回应最为一致，而与右倾、兼职和非学位持有记者的对齐程度较低。这些倾向在德国数据集中最为显著。虽然我们不主张GPT-4o的文化取向直接转化为其新闻应用，但结果揭示了LLM更可能或更不可能反映哪些记者群体的观点。通过描绘这种对齐，本研究为指导记者如何在使用LLM时保持能动性提供了经验起点，从而有助于关于AI在新闻业中的伦理、认识论和制度维度的持续讨论。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "generative AI",
+    "journalistic culture",
+    "large language models",
+    "GPT-4",
+    "journalistic roles",
+    "epistemology",
+    "ethics",
+    "Worlds of Journalism Study"
+  ],
+  "inferred_keywords_zh": [
+    "生成式人工智能",
+    "新闻文化",
+    "大型语言模型",
+    "GPT-4",
+    "新闻角色",
+    "认识论",
+    "伦理",
+    "世界新闻业研究"
+  ],
+  "plain_summary_zh": "这项研究测试了AI模型GPT-4o在回答关于新闻价值观的问题时，其答案与哪些记者群体最相似。结果发现，GPT-4o的答案最像政治中间派、全职、在电视台工作的记者，而不太像右翼、兼职或没有学位的记者。这提醒记者在使用AI时要注意其可能存在的偏见。",
+  "plain_summary_en": "This study tested how the AI model GPT-4o answers questions about journalistic values and compared its answers to real journalists. It found that GPT-4o's answers most resemble those of politically centrist, full-time journalists working in TV, and less like right-leaning, part-time, or non-degree-holding journalists. This suggests journalists should be aware of potential biases when using AI tools.",
+  "research_direction_zh": "人工智能在新闻业中的应用及其对新闻实践、伦理和记者能动性的影响",
+  "research_direction_en": "Application of AI in journalism and its impact on journalistic practice, ethics, and journalist agency",
+  "method_tags_zh": [
+    "调查",
+    "比较分析"
+  ],
+  "method_tags_en": [
+    "survey",
+    "comparative analysis"
+  ]
+}
