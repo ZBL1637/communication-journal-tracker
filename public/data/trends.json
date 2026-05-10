@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-09T22:35:45.488Z",
+  "generatedAt": "2026-05-10T22:38:50.026Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 18,
-      "overview_en": "Across 18 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 18 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "paperCount": 17,
+      "overview_en": "Across 17 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on conversation analysis, case study to explain what these changes mean for communication.",
+      "overview_zh": "Across 17 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on conversation analysis, case study to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
         "The",
@@ -76,14 +76,14 @@
       ],
       "high_frequency_methods": [
         {
-          "label_en": "case study",
-          "label_zh": "案例研究",
-          "count": 6
-        },
-        {
           "label_en": "conversation analysis",
           "label_zh": "会话分析",
           "count": 6
+        },
+        {
+          "label_en": "case study",
+          "label_zh": "案例研究",
+          "count": 5
         },
         {
           "label_en": "mixed methods",
@@ -257,9 +257,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 176,
-      "overview_en": "Across 176 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 176 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 177,
+      "overview_en": "Across 177 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 177 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -335,7 +335,7 @@
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 37
+          "count": 38
         },
         {
           "label_en": "survey",
@@ -355,7 +355,7 @@
         {
           "label_en": "interview",
           "label_zh": "访谈",
-          "count": 17
+          "count": 18
         },
         {
           "label_en": "computational analysis",
@@ -500,30 +500,30 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 39,
+      "paperCount": 40,
       "topic_bias_en": [
         "And",
         "The",
         "social media",
-        "Online"
+        "TikTok"
       ],
       "topic_bias_zh": [
         "And",
         "The",
         "社交媒体",
-        "Online"
+        "TikTok"
       ],
       "method_bias_en": [
         "computational analysis",
         "mixed methods",
-        "survey",
-        "interview"
+        "interview",
+        "survey"
       ],
       "method_bias_zh": [
         "computational analysis",
         "mixed methods",
-        "调查",
-        "interview"
+        "访谈",
+        "调查"
       ]
     },
     {
@@ -685,7 +685,7 @@
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 37
+      "count": 38
     },
     {
       "label_en": "survey",
@@ -705,7 +705,7 @@
     {
       "label_en": "interview",
       "label_zh": "访谈",
-      "count": 17
+      "count": 18
     },
     {
       "label_en": "computational analysis",

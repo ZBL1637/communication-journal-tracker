@@ -1751,6 +1751,59 @@
     "fetchedAt": "2026-04-16T09:17:32.917Z"
   },
   {
+    "id": "social-media-and-society-5a548d22b507",
+    "doi": "10.1177/20563051261439788",
+    "url": "https://doi.org/10.1177/20563051261439788",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Ona Anglada-Pujol",
+      "Gemma San Cornelio",
+      "Elisenda Ardèvol",
+      "Sandra Martorell"
+    ],
+    "title_en": "Going Viral or Building a Community: The Dynamics of Environmental Activism on TikTok",
+    "title_zh": "走红还是建立社区：TikTok上环境行动主义的动态",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "TikTok",
+      "environmental activism",
+      "eco-influencers",
+      "virality",
+      "community building",
+      "algorithmic culture",
+      "ethnography"
+    ],
+    "inferred_keywords_zh": [
+      "TikTok",
+      "环境行动主义",
+      "生态影响者",
+      "走红",
+      "社区建设",
+      "算法文化",
+      "民族志"
+    ],
+    "plain_summary_zh": "这项研究探讨了TikTok上的环保活动家如何平衡追求视频走红和建立忠实粉丝社区。研究者发现，这些创作者为了吸引更多不熟悉环保话题的人，会制作有趣、紧跟潮流的视频，但这让他们很难像在Instagram上那样建立稳定的粉丝群体。他们称之为“扁平走红”，即视频传播更多由算法驱动，而非共同的价值观，这阻碍了深度社区的形成。",
+    "plain_summary_en": "This study explores how environmental activists on TikTok balance the pursuit of viral videos with building a loyal community. Researchers found that creators make fun, trend-following videos to reach people unfamiliar with environmental issues, but this makes it hard to build stable communities like on Instagram. They call this 'flat virality', where spread is driven more by algorithms than shared values, hindering deep community formation.",
+    "research_direction_zh": "社交媒体平台上的社会运动与行动主义",
+    "research_direction_en": "Social movements and activism on social media platforms",
+    "method_tags_zh": [
+      "民族志",
+      "访谈",
+      "内容分析"
+    ],
+    "method_tags_en": [
+      "ethnography",
+      "interview",
+      "content analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-10T22:38:45.005Z"
+  },
+  {
     "id": "social-media-and-society-0ed67b529664",
     "doi": "10.1177/20563051261443896",
     "url": "https://doi.org/10.1177/20563051261443896",
