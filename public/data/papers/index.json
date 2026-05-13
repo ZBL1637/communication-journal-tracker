@@ -227,6 +227,114 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "political-communication-4cef3ea78b60",
+    "doi": "10.1080/10584609.2026.2672710",
+    "url": "https://doi.org/10.1080/10584609.2026.2672710",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-05-13T02:06:19.000Z",
+    "authors": [
+      "Joel Sievert",
+      "Kevin K. Banda",
+      "Texas Tech",
+      "Lubbock",
+      "TX",
+      "Political Behavior, and Public Opinion Quarterly."
+    ],
+    "title_en": "How National Cues Polarize Perceptions of Political Figures",
+    "title_zh": "国家线索如何极化政治人物的感知",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "political polarization",
+      "national cues",
+      "political figures",
+      "public opinion",
+      "partisanship"
+    ],
+    "inferred_keywords_zh": [
+      "政治极化",
+      "国家线索",
+      "政治人物",
+      "公众舆论",
+      "党派偏见"
+    ],
+    "plain_summary_zh": "这项研究探讨了国家线索（如总统的言论或国家象征）如何影响人们对政治人物的看法，并可能导致观点更加两极分化。",
+    "plain_summary_en": "This study examines how national cues, such as presidential statements or national symbols, influence people's perceptions of political figures and can lead to more polarized views.",
+    "research_direction_zh": "政治传播与公众舆论中的极化现象",
+    "research_direction_en": "Polarization in political communication and public opinion",
+    "method_tags_zh": [
+      "实验"
+    ],
+    "method_tags_en": [
+      "experiment"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-13T22:59:15.193Z"
+  },
+  {
+    "id": "digital-journalism-7f2a823f12a6",
+    "doi": "10.1080/21670811.2026.2669530",
+    "url": "https://doi.org/10.1080/21670811.2026.2669530",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-05-12T10:26:08.000Z",
+    "authors": [
+      "Isabella Glogger",
+      "Adam Shehata",
+      "Gothenburg",
+      "Sweden"
+    ],
+    "title_en": "Reinforcing Relationship Between Alternative Media Use and Societal Beliefs? Issue Politicization and Asymmetrical Effects as Boundary Conditions",
+    "title_zh": "强化替代媒体使用与社会信念之间的关系？议题政治化与非对称效应作为边界条件",
+    "keywords_en": [
+      "Work (physics)",
+      "Variety (cybernetics)",
+      "Social media",
+      "Alternative media",
+      "Boundary (topology)",
+      "Boundary-work"
+    ],
+    "keywords_zh": [
+      "工作（物理学）",
+      "多样性（控制论）",
+      "社交媒体",
+      "替代媒体",
+      "边界（拓扑学）",
+      "边界工作"
+    ],
+    "inferred_keywords_en": [
+      "alternative media",
+      "societal beliefs",
+      "issue politicization",
+      "asymmetrical effects",
+      "boundary conditions"
+    ],
+    "inferred_keywords_zh": [
+      "替代媒体",
+      "社会信念",
+      "议题政治化",
+      "非对称效应",
+      "边界条件"
+    ],
+    "plain_summary_zh": "这项研究探讨了使用替代媒体如何影响人们的社会信念，并发现这种影响取决于议题的政治化程度以及不同群体之间的非对称效应。",
+    "plain_summary_en": "This study examines how using alternative media affects people's societal beliefs, finding that the impact depends on how politicized the issue is and asymmetrical effects across different groups.",
+    "research_direction_zh": "媒体使用与社会认知的关系，特别是替代媒体在政治传播中的作用。",
+    "research_direction_en": "Relationship between media use and social cognition, especially the role of alternative media in political communication.",
+    "method_tags_zh": [
+      "调查",
+      "实验"
+    ],
+    "method_tags_en": [
+      "survey",
+      "experiment"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-05-13T22:59:19.679Z"
+  },
+  {
     "id": "international-journal-of-press-politics-8b177da787e9",
     "doi": "10.1177/19401612261442761",
     "url": "https://doi.org/10.1177/19401612261442761",
