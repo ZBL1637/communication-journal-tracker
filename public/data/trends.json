@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T22:59:25.274Z",
+  "generatedAt": "2026-05-14T22:50:53.075Z",
   "snapshots": [
     {
       "key": "7d",
@@ -121,9 +121,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 32,
-      "overview_en": "Across 32 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 32 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "paperCount": 31,
+      "overview_en": "Across 31 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 31 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
         "The",
@@ -247,9 +247,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 179,
-      "overview_en": "Across 179 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 179 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 177,
+      "overview_en": "Across 177 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 177 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -268,12 +268,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 69
+          "count": 66
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 65
+          "count": 62
         },
         {
           "label_en": "Social media",
@@ -325,17 +325,17 @@
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 38
+          "count": 37
         },
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 30
+          "count": 29
         },
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 27
+          "count": 26
         },
         {
           "label_en": "review",
@@ -548,18 +548,18 @@
     {
       "journalName": "International Journal of Press/Politics",
       "journalSlug": "international-journal-of-press-politics",
-      "paperCount": 16,
+      "paperCount": 13,
       "topic_bias_en": [
         "And",
         "The",
         "News",
-        "Political"
+        "ethics"
       ],
       "topic_bias_zh": [
         "And",
         "The",
         "News",
-        "Political"
+        "伦理"
       ],
       "method_bias_en": [
         "experiment",
@@ -577,7 +577,7 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 16,
+      "paperCount": 17,
       "topic_bias_en": [
         "Systematic Review",
         "Meta-Analysis",
@@ -594,13 +594,13 @@
         "review",
         "systematic literature review",
         "thematic analysis",
-        "computational analysis"
+        "scoping review"
       ],
       "method_bias_zh": [
         "review",
         "系统性文献综述",
         "主题分析",
-        "computational analysis"
+        "范围综述"
       ]
     }
   ],
@@ -608,12 +608,12 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 69
+      "count": 66
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 65
+      "count": 62
     },
     {
       "label_en": "Social media",
@@ -656,13 +656,13 @@
       "count": 9
     },
     {
-      "label_en": "Political",
-      "label_zh": "Political",
-      "count": 9
-    },
-    {
       "label_en": "Government (linguistics)",
       "label_zh": "政府（语言学）",
+      "count": 8
+    },
+    {
+      "label_en": "Key (lock)",
+      "label_zh": "钥匙（锁）",
       "count": 8
     }
   ],
@@ -675,17 +675,17 @@
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 38
+      "count": 37
     },
     {
       "label_en": "survey",
       "label_zh": "调查",
-      "count": 30
+      "count": 29
     },
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 27
+      "count": 26
     },
     {
       "label_en": "review",

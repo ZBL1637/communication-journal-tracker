@@ -1,0 +1,58 @@
+{
+  "id": "review-of-communication-research-ba8645d91cd5",
+  "doi": "10.52152/RCR.V14.S5",
+  "url": "https://doi.org/10.52152/rcr.v14.s5",
+  "journalName": "Review of Communication Research",
+  "journalSlug": "review-of-communication-research",
+  "issn": "2255-4165",
+  "publishedAt": "2026-04-13T00:00:00.000Z",
+  "authors": [
+    "Yanqing Peng",
+    "Hafizah Omar Zaki",
+    "Che Aniza",
+    "binti Che Wel",
+    "Nadzirah Rosli"
+  ],
+  "source": "crossref+detail",
+  "fetchedAt": "2026-05-14T22:50:53.071Z",
+  "language": "en",
+  "raw_title": "A Scoping Review of Data Privacy Concerns and Their Role on Consumer Decision-Making in TikTok Social Commerce: Exploring Social Media Engagement and Digital Trust",
+  "raw_abstract": "This research studies the impact of privacy worries on customers who use social commerce on TikTok while highlighting their behavior toward digital trust and social media involvement. The understanding of privacy behaviors becomes vital as TikTok continues expanding because it helps to build user trust and maintain interaction. Researcher applied PRISMA-ScR methodology to review 15 peer-reviewed articles and industry reports in order to complete their investigation. The study identified consumer trust as well as social media engagement together with privacy risk perceptions as its essential findings. The review evidence shows that privacy issues function as a major component that influences both user trust development and TikTok social commerce involvement. The strategies used for trust-building together with intergenerational differences significantly shape how users behave in the platform. This study offers actionable insights for platform developers, marketers, and policymakers, stressing the importance of transparent data management and ethical marketing practices. It also outlines future research directions, including mixed-method and cross-cultural studies, to deepen understanding of the interplay between privacy and trust. The findings support the development of a sustainable and ethical social commerce environment.",
+  "raw_keywords": [
+    "Data Privacy",
+    "Consumer Decision-Making",
+    "TikTok Social Commerce",
+    "Social Media Engagement",
+    "Digital Trust"
+  ],
+  "title_en": "A Scoping Review of Data Privacy Concerns and Their Role on Consumer Decision-Making in TikTok Social Commerce: Exploring Social Media Engagement and Digital Trust",
+  "title_zh": "数据隐私担忧在TikTok社交商务中对消费者决策作用的范围综述：探索社交媒体参与和数字信任",
+  "abstract_en": "This research studies the impact of privacy worries on customers who use social commerce on TikTok while highlighting their behavior toward digital trust and social media involvement. The understanding of privacy behaviors becomes vital as TikTok continues expanding because it helps to build user trust and maintain interaction. Researcher applied PRISMA-ScR methodology to review 15 peer-reviewed articles and industry reports in order to complete their investigation. The study identified consumer trust as well as social media engagement together with privacy risk perceptions as its essential findings. The review evidence shows that privacy issues function as a major component that influences both user trust development and TikTok social commerce involvement. The strategies used for trust-building together with intergenerational differences significantly shape how users behave on the platform. This study offers actionable insights for platform developers, marketers, and policymakers, stressing the importance of transparent data management and ethical marketing practices. It also outlines future research directions, including mixed-method and cross-cultural studies, to deepen understanding of the interplay between privacy and trust. The findings support the development of a sustainable and ethical social commerce environment.",
+  "abstract_zh": "本研究探讨了隐私担忧对使用TikTok社交商务的消费者的影响，重点关注他们在数字信任和社交媒体参与方面的行为。随着TikTok的持续扩张，理解隐私行为对于建立用户信任和维持互动至关重要。研究者采用PRISMA-ScR方法，回顾了15篇同行评审文章和行业报告。研究发现，消费者信任、社交媒体参与和隐私风险感知是关键要素。综述证据表明，隐私问题是影响用户信任发展和TikTok社交商务参与的主要因素。信任建立策略以及代际差异显著影响用户在平台上的行为。本研究为平台开发者、营销人员和政策制定者提供了可操作的见解，强调了透明数据管理和道德营销实践的重要性。它还概述了未来的研究方向，包括混合方法和跨文化研究，以加深对隐私与信任之间相互作用的理解。研究结果支持可持续和道德的社交商务环境的发展。",
+  "keywords_en": [
+    "Data Privacy",
+    "Consumer Decision-Making",
+    "TikTok Social Commerce",
+    "Social Media Engagement",
+    "Digital Trust"
+  ],
+  "keywords_zh": [
+    "数据隐私",
+    "消费者决策",
+    "TikTok社交商务",
+    "社交媒体参与",
+    "数字信任"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_zh": "这项研究探讨了人们在TikTok上购物时，对隐私的担忧如何影响他们的信任和参与度。研究者分析了15篇相关文章，发现隐私问题会显著影响用户是否信任平台并继续使用。不同年龄段的用户反应不同，而平台如何建立信任也很重要。研究建议平台要透明处理数据，并采取道德营销方式。",
+  "plain_summary_en": "This study looks at how privacy concerns affect people's trust and engagement when shopping on TikTok. The researchers reviewed 15 articles and found that privacy issues strongly influence whether users trust the platform and keep using it. Different age groups react differently, and how the platform builds trust matters. The study suggests platforms should be transparent about data and use ethical marketing.",
+  "research_direction_zh": "社交媒体商务中的用户隐私、信任与参与行为研究",
+  "research_direction_en": "User privacy, trust, and engagement in social commerce",
+  "method_tags_zh": [
+    "范围综述"
+  ],
+  "method_tags_en": [
+    "scoping review"
+  ]
+}
