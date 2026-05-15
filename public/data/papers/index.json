@@ -1905,6 +1905,58 @@
     "fetchedAt": "2026-04-16T09:17:32.917Z"
   },
   {
+    "id": "social-media-and-society-355106ab4bcd",
+    "doi": "10.1177/20563051251408946",
+    "url": "https://doi.org/10.1177/20563051251408946",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Anna Carolina Boechat",
+      "Arminda do Paço",
+      "Nuno Baptista"
+    ],
+    "title_en": "Shaping Sustainable Communication on Instagram: How Digital Influencers in Portugal Engage Consumers in Eco-Conscious Narratives",
+    "title_zh": "在Instagram上塑造可持续传播：葡萄牙数字网红如何引导消费者参与生态意识叙事",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "sustainability communication",
+      "digital influencers",
+      "Instagram",
+      "Generation Z",
+      "qualitative research",
+      "visual-verbal video analysis",
+      "focus groups",
+      "Portugal"
+    ],
+    "inferred_keywords_zh": [
+      "可持续传播",
+      "数字网红",
+      "Instagram",
+      "Z世代",
+      "定性研究",
+      "视觉-言语视频分析",
+      "焦点小组",
+      "葡萄牙"
+    ],
+    "plain_summary_zh": "这项研究探讨了葡萄牙的网红如何在Instagram上谈论环保和可持续生活，以及年轻人（Z世代）如何看待这些内容。研究者分析了200个短视频，并与29名年轻人进行了小组讨论。他们发现，大网红更注重品牌和好看画面，而小网红则用更简单、更真诚的方式谈论环保。年轻人更相信那些看起来真实、不夸张的网红，而不是那些说得天花乱坠的。总的来说，Instagram上的环保内容更像是一种情感表演，而不是单纯的信息传递。",
+    "plain_summary_en": "This study looks at how influencers in Portugal talk about sustainability on Instagram and how young people (Generation Z) perceive these messages. Researchers analyzed 200 short videos and held group discussions with 29 young people. They found that big influencers focus more on brand aesthetics and aspirational content, while smaller influencers use simpler, more genuine ways to talk about eco-friendly topics. Young people tend to trust influencers who seem authentic and not over-the-top. Overall, sustainability on Instagram is more about emotional performance than just sharing information.",
+    "research_direction_zh": "社交媒体上的可持续传播与消费者参与",
+    "research_direction_en": "Sustainable communication and consumer engagement on social media",
+    "method_tags_zh": [
+      "内容分析",
+      "焦点小组"
+    ],
+    "method_tags_en": [
+      "content analysis",
+      "focus group"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-15T22:47:24.326Z"
+  },
+  {
     "id": "social-media-and-society-5a548d22b507",
     "doi": "10.1177/20563051261439788",
     "url": "https://doi.org/10.1177/20563051261439788",
