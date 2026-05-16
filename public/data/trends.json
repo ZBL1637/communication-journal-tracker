@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T22:47:30.296Z",
+  "generatedAt": "2026-05-16T22:38:23.877Z",
   "snapshots": [
     {
       "key": "7d",
@@ -116,9 +116,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 30,
-      "overview_en": "Across 30 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 30 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "paperCount": 29,
+      "overview_en": "Across 29 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 29 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
         "The",
@@ -160,18 +160,13 @@
           "count": 4
         },
         {
-          "label_en": "Work (physics)",
-          "label_zh": "工作（物理学）",
-          "count": 3
-        },
-        {
           "label_en": "Policy",
           "label_zh": "Policy",
           "count": 2
         },
         {
-          "label_en": "Variety (cybernetics)",
-          "label_zh": "多样性（控制论）",
+          "label_en": "Work (physics)",
+          "label_zh": "工作（物理学）",
           "count": 2
         },
         {
@@ -183,13 +178,18 @@
           "label_en": "Alternative media",
           "label_zh": "替代媒体",
           "count": 2
+        },
+        {
+          "label_en": "interactional linguistics",
+          "label_zh": "互动语言学",
+          "count": 2
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 9
+          "count": 8
         },
         {
           "label_en": "conversation analysis",
@@ -222,11 +222,6 @@
           "count": 2
         },
         {
-          "label_en": "theoretical analysis",
-          "label_zh": "理论分析",
-          "count": 2
-        },
-        {
           "label_en": "theoretical discussion",
           "label_zh": "理论探讨",
           "count": 2
@@ -234,6 +229,11 @@
         {
           "label_en": "corpus analysis",
           "label_zh": "语料库分析",
+          "count": 2
+        },
+        {
+          "label_en": "systematic literature review",
+          "label_zh": "系统性文献综述",
           "count": 2
         }
       ]
