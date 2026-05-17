@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-16T22:38:23.877Z",
+  "generatedAt": "2026-05-17T22:45:04.614Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 8,
-      "overview_en": "Across 8 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 8 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "paperCount": 7,
+      "overview_en": "Across 7 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 7 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
@@ -86,11 +86,6 @@
           "count": 2
         },
         {
-          "label_en": "survey",
-          "label_zh": "调查",
-          "count": 2
-        },
-        {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
           "count": 1
@@ -106,8 +101,8 @@
           "count": 1
         },
         {
-          "label_en": "comparative analysis",
-          "label_zh": "比较分析",
+          "label_en": "survey",
+          "label_zh": "调查",
           "count": 1
         }
       ]
