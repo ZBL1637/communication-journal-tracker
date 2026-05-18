@@ -1,0 +1,52 @@
+{
+  "id": "policy-and-internet-280184a7a47f",
+  "doi": "10.1002/poi3.70042",
+  "url": "https://doi.org/10.1002/poi3.70042",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-06-01T00:00:00.000Z",
+  "authors": [
+    "Sophia Walsh",
+    "Lukasz Piwek",
+    "Kopo Marvin Ramokapane"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-18T22:52:32.145Z",
+  "language": "en",
+  "raw_title": "Three Systemic Problems With the Privacy Notice Ecosystem",
+  "raw_abstract": "ABSTRACT Privacy notices have become ubiquitous across digital platforms, yet they consistently fail to enable informed user choice about data collection and sharing practices. Despite decades of research and regulatory interventions, users continue to ignore or misunderstand privacy notices. We identify three systemic problems that explain this persistent failure. First, the privacy notice ecosystem suffers from terminological chaos, where identical functions are described using inconsistent language, creating confusion rather than clarity. Second, privacy notices now serve conflicting masters: they must simultaneously inform users and provide legal cover for organisations, with compliance objectives consistently winning over usability. Third, the complexity of modern data practices has outpaced what any notice can meaningfully communicate, yet regulators and industry continue expanding the paradigm to new domains like IoT. These problems compound to create “regulatory theatre”— performative compliance that legitimates data extraction while failing to empower users. We argue that these structural contradictions reveal fundamental questions about whether the notice‐and‐choice paradigm can function effectively in contemporary digital ecosystems. Future research should prioritise designing privacy communication tools based on actual user behaviour— quick decisions using heuristic cues—rather than comprehensive technical disclosure.",
+  "raw_keywords": [],
+  "title_en": "Three Systemic Problems With the Privacy Notice Ecosystem",
+  "title_zh": "隐私通知生态系统的三个系统性问题",
+  "abstract_en": "Privacy notices have become ubiquitous across digital platforms, yet they consistently fail to enable informed user choice about data collection and sharing practices. Despite decades of research and regulatory interventions, users continue to ignore or misunderstand privacy notices. We identify three systemic problems that explain this persistent failure. First, the privacy notice ecosystem suffers from terminological chaos, where identical functions are described using inconsistent language, creating confusion rather than clarity. Second, privacy notices now serve conflicting masters: they must simultaneously inform users and provide legal cover for organisations, with compliance objectives consistently winning over usability. Third, the complexity of modern data practices has outpaced what any notice can meaningfully communicate, yet regulators and industry continue expanding the paradigm to new domains like IoT. These problems compound to create “regulatory theatre”— performative compliance that legitimates data extraction while failing to empower users. We argue that these structural contradictions reveal fundamental questions about whether the notice‐and‐choice paradigm can function effectively in contemporary digital ecosystems. Future research should prioritise designing privacy communication tools based on actual user behaviour— quick decisions using heuristic cues—rather than comprehensive technical disclosure.",
+  "abstract_zh": "隐私通知在数字平台上已无处不在，但它们始终未能让用户就数据收集和共享实践做出知情选择。尽管经过数十年的研究和监管干预，用户仍然忽视或误解隐私通知。我们确定了三个系统性问题来解释这种持续失败。首先，隐私通知生态系统存在术语混乱，相同的功能使用不一致的语言描述，造成混淆而非清晰。其次，隐私通知现在服务于相互冲突的目标：它们必须同时告知用户并为组织提供法律保护，而合规目标始终胜过可用性。第三，现代数据实践的复杂性已经超出了任何通知能够有意义地传达的范围，但监管机构和行业继续将该范式扩展到物联网等新领域。这些问题共同造成了“监管剧场”——一种表演性的合规，使数据提取合法化，却未能赋予用户权力。我们认为，这些结构性矛盾揭示了关于通知-选择范式能否在当代数字生态系统中有效运作的根本问题。未来的研究应优先考虑基于实际用户行为设计隐私沟通工具——使用启发式线索快速决策——而不是全面的技术披露。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "privacy notices",
+    "notice-and-choice",
+    "regulatory theatre",
+    "data privacy",
+    "user behavior"
+  ],
+  "inferred_keywords_zh": [
+    "隐私通知",
+    "通知-选择",
+    "监管剧场",
+    "数据隐私",
+    "用户行为"
+  ],
+  "plain_summary_zh": "这篇文章讨论了为什么隐私通知（比如网站上的隐私政策）通常不起作用。作者发现了三个主要问题：第一，不同网站用不同的词说同样的事情，让人困惑；第二，这些通知既要帮助用户，又要保护公司，但公司利益总是优先；第三，现在的数据使用太复杂，一个通知根本说不清楚。结果就是，公司假装遵守规则，但用户并没有真正得到保护。作者建议，未来应该根据用户实际如何做决定来设计隐私工具，而不是写一大堆没人读的细节。",
+  "plain_summary_en": "This article discusses why privacy notices (like website privacy policies) often fail. The authors identify three main problems: first, different websites use different words to say the same thing, causing confusion; second, these notices try to both inform users and protect companies, but company interests always win; third, modern data practices are too complex for any notice to explain clearly. As a result, companies pretend to comply, but users are not truly empowered. The authors suggest future privacy tools should be designed based on how users actually make decisions—quickly using simple cues—rather than providing lengthy technical details.",
+  "research_direction_zh": "隐私沟通与用户行为研究",
+  "research_direction_en": "Privacy communication and user behavior research",
+  "method_tags_zh": [
+    "文献综述",
+    "理论分析"
+  ],
+  "method_tags_en": [
+    "literature review",
+    "theoretical analysis"
+  ]
+}

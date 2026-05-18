@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-17T22:45:04.614Z",
+  "generatedAt": "2026-05-18T22:52:35.056Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 7,
-      "overview_en": "Across 7 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 7 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "paperCount": 8,
+      "overview_en": "Across 8 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 8 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
         "Policy",
         "Alternative media",
-        "Watermarking"
+        "privacy notices"
       ],
       "hot_topics_zh": [
         "The",
         "And",
         "Policy",
         "替代媒体",
-        "Watermarking"
+        "隐私通知"
       ],
       "high_frequency_keywords": [
         {
@@ -44,33 +44,33 @@
           "count": 2
         },
         {
+          "label_en": "privacy notices",
+          "label_zh": "隐私通知",
+          "count": 1
+        },
+        {
+          "label_en": "notice-and-choice",
+          "label_zh": "通知-选择",
+          "count": 1
+        },
+        {
+          "label_en": "regulatory theatre",
+          "label_zh": "监管剧场",
+          "count": 1
+        },
+        {
+          "label_en": "data privacy",
+          "label_zh": "数据隐私",
+          "count": 1
+        },
+        {
+          "label_en": "user behavior",
+          "label_zh": "用户行为",
+          "count": 1
+        },
+        {
           "label_en": "Watermarking",
           "label_zh": "Watermarking",
-          "count": 1
-        },
-        {
-          "label_en": "Legal",
-          "label_zh": "Legal",
-          "count": 1
-        },
-        {
-          "label_en": "Generated",
-          "label_zh": "Generated",
-          "count": 1
-        },
-        {
-          "label_en": "Measures",
-          "label_zh": "Measures",
-          "count": 1
-        },
-        {
-          "label_en": "Compliance",
-          "label_zh": "Compliance",
-          "count": 1
-        },
-        {
-          "label_en": "Enforcement",
-          "label_zh": "Enforcement",
           "count": 1
         }
       ],
@@ -84,6 +84,16 @@
           "label_en": "experiment",
           "label_zh": "实验",
           "count": 2
+        },
+        {
+          "label_en": "literature review",
+          "label_zh": "文献综述",
+          "count": 1
+        },
+        {
+          "label_en": "theoretical analysis",
+          "label_zh": "理论分析",
+          "count": 1
         },
         {
           "label_en": "computational analysis",
@@ -111,9 +121,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 29,
-      "overview_en": "Across 29 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 29 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "paperCount": 30,
+      "overview_en": "Across 30 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 30 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
         "The",
@@ -192,6 +202,11 @@
           "count": 6
         },
         {
+          "label_en": "literature review",
+          "label_zh": "文献综述",
+          "count": 4
+        },
+        {
           "label_en": "content analysis",
           "label_zh": "内容分析",
           "count": 4
@@ -207,9 +222,9 @@
           "count": 3
         },
         {
-          "label_en": "literature review",
-          "label_zh": "文献综述",
-          "count": 3
+          "label_en": "theoretical analysis",
+          "label_zh": "理论分析",
+          "count": 2
         },
         {
           "label_en": "survey",
@@ -225,11 +240,6 @@
           "label_en": "corpus analysis",
           "label_zh": "语料库分析",
           "count": 2
-        },
-        {
-          "label_en": "systematic literature review",
-          "label_zh": "系统性文献综述",
-          "count": 2
         }
       ]
     },
@@ -237,9 +247,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 177,
-      "overview_en": "Across 177 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 177 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 178,
+      "overview_en": "Across 178 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 178 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -350,7 +360,7 @@
         {
           "label_en": "literature review",
           "label_zh": "文献综述",
-          "count": 9
+          "count": 10
         },
         {
           "label_en": "conversation analysis",
@@ -509,7 +519,7 @@
     {
       "journalName": "Policy & Internet",
       "journalSlug": "policy-and-internet",
-      "paperCount": 22,
+      "paperCount": 23,
       "topic_bias_en": [
         "And",
         "The",
@@ -700,7 +710,7 @@
     {
       "label_en": "literature review",
       "label_zh": "文献综述",
-      "count": 9
+      "count": 10
     },
     {
       "label_en": "conversation analysis",
@@ -708,14 +718,14 @@
       "count": 8
     },
     {
-      "label_en": "discourse analysis",
-      "label_zh": "话语分析",
+      "label_en": "theoretical analysis",
+      "label_zh": "理论分析",
       "count": 7
     },
     {
-      "label_en": "theoretical analysis",
-      "label_zh": "理论分析",
-      "count": 6
+      "label_en": "discourse analysis",
+      "label_zh": "话语分析",
+      "count": 7
     }
   ]
 }
