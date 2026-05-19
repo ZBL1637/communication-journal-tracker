@@ -43,21 +43,21 @@
       ".meta__title a",
       "h5 a"
     ],
-    "paperCount": 42,
-    "latestPublishedAt": "2026-05-13T02:06:19.000Z",
+    "paperCount": 43,
+    "latestPublishedAt": "2026-05-19T04:43:05.000Z",
     "topKeywordsEn": [
-      "political polarization",
-      "national cues",
-      "political figures",
-      "public opinion",
-      "partisanship"
+      "misinformation",
+      "ideological congruence",
+      "hostile media effect",
+      "political communication",
+      "selective perception"
     ],
     "topKeywordsZh": [
-      "政治极化",
-      "国家线索",
-      "政治人物",
-      "公众舆论",
-      "党派偏见"
+      "错误信息",
+      "意识形态一致性",
+      "敌对媒体效应",
+      "政治传播",
+      "选择性感知"
     ]
   },
   {
@@ -198,21 +198,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 21,
-    "latestPublishedAt": "2026-05-09T00:00:00.000Z",
+    "paperCount": 22,
+    "latestPublishedAt": "2026-05-19T00:00:00.000Z",
     "topKeywordsEn": [
-      "generative AI",
-      "journalistic culture",
-      "large language models",
-      "GPT-4",
-      "journalistic roles"
+      "right-wing alternative media",
+      "political trust",
+      "anger",
+      "anxiety",
+      "panel survey"
     ],
     "topKeywordsZh": [
-      "生成式人工智能",
-      "新闻文化",
-      "大型语言模型",
-      "GPT-4",
-      "新闻角色"
+      "右翼另类媒体",
+      "政治信任",
+      "愤怒",
+      "焦虑",
+      "面板调查"
     ]
   },
   {

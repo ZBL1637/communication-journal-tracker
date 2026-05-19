@@ -1,0 +1,55 @@
+{
+  "id": "political-communication-f88274271929",
+  "doi": "10.1080/10584609.2026.2671760",
+  "url": "https://doi.org/10.1080/10584609.2026.2671760",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-05-19T04:43:05.000Z",
+  "authors": [
+    "Patrick van Erkel",
+    "Michael Hameleers",
+    "Aqsa Farooq",
+    "Katjana Gattermann",
+    "Marina Tulin",
+    "Elske van",
+    "den Hoogen",
+    "Claes de Vreese"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-05-19T22:58:11.932Z",
+  "language": "en",
+  "raw_title": "The Hostile Misinformation Effect: How Ideological Congruence Drives the Assessment of Misinformation Targets",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "The Hostile Misinformation Effect: How Ideological Congruence Drives the Assessment of Misinformation Targets",
+  "title_zh": "敌对错误信息效应：意识形态一致性如何驱动对错误信息目标的评估",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "misinformation",
+    "ideological congruence",
+    "hostile media effect",
+    "political communication",
+    "selective perception"
+  ],
+  "inferred_keywords_zh": [
+    "错误信息",
+    "意识形态一致性",
+    "敌对媒体效应",
+    "政治传播",
+    "选择性感知"
+  ],
+  "plain_summary_zh": "这项研究探讨了人们如何根据自身政治立场来判断错误信息的目标。研究发现，当错误信息攻击与自己观点一致的群体或人物时，人们更倾向于认为该信息是虚假的；反之，如果攻击的是对立群体，则更容易相信。这被称为“敌对错误信息效应”。",
+  "plain_summary_en": "This study examines how people judge the targets of misinformation based on their own political leanings. It finds that when misinformation attacks groups or figures aligned with one's own views, people are more likely to perceive it as false; conversely, if it attacks opposing groups, they are more likely to believe it. This is called the 'hostile misinformation effect'.",
+  "research_direction_zh": "政治传播中的错误信息感知与意识形态偏见",
+  "research_direction_en": "Misinformation perception and ideological bias in political communication",
+  "method_tags_zh": [
+    "实验"
+  ],
+  "method_tags_en": [
+    "experiment"
+  ]
+}

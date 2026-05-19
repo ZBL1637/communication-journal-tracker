@@ -1,0 +1,52 @@
+{
+  "id": "international-journal-of-press-politics-115634d62fdd",
+  "doi": "10.1177/19401612261446713",
+  "url": "https://doi.org/10.1177/19401612261446713",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2026-05-19T00:00:00.000Z",
+  "authors": [
+    "Andreas Nanz"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-19T22:58:25.403Z",
+  "language": "en",
+  "raw_title": "Fear, Anger, and Mistrust: How Right-wing Alternative Media Influences Political Trust and Emotions about Politics",
+  "raw_abstract": "The rise of right-wing alternative media across many Western democracies has been discussed as a challenge to democratic institutions and processes, contributing to the erosion of political trust. Political trust scholars, as well as previous research on alternative media use, have both recognized that emotions play a crucial role in their subject of study. However, research investigating this affective component is extremely sparse. Drawing from appraisal theory and affective intelligence theory, this study investigates the role of anger and anxiety in the nexus between right-wing alternative media use and political trust. The study relies on data from a three-wave panel survey conducted in Austria ( N = 1,504) to estimate a random intercept cross-lagged panel model distinguishing within- and between-person relationships. Results suggest that right-wing alternative media use increased political anger over time. Further, anger reduced political trust over time. For anxiety, the picture is more nuanced: Political anxiety was not affected by right-wing alternative media use. Anxiety reduced political trust between wave 1 and wave 2, but not between wave 2 and wave 3. Neither anger nor anxiety increased right-wing alternative media use over time. Implications are discussed.",
+  "raw_keywords": [],
+  "title_en": "Fear, Anger, and Mistrust: How Right-wing Alternative Media Influences Political Trust and Emotions about Politics",
+  "title_zh": "恐惧、愤怒与不信任：右翼另类媒体如何影响政治信任与政治情绪",
+  "abstract_en": "The rise of right-wing alternative media across many Western democracies has been discussed as a challenge to democratic institutions and processes, contributing to the erosion of political trust. Political trust scholars, as well as previous research on alternative media use, have both recognized that emotions play a crucial role in their subject of study. However, research investigating this affective component is extremely sparse. Drawing from appraisal theory and affective intelligence theory, this study investigates the role of anger and anxiety in the nexus between right-wing alternative media use and political trust. The study relies on data from a three-wave panel survey conducted in Austria ( N = 1,504) to estimate a random intercept cross-lagged panel model distinguishing within- and between-person relationships. Results suggest that right-wing alternative media use increased political anger over time. Further, anger reduced political trust over time. For anxiety, the picture is more nuanced: Political anxiety was not affected by right-wing alternative media use. Anxiety reduced political trust between wave 1 and wave 2, but not between wave 2 and wave 3. Neither anger nor anxiety increased right-wing alternative media use over time. Implications are discussed.",
+  "abstract_zh": "在许多西方民主国家，右翼另类媒体的崛起被认为是对民主制度和进程的挑战，导致政治信任的侵蚀。政治信任学者以及先前关于另类媒体使用的研究都认识到情绪在其研究主题中起着关键作用。然而，调查这一情感成分的研究极为稀少。本研究借鉴评价理论和情感智能理论，探讨愤怒和焦虑在右翼另类媒体使用与政治信任之间关系中的作用。研究基于在奥地利进行的三波面板调查数据（N = 1,504），估计了一个区分个体内和个体间关系的随机截距交叉滞后面板模型。结果表明，右翼另类媒体使用随时间增加了政治愤怒。此外，愤怒随时间降低了政治信任。对于焦虑，情况更为复杂：政治焦虑不受右翼另类媒体使用的影响。焦虑在波1和波2之间降低了政治信任，但在波2和波3之间没有。愤怒和焦虑均未随时间增加右翼另类媒体使用。讨论了研究意义。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "right-wing alternative media",
+    "political trust",
+    "anger",
+    "anxiety",
+    "panel survey",
+    "Austria"
+  ],
+  "inferred_keywords_zh": [
+    "右翼另类媒体",
+    "政治信任",
+    "愤怒",
+    "焦虑",
+    "面板调查",
+    "奥地利"
+  ],
+  "plain_summary_zh": "这项研究发现，使用右翼另类媒体会让人对政治感到更愤怒，而这种愤怒又会降低对政治的信任。但焦虑似乎没有这种影响。研究在奥地利进行，通过三次问卷调查了1500多人。",
+  "plain_summary_en": "This study found that using right-wing alternative media makes people angrier about politics, and that anger reduces political trust. Anxiety did not have the same effect. The research was conducted in Austria with over 1,500 people surveyed three times.",
+  "research_direction_zh": "政治传播与情绪研究",
+  "research_direction_en": "Political communication and emotion research",
+  "method_tags_zh": [
+    "面板调查",
+    "随机截距交叉滞后面板模型"
+  ],
+  "method_tags_en": [
+    "panel survey",
+    "random intercept cross-lagged panel model"
+  ]
+}

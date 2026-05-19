@@ -273,6 +273,101 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "political-communication-f88274271929",
+    "doi": "10.1080/10584609.2026.2671760",
+    "url": "https://doi.org/10.1080/10584609.2026.2671760",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-05-19T04:43:05.000Z",
+    "authors": [
+      "Patrick van Erkel",
+      "Michael Hameleers",
+      "Aqsa Farooq",
+      "Katjana Gattermann",
+      "Marina Tulin",
+      "Elske van",
+      "den Hoogen",
+      "Claes de Vreese"
+    ],
+    "title_en": "The Hostile Misinformation Effect: How Ideological Congruence Drives the Assessment of Misinformation Targets",
+    "title_zh": "敌对错误信息效应：意识形态一致性如何驱动对错误信息目标的评估",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "misinformation",
+      "ideological congruence",
+      "hostile media effect",
+      "political communication",
+      "selective perception"
+    ],
+    "inferred_keywords_zh": [
+      "错误信息",
+      "意识形态一致性",
+      "敌对媒体效应",
+      "政治传播",
+      "选择性感知"
+    ],
+    "plain_summary_zh": "这项研究探讨了人们如何根据自身政治立场来判断错误信息的目标。研究发现，当错误信息攻击与自己观点一致的群体或人物时，人们更倾向于认为该信息是虚假的；反之，如果攻击的是对立群体，则更容易相信。这被称为“敌对错误信息效应”。",
+    "plain_summary_en": "This study examines how people judge the targets of misinformation based on their own political leanings. It finds that when misinformation attacks groups or figures aligned with one's own views, people are more likely to perceive it as false; conversely, if it attacks opposing groups, they are more likely to believe it. This is called the 'hostile misinformation effect'.",
+    "research_direction_zh": "政治传播中的错误信息感知与意识形态偏见",
+    "research_direction_en": "Misinformation perception and ideological bias in political communication",
+    "method_tags_zh": [
+      "实验"
+    ],
+    "method_tags_en": [
+      "experiment"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-19T22:58:11.932Z"
+  },
+  {
+    "id": "international-journal-of-press-politics-115634d62fdd",
+    "doi": "10.1177/19401612261446713",
+    "url": "https://doi.org/10.1177/19401612261446713",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-05-19T00:00:00.000Z",
+    "authors": [
+      "Andreas Nanz"
+    ],
+    "title_en": "Fear, Anger, and Mistrust: How Right-wing Alternative Media Influences Political Trust and Emotions about Politics",
+    "title_zh": "恐惧、愤怒与不信任：右翼另类媒体如何影响政治信任与政治情绪",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "right-wing alternative media",
+      "political trust",
+      "anger",
+      "anxiety",
+      "panel survey",
+      "Austria"
+    ],
+    "inferred_keywords_zh": [
+      "右翼另类媒体",
+      "政治信任",
+      "愤怒",
+      "焦虑",
+      "面板调查",
+      "奥地利"
+    ],
+    "plain_summary_zh": "这项研究发现，使用右翼另类媒体会让人对政治感到更愤怒，而这种愤怒又会降低对政治的信任。但焦虑似乎没有这种影响。研究在奥地利进行，通过三次问卷调查了1500多人。",
+    "plain_summary_en": "This study found that using right-wing alternative media makes people angrier about politics, and that anger reduces political trust. Anxiety did not have the same effect. The research was conducted in Austria with over 1,500 people surveyed three times.",
+    "research_direction_zh": "政治传播与情绪研究",
+    "research_direction_en": "Political communication and emotion research",
+    "method_tags_zh": [
+      "面板调查",
+      "随机截距交叉滞后面板模型"
+    ],
+    "method_tags_en": [
+      "panel survey",
+      "random intercept cross-lagged panel model"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-19T22:58:25.403Z"
+  },
+  {
     "id": "political-communication-4cef3ea78b60",
     "doi": "10.1080/10584609.2026.2672710",
     "url": "https://doi.org/10.1080/10584609.2026.2672710",
