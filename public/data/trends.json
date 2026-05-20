@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-19T22:58:26.817Z",
+  "generatedAt": "2026-05-20T23:06:36.860Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 10,
-      "overview_en": "Across 10 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 10 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "paperCount": 9,
+      "overview_en": "Across 9 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 9 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
         "Policy",
         "political communication",
-        "Alternative media"
+        "privacy notices"
       ],
       "hot_topics_zh": [
         "The",
         "And",
         "Policy",
         "政治传播",
-        "替代媒体"
+        "隐私通知"
       ],
       "high_frequency_keywords": [
         {
@@ -41,11 +41,6 @@
         {
           "label_en": "political communication",
           "label_zh": "政治传播",
-          "count": 2
-        },
-        {
-          "label_en": "Alternative media",
-          "label_zh": "替代媒体",
           "count": 2
         },
         {
@@ -72,6 +67,11 @@
           "label_en": "user behavior",
           "label_zh": "用户行为",
           "count": 1
+        },
+        {
+          "label_en": "Watermarking",
+          "label_zh": "Watermarking",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
@@ -83,7 +83,7 @@
         {
           "label_en": "experiment",
           "label_zh": "实验",
-          "count": 3
+          "count": 2
         },
         {
           "label_en": "literature review",
@@ -118,11 +118,6 @@
         {
           "label_en": "random intercept cross-lagged panel model",
           "label_zh": "随机截距交叉滞后面板模型",
-          "count": 1
-        },
-        {
-          "label_en": "survey",
-          "label_zh": "调查",
           "count": 1
         }
       ]
@@ -257,9 +252,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 177,
-      "overview_en": "Across 177 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 177 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 176,
+      "overview_en": "Across 176 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 176 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -278,12 +273,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 66
+          "count": 65
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 62
+          "count": 61
         },
         {
           "label_en": "Social media",
@@ -365,7 +360,7 @@
         {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
-          "count": 16
+          "count": 15
         },
         {
           "label_en": "literature review",
@@ -384,7 +379,7 @@
     {
       "journalName": "JOURNAL OF COMMUNICATION",
       "journalSlug": "journal-of-communication",
-      "paperCount": 13,
+      "paperCount": 12,
       "topic_bias_en": [
         "The",
         "And",
@@ -618,12 +613,12 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 66
+      "count": 65
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 62
+      "count": 61
     },
     {
       "label_en": "Social media",
@@ -715,7 +710,7 @@
     {
       "label_en": "computational analysis",
       "label_zh": "computational analysis",
-      "count": 16
+      "count": 15
     },
     {
       "label_en": "literature review",
