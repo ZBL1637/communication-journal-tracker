@@ -1,0 +1,52 @@
+{
+  "id": "social-media-and-society-b2024087926e",
+  "doi": "10.1177/20563051261449194",
+  "url": "https://doi.org/10.1177/20563051261449194",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Amancay Ancina",
+    "Jana Zumbrägel",
+    "Nicole Krämer"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-21T22:58:43.776Z",
+  "language": "en",
+  "raw_title": "I Don’t Believe Misinformation, But I Might Share It: Inoculation Effects in Messenger Communication",
+  "raw_abstract": "Mobile instant messaging services (MIMS) such as WhatsApp and Telegram are used to spread misinformation, yet evidence on effective countermeasures within these spaces is limited. Guided by inoculation theory, we conducted an online experiment ( N = 154) to examine the extent to which refutational-same (argument-matched) inoculation or cross-protection (cross-topic) conditions influence the credibility and sharing of false and true information within MIMS. We analyzed whether critical thinking abilities, information literacy, and messenger use moderate the effectiveness of these measures. Results show that refutational-same inoculation only reduced the perceived credibility of misinformation but did not lower sharing intentions, whereas no cross-protection effects were observed. Overall, inoculation had no effect on credibility or sharing of true information. No moderators were detected across critical thinking measures, information literacy, or messenger use, although political orientation consistently predicted perceived credibility and sharing intentions of misinformation. These results suggest that inoculation messages within MIMS might be more effective when they are content-specific.",
+  "raw_keywords": [],
+  "title_en": "I Don’t Believe Misinformation, But I Might Share It: Inoculation Effects in Messenger Communication",
+  "title_zh": "我不相信错误信息，但我可能会分享它：即时通讯中的接种效应",
+  "abstract_en": "Mobile instant messaging services (MIMS) such as WhatsApp and Telegram are used to spread misinformation, yet evidence on effective countermeasures within these spaces is limited. Guided by inoculation theory, we conducted an online experiment ( N = 154) to examine the extent to which refutational-same (argument-matched) inoculation or cross-protection (cross-topic) conditions influence the credibility and sharing of false and true information within MIMS. We analyzed whether critical thinking abilities, information literacy, and messenger use moderate the effectiveness of these measures. Results show that refutational-same inoculation only reduced the perceived credibility of misinformation but did not lower sharing intentions, whereas no cross-protection effects were observed. Overall, inoculation had no effect on credibility or sharing of true information. No moderators were detected across critical thinking measures, information literacy, or messenger use, although political orientation consistently predicted perceived credibility and sharing intentions of misinformation. These results suggest that inoculation messages within MIMS might be more effective when they are content-specific.",
+  "abstract_zh": "移动即时通讯服务（如WhatsApp和Telegram）被用于传播错误信息，但关于这些空间内有效对策的证据有限。在接种理论指导下，我们进行了一项在线实验（N=154），以检验反驳相同（论点匹配）接种或交叉保护（跨主题）条件在多大程度上影响MIMS中虚假和真实信息的可信度和分享。我们分析了批判性思维能力、信息素养和即时通讯使用是否调节这些措施的有效性。结果表明，反驳相同接种仅降低了错误信息的感知可信度，但没有降低分享意愿，而未观察到交叉保护效应。总体而言，接种对真实信息的可信度或分享没有影响。在批判性思维测量、信息素养或即时通讯使用方面未检测到调节变量，尽管政治倾向始终预测错误信息的感知可信度和分享意愿。这些结果表明，MIMS中的接种信息在内容特定时可能更有效。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "misinformation",
+    "inoculation theory",
+    "mobile instant messaging",
+    "credibility",
+    "sharing intentions",
+    "online experiment"
+  ],
+  "inferred_keywords_zh": [
+    "错误信息",
+    "接种理论",
+    "移动即时通讯",
+    "可信度",
+    "分享意愿",
+    "在线实验"
+  ],
+  "plain_summary_zh": "这项研究探讨了在WhatsApp和Telegram等即时通讯应用中，如何通过“接种”策略来减少错误信息的传播。研究人员发现，针对特定错误信息的反驳可以降低人们对这些信息的信任，但并不能阻止人们分享它们。此外，这种策略对真实信息没有影响，而且人们的政治倾向会影响他们对错误信息的看法。",
+  "plain_summary_en": "This study looked at how to reduce the spread of misinformation in messaging apps like WhatsApp and Telegram using 'inoculation' strategies. Researchers found that rebuttals targeting specific false information reduced how much people believed it, but did not stop them from sharing it. Also, the strategy did not affect true information, and people's political leanings influenced their views on misinformation.",
+  "research_direction_zh": "社交媒体中的错误信息传播与干预策略",
+  "research_direction_en": "Misinformation spread and intervention strategies in social media",
+  "method_tags_zh": [
+    "实验"
+  ],
+  "method_tags_en": [
+    "experiment"
+  ]
+}

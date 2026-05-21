@@ -273,6 +273,68 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "digital-journalism-db973494ccd2",
+    "doi": "10.1080/21670811.2026.2669525",
+    "url": "https://doi.org/10.1080/21670811.2026.2669525",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-05-21T09:43:14.000Z",
+    "authors": [
+      "Ross Dahlke",
+      "Ryan C. Moore",
+      "Priyanjana Bengani",
+      "Jeffrey T. Hancock",
+      "Ross Dahlke Ryan C. Moore Priyanjana Bengani Jeffrey T. Hancock",
+      "Madison",
+      "WI",
+      "USAb",
+      "The",
+      "Austin",
+      "TX",
+      "USAc Tow",
+      "Columbia",
+      "New York",
+      "NY",
+      "USAd",
+      "Stanford",
+      "CA",
+      "USA"
+    ],
+    "title_en": "The Consumption of Pink Slime Journalism: Who, What, When, Where, and Why?",
+    "title_zh": "粉色污泥新闻的消费：谁、什么、何时、何地以及为什么？",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "pink slime journalism",
+      "local news",
+      "consumption patterns",
+      "audience behavior",
+      "digital journalism"
+    ],
+    "inferred_keywords_zh": [
+      "粉色污泥新闻",
+      "地方新闻",
+      "消费模式",
+      "受众行为",
+      "数字新闻"
+    ],
+    "plain_summary_zh": "这项研究探讨了人们如何消费所谓的“粉色污泥新闻”——一种看似本地但实际内容空洞或带有偏见的新闻。研究者分析了谁在看这类新闻、他们看什么内容、在什么时间、通过什么平台以及为什么会被吸引。",
+    "plain_summary_en": "This study examines how people consume so-called 'pink slime journalism'—news that appears local but is actually shallow or biased. Researchers analyze who reads it, what content they consume, when, on which platforms, and why they are attracted.",
+    "research_direction_zh": "数字新闻消费与受众行为研究",
+    "research_direction_en": "Digital journalism consumption and audience behavior",
+    "method_tags_zh": [
+      "内容分析",
+      "调查"
+    ],
+    "method_tags_en": [
+      "content analysis",
+      "survey"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-21T22:58:35.820Z"
+  },
+  {
     "id": "political-communication-f88274271929",
     "doi": "10.1080/10584609.2026.2671760",
     "url": "https://doi.org/10.1080/10584609.2026.2671760",
@@ -2044,6 +2106,52 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-04-16T09:17:32.917Z"
+  },
+  {
+    "id": "social-media-and-society-b2024087926e",
+    "doi": "10.1177/20563051261449194",
+    "url": "https://doi.org/10.1177/20563051261449194",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Amancay Ancina",
+      "Jana Zumbrägel",
+      "Nicole Krämer"
+    ],
+    "title_en": "I Don’t Believe Misinformation, But I Might Share It: Inoculation Effects in Messenger Communication",
+    "title_zh": "我不相信错误信息，但我可能会分享它：即时通讯中的接种效应",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "misinformation",
+      "inoculation theory",
+      "mobile instant messaging",
+      "credibility",
+      "sharing intentions",
+      "online experiment"
+    ],
+    "inferred_keywords_zh": [
+      "错误信息",
+      "接种理论",
+      "移动即时通讯",
+      "可信度",
+      "分享意愿",
+      "在线实验"
+    ],
+    "plain_summary_zh": "这项研究探讨了在WhatsApp和Telegram等即时通讯应用中，如何通过“接种”策略来减少错误信息的传播。研究人员发现，针对特定错误信息的反驳可以降低人们对这些信息的信任，但并不能阻止人们分享它们。此外，这种策略对真实信息没有影响，而且人们的政治倾向会影响他们对错误信息的看法。",
+    "plain_summary_en": "This study looked at how to reduce the spread of misinformation in messaging apps like WhatsApp and Telegram using 'inoculation' strategies. Researchers found that rebuttals targeting specific false information reduced how much people believed it, but did not stop them from sharing it. Also, the strategy did not affect true information, and people's political leanings influenced their views on misinformation.",
+    "research_direction_zh": "社交媒体中的错误信息传播与干预策略",
+    "research_direction_en": "Misinformation spread and intervention strategies in social media",
+    "method_tags_zh": [
+      "实验"
+    ],
+    "method_tags_en": [
+      "experiment"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-21T22:58:43.776Z"
   },
   {
     "id": "social-media-and-society-355106ab4bcd",
