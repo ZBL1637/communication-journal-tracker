@@ -1,0 +1,52 @@
+{
+  "id": "journal-of-communication-c5b3cd37bfa1",
+  "doi": "10.1093/joc/jqag007",
+  "url": "https://doi.org/10.1093/joc/jqag007",
+  "journalName": "JOURNAL OF COMMUNICATION",
+  "journalSlug": "journal-of-communication",
+  "issn": "0021-9916",
+  "publishedAt": "2026-05-22T00:00:00.000Z",
+  "authors": [
+    "Andrew Brian Chrystall"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-22T22:51:29.835Z",
+  "language": "en",
+  "raw_title": "Revisiting “Communication Theory as a Field”",
+  "raw_abstract": "Abstract This article revisits Robert T. Craig’s “Communication Theory as a Field” on its 25th anniversary to reassess its relevance for contemporary communication studies. It foregrounds mediation and communication technologies’ role in shaping how scholars think and write about communication. Focusing on the 1990s media environment, the analysis draws on Walter Ong’s insights into the sensory, technological, and historical conditions of knowledge production. “Communication Theory as a Field” is shown to echo the spatial-visualist logics of Web 1.0. A comparative reading with Peter Ramus highlights the unintended visualism of Craig’s project and challenges the ocular paradigm long dominant in communication theory. The article advances communication-as-constitutive perspectives by advocating a “sensory rapprochement” that restores auditory, embodied, and dialogic dimensions to theory while underscoring the need for reflexivity about how evolving technologies shape disciplinary frameworks and the conditions of theorizing.",
+  "raw_keywords": [],
+  "title_en": "Revisiting “Communication Theory as a Field”",
+  "title_zh": "重访《作为领域的传播理论》",
+  "abstract_en": "Abstract This article revisits Robert T. Craig’s “Communication Theory as a Field” on its 25th anniversary to reassess its relevance for contemporary communication studies. It foregrounds mediation and communication technologies’ role in shaping how scholars think and write about communication. Focusing on the 1990s media environment, the analysis draws on Walter Ong’s insights into the sensory, technological, and historical conditions of knowledge production. “Communication Theory as a Field” is shown to echo the spatial-visualist logics of Web 1.0. A comparative reading with Peter Ramus highlights the unintended visualism of Craig’s project and challenges the ocular paradigm long dominant in communication theory. The article advances communication-as-constitutive perspectives by advocating a “sensory rapprochement” that restores auditory, embodied, and dialogic dimensions to theory while underscoring the need for reflexivity about how evolving technologies shape disciplinary frameworks and the conditions of theorizing.",
+  "abstract_zh": "本文在罗伯特·T·克雷格的《作为领域的传播理论》发表25周年之际重新审视它，以评估其对当代传播研究的现实意义。文章强调中介和传播技术在塑造学者思考和写作传播方式中的作用。分析聚焦于1990年代的媒体环境，借鉴沃尔特·翁关于知识生产的感官、技术和历史条件的见解。研究表明，《作为领域的传播理论》呼应了Web 1.0的空间-视觉主义逻辑。与彼得·拉姆斯的比较阅读凸显了克雷格项目无意的视觉主义，并挑战了长期主导传播理论的视觉范式。文章通过倡导“感官和解”来推进传播构成性视角，恢复理论中的听觉、具身和对话维度，同时强调需要对不断发展的技术如何塑造学科框架和理论化条件进行反思。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "communication theory",
+    "mediation",
+    "sensory studies",
+    "visualism",
+    "constitutive communication"
+  ],
+  "inferred_keywords_zh": [
+    "传播理论",
+    "中介",
+    "感官研究",
+    "视觉主义",
+    "构成性传播"
+  ],
+  "plain_summary_zh": "这篇文章在克雷格经典论文发表25年后重新审视它，认为该理论受限于1990年代的媒体环境，过于强调视觉和空间逻辑。作者主张传播理论应更多关注听觉、身体和对话，并反思技术如何影响我们思考传播的方式。",
+  "plain_summary_en": "This article re-examines Craig's classic paper 25 years later, arguing that it was shaped by the 1990s media environment and overemphasized visual and spatial logic. The author advocates for communication theory to pay more attention to auditory, embodied, and dialogic dimensions, and to reflect on how technology shapes our thinking about communication.",
+  "research_direction_zh": "传播理论的历史反思与感官转向",
+  "research_direction_en": "Historical reflection and sensory turn in communication theory",
+  "method_tags_zh": [
+    "理论分析",
+    "比较研究",
+    "文本分析"
+  ],
+  "method_tags_en": [
+    "theoretical analysis",
+    "comparative study",
+    "textual analysis"
+  ]
+}

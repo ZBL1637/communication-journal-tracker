@@ -1,0 +1,56 @@
+{
+  "id": "political-communication-02e6b67f4d0d",
+  "doi": "10.1080/10584609.2026.2675595",
+  "url": "https://doi.org/10.1080/10584609.2026.2675595",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-05-22T06:45:09.000Z",
+  "authors": [
+    "Karolin Soontjens",
+    "Kathleen Beckers",
+    "Emma van",
+    "der Goot",
+    "Sophie Morosoli",
+    "Karolin Soontjens Kathleen Beckers Emma van der Goot Sophie Morosoli",
+    "Antwerp",
+    "Belgiumb Amsterdam",
+    "Media and Democracy"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-05-22T22:52:15.698Z",
+  "language": "en",
+  "raw_title": "Press and Prejudice: an Interview Study on Politicians’ Perceptions of Partisan News Media Bias",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "Press and Prejudice: an Interview Study on Politicians’ Perceptions of Partisan News Media Bias",
+  "title_zh": "新闻与偏见：关于政治家对党派新闻媒体偏见认知的访谈研究",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "politicians",
+    "news media bias",
+    "partisan bias",
+    "perceptions",
+    "interview study"
+  ],
+  "inferred_keywords_zh": [
+    "政治家",
+    "新闻媒体偏见",
+    "党派偏见",
+    "认知",
+    "访谈研究"
+  ],
+  "plain_summary_zh": "这项研究通过访谈了解政治家如何看待新闻媒体中的党派偏见。",
+  "plain_summary_en": "This study uses interviews to understand how politicians perceive partisan bias in news media.",
+  "research_direction_zh": "政治传播中的媒体偏见认知研究",
+  "research_direction_en": "Perception of media bias in political communication",
+  "method_tags_zh": [
+    "访谈"
+  ],
+  "method_tags_en": [
+    "interview"
+  ]
+}

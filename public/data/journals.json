@@ -12,21 +12,21 @@
       "a[href*='/article-abstract/']",
       "a[href*='/doi/']"
     ],
-    "paperCount": 13,
-    "latestPublishedAt": "2026-05-05T00:00:00.000Z",
+    "paperCount": 14,
+    "latestPublishedAt": "2026-05-22T00:00:00.000Z",
     "topKeywordsEn": [
-      "chilling effects",
-      "dataveillance",
-      "self-censorship",
-      "online communication",
-      "field experiment"
+      "communication theory",
+      "mediation",
+      "sensory studies",
+      "visualism",
+      "constitutive communication"
     ],
     "topKeywordsZh": [
-      "寒蝉效应",
-      "数据监控",
-      "自我审查",
-      "在线沟通",
-      "现场实验"
+      "传播理论",
+      "中介",
+      "感官研究",
+      "视觉主义",
+      "构成性传播"
     ]
   },
   {
@@ -43,21 +43,21 @@
       ".meta__title a",
       "h5 a"
     ],
-    "paperCount": 43,
-    "latestPublishedAt": "2026-05-19T04:43:05.000Z",
+    "paperCount": 44,
+    "latestPublishedAt": "2026-05-22T06:45:09.000Z",
     "topKeywordsEn": [
-      "misinformation",
-      "ideological congruence",
-      "hostile media effect",
-      "political communication",
-      "selective perception"
+      "politicians",
+      "news media bias",
+      "partisan bias",
+      "perceptions",
+      "interview study"
     ],
     "topKeywordsZh": [
-      "错误信息",
-      "意识形态一致性",
-      "敌对媒体效应",
-      "政治传播",
-      "选择性感知"
+      "政治家",
+      "新闻媒体偏见",
+      "党派偏见",
+      "认知",
+      "访谈研究"
     ]
   },
   {
@@ -74,21 +74,21 @@
       ".meta__title a",
       "h5 a"
     ],
-    "paperCount": 102,
-    "latestPublishedAt": "2026-05-21T09:43:14.000Z",
+    "paperCount": 103,
+    "latestPublishedAt": "2026-05-21T11:32:29.000Z",
     "topKeywordsEn": [
-      "pink slime journalism",
-      "local news",
-      "consumption patterns",
-      "audience behavior",
-      "digital journalism"
+      "Feeling",
+      "Relation (database)",
+      "Consumption (sociology)",
+      "Social media",
+      "Media consumption"
     ],
     "topKeywordsZh": [
-      "粉色污泥新闻",
-      "地方新闻",
-      "消费模式",
-      "受众行为",
-      "数字新闻"
+      "感受",
+      "关系（数据库）",
+      "消费（社会学）",
+      "社交媒体",
+      "媒体消费"
     ]
   },
   {

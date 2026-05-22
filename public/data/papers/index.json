@@ -273,6 +273,170 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "political-communication-02e6b67f4d0d",
+    "doi": "10.1080/10584609.2026.2675595",
+    "url": "https://doi.org/10.1080/10584609.2026.2675595",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-05-22T06:45:09.000Z",
+    "authors": [
+      "Karolin Soontjens",
+      "Kathleen Beckers",
+      "Emma van",
+      "der Goot",
+      "Sophie Morosoli",
+      "Karolin Soontjens Kathleen Beckers Emma van der Goot Sophie Morosoli",
+      "Antwerp",
+      "Belgiumb Amsterdam",
+      "Media and Democracy"
+    ],
+    "title_en": "Press and Prejudice: an Interview Study on Politicians’ Perceptions of Partisan News Media Bias",
+    "title_zh": "新闻与偏见：关于政治家对党派新闻媒体偏见认知的访谈研究",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "politicians",
+      "news media bias",
+      "partisan bias",
+      "perceptions",
+      "interview study"
+    ],
+    "inferred_keywords_zh": [
+      "政治家",
+      "新闻媒体偏见",
+      "党派偏见",
+      "认知",
+      "访谈研究"
+    ],
+    "plain_summary_zh": "这项研究通过访谈了解政治家如何看待新闻媒体中的党派偏见。",
+    "plain_summary_en": "This study uses interviews to understand how politicians perceive partisan bias in news media.",
+    "research_direction_zh": "政治传播中的媒体偏见认知研究",
+    "research_direction_en": "Perception of media bias in political communication",
+    "method_tags_zh": [
+      "访谈"
+    ],
+    "method_tags_en": [
+      "interview"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-22T22:52:15.698Z"
+  },
+  {
+    "id": "journal-of-communication-c5b3cd37bfa1",
+    "doi": "10.1093/joc/jqag007",
+    "url": "https://doi.org/10.1093/joc/jqag007",
+    "journalName": "JOURNAL OF COMMUNICATION",
+    "journalSlug": "journal-of-communication",
+    "issn": "0021-9916",
+    "publishedAt": "2026-05-22T00:00:00.000Z",
+    "authors": [
+      "Andrew Brian Chrystall"
+    ],
+    "title_en": "Revisiting “Communication Theory as a Field”",
+    "title_zh": "重访《作为领域的传播理论》",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "communication theory",
+      "mediation",
+      "sensory studies",
+      "visualism",
+      "constitutive communication"
+    ],
+    "inferred_keywords_zh": [
+      "传播理论",
+      "中介",
+      "感官研究",
+      "视觉主义",
+      "构成性传播"
+    ],
+    "plain_summary_zh": "这篇文章在克雷格经典论文发表25年后重新审视它，认为该理论受限于1990年代的媒体环境，过于强调视觉和空间逻辑。作者主张传播理论应更多关注听觉、身体和对话，并反思技术如何影响我们思考传播的方式。",
+    "plain_summary_en": "This article re-examines Craig's classic paper 25 years later, arguing that it was shaped by the 1990s media environment and overemphasized visual and spatial logic. The author advocates for communication theory to pay more attention to auditory, embodied, and dialogic dimensions, and to reflect on how technology shapes our thinking about communication.",
+    "research_direction_zh": "传播理论的历史反思与感官转向",
+    "research_direction_en": "Historical reflection and sensory turn in communication theory",
+    "method_tags_zh": [
+      "理论分析",
+      "比较研究",
+      "文本分析"
+    ],
+    "method_tags_en": [
+      "theoretical analysis",
+      "comparative study",
+      "textual analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-22T22:51:29.835Z"
+  },
+  {
+    "id": "digital-journalism-d3d305650903",
+    "doi": "10.1080/21670811.2026.2669528",
+    "url": "https://doi.org/10.1080/21670811.2026.2669528",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-05-21T11:32:29.000Z",
+    "authors": [
+      "Ines Spielvogel",
+      "Kevin Koban",
+      "Sarah Juricek",
+      "Jörg Matthes",
+      "Vienna",
+      "Austriab",
+      "Public Health",
+      "Medical",
+      "Austria"
+    ],
+    "title_en": "Same Same But (Very) Different? A Mixed-Method Approach on Security-Related News Consumption on Traditional and Social Media and Its Relation to Negative Emotional Responses and Feelings of (In)Security",
+    "title_zh": "相同但（非常）不同？传统媒体和社交媒体上安全相关新闻消费及其与负面情绪反应和（不）安全感的混合方法研究",
+    "keywords_en": [
+      "Feeling",
+      "Relation (database)",
+      "Consumption (sociology)",
+      "Social media",
+      "Media consumption",
+      "News media",
+      "Motivated reasoning"
+    ],
+    "keywords_zh": [
+      "感受",
+      "关系（数据库）",
+      "消费（社会学）",
+      "社交媒体",
+      "媒体消费",
+      "新闻媒体",
+      "动机推理"
+    ],
+    "inferred_keywords_en": [
+      "security news",
+      "negative emotions",
+      "insecurity",
+      "mixed methods"
+    ],
+    "inferred_keywords_zh": [
+      "安全新闻",
+      "负面情绪",
+      "不安全感",
+      "混合方法"
+    ],
+    "plain_summary_zh": "这项研究探讨了人们通过传统媒体和社交媒体消费安全相关新闻时，如何产生负面情绪和不安全感。研究者使用了混合方法（如调查和实验）来比较不同媒体平台的影响。",
+    "plain_summary_en": "This study examines how consuming security-related news on traditional and social media leads to negative emotions and feelings of insecurity. Researchers used mixed methods (e.g., surveys and experiments) to compare the effects of different media platforms.",
+    "research_direction_zh": "媒体心理学与传播效果研究，关注新闻消费对情绪和安全感的影响。",
+    "research_direction_en": "Media psychology and communication effects, focusing on how news consumption influences emotions and perceived security.",
+    "method_tags_zh": [
+      "调查",
+      "实验",
+      "混合方法"
+    ],
+    "method_tags_en": [
+      "survey",
+      "experiment",
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-05-22T22:52:21.205Z"
+  },
+  {
     "id": "digital-journalism-db973494ccd2",
     "doi": "10.1080/21670811.2026.2669525",
     "url": "https://doi.org/10.1080/21670811.2026.2669525",
