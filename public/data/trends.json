@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T22:52:28.022Z",
+  "generatedAt": "2026-05-23T22:44:04.588Z",
   "snapshots": [
     {
       "key": "7d",
@@ -131,21 +131,21 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 36,
-      "overview_en": "Across 36 papers, the most visible themes are conversation analysis, political communication, The. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 36 papers, the most visible themes are conversation analysis, political communication, The. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "paperCount": 35,
+      "overview_en": "Across 35 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 35 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
-        "political communication",
         "The",
         "And",
+        "political communication",
         "social interaction"
       ],
       "hot_topics_zh": [
         "会话分析",
-        "政治传播",
         "The",
         "And",
+        "政治传播",
         "社会互动"
       ],
       "high_frequency_keywords": [
@@ -155,11 +155,6 @@
           "count": 8
         },
         {
-          "label_en": "political communication",
-          "label_zh": "政治传播",
-          "count": 5
-        },
-        {
           "label_en": "The",
           "label_zh": "The",
           "count": 4
@@ -167,6 +162,11 @@
         {
           "label_en": "And",
           "label_zh": "And",
+          "count": 4
+        },
+        {
+          "label_en": "political communication",
+          "label_zh": "政治传播",
           "count": 4
         },
         {
@@ -204,17 +204,12 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 8
+          "count": 7
         },
         {
           "label_en": "conversation analysis",
           "label_zh": "会话分析",
           "count": 6
-        },
-        {
-          "label_en": "content analysis",
-          "label_zh": "内容分析",
-          "count": 5
         },
         {
           "label_en": "experiment",
@@ -229,6 +224,11 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
+          "count": 4
+        },
+        {
+          "label_en": "content analysis",
+          "label_zh": "内容分析",
           "count": 4
         },
         {
