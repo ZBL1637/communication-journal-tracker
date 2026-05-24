@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T22:44:04.588Z",
+  "generatedAt": "2026-05-24T22:50:32.806Z",
   "snapshots": [
     {
       "key": "7d",
@@ -131,22 +131,22 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 35,
-      "overview_en": "Across 35 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 35 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "paperCount": 33,
+      "overview_en": "Across 33 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 33 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
         "The",
         "And",
-        "political communication",
-        "social interaction"
+        "social interaction",
+        "political communication"
       ],
       "hot_topics_zh": [
         "会话分析",
         "The",
         "And",
-        "政治传播",
-        "社会互动"
+        "社会互动",
+        "政治传播"
       ],
       "high_frequency_keywords": [
         {
@@ -165,14 +165,14 @@
           "count": 4
         },
         {
-          "label_en": "political communication",
-          "label_zh": "政治传播",
-          "count": 4
-        },
-        {
           "label_en": "social interaction",
           "label_zh": "社会互动",
           "count": 4
+        },
+        {
+          "label_en": "political communication",
+          "label_zh": "政治传播",
+          "count": 3
         },
         {
           "label_en": "Social media",
@@ -217,11 +217,6 @@
           "count": 5
         },
         {
-          "label_en": "literature review",
-          "label_zh": "文献综述",
-          "count": 4
-        },
-        {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
           "count": 4
@@ -237,19 +232,24 @@
           "count": 4
         },
         {
+          "label_en": "literature review",
+          "label_zh": "文献综述",
+          "count": 3
+        },
+        {
           "label_en": "theoretical analysis",
           "label_zh": "理论分析",
           "count": 3
         },
         {
-          "label_en": "theoretical discussion",
-          "label_zh": "理论探讨",
-          "count": 2
-        },
-        {
           "label_en": "corpus analysis",
           "label_zh": "语料库分析",
           "count": 2
+        },
+        {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 1
         }
       ]
     },
