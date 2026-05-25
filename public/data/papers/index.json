@@ -1,5 +1,49 @@
 [
   {
+    "id": "journal-of-communication-d6205e1a8cbe",
+    "doi": "10.1093/joc/jqag003",
+    "url": "https://doi.org/10.1093/joc/jqag003",
+    "journalName": "JOURNAL OF COMMUNICATION",
+    "journalSlug": "journal-of-communication",
+    "issn": "0021-9916",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "authors": [
+      "Aparajita Bhandari"
+    ],
+    "title_en": "Techno-refusal as a generative orientation to the future",
+    "title_zh": "技术拒绝作为面向未来的生成性取向",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "techno-refusal",
+      "generative orientation",
+      "future",
+      "technology rejection",
+      "critical technology studies"
+    ],
+    "inferred_keywords_zh": [
+      "技术拒绝",
+      "生成性取向",
+      "未来",
+      "技术排斥",
+      "批判性技术研究"
+    ],
+    "plain_summary_zh": "这篇文章探讨了“技术拒绝”这一概念，不是简单地反对技术，而是将其视为一种积极、有创造力的方式来思考未来。作者认为，拒绝某些技术可以帮助我们想象和构建更美好的未来。",
+    "plain_summary_en": "This article explores the concept of 'techno-refusal' not as a simple rejection of technology, but as a positive and creative way to think about the future. The author argues that refusing certain technologies can help us imagine and build better futures.",
+    "research_direction_zh": "批判性技术研究、未来学、技术与社会",
+    "research_direction_en": "Critical technology studies, futures studies, technology and society",
+    "method_tags_zh": [
+      "理论分析",
+      "概念阐释"
+    ],
+    "method_tags_en": [
+      "theoretical analysis",
+      "conceptual elaboration"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-25T22:53:20.443Z"
+  },
+  {
     "id": "policy-and-internet-280184a7a47f",
     "doi": "10.1002/poi3.70042",
     "url": "https://doi.org/10.1002/poi3.70042",
@@ -271,6 +315,60 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-04-16T09:14:47.996Z"
+  },
+  {
+    "id": "journal-of-communication-640188d5c447",
+    "doi": "10.1093/joc/jqag005",
+    "url": "https://doi.org/10.1093/joc/jqag005",
+    "journalName": "JOURNAL OF COMMUNICATION",
+    "journalSlug": "journal-of-communication",
+    "issn": "0021-9916",
+    "publishedAt": "2026-05-25T00:00:00.000Z",
+    "authors": [
+      "Liesel L Sharabi",
+      "Elizabeth Dorrance-Hall",
+      "John P Caughlin",
+      "Alan K Goodboy",
+      "Rebekah M Chiasson"
+    ],
+    "title_en": "Technology and face-to-face integration in daily life: an intensive longitudinal study of communication interdependence",
+    "title_zh": "日常生活中的技术与面对面整合：一项关于沟通相互依赖的密集纵向研究",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "communication interdependence",
+      "technology integration",
+      "face-to-face communication",
+      "daily diary",
+      "romantic relationships",
+      "dynamic structural equation modeling"
+    ],
+    "inferred_keywords_zh": [
+      "沟通相互依赖",
+      "技术整合",
+      "面对面沟通",
+      "每日日记",
+      "恋爱关系",
+      "动态结构方程模型"
+    ],
+    "plain_summary_zh": "这项研究探讨了人们如何在日常生活中结合使用技术和面对面交流。研究发现，当人们比平时更多地整合这些沟通方式时，他们会感到与伴侣更亲近。这种整合模式在一段时间内保持稳定，尤其是对于那些已经形成习惯的人。",
+    "plain_summary_en": "This study explores how people combine technology and face-to-face communication in daily life. It found that when people integrate these communication methods more than usual, they feel closer to their romantic partner. This integration pattern tends to persist over time, especially for those who have already formed habits.",
+    "research_direction_zh": "沟通技术与人际关系的交叉研究，关注媒介整合对关系质量的影响。",
+    "research_direction_en": "Intersection of communication technology and interpersonal relationships, focusing on the impact of media integration on relationship quality.",
+    "method_tags_zh": [
+      "纵向研究",
+      "问卷调查",
+      "日记法",
+      "动态结构方程模型"
+    ],
+    "method_tags_en": [
+      "longitudinal study",
+      "survey",
+      "diary method",
+      "dynamic structural equation modeling"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-25T22:53:23.028Z"
   },
   {
     "id": "political-communication-02e6b67f4d0d",
@@ -2270,6 +2368,112 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-04-16T09:17:32.917Z"
+  },
+  {
+    "id": "social-media-and-society-f22eb19fd099",
+    "doi": "10.1177/20563051261434804",
+    "url": "https://doi.org/10.1177/20563051261434804",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Pedro S. Lucas"
+    ],
+    "title_en": "Symbolic Custodians on Facebook: Community Media Agents and Religious Practices in Faial",
+    "title_zh": "Facebook上的象征性守护者：法亚尔岛的社区媒体代理与宗教实践",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Facebook",
+      "community media",
+      "religious festivals",
+      "cultural heritage",
+      "digital ethnography",
+      "Azores",
+      "symbolic custodianship",
+      "mediatization"
+    ],
+    "inferred_keywords_zh": [
+      "Facebook",
+      "社区媒体",
+      "宗教节庆",
+      "文化遗产",
+      "数字民族志",
+      "亚速尔群岛",
+      "象征性守护",
+      "媒介化"
+    ],
+    "plain_summary_zh": "这项研究探讨了在葡萄牙亚速尔群岛的法亚尔岛上，一群非专业的摄影师和摄像师如何利用Facebook记录和分享当地的宗教节日（如圣灵节和守护神节）。他们成为了这些文化传统的现代守护者，帮助推广遗产、让无法到场的人虚拟参与，并为后代留下记录。但这也引发了关于信息可靠性和所有权的问题。研究表明，Facebook的使用既有助于保护当地文化，也可能导致文化特色的减弱。",
+    "plain_summary_en": "This study looks at how a group of non-professional photographers and videographers on Faial Island in the Azores, Portugal, use Facebook to document and share local religious festivals (like the Holy Spirit and patron saint celebrations). They have become modern guardians of these cultural traditions, helping to promote heritage, allow virtual participation for those who can't attend, and create records for future generations. However, this also raises questions about reliability and ownership. The research shows that using Facebook both helps preserve local culture and may lead to a loss of cultural uniqueness.",
+    "research_direction_zh": "社交媒体在地方社区宗教和文化实践中的角色与影响",
+    "research_direction_en": "The role and impact of social media in local community religious and cultural practices",
+    "method_tags_zh": [
+      "田野调查",
+      "数字民族志",
+      "半结构化访谈"
+    ],
+    "method_tags_en": [
+      "fieldwork",
+      "digital ethnography",
+      "semi-structured interviews"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-25T22:53:35.476Z"
+  },
+  {
+    "id": "social-media-and-society-923bceb56c71",
+    "doi": "10.1177/20563051261452130",
+    "url": "https://doi.org/10.1177/20563051261452130",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Hedi Ye"
+    ],
+    "title_en": "A Multi-Mechanism Socio-Technical Theory of Wellness Misinformation: Aesthetic, Affective, and Algorithmic Dynamics",
+    "title_zh": "健康错误信息的多机制社会技术理论：审美、情感与算法动态",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "wellness misinformation",
+      "short-form video platforms",
+      "socio-technical theory",
+      "aesthetics",
+      "affect",
+      "algorithms",
+      "Algorithmic–Affective Misinformation Model",
+      "TikTok",
+      "RED",
+      "cross-platform analysis"
+    ],
+    "inferred_keywords_zh": [
+      "健康错误信息",
+      "短视频平台",
+      "社会技术理论",
+      "审美",
+      "情感",
+      "算法",
+      "算法-情感错误信息模型",
+      "TikTok",
+      "小红书",
+      "跨平台分析"
+    ],
+    "plain_summary_zh": "这项研究解释了为什么健康类错误信息在短视频平台上看起来很可信。研究者发现，这些信息通过三种方式让人相信：一是看起来专业（审美），二是让人产生情感共鸣（情感），三是平台算法不断推荐类似内容（算法）。研究基于对TikTok和小红书的观察和访谈，提出了一个理论模型，帮助理解这些错误信息如何在不同文化中传播。",
+    "plain_summary_en": "This study explains why wellness misinformation seems credible on short-video platforms. Researchers found three ways these messages gain trust: looking professional (aesthetics), making people feel emotionally connected (affect), and being repeatedly recommended by algorithms (algorithms). Based on interviews and observations on TikTok and RED, the study proposes a model to understand how such misinformation spreads across different cultures.",
+    "research_direction_zh": "数字平台上的错误信息传播机制与社会技术因素",
+    "research_direction_en": "Misinformation spread mechanisms and socio-technical factors on digital platforms",
+    "method_tags_zh": [
+      "定性访谈",
+      "跨平台观察"
+    ],
+    "method_tags_en": [
+      "qualitative interview",
+      "cross-platform observation"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-25T22:53:34.622Z"
   },
   {
     "id": "social-media-and-society-b2024087926e",

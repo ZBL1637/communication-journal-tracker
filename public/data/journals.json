@@ -12,21 +12,21 @@
       "a[href*='/article-abstract/']",
       "a[href*='/doi/']"
     ],
-    "paperCount": 14,
-    "latestPublishedAt": "2026-05-22T00:00:00.000Z",
+    "paperCount": 16,
+    "latestPublishedAt": "2026-06-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "communication theory",
-      "mediation",
-      "sensory studies",
-      "visualism",
-      "constitutive communication"
+      "techno-refusal",
+      "generative orientation",
+      "future",
+      "technology rejection",
+      "critical technology studies"
     ],
     "topKeywordsZh": [
-      "传播理论",
-      "中介",
-      "感官研究",
-      "视觉主义",
-      "构成性传播"
+      "技术拒绝",
+      "生成性取向",
+      "未来",
+      "技术排斥",
+      "批判性技术研究"
     ]
   },
   {
@@ -136,21 +136,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 42,
+    "paperCount": 44,
     "latestPublishedAt": "2026-04-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "misinformation",
-      "inoculation theory",
-      "mobile instant messaging",
-      "credibility",
-      "sharing intentions"
+      "Facebook",
+      "community media",
+      "religious festivals",
+      "cultural heritage",
+      "digital ethnography"
     ],
     "topKeywordsZh": [
-      "错误信息",
-      "接种理论",
-      "移动即时通讯",
-      "可信度",
-      "分享意愿"
+      "Facebook",
+      "社区媒体",
+      "宗教节庆",
+      "文化遗产",
+      "数字民族志"
     ]
   },
   {

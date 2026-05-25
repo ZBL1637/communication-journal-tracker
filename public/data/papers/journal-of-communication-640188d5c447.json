@@ -1,0 +1,60 @@
+{
+  "id": "journal-of-communication-640188d5c447",
+  "doi": "10.1093/joc/jqag005",
+  "url": "https://doi.org/10.1093/joc/jqag005",
+  "journalName": "JOURNAL OF COMMUNICATION",
+  "journalSlug": "journal-of-communication",
+  "issn": "0021-9916",
+  "publishedAt": "2026-05-25T00:00:00.000Z",
+  "authors": [
+    "Liesel L Sharabi",
+    "Elizabeth Dorrance-Hall",
+    "John P Caughlin",
+    "Alan K Goodboy",
+    "Rebekah M Chiasson"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-25T22:53:23.028Z",
+  "language": "en",
+  "raw_title": "Technology and face-to-face integration in daily life: an intensive longitudinal study of communication interdependence",
+  "raw_abstract": "Abstract The current study advances the communication interdependence perspective (CIP) using an intensive longitudinal design and recent refinements in the conceptualization of integration (i.e., how various channels are interconnected). U.S. adults in romantic relationships (N = 175) completed a baseline questionnaire, and then, provided daily diary data over 30 days (4,806 total observations), which we analyzed with dynamic structural equation modeling. Consistent with the CIP, for the typical person, constructive integration had a positive within-person effect (i.e., people felt closer on days that they had more constructive integration than usual) and a positive between-person association (i.e., people with more constructive integration reported more relational closeness on average across the month). Additionally, there was persistence in constructive integration, and persistence was stronger for people who reported more habitual patterns of integration earlier in the month. We discuss the implications for the CIP and for understanding how people mix media in daily life.",
+  "raw_keywords": [],
+  "title_en": "Technology and face-to-face integration in daily life: an intensive longitudinal study of communication interdependence",
+  "title_zh": "日常生活中的技术与面对面整合：一项关于沟通相互依赖的密集纵向研究",
+  "abstract_en": "Abstract The current study advances the communication interdependence perspective (CIP) using an intensive longitudinal design and recent refinements in the conceptualization of integration (i.e., how various channels are interconnected). U.S. adults in romantic relationships (N = 175) completed a baseline questionnaire, and then, provided daily diary data over 30 days (4,806 total observations), which we analyzed with dynamic structural equation modeling. Consistent with the CIP, for the typical person, constructive integration had a positive within-person effect (i.e., people felt closer on days that they had more constructive integration than usual) and a positive between-person association (i.e., people with more constructive integration reported more relational closeness on average across the month). Additionally, there was persistence in constructive integration, and persistence was stronger for people who reported more habitual patterns of integration earlier in the month. We discuss the implications for the CIP and for understanding how people mix media in daily life.",
+  "abstract_zh": "摘要 本研究通过密集纵向设计以及近期对整合概念（即各种渠道如何相互连接）的细化，推进了沟通相互依赖视角（CIP）。处于恋爱关系中的美国成年人（N=175）完成了基线问卷，随后提供了30天的每日日记数据（共4,806个观测值），我们使用动态结构方程模型进行分析。与CIP一致，对于典型个体而言，建设性整合具有正向的个体内效应（即，在建设性整合比平时更多的日子里，人们感觉更亲近）和正向的个体间关联（即，建设性整合更多的人在一个月内平均报告更多的关系亲密感）。此外，建设性整合具有持续性，并且对于在月初报告更多习惯性整合模式的人来说，持续性更强。我们讨论了这些发现对CIP以及理解人们在日常生活中如何混合使用媒介的意义。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "communication interdependence",
+    "technology integration",
+    "face-to-face communication",
+    "daily diary",
+    "romantic relationships",
+    "dynamic structural equation modeling"
+  ],
+  "inferred_keywords_zh": [
+    "沟通相互依赖",
+    "技术整合",
+    "面对面沟通",
+    "每日日记",
+    "恋爱关系",
+    "动态结构方程模型"
+  ],
+  "plain_summary_zh": "这项研究探讨了人们如何在日常生活中结合使用技术和面对面交流。研究发现，当人们比平时更多地整合这些沟通方式时，他们会感到与伴侣更亲近。这种整合模式在一段时间内保持稳定，尤其是对于那些已经形成习惯的人。",
+  "plain_summary_en": "This study explores how people combine technology and face-to-face communication in daily life. It found that when people integrate these communication methods more than usual, they feel closer to their romantic partner. This integration pattern tends to persist over time, especially for those who have already formed habits.",
+  "research_direction_zh": "沟通技术与人际关系的交叉研究，关注媒介整合对关系质量的影响。",
+  "research_direction_en": "Intersection of communication technology and interpersonal relationships, focusing on the impact of media integration on relationship quality.",
+  "method_tags_zh": [
+    "纵向研究",
+    "问卷调查",
+    "日记法",
+    "动态结构方程模型"
+  ],
+  "method_tags_en": [
+    "longitudinal study",
+    "survey",
+    "diary method",
+    "dynamic structural equation modeling"
+  ]
+}

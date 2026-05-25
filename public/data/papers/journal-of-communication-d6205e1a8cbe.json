@@ -1,0 +1,50 @@
+{
+  "id": "journal-of-communication-d6205e1a8cbe",
+  "doi": "10.1093/joc/jqag003",
+  "url": "https://doi.org/10.1093/joc/jqag003",
+  "journalName": "JOURNAL OF COMMUNICATION",
+  "journalSlug": "journal-of-communication",
+  "issn": "0021-9916",
+  "publishedAt": "2026-06-01T00:00:00.000Z",
+  "authors": [
+    "Aparajita Bhandari"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-25T22:53:20.443Z",
+  "language": "en",
+  "raw_title": "Techno-refusal as a generative orientation to the future",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "Techno-refusal as a generative orientation to the future",
+  "title_zh": "技术拒绝作为面向未来的生成性取向",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "techno-refusal",
+    "generative orientation",
+    "future",
+    "technology rejection",
+    "critical technology studies"
+  ],
+  "inferred_keywords_zh": [
+    "技术拒绝",
+    "生成性取向",
+    "未来",
+    "技术排斥",
+    "批判性技术研究"
+  ],
+  "plain_summary_zh": "这篇文章探讨了“技术拒绝”这一概念，不是简单地反对技术，而是将其视为一种积极、有创造力的方式来思考未来。作者认为，拒绝某些技术可以帮助我们想象和构建更美好的未来。",
+  "plain_summary_en": "This article explores the concept of 'techno-refusal' not as a simple rejection of technology, but as a positive and creative way to think about the future. The author argues that refusing certain technologies can help us imagine and build better futures.",
+  "research_direction_zh": "批判性技术研究、未来学、技术与社会",
+  "research_direction_en": "Critical technology studies, futures studies, technology and society",
+  "method_tags_zh": [
+    "理论分析",
+    "概念阐释"
+  ],
+  "method_tags_en": [
+    "theoretical analysis",
+    "conceptual elaboration"
+  ]
+}

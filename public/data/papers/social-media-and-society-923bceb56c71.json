@@ -1,0 +1,60 @@
+{
+  "id": "social-media-and-society-923bceb56c71",
+  "doi": "10.1177/20563051261452130",
+  "url": "https://doi.org/10.1177/20563051261452130",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Hedi Ye"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-25T22:53:34.622Z",
+  "language": "en",
+  "raw_title": "A Multi-Mechanism Socio-Technical Theory of Wellness Misinformation: Aesthetic, Affective, and Algorithmic Dynamics",
+  "raw_abstract": "Wellness misinformation spreads widely on short-form video platforms, yet existing research often explains its credibility through individual cognitive deficits. This study advances a qualitative socio-technical account by articulating and applying the Algorithmic–Affective Misinformation Model (AAMM)—a mid-range framework refined through abductive analysis—to explain how credibility emerges through the interaction of aesthetics, affect, and algorithms. Drawing on qualitative interviews and cross-platform observations on TikTok and RED, the study identifies three mechanisms—aesthetic legitimization, affective vulnerability, and algorithmic reinforcement—that collectively construct wellness misinformation as visually authoritative, emotionally resonant, and structurally normalized. By demonstrating the cross-cultural relevance of these mechanisms, the study addresses the underrepresentation of Asian platforms in misinformation scholarship and offers a globally applicable explanation of how wellness misinformation circulates across divergent platform ecologies. The findings highlight the need for interventions that target visual, emotional, and algorithmic infrastructures, expanding theoretical, methodological, and policy approaches to the study of digital misinformation.",
+  "raw_keywords": [],
+  "title_en": "A Multi-Mechanism Socio-Technical Theory of Wellness Misinformation: Aesthetic, Affective, and Algorithmic Dynamics",
+  "title_zh": "健康错误信息的多机制社会技术理论：审美、情感与算法动态",
+  "abstract_en": "Wellness misinformation spreads widely on short-form video platforms, yet existing research often explains its credibility through individual cognitive deficits. This study advances a qualitative socio-technical account by articulating and applying the Algorithmic–Affective Misinformation Model (AAMM)—a mid-range framework refined through abductive analysis—to explain how credibility emerges through the interaction of aesthetics, affect, and algorithms. Drawing on qualitative interviews and cross-platform observations on TikTok and RED, the study identifies three mechanisms—aesthetic legitimization, affective vulnerability, and algorithmic reinforcement—that collectively construct wellness misinformation as visually authoritative, emotionally resonant, and structurally normalized. By demonstrating the cross-cultural relevance of these mechanisms, the study addresses the underrepresentation of Asian platforms in misinformation scholarship and offers a globally applicable explanation of how wellness misinformation circulates across divergent platform ecologies. The findings highlight the need for interventions that target visual, emotional, and algorithmic infrastructures, expanding theoretical, methodological, and policy approaches to the study of digital misinformation.",
+  "abstract_zh": "健康错误信息在短视频平台上广泛传播，但现有研究常将其可信度归因于个体认知缺陷。本研究通过阐述和应用算法-情感错误信息模型（AAMM）——一种通过溯因分析完善的中层框架——推进了定性社会技术解释，以说明可信度如何通过审美、情感和算法的相互作用产生。基于对TikTok和小红书的定性访谈和跨平台观察，研究识别出三种机制——审美合法化、情感脆弱性和算法强化——它们共同将健康错误信息构建为视觉上权威、情感上共鸣且结构上正常化的。通过展示这些机制的跨文化相关性，本研究解决了错误信息学术中亚洲平台代表性不足的问题，并提供了健康错误信息如何在不同的平台生态中传播的全球适用解释。研究结果强调需要针对视觉、情感和算法基础设施进行干预，扩展了数字错误信息研究的理论、方法和政策途径。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "wellness misinformation",
+    "short-form video platforms",
+    "socio-technical theory",
+    "aesthetics",
+    "affect",
+    "algorithms",
+    "Algorithmic–Affective Misinformation Model",
+    "TikTok",
+    "RED",
+    "cross-platform analysis"
+  ],
+  "inferred_keywords_zh": [
+    "健康错误信息",
+    "短视频平台",
+    "社会技术理论",
+    "审美",
+    "情感",
+    "算法",
+    "算法-情感错误信息模型",
+    "TikTok",
+    "小红书",
+    "跨平台分析"
+  ],
+  "plain_summary_zh": "这项研究解释了为什么健康类错误信息在短视频平台上看起来很可信。研究者发现，这些信息通过三种方式让人相信：一是看起来专业（审美），二是让人产生情感共鸣（情感），三是平台算法不断推荐类似内容（算法）。研究基于对TikTok和小红书的观察和访谈，提出了一个理论模型，帮助理解这些错误信息如何在不同文化中传播。",
+  "plain_summary_en": "This study explains why wellness misinformation seems credible on short-video platforms. Researchers found three ways these messages gain trust: looking professional (aesthetics), making people feel emotionally connected (affect), and being repeatedly recommended by algorithms (algorithms). Based on interviews and observations on TikTok and RED, the study proposes a model to understand how such misinformation spreads across different cultures.",
+  "research_direction_zh": "数字平台上的错误信息传播机制与社会技术因素",
+  "research_direction_en": "Misinformation spread mechanisms and socio-technical factors on digital platforms",
+  "method_tags_zh": [
+    "定性访谈",
+    "跨平台观察"
+  ],
+  "method_tags_en": [
+    "qualitative interview",
+    "cross-platform observation"
+  ]
+}

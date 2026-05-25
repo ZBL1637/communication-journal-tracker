@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-24T22:50:32.806Z",
+  "generatedAt": "2026-05-25T22:53:42.202Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 12,
-      "overview_en": "Across 12 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, theoretical analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 12 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, theoretical analysis to explain what these changes mean for communication.",
+      "paperCount": 14,
+      "overview_en": "Across 14 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, theoretical analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 14 papers, the most visible themes are The, And, Policy. Researchers most often rely on mixed methods, theoretical analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
         "Policy",
         "political communication",
-        "privacy notices"
+        "techno-refusal"
       ],
       "hot_topics_zh": [
         "The",
         "And",
         "Policy",
         "政治传播",
-        "隐私通知"
+        "技术拒绝"
       ],
       "high_frequency_keywords": [
         {
@@ -44,33 +44,33 @@
           "count": 2
         },
         {
+          "label_en": "techno-refusal",
+          "label_zh": "技术拒绝",
+          "count": 1
+        },
+        {
+          "label_en": "generative orientation",
+          "label_zh": "生成性取向",
+          "count": 1
+        },
+        {
+          "label_en": "future",
+          "label_zh": "未来",
+          "count": 1
+        },
+        {
+          "label_en": "technology rejection",
+          "label_zh": "技术排斥",
+          "count": 1
+        },
+        {
+          "label_en": "critical technology studies",
+          "label_zh": "批判性技术研究",
+          "count": 1
+        },
+        {
           "label_en": "privacy notices",
           "label_zh": "隐私通知",
-          "count": 1
-        },
-        {
-          "label_en": "notice-and-choice",
-          "label_zh": "通知-选择",
-          "count": 1
-        },
-        {
-          "label_en": "regulatory theatre",
-          "label_zh": "监管剧场",
-          "count": 1
-        },
-        {
-          "label_en": "data privacy",
-          "label_zh": "数据隐私",
-          "count": 1
-        },
-        {
-          "label_en": "user behavior",
-          "label_zh": "用户行为",
-          "count": 1
-        },
-        {
-          "label_en": "Watermarking",
-          "label_zh": "Watermarking",
           "count": 1
         }
       ],
@@ -83,7 +83,12 @@
         {
           "label_en": "theoretical analysis",
           "label_zh": "理论分析",
-          "count": 2
+          "count": 3
+        },
+        {
+          "label_en": "survey",
+          "label_zh": "问卷调查",
+          "count": 3
         },
         {
           "label_en": "content analysis",
@@ -91,14 +96,14 @@
           "count": 2
         },
         {
-          "label_en": "survey",
-          "label_zh": "调查",
-          "count": 2
-        },
-        {
           "label_en": "experiment",
           "label_zh": "实验",
           "count": 2
+        },
+        {
+          "label_en": "conceptual elaboration",
+          "label_zh": "概念阐释",
+          "count": 1
         },
         {
           "label_en": "literature review",
@@ -116,13 +121,8 @@
           "count": 1
         },
         {
-          "label_en": "interview",
-          "label_zh": "访谈",
-          "count": 1
-        },
-        {
-          "label_en": "comparative study",
-          "label_zh": "比较研究",
+          "label_en": "longitudinal study",
+          "label_zh": "纵向研究",
           "count": 1
         }
       ]
@@ -131,9 +131,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 33,
-      "overview_en": "Across 33 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 33 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "paperCount": 34,
+      "overview_en": "Across 34 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 34 papers, the most visible themes are conversation analysis, The, And. Researchers most often rely on case study, conversation analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
         "The",
@@ -204,7 +204,7 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 7
+          "count": 6
         },
         {
           "label_en": "conversation analysis",
@@ -212,9 +212,19 @@
           "count": 6
         },
         {
+          "label_en": "survey",
+          "label_zh": "问卷调查",
+          "count": 5
+        },
+        {
           "label_en": "experiment",
           "label_zh": "实验",
           "count": 5
+        },
+        {
+          "label_en": "theoretical analysis",
+          "label_zh": "理论分析",
+          "count": 4
         },
         {
           "label_en": "mixed methods",
@@ -227,29 +237,19 @@
           "count": 4
         },
         {
-          "label_en": "survey",
-          "label_zh": "调查",
-          "count": 4
-        },
-        {
           "label_en": "literature review",
           "label_zh": "文献综述",
           "count": 3
         },
         {
-          "label_en": "theoretical analysis",
-          "label_zh": "理论分析",
-          "count": 3
+          "label_en": "longitudinal study",
+          "label_zh": "纵向研究",
+          "count": 2
         },
         {
           "label_en": "corpus analysis",
           "label_zh": "语料库分析",
           "count": 2
-        },
-        {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 1
         }
       ]
     },
@@ -257,9 +257,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 179,
-      "overview_en": "Across 179 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 179 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 183,
+      "overview_en": "Across 183 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 183 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -339,8 +339,8 @@
         },
         {
           "label_en": "survey",
-          "label_zh": "调查",
-          "count": 31
+          "label_zh": "问卷调查",
+          "count": 32
         },
         {
           "label_en": "mixed methods",
@@ -368,14 +368,14 @@
           "count": 14
         },
         {
-          "label_en": "literature review",
-          "label_zh": "文献综述",
+          "label_en": "theoretical analysis",
+          "label_zh": "理论分析",
           "count": 9
         },
         {
-          "label_en": "theoretical analysis",
-          "label_zh": "理论分析",
-          "count": 8
+          "label_en": "literature review",
+          "label_zh": "文献综述",
+          "count": 9
         }
       ]
     }
@@ -384,7 +384,7 @@
     {
       "journalName": "JOURNAL OF COMMUNICATION",
       "journalSlug": "journal-of-communication",
-      "paperCount": 13,
+      "paperCount": 15,
       "topic_bias_en": [
         "The",
         "And",
@@ -400,14 +400,14 @@
       "method_bias_en": [
         "case study",
         "review",
-        "experiment",
-        "content analysis"
+        "theoretical analysis",
+        "longitudinal study"
       ],
       "method_bias_zh": [
         "案例研究",
         "review",
-        "实验",
-        "内容分析"
+        "理论分析",
+        "纵向研究"
       ]
     },
     {
@@ -500,18 +500,18 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 42,
+      "paperCount": 44,
       "topic_bias_en": [
         "And",
         "The",
-        "social media",
-        "misinformation"
+        "TikTok",
+        "social media"
       ],
       "topic_bias_zh": [
         "And",
         "The",
-        "社交媒体",
-        "错误信息"
+        "TikTok",
+        "社交媒体"
       ],
       "method_bias_en": [
         "computational analysis",
@@ -689,8 +689,8 @@
     },
     {
       "label_en": "survey",
-      "label_zh": "调查",
-      "count": 31
+      "label_zh": "问卷调查",
+      "count": 32
     },
     {
       "label_en": "mixed methods",
@@ -718,14 +718,14 @@
       "count": 14
     },
     {
-      "label_en": "literature review",
-      "label_zh": "文献综述",
+      "label_en": "theoretical analysis",
+      "label_zh": "理论分析",
       "count": 9
     },
     {
-      "label_en": "theoretical analysis",
-      "label_zh": "理论分析",
-      "count": 8
+      "label_en": "literature review",
+      "label_zh": "文献综述",
+      "count": 9
     },
     {
       "label_en": "conversation analysis",
