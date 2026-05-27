@@ -43,21 +43,21 @@
       ".meta__title a",
       "h5 a"
     ],
-    "paperCount": 44,
-    "latestPublishedAt": "2026-05-22T06:45:09.000Z",
+    "paperCount": 45,
+    "latestPublishedAt": "2026-05-27T04:32:43.000Z",
     "topKeywordsEn": [
+      "editorial",
+      "journal introduction",
       "politicians",
       "news media bias",
-      "partisan bias",
-      "perceptions",
-      "interview study"
+      "partisan bias"
     ],
     "topKeywordsZh": [
+      "社论",
+      "期刊介绍",
       "政治家",
       "新闻媒体偏见",
-      "党派偏见",
-      "认知",
-      "访谈研究"
+      "党派偏见"
     ]
   },
   {
@@ -167,21 +167,21 @@
       ".issue-item a",
       "h2 a"
     ],
-    "paperCount": 23,
+    "paperCount": 24,
     "latestPublishedAt": "2026-06-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "privacy notices",
-      "notice-and-choice",
-      "regulatory theatre",
-      "data privacy",
-      "user behavior"
+      "digital governance",
+      "algorithmic legitimacy",
+      "participation facades",
+      "technocratic inclusion",
+      "Indonesia"
     ],
     "topKeywordsZh": [
-      "隐私通知",
-      "通知-选择",
-      "监管剧场",
-      "数据隐私",
-      "用户行为"
+      "数字治理",
+      "算法合法性",
+      "参与假象",
+      "技术官僚包容",
+      "印度尼西亚"
     ]
   },
   {

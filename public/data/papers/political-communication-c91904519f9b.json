@@ -1,0 +1,45 @@
+{
+  "id": "political-communication-c91904519f9b",
+  "doi": "10.1080/10584609.2026.2678732",
+  "url": "https://doi.org/10.1080/10584609.2026.2678732",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-05-27T04:32:43.000Z",
+  "authors": [
+    "Regina G. Lawrence",
+    "Portland",
+    "Oregon",
+    "USA"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-05-27T23:11:19.814Z",
+  "language": "en",
+  "raw_title": "Editor’s Note",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "Editor’s Note",
+  "title_zh": "编者按",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "editorial",
+    "journal introduction"
+  ],
+  "inferred_keywords_zh": [
+    "社论",
+    "期刊介绍"
+  ],
+  "plain_summary_zh": "这是一篇期刊的编者按，通常介绍本期内容或期刊动态。",
+  "plain_summary_en": "This is an editor's note for a journal, typically introducing the current issue or journal updates.",
+  "research_direction_zh": "政治传播学",
+  "research_direction_en": "Political Communication",
+  "method_tags_zh": [
+    "mixed methods"
+  ],
+  "method_tags_en": [
+    "mixed methods"
+  ]
+}

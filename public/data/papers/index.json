@@ -1,5 +1,60 @@
 [
   {
+    "id": "policy-and-internet-cf5567dbdf35",
+    "doi": "10.1002/poi3.70044",
+    "url": "https://doi.org/10.1002/poi3.70044",
+    "journalName": "Policy & Internet",
+    "journalSlug": "policy-and-internet",
+    "issn": "1944-2866",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "authors": [
+      "Isnaini Muallidin",
+      "Hadi Supratikta"
+    ],
+    "title_en": "The Technopolitical Paradox: Navigating Algorithmic Legitimacy, Participation Facades, and Technocratic Inclusion in Post‐Reformasi Indonesia",
+    "title_zh": "技术政治悖论：后改革时代印度尼西亚的算法合法性、参与假象与技术官僚包容",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "digital governance",
+      "algorithmic legitimacy",
+      "participation facades",
+      "technocratic inclusion",
+      "Indonesia",
+      "post-Reformasi",
+      "democratic transition"
+    ],
+    "inferred_keywords_zh": [
+      "数字治理",
+      "算法合法性",
+      "参与假象",
+      "技术官僚包容",
+      "印度尼西亚",
+      "后改革时代",
+      "民主转型"
+    ],
+    "plain_summary_zh": "这项研究探讨了印度尼西亚在民主改革后，数字技术如何既促进参与又加强精英控制。研究者发现，政府使用的算法系统看似公平，实则掩盖了政治选择；在线平台让民众感觉有参与，但实际影响力很小；同时，技术要求让不熟悉技术的普通公民被排除在外。最终，数字治理可能让不平等现象在表面公平的幌子下继续存在。",
+    "plain_summary_en": "This study examines how digital technologies in Indonesia after democratic reforms both increase participation and strengthen elite control. Researchers found that algorithmic systems used by the government appear fair but actually hide political choices; online platforms give people a feeling of participation but little real influence; and technical requirements systematically exclude non-expert citizens. Ultimately, digital governance may perpetuate inequality behind a facade of meritocracy.",
+    "research_direction_zh": "数字时代的民主治理与权力结构",
+    "research_direction_en": "Democratic governance and power structures in the digital age",
+    "method_tags_zh": [
+      "混合方法",
+      "政策分析",
+      "访谈",
+      "数字民族志",
+      "调查"
+    ],
+    "method_tags_en": [
+      "mixed methods",
+      "policy analysis",
+      "interview",
+      "digital ethnography",
+      "survey"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-27T23:11:27.876Z"
+  },
+  {
     "id": "journal-of-communication-d6205e1a8cbe",
     "doi": "10.1093/joc/jqag003",
     "url": "https://doi.org/10.1093/joc/jqag003",
@@ -315,6 +370,45 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-04-16T09:14:47.996Z"
+  },
+  {
+    "id": "political-communication-c91904519f9b",
+    "doi": "10.1080/10584609.2026.2678732",
+    "url": "https://doi.org/10.1080/10584609.2026.2678732",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-05-27T04:32:43.000Z",
+    "authors": [
+      "Regina G. Lawrence",
+      "Portland",
+      "Oregon",
+      "USA"
+    ],
+    "title_en": "Editor’s Note",
+    "title_zh": "编者按",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "editorial",
+      "journal introduction"
+    ],
+    "inferred_keywords_zh": [
+      "社论",
+      "期刊介绍"
+    ],
+    "plain_summary_zh": "这是一篇期刊的编者按，通常介绍本期内容或期刊动态。",
+    "plain_summary_en": "This is an editor's note for a journal, typically introducing the current issue or journal updates.",
+    "research_direction_zh": "政治传播学",
+    "research_direction_en": "Political Communication",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-27T23:11:19.814Z"
   },
   {
     "id": "journal-of-communication-640188d5c447",

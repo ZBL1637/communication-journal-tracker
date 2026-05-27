@@ -1,0 +1,61 @@
+{
+  "id": "policy-and-internet-cf5567dbdf35",
+  "doi": "10.1002/poi3.70044",
+  "url": "https://doi.org/10.1002/poi3.70044",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-06-01T00:00:00.000Z",
+  "authors": [
+    "Isnaini Muallidin",
+    "Hadi Supratikta"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-27T23:11:27.876Z",
+  "language": "en",
+  "raw_title": "The Technopolitical Paradox: Navigating Algorithmic Legitimacy, Participation Facades, and Technocratic Inclusion in Post‐Reformasi Indonesia",
+  "raw_abstract": "ABSTRACT Digital governance in transitional democracies promises enhanced participation but often produces new forms of exclusion. This study examines the “technopolitical paradox” in post‐Reformasi Indonesia, where algorithmic systems expand engagement while reinforcing elite control. Introducing a novel framework of algorithmic legitimacy, participation facades, and technocratic inclusion, the research analyzes how digital technologies reshape political authority. Based on mixed‐methods data, policy analysis, 45 interviews, digital ethnography, and a survey ( n = 1247), the findings reveal that data‐driven claims obscure political choices, participatory platforms simulate engagement without influence, and technical requirements systematically marginalize non‐expert citizens. The study concludes that digital governance risks reproducing inequality behind a meritocratic facade, challenging democratic values in the digital age.",
+  "raw_keywords": [],
+  "title_en": "The Technopolitical Paradox: Navigating Algorithmic Legitimacy, Participation Facades, and Technocratic Inclusion in Post‐Reformasi Indonesia",
+  "title_zh": "技术政治悖论：后改革时代印度尼西亚的算法合法性、参与假象与技术官僚包容",
+  "abstract_en": "Digital governance in transitional democracies promises enhanced participation but often produces new forms of exclusion. This study examines the “technopolitical paradox” in post‐Reformasi Indonesia, where algorithmic systems expand engagement while reinforcing elite control. Introducing a novel framework of algorithmic legitimacy, participation facades, and technocratic inclusion, the research analyzes how digital technologies reshape political authority. Based on mixed‐methods data, policy analysis, 45 interviews, digital ethnography, and a survey ( n = 1247), the findings reveal that data‐driven claims obscure political choices, participatory platforms simulate engagement without influence, and technical requirements systematically marginalize non‐expert citizens. The study concludes that digital governance risks reproducing inequality behind a meritocratic facade, challenging democratic values in the digital age.",
+  "abstract_zh": "转型民主国家的数字治理承诺增强参与，但往往产生新的排斥形式。本研究考察了后改革时代印度尼西亚的“技术政治悖论”，即算法系统扩大参与的同时强化了精英控制。通过引入算法合法性、参与假象和技术官僚包容的新框架，研究分析了数字技术如何重塑政治权威。基于混合方法数据、政策分析、45次访谈、数字民族志和一项调查（n=1247），研究结果显示，数据驱动的说法掩盖了政治选择，参与平台模拟参与但无实际影响，技术要求系统性地边缘化非专家公民。研究结论认为，数字治理有可能在精英统治的假象背后复制不平等，挑战数字时代的民主价值观。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "digital governance",
+    "algorithmic legitimacy",
+    "participation facades",
+    "technocratic inclusion",
+    "Indonesia",
+    "post-Reformasi",
+    "democratic transition"
+  ],
+  "inferred_keywords_zh": [
+    "数字治理",
+    "算法合法性",
+    "参与假象",
+    "技术官僚包容",
+    "印度尼西亚",
+    "后改革时代",
+    "民主转型"
+  ],
+  "plain_summary_zh": "这项研究探讨了印度尼西亚在民主改革后，数字技术如何既促进参与又加强精英控制。研究者发现，政府使用的算法系统看似公平，实则掩盖了政治选择；在线平台让民众感觉有参与，但实际影响力很小；同时，技术要求让不熟悉技术的普通公民被排除在外。最终，数字治理可能让不平等现象在表面公平的幌子下继续存在。",
+  "plain_summary_en": "This study examines how digital technologies in Indonesia after democratic reforms both increase participation and strengthen elite control. Researchers found that algorithmic systems used by the government appear fair but actually hide political choices; online platforms give people a feeling of participation but little real influence; and technical requirements systematically exclude non-expert citizens. Ultimately, digital governance may perpetuate inequality behind a facade of meritocracy.",
+  "research_direction_zh": "数字时代的民主治理与权力结构",
+  "research_direction_en": "Democratic governance and power structures in the digital age",
+  "method_tags_zh": [
+    "混合方法",
+    "政策分析",
+    "访谈",
+    "数字民族志",
+    "调查"
+  ],
+  "method_tags_en": [
+    "mixed methods",
+    "policy analysis",
+    "interview",
+    "digital ethnography",
+    "survey"
+  ]
+}
