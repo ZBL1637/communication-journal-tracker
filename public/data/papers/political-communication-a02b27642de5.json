@@ -1,0 +1,55 @@
+{
+  "id": "political-communication-a02b27642de5",
+  "doi": "10.1080/10584609.2026.2679476",
+  "url": "https://doi.org/10.1080/10584609.2026.2679476",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-05-28T06:16:35.000Z",
+  "authors": [
+    "Tobias Rohrbach",
+    "Mykola Makhortykh",
+    "Maryna Sydorova",
+    "Fribourg",
+    "Switzerlandb",
+    "Bern"
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-05-28T23:08:32.438Z",
+  "language": "en",
+  "raw_title": "The Prevalence and Consequences of Women’s Algorithmic Underrepresentation in Cross-National Political Google Searches",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "The Prevalence and Consequences of Women’s Algorithmic Underrepresentation in Cross-National Political Google Searches",
+  "title_zh": "女性在跨国政治谷歌搜索中算法性代表性不足的普遍性及其后果",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "algorithmic bias",
+    "gender representation",
+    "political communication",
+    "Google search",
+    "cross-national study"
+  ],
+  "inferred_keywords_zh": [
+    "算法偏见",
+    "性别代表性",
+    "政治传播",
+    "谷歌搜索",
+    "跨国研究"
+  ],
+  "plain_summary_zh": "这项研究探讨了在多个国家使用谷歌搜索政治人物时，女性政治人物在搜索结果中出现的频率低于男性，以及这种算法性代表性不足可能带来的影响。",
+  "plain_summary_en": "This study examines how women politicians appear less frequently than men in Google search results across multiple countries, and the potential consequences of this algorithmic underrepresentation.",
+  "research_direction_zh": "政治传播中的算法偏见与性别不平等",
+  "research_direction_en": "Algorithmic bias and gender inequality in political communication",
+  "method_tags_zh": [
+    "内容分析",
+    "跨国比较"
+  ],
+  "method_tags_en": [
+    "content analysis",
+    "cross-national comparison"
+  ]
+}

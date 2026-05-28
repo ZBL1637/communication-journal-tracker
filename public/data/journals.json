@@ -43,21 +43,21 @@
       ".meta__title a",
       "h5 a"
     ],
-    "paperCount": 45,
-    "latestPublishedAt": "2026-05-27T04:32:43.000Z",
+    "paperCount": 46,
+    "latestPublishedAt": "2026-05-28T06:16:35.000Z",
     "topKeywordsEn": [
-      "editorial",
-      "journal introduction",
-      "politicians",
-      "news media bias",
-      "partisan bias"
+      "algorithmic bias",
+      "gender representation",
+      "political communication",
+      "Google search",
+      "cross-national study"
     ],
     "topKeywordsZh": [
-      "社论",
-      "期刊介绍",
-      "政治家",
-      "新闻媒体偏见",
-      "党派偏见"
+      "算法偏见",
+      "性别代表性",
+      "政治传播",
+      "谷歌搜索",
+      "跨国研究"
     ]
   },
   {
@@ -136,21 +136,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 44,
+    "paperCount": 45,
     "latestPublishedAt": "2026-04-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "Facebook",
-      "community media",
-      "religious festivals",
-      "cultural heritage",
-      "digital ethnography"
+      "digital diaspora",
+      "ethnic conflict",
+      "Afghanistan",
+      "social media",
+      "identity"
     ],
     "topKeywordsZh": [
-      "Facebook",
-      "社区媒体",
-      "宗教节庆",
-      "文化遗产",
-      "数字民族志"
+      "数字侨民",
+      "族群冲突",
+      "阿富汗",
+      "社交媒体",
+      "身份"
     ]
   },
   {

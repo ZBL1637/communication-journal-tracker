@@ -372,6 +372,55 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "political-communication-a02b27642de5",
+    "doi": "10.1080/10584609.2026.2679476",
+    "url": "https://doi.org/10.1080/10584609.2026.2679476",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-05-28T06:16:35.000Z",
+    "authors": [
+      "Tobias Rohrbach",
+      "Mykola Makhortykh",
+      "Maryna Sydorova",
+      "Fribourg",
+      "Switzerlandb",
+      "Bern"
+    ],
+    "title_en": "The Prevalence and Consequences of Women’s Algorithmic Underrepresentation in Cross-National Political Google Searches",
+    "title_zh": "女性在跨国政治谷歌搜索中算法性代表性不足的普遍性及其后果",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "algorithmic bias",
+      "gender representation",
+      "political communication",
+      "Google search",
+      "cross-national study"
+    ],
+    "inferred_keywords_zh": [
+      "算法偏见",
+      "性别代表性",
+      "政治传播",
+      "谷歌搜索",
+      "跨国研究"
+    ],
+    "plain_summary_zh": "这项研究探讨了在多个国家使用谷歌搜索政治人物时，女性政治人物在搜索结果中出现的频率低于男性，以及这种算法性代表性不足可能带来的影响。",
+    "plain_summary_en": "This study examines how women politicians appear less frequently than men in Google search results across multiple countries, and the potential consequences of this algorithmic underrepresentation.",
+    "research_direction_zh": "政治传播中的算法偏见与性别不平等",
+    "research_direction_en": "Algorithmic bias and gender inequality in political communication",
+    "method_tags_zh": [
+      "内容分析",
+      "跨国比较"
+    ],
+    "method_tags_en": [
+      "content analysis",
+      "cross-national comparison"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-05-28T23:08:32.438Z"
+  },
+  {
     "id": "political-communication-c91904519f9b",
     "doi": "10.1080/10584609.2026.2678732",
     "url": "https://doi.org/10.1080/10584609.2026.2678732",
@@ -2462,6 +2511,57 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-04-16T09:17:32.917Z"
+  },
+  {
+    "id": "social-media-and-society-db44f11d8c5e",
+    "doi": "10.1177/20563051261434800",
+    "url": "https://doi.org/10.1177/20563051261434800",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Wahid Mehran",
+      "Jolanta A. Drzewiecka"
+    ],
+    "title_en": "Afghanistan’s Digital Diaspora: Conflicted Constructions of Nation and Identity",
+    "title_zh": "阿富汗的数字侨民：国家与身份的矛盾建构",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "digital diaspora",
+      "ethnic conflict",
+      "Afghanistan",
+      "social media",
+      "identity",
+      "nation-building",
+      "affect",
+      "netnography"
+    ],
+    "inferred_keywords_zh": [
+      "数字侨民",
+      "族群冲突",
+      "阿富汗",
+      "社交媒体",
+      "身份",
+      "国家建设",
+      "情感",
+      "网络志"
+    ],
+    "plain_summary_zh": "这项研究探讨了阿富汗侨民和国内用户如何在社交媒体上讨论国家未来，发现不同族群之间仍然存在严重分歧，甚至在网上互相攻击。研究者分析了2021年至2024年间关于阿富汗的推特帖子，发现人们围绕“谁是真正的阿富汗人”、“该用什么语言”等问题激烈争论，这些争论反映了长期的历史矛盾。",
+    "plain_summary_en": "This study looks at how Afghan diaspora and people inside Afghanistan discuss the country's future on social media. It finds that ethnic divisions are still strong, with users often attacking each other online. By analyzing tweets from 2021 to 2024, researchers found heated debates about who is a 'real' Afghan and what language to use, reflecting long-standing historical conflicts.",
+    "research_direction_zh": "数字侨民与族群认同的互动研究",
+    "research_direction_en": "Digital diaspora and ethnic identity interaction",
+    "method_tags_zh": [
+      "网络志",
+      "主题分析"
+    ],
+    "method_tags_en": [
+      "netnography",
+      "thematic analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-28T23:08:43.933Z"
   },
   {
     "id": "social-media-and-society-f22eb19fd099",
