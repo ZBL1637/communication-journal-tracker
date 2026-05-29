@@ -1,0 +1,51 @@
+{
+  "id": "international-journal-of-press-politics-e6ad0209cbba",
+  "doi": "10.1177/19401612261451950",
+  "url": "https://doi.org/10.1177/19401612261451950",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2026-05-29T00:00:00.000Z",
+  "authors": [
+    "Jinpeng Wang",
+    "Xin Yu"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-05-29T23:06:31.233Z",
+  "language": "en",
+  "raw_title": "Ethics First: How Trust and Political Contexts Shape Public Acceptance of AI-Generated News Across Twenty-four Countries",
+  "raw_abstract": "As generative artificial intelligence (AI) reshapes news production, understanding what drives global audiences to accept AI-generated news is critical. Existing research largely adopts a competence-based perspective, neglecting the complex role of trust dimensions and macro-political contexts. This study examines how AI self-efficacy interacts with two distinct dimensions of trust (competence trust and ethical trust) to shape acceptance of AI-generated news, and how these relationships vary across political environments. Analyzing survey data from 24,000 respondents across twenty-four countries, we find that ethical trust is a substantially stronger predictor of acceptance than competence trust, while AI self-efficacy promotes acceptance only when ethical trust is high. Multilevel analysis incorporating national-level indicators (press freedom, regime type, and AI readiness) reveals that the relationship between ethical trust and acceptance is stronger in open, liberal democratic, and technologically ready societies. These findings suggest that the legitimacy of AI-generated news is more strongly associated with audiences’ ethical evaluations of AI systems than with perceived technical capability, and that this association is shaped by the normative expectations that different political contexts cultivate.",
+  "raw_keywords": [],
+  "title_en": "Ethics First: How Trust and Political Contexts Shape Public Acceptance of AI-Generated News Across Twenty-four Countries",
+  "title_zh": "伦理优先：信任与政治背景如何影响24个国家公众对AI生成新闻的接受度",
+  "abstract_en": "As generative artificial intelligence (AI) reshapes news production, understanding what drives global audiences to accept AI-generated news is critical. Existing research largely adopts a competence-based perspective, neglecting the complex role of trust dimensions and macro-political contexts. This study examines how AI self-efficacy interacts with two distinct dimensions of trust (competence trust and ethical trust) to shape acceptance of AI-generated news, and how these relationships vary across political environments. Analyzing survey data from 24,000 respondents across twenty-four countries, we find that ethical trust is a substantially stronger predictor of acceptance than competence trust, while AI self-efficacy promotes acceptance only when ethical trust is high. Multilevel analysis incorporating national-level indicators (press freedom, regime type, and AI readiness) reveals that the relationship between ethical trust and acceptance is stronger in open, liberal democratic, and technologically ready societies. These findings suggest that the legitimacy of AI-generated news is more strongly associated with audiences’ ethical evaluations of AI systems than with perceived technical capability, and that this association is shaped by the normative expectations that different political contexts cultivate.",
+  "abstract_zh": "随着生成式人工智能重塑新闻生产，理解全球受众接受AI生成新闻的驱动因素至关重要。现有研究多采用能力视角，忽视了信任维度与宏观政治背景的复杂作用。本研究考察了AI自我效能如何与两种信任维度（能力信任与伦理信任）相互作用，影响对AI生成新闻的接受度，以及这些关系在不同政治环境中的变化。通过分析来自24个国家24000名受访者的调查数据，我们发现伦理信任对接受度的预测能力远强于能力信任，而AI自我效能仅在伦理信任高时促进接受度。结合国家层面指标（新闻自由、政体类型和AI准备度）的多层次分析显示，在开放、自由民主和技术准备度高的社会中，伦理信任与接受度的关系更强。这些发现表明，AI生成新闻的合法性与受众对AI系统的伦理评价关联更强，而非感知的技术能力，且这种关联受到不同政治背景所培养的规范性期望的影响。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "AI-generated news",
+    "trust",
+    "ethics",
+    "political context",
+    "public acceptance",
+    "cross-national survey"
+  ],
+  "inferred_keywords_zh": [
+    "AI生成新闻",
+    "信任",
+    "伦理",
+    "政治背景",
+    "公众接受度",
+    "跨国调查"
+  ],
+  "plain_summary_zh": "这项研究调查了24个国家的人们为什么接受或拒绝AI生成的新闻。结果发现，人们更看重AI是否值得信赖（伦理信任），而不是它有多聪明（能力信任）。在新闻自由、民主和技术发达的国家，这种对伦理的重视更明显。",
+  "plain_summary_en": "This study surveyed 24,000 people across 24 countries to understand why people accept or reject AI-generated news. It found that people care more about whether AI is trustworthy (ethical trust) than how capable it is. This ethical concern is stronger in countries with free press, democracy, and advanced technology.",
+  "research_direction_zh": "人工智能在新闻业中的应用与公众信任研究",
+  "research_direction_en": "AI in journalism and public trust",
+  "method_tags_zh": [
+    "调查"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

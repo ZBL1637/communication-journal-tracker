@@ -12,7 +12,7 @@
       "a[href*='/article-abstract/']",
       "a[href*='/doi/']"
     ],
-    "paperCount": 16,
+    "paperCount": 17,
     "latestPublishedAt": "2026-06-01T00:00:00.000Z",
     "topKeywordsEn": [
       "techno-refusal",
@@ -198,21 +198,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 22,
-    "latestPublishedAt": "2026-05-19T00:00:00.000Z",
+    "paperCount": 24,
+    "latestPublishedAt": "2026-05-29T00:00:00.000Z",
     "topKeywordsEn": [
-      "right-wing alternative media",
-      "political trust",
-      "anger",
-      "anxiety",
-      "panel survey"
+      "media harm",
+      "community relationships",
+      "ethic of love",
+      "journalism ethics",
+      "marginalized communities"
     ],
     "topKeywordsZh": [
-      "右翼另类媒体",
-      "政治信任",
-      "愤怒",
-      "焦虑",
-      "面板调查"
+      "媒体伤害",
+      "社区关系",
+      "爱的伦理",
+      "新闻伦理",
+      "边缘化社区"
     ]
   },
   {
@@ -229,21 +229,21 @@
       ".obj_article_summary h3 a",
       ".cmp_article_list__item h3 a"
     ],
-    "paperCount": 19,
-    "latestPublishedAt": "2026-04-30T00:00:00.000Z",
+    "paperCount": 20,
+    "latestPublishedAt": "2026-05-28T00:00:00.000Z",
     "topKeywordsEn": [
-      "Digital Leadership",
-      "Personality Traits",
-      "Visual Communication",
-      "Student Engagement",
-      "Educational Technology"
+      "Chinese Cinema",
+      "Ideology",
+      "Cinematic Apparatus",
+      "National Identity",
+      "China Film History"
     ],
     "topKeywordsZh": [
-      "数字领导力",
-      "人格特质",
-      "视觉传达",
-      "学生参与度",
-      "教育技术"
+      "中国电影",
+      "意识形态",
+      "电影装置",
+      "国家认同",
+      "中国电影史"
     ]
   }
 ]

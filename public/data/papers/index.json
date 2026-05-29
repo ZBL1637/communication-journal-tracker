@@ -372,6 +372,155 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "international-journal-of-press-politics-e7b73e1077d6",
+    "doi": "10.1177/19401612261451034",
+    "url": "https://doi.org/10.1177/19401612261451034",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-05-29T00:00:00.000Z",
+    "authors": [
+      "Danielle K. Brown",
+      "Perry Parks",
+      "Jessica Pettengill",
+      "Jung-Hsiang (Eric) Hsieh",
+      "Jasmine Snow",
+      "Jarrad Henderson"
+    ],
+    "title_en": "Addressing Media Harm and Community Relationships through an Ethic of Love",
+    "title_zh": "通过爱的伦理应对媒体伤害与社区关系",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "media harm",
+      "community relationships",
+      "ethic of love",
+      "journalism ethics",
+      "marginalized communities",
+      "trusted journalists",
+      "Black community",
+      "George Floyd",
+      "design justice"
+    ],
+    "inferred_keywords_zh": [
+      "媒体伤害",
+      "社区关系",
+      "爱的伦理",
+      "新闻伦理",
+      "边缘化社区",
+      "受信任记者",
+      "黑人社区",
+      "乔治·弗洛伊德",
+      "设计正义"
+    ],
+    "plain_summary_zh": "这项研究探讨了记者如何与黑人社区建立信任关系，以修复媒体造成的伤害。通过对明尼阿波利斯市17名受信任记者的访谈，研究者发现，记者和社区之间需要相互尊重和合作，这种关系可以用“爱的伦理”来描述。记者通过勤奋和尊重两种方式，成功改善了与社区的关系。研究建议，新闻业应该更多地关注弱势群体的需求，这样对所有社区都有好处。",
+    "plain_summary_en": "This study explores how journalists build trust with Black communities to repair media harm. Through interviews with 17 trusted journalists in Minneapolis, researchers found that mutual respect and cooperation between journalists and communities can be described as an 'ethic of love.' Journalists successfully improved relationships through diligence and deference. The study suggests that journalism should focus more on vulnerable communities, benefiting everyone.",
+    "research_direction_zh": "新闻伦理与社区关系修复",
+    "research_direction_en": "Journalism ethics and community relationship repair",
+    "method_tags_zh": [
+      "访谈",
+      "案例研究"
+    ],
+    "method_tags_en": [
+      "interview",
+      "case study"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-29T23:06:32.507Z"
+  },
+  {
+    "id": "international-journal-of-press-politics-e6ad0209cbba",
+    "doi": "10.1177/19401612261451950",
+    "url": "https://doi.org/10.1177/19401612261451950",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-05-29T00:00:00.000Z",
+    "authors": [
+      "Jinpeng Wang",
+      "Xin Yu"
+    ],
+    "title_en": "Ethics First: How Trust and Political Contexts Shape Public Acceptance of AI-Generated News Across Twenty-four Countries",
+    "title_zh": "伦理优先：信任与政治背景如何影响24个国家公众对AI生成新闻的接受度",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "AI-generated news",
+      "trust",
+      "ethics",
+      "political context",
+      "public acceptance",
+      "cross-national survey"
+    ],
+    "inferred_keywords_zh": [
+      "AI生成新闻",
+      "信任",
+      "伦理",
+      "政治背景",
+      "公众接受度",
+      "跨国调查"
+    ],
+    "plain_summary_zh": "这项研究调查了24个国家的人们为什么接受或拒绝AI生成的新闻。结果发现，人们更看重AI是否值得信赖（伦理信任），而不是它有多聪明（能力信任）。在新闻自由、民主和技术发达的国家，这种对伦理的重视更明显。",
+    "plain_summary_en": "This study surveyed 24,000 people across 24 countries to understand why people accept or reject AI-generated news. It found that people care more about whether AI is trustworthy (ethical trust) than how capable it is. This ethical concern is stronger in countries with free press, democracy, and advanced technology.",
+    "research_direction_zh": "人工智能在新闻业中的应用与公众信任研究",
+    "research_direction_en": "AI in journalism and public trust",
+    "method_tags_zh": [
+      "调查"
+    ],
+    "method_tags_en": [
+      "survey"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-29T23:06:31.233Z"
+  },
+  {
+    "id": "journal-of-communication-173ff5eafbae",
+    "doi": "10.1093/joc/jqag006",
+    "url": "https://doi.org/10.1093/joc/jqag006",
+    "journalName": "JOURNAL OF COMMUNICATION",
+    "journalSlug": "journal-of-communication",
+    "issn": "0021-9916",
+    "publishedAt": "2026-05-29T00:00:00.000Z",
+    "authors": [
+      "Boris H",
+      "J M Brummans"
+    ],
+    "title_en": "Modes of dialogic communication, modes of reality",
+    "title_zh": "对话式沟通的模式，现实性的模式",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "dialogic communication",
+      "Buddhist philosophy",
+      "Dzogchen",
+      "process philosophy",
+      "relationality",
+      "modes of reality"
+    ],
+    "inferred_keywords_zh": [
+      "对话式沟通",
+      "佛教哲学",
+      "大圆满",
+      "过程哲学",
+      "关系性",
+      "现实模式"
+    ],
+    "plain_summary_zh": "这篇文章探讨了对话的两种不同方式：一种是我们试图通过对话连接彼此，但反而感到分离；另一种是我们意识到我们本来就已经相互关联，对话只是展现这种关联。文章借鉴了佛教思想，特别是大圆满教法，以及过程哲学，提出了一种新的理解对话和现实的方式。",
+    "plain_summary_en": "This article explores two different ways of engaging in dialogue: one where we try to connect through conversation but end up feeling separate, and another where we realize we are already connected and dialogue simply reveals that connection. Drawing on Buddhist philosophy, especially Dzogchen, and process philosophy, it offers a new way to understand dialogue and reality.",
+    "research_direction_zh": "对话式沟通理论、沟通关系性、跨文化哲学对话",
+    "research_direction_en": "Dialogic communication theory, communicative relationality, cross-cultural philosophical dialogue",
+    "method_tags_zh": [
+      "理论分析",
+      "哲学思辨"
+    ],
+    "method_tags_en": [
+      "theoretical analysis",
+      "philosophical speculation"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-29T23:06:17.488Z"
+  },
+  {
     "id": "political-communication-a02b27642de5",
     "doi": "10.1080/10584609.2026.2679476",
     "url": "https://doi.org/10.1080/10584609.2026.2679476",
@@ -419,6 +568,52 @@
     ],
     "source": "rss",
     "fetchedAt": "2026-05-28T23:08:32.438Z"
+  },
+  {
+    "id": "review-of-communication-research-32952f4b040e",
+    "doi": "10.52152/RCR.V14.S6",
+    "url": "https://doi.org/10.52152/rcr.v14.s6",
+    "journalName": "Review of Communication Research",
+    "journalSlug": "review-of-communication-research",
+    "issn": "2255-4165",
+    "publishedAt": "2026-05-28T00:00:00.000Z",
+    "authors": [
+      "Yanling Cui",
+      "Jinxiu Wang",
+      "Dong Chen Xue"
+    ],
+    "title_en": "Digital Cinematic Apparatus and Spectator Subjectivity to Explore the Communication Behaviours in Self-Media Platforms",
+    "title_zh": "数字电影装置与观众主体性：探索自媒体平台中的传播行为",
+    "keywords_en": [
+      "Chinese Cinema",
+      "Ideology",
+      "Cinematic Apparatus",
+      "National Identity",
+      "China Film History"
+    ],
+    "keywords_zh": [
+      "中国电影",
+      "意识形态",
+      "电影装置",
+      "国家认同",
+      "中国电影史"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "这项研究分析了2001年至2023年间中国电影如何通过技术、美学和叙事来传达国家意识形态。研究者发现，中国电影从早期的直接说教逐渐转变为更复杂、更商业化的形式，但仍然反映社会政治变化。",
+    "plain_summary_en": "This study analyzes how Chinese cinema from 2001 to 2023 conveyed national ideology through technology, aesthetics, and narrative. The researchers found that Chinese films evolved from overtly didactic to more complex and commercial forms, while still reflecting socio-political changes.",
+    "research_direction_zh": "电影与意识形态传播",
+    "research_direction_en": "Film and Ideological Communication",
+    "method_tags_zh": [
+      "系统文献综述",
+      "背景分析"
+    ],
+    "method_tags_en": [
+      "systematic literature review",
+      "contextual analysis"
+    ],
+    "source": "crossref+detail",
+    "fetchedAt": "2026-05-29T23:06:41.105Z"
   },
   {
     "id": "political-communication-c91904519f9b",
