@@ -43,21 +43,21 @@
       ".meta__title a",
       "h5 a"
     ],
-    "paperCount": 46,
-    "latestPublishedAt": "2026-05-28T06:16:35.000Z",
+    "paperCount": 47,
+    "latestPublishedAt": "2026-05-30T05:46:26.000Z",
     "topKeywordsEn": [
-      "algorithmic bias",
-      "gender representation",
-      "political communication",
-      "Google search",
-      "cross-national study"
+      "State (computer science)",
+      "Social media",
+      "Data access",
+      "Politics",
+      "Public access"
     ],
     "topKeywordsZh": [
-      "算法偏见",
-      "性别代表性",
-      "政治传播",
-      "谷歌搜索",
-      "跨国研究"
+      "状态（计算机科学）",
+      "社交媒体",
+      "数据访问",
+      "政治",
+      "公共访问"
     ]
   },
   {
@@ -198,21 +198,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 24,
-    "latestPublishedAt": "2026-05-29T00:00:00.000Z",
+    "paperCount": 25,
+    "latestPublishedAt": "2026-05-31T00:00:00.000Z",
     "topKeywordsEn": [
-      "media harm",
-      "community relationships",
-      "ethic of love",
+      "generative AI",
       "journalism ethics",
-      "marginalized communities"
+      "stakeholder perceptions",
+      "folk theories",
+      "Kenya"
     ],
     "topKeywordsZh": [
-      "媒体伤害",
-      "社区关系",
-      "爱的伦理",
+      "生成式人工智能",
       "新闻伦理",
-      "边缘化社区"
+      "利益相关者看法",
+      "民间理论",
+      "肯尼亚"
     ]
   },
   {

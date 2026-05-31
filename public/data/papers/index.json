@@ -372,6 +372,120 @@
     "fetchedAt": "2026-04-16T09:14:47.996Z"
   },
   {
+    "id": "international-journal-of-press-politics-9860d8521bdc",
+    "doi": "10.1177/19401612261453657",
+    "url": "https://doi.org/10.1177/19401612261453657",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-05-31T00:00:00.000Z",
+    "authors": [
+      "Bingbing Zhang",
+      "Kevin C. Mudavadi",
+      "Brian Ekdale",
+      "Brett Johnson",
+      "Melissa Tully",
+      "Nur Hossain",
+      "Jonas Nyabor",
+      "Shitemi Khamadi"
+    ],
+    "title_en": "What Is Ethical AI Use in Journalism? Stakeholders’ Perceptions of Ethical Generative Artificial Intelligence (GenAI) Usage in Kenyan Newsrooms",
+    "title_zh": "新闻业中的伦理AI使用是什么？利益相关者对肯尼亚新闻编辑室中生成式人工智能（GenAI）伦理使用的看法",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "generative AI",
+      "journalism ethics",
+      "stakeholder perceptions",
+      "folk theories",
+      "Kenya"
+    ],
+    "inferred_keywords_zh": [
+      "生成式人工智能",
+      "新闻伦理",
+      "利益相关者看法",
+      "民间理论",
+      "肯尼亚"
+    ],
+    "plain_summary_zh": "这项研究采访了94位与新闻业相关的不同角色的人，包括记者、教育者、政策制定者等，了解他们对人工智能在新闻工作中使用的看法。研究发现，人们如何理解人工智能（比如把它看作工具、算法系统或像人一样的伙伴）会影响他们认为哪些伦理问题重要。例如，把AI看作工具的人担心记者变懒、失去技能；看作算法系统的人担心偏见和错误信息；看作伙伴的人担心责任不清。这些看法与他们的职业身份有关。研究强调，要制定好的AI使用规则，需要听取不同人的意见。",
+    "plain_summary_en": "This study interviewed 94 people with different roles related to journalism, including journalists, educators, policymakers, and others, to understand their views on using artificial intelligence in news work. The study found that how people understand AI (e.g., as a tool, an algorithmic system, or a human-like partner) shapes which ethical issues they consider important. For example, those who see AI as a tool worry about journalists becoming lazy and losing skills; those who see it as an algorithmic system worry about bias and misinformation; those who see it as a partner worry about unclear responsibility. These views are linked to their professional identities. The study highlights that to create good rules for AI use, we need to listen to different people's perspectives.",
+    "research_direction_zh": "新闻业中生成式人工智能的伦理使用与利益相关者认知研究",
+    "research_direction_en": "Ethical use of generative AI in journalism and stakeholder perceptions",
+    "method_tags_zh": [
+      "访谈"
+    ],
+    "method_tags_en": [
+      "interview"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-05-31T22:53:02.763Z"
+  },
+  {
+    "id": "political-communication-da6440d9e89c",
+    "doi": "10.1080/10584609.2026.2681041",
+    "url": "https://doi.org/10.1080/10584609.2026.2681041",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-05-30T05:46:26.000Z",
+    "authors": [
+      "Claes H.",
+      "de Vreese",
+      "Rebekah Tromble",
+      "a ASCoR",
+      "Universiteit van Amsterdam",
+      "Amsterdam",
+      "Netherlandsb",
+      "The Internet & Democracy",
+      "Northeastern",
+      "Boston",
+      "MA",
+      "USA"
+    ],
+    "title_en": "Moving Targets, Moving Politics: The State of Play in Social Media Data Access",
+    "title_zh": "移动的目标，移动的政治：社交媒体数据访问的现状",
+    "keywords_en": [
+      "State (computer science)",
+      "Social media",
+      "Data access",
+      "Politics",
+      "Public access"
+    ],
+    "keywords_zh": [
+      "状态（计算机科学）",
+      "社交媒体",
+      "数据访问",
+      "政治",
+      "公共访问"
+    ],
+    "inferred_keywords_en": [
+      "social media data",
+      "data access policies",
+      "political communication",
+      "platform governance"
+    ],
+    "inferred_keywords_zh": [
+      "社交媒体数据",
+      "数据访问政策",
+      "政治传播",
+      "平台治理"
+    ],
+    "plain_summary_zh": "本文探讨了社交媒体数据访问的现状，分析了数据访问对政治传播研究的影响，并讨论了平台政策变化带来的挑战。",
+    "plain_summary_en": "This article examines the current state of social media data access, analyzing its impact on political communication research and discussing challenges posed by changing platform policies.",
+    "research_direction_zh": "社交媒体数据访问与政治传播研究",
+    "research_direction_en": "Social media data access and political communication research",
+    "method_tags_zh": [
+      "评论",
+      "案例研究"
+    ],
+    "method_tags_en": [
+      "commentary",
+      "case study"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-05-31T22:52:49.748Z"
+  },
+  {
     "id": "international-journal-of-press-politics-e7b73e1077d6",
     "doi": "10.1177/19401612261451034",
     "url": "https://doi.org/10.1177/19401612261451034",
