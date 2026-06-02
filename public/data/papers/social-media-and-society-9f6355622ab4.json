@@ -1,0 +1,55 @@
+{
+  "id": "social-media-and-society-9f6355622ab4",
+  "doi": "10.1177/20563051261452019",
+  "url": "https://doi.org/10.1177/20563051261452019",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Baoying Fu",
+    "Xueqing Li"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-06-02T23:29:16.222Z",
+  "language": "en",
+  "raw_title": "We Are Equally Vulnerable? An Examination of the Third-Person Effect in AI-Generated Misinformation",
+  "raw_abstract": "Misinformation is a pervasive problem in the social media era, undermining social trust, while the emergence of AI-generated misinformation further exacerbates this issue and threatens social order. This study employs the third-person effect as a theoretical framework and collected 726 questionnaire responses to examine individuals’ perceptions of AI-generated misinformation. When exploring the relationships among misinformation exposure, social undesirability, perceived realism, and AI literacy with respect to perceived effects on oneself and on others, individuals recognize that they themselves are also easily influenced by AI-generated misinformation. Furthermore, perceived effects on oneself and others are positively correlated with corrective actions, while no significant relationship is observed with restrictive actions, thus providing suggestions for individual involvement in combating AI-generated misinformation.",
+  "raw_keywords": [],
+  "title_en": "We Are Equally Vulnerable? An Examination of the Third-Person Effect in AI-Generated Misinformation",
+  "title_zh": "我们同样脆弱？AI生成错误信息中的第三人效果研究",
+  "abstract_en": "Misinformation is a pervasive problem in the social media era, undermining social trust, while the emergence of AI-generated misinformation further exacerbates this issue and threatens social order. This study employs the third-person effect as a theoretical framework and collected 726 questionnaire responses to examine individuals’ perceptions of AI-generated misinformation. When exploring the relationships among misinformation exposure, social undesirability, perceived realism, and AI literacy with respect to perceived effects on oneself and on others, individuals recognize that they themselves are also easily influenced by AI-generated misinformation. Furthermore, perceived effects on oneself and others are positively correlated with corrective actions, while no significant relationship is observed with restrictive actions, thus providing suggestions for individual involvement in combating AI-generated misinformation.",
+  "abstract_zh": "错误信息是社交媒体时代的一个普遍问题，它削弱了社会信任，而AI生成的错误信息的出现进一步加剧了这一问题并威胁社会秩序。本研究以第三人效果为理论框架，收集了726份问卷回复，考察个体对AI生成错误信息的感知。在探索错误信息暴露、社会不良性、感知真实性和AI素养与对自身和他人感知影响之间的关系时，个体认识到自己也容易受到AI生成错误信息的影响。此外，对自身和他人的感知影响与纠正行为正相关，而与限制行为无显著关系，从而为个体参与打击AI生成错误信息提供了建议。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "third-person effect",
+    "AI-generated misinformation",
+    "misinformation exposure",
+    "social undesirability",
+    "perceived realism",
+    "AI literacy",
+    "corrective actions",
+    "restrictive actions"
+  ],
+  "inferred_keywords_zh": [
+    "第三人效果",
+    "AI生成错误信息",
+    "错误信息暴露",
+    "社会不良性",
+    "感知真实性",
+    "AI素养",
+    "纠正行为",
+    "限制行为"
+  ],
+  "plain_summary_zh": "这项研究调查了人们如何看待AI生成的假信息。通过问卷发现，人们认为自己和别人都容易受AI假信息影响，并且这种认知会促使他们采取行动去纠正错误信息，但不会促使他们限制信息传播。",
+  "plain_summary_en": "This study investigates how people perceive AI-generated misinformation. Through a survey, it found that people believe both themselves and others are vulnerable to AI misinformation, and this perception leads them to take corrective actions but not restrictive ones.",
+  "research_direction_zh": "社交媒体中的错误信息与第三人效果",
+  "research_direction_en": "Misinformation in social media and third-person effect",
+  "method_tags_zh": [
+    "问卷调查"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

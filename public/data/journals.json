@@ -136,21 +136,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 45,
+    "paperCount": 46,
     "latestPublishedAt": "2026-04-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "digital diaspora",
-      "ethnic conflict",
-      "Afghanistan",
-      "social media",
-      "identity"
+      "third-person effect",
+      "AI-generated misinformation",
+      "misinformation exposure",
+      "social undesirability",
+      "perceived realism"
     ],
     "topKeywordsZh": [
-      "数字侨民",
-      "族群冲突",
-      "阿富汗",
-      "社交媒体",
-      "身份"
+      "第三人效果",
+      "AI生成错误信息",
+      "错误信息暴露",
+      "社会不良性",
+      "感知真实性"
     ]
   },
   {
@@ -167,21 +167,21 @@
       ".issue-item a",
       "h2 a"
     ],
-    "paperCount": 24,
+    "paperCount": 25,
     "latestPublishedAt": "2026-06-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "digital governance",
-      "algorithmic legitimacy",
-      "participation facades",
-      "technocratic inclusion",
-      "Indonesia"
+      "online radicalization",
+      "transnationality",
+      "teenagers",
+      "social media",
+      "violence"
     ],
     "topKeywordsZh": [
-      "数字治理",
-      "算法合法性",
-      "参与假象",
-      "技术官僚包容",
-      "印度尼西亚"
+      "网络激进化",
+      "跨国性",
+      "青少年",
+      "社交媒体",
+      "暴力"
     ]
   },
   {
