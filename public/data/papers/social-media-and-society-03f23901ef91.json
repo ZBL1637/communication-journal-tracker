@@ -1,0 +1,54 @@
+{
+  "id": "social-media-and-society-03f23901ef91",
+  "doi": "10.1177/20563051261452539",
+  "url": "https://doi.org/10.1177/20563051261452539",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Alondra Nelson"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-06-03T23:28:17.921Z",
+  "language": "en",
+  "raw_title": "Structured Absence",
+  "raw_abstract": "This essay argues that while generative artificial intelligence (AI) can be described as a platform, that description is analytically insufficient for understanding where power operates and how it displaces democratic accountability. The platform concept directs attention to the interface—application programming interfaces (APIs), app stores, and developer ecosystems—while the decisive conditions of generative AI lie upstream in compute supply chains, mineral extraction, semiconductor chokepoints, energy and water infrastructures, immigration flows, and corporate-state arrangements that concentrate control. To name this formation, I introduce the concept of structured absence: the organized diminution of democratic institutional capacity in which governance persists while public authorization disappears. Generative AI is not ungoverned; it is extensively governed through export controls, industrial policy, labor regimes, and private infrastructures that remain largely inaccessible to democratic publics. I argue that “predatory inclusion” and authorization are central analytic terms for understanding this shift: communities are incorporated into AI systems on unequal and opaque terms, while the standing to deliberate over those systems is withheld. The essay concludes by calling for democratic infrastructures capable of authorizing technological change.",
+  "raw_keywords": [],
+  "title_en": "Structured Absence",
+  "title_zh": "结构性缺席",
+  "abstract_en": "This essay argues that while generative artificial intelligence (AI) can be described as a platform, that description is analytically insufficient for understanding where power operates and how it displaces democratic accountability. The platform concept directs attention to the interface—application programming interfaces (APIs), app stores, and developer ecosystems—while the decisive conditions of generative AI lie upstream in compute supply chains, mineral extraction, semiconductor chokepoints, energy and water infrastructures, immigration flows, and corporate-state arrangements that concentrate control. To name this formation, I introduce the concept of structured absence: the organized diminution of democratic institutional capacity in which governance persists while public authorization disappears. Generative AI is not ungoverned; it is extensively governed through export controls, industrial policy, labor regimes, and private infrastructures that remain largely inaccessible to democratic publics. I argue that “predatory inclusion” and authorization are central analytic terms for understanding this shift: communities are incorporated into AI systems on unequal and opaque terms, while the standing to deliberate over those systems is withheld. The essay concludes by calling for democratic infrastructures capable of authorizing technological change.",
+  "abstract_zh": "本文认为，虽然生成式人工智能（AI）可以被描述为一个平台，但这种描述在分析上不足以理解权力在哪里运作以及它如何取代民主问责制。平台概念将注意力引向界面——应用程序编程接口（API）、应用商店和开发者生态系统——而生成式AI的决定性条件则位于上游的计算供应链、矿产开采、半导体瓶颈、能源和水基础设施、移民流动以及集中控制的企业-国家安排中。为了命名这种形态，我引入了“结构性缺席”的概念：民主制度能力的有组织削弱，其中治理持续存在而公共授权消失。生成式AI并非不受治理；它通过出口管制、产业政策、劳工制度和私人基础设施得到广泛治理，而这些对民主公众来说基本上是不可及的。我认为“掠夺性包容”和授权是理解这一转变的核心分析术语：社区以不平等和不透明的条件被纳入AI系统，而对这些系统进行审议的资格却被剥夺。文章最后呼吁建立能够授权技术变革的民主基础设施。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "generative AI",
+    "platform governance",
+    "democratic accountability",
+    "structured absence",
+    "predatory inclusion",
+    "authorization",
+    "infrastructure"
+  ],
+  "inferred_keywords_zh": [
+    "生成式人工智能",
+    "平台治理",
+    "民主问责制",
+    "结构性缺席",
+    "掠夺性包容",
+    "授权",
+    "基础设施"
+  ],
+  "plain_summary_zh": "这篇文章讨论的是生成式人工智能（比如ChatGPT）背后的权力问题。作者认为，仅仅把AI看作一个“平台”是不够的，因为真正的控制权其实在更上游的地方，比如芯片制造、能源消耗、矿产开采等。作者提出了“结构性缺席”这个概念，意思是虽然AI系统在被管理，但公众却没有机会参与决策。文章还提到“掠夺性包容”，指人们被不平等地纳入AI系统，却没有话语权。最后，作者呼吁建立能让公众参与技术决策的民主基础设施。",
+  "plain_summary_en": "This article discusses the power dynamics behind generative AI (like ChatGPT). The author argues that simply calling AI a 'platform' is insufficient because real control lies upstream in areas like chip manufacturing, energy use, and mineral extraction. The author introduces the concept of 'structured absence,' meaning that while AI systems are governed, the public has no say in decision-making. The article also mentions 'predatory inclusion,' where people are incorporated into AI systems on unequal terms without a voice. Finally, the author calls for democratic infrastructures that allow public participation in technological decisions.",
+  "research_direction_zh": "人工智能治理与民主问责",
+  "research_direction_en": "AI governance and democratic accountability",
+  "method_tags_zh": [
+    "理论分析",
+    "概念构建"
+  ],
+  "method_tags_en": [
+    "theoretical analysis",
+    "concept building"
+  ]
+}

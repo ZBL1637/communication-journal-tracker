@@ -136,21 +136,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 46,
+    "paperCount": 48,
     "latestPublishedAt": "2026-04-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "third-person effect",
-      "AI-generated misinformation",
-      "misinformation exposure",
-      "social undesirability",
-      "perceived realism"
+      "Whiteness",
+      "normative internet practices",
+      "online racism",
+      "digital Black community",
+      "allyship"
     ],
     "topKeywordsZh": [
-      "第三人效果",
-      "AI生成错误信息",
-      "错误信息暴露",
-      "社会不良性",
-      "感知真实性"
+      "白人性",
+      "规范性互联网实践",
+      "网络种族主义",
+      "数字黑人社区",
+      "盟友关系"
     ]
   },
   {
@@ -198,21 +198,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 25,
-    "latestPublishedAt": "2026-05-31T00:00:00.000Z",
+    "paperCount": 26,
+    "latestPublishedAt": "2026-06-03T00:00:00.000Z",
     "topKeywordsEn": [
-      "generative AI",
-      "journalism ethics",
-      "stakeholder perceptions",
-      "folk theories",
-      "Kenya"
+      "public service media",
+      "journalistic roles",
+      "populism",
+      "right-wing populism",
+      "Alternative für Deutschland"
     ],
     "topKeywordsZh": [
-      "生成式人工智能",
-      "新闻伦理",
-      "利益相关者看法",
-      "民间理论",
-      "肯尼亚"
+      "公共服务媒体",
+      "新闻角色",
+      "民粹主义",
+      "右翼民粹主义",
+      "德国选择党"
     ]
   },
   {

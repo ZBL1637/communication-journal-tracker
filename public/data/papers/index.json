@@ -1,5 +1,52 @@
 [
   {
+    "id": "international-journal-of-press-politics-7f140da3f834",
+    "doi": "10.1177/19401612261438333",
+    "url": "https://doi.org/10.1177/19401612261438333",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-06-03T00:00:00.000Z",
+    "authors": [
+      "Johanna Wolleschensky",
+      "Annika Sehl"
+    ],
+    "title_en": "Journalistic Roles in Light of Populism: How German Public Service Media Representatives Discuss Their Coverage of Populists and How They Perceive Their Role",
+    "title_zh": "民粹主义下的新闻角色：德国公共服务媒体代表如何讨论其对民粹主义者的报道及角色认知",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "public service media",
+      "journalistic roles",
+      "populism",
+      "right-wing populism",
+      "Alternative für Deutschland",
+      "Germany",
+      "semi-structured interviews"
+    ],
+    "inferred_keywords_zh": [
+      "公共服务媒体",
+      "新闻角色",
+      "民粹主义",
+      "右翼民粹主义",
+      "德国选择党",
+      "德国",
+      "半结构化访谈"
+    ],
+    "plain_summary_zh": "这项研究探讨了德国公共服务媒体的记者如何报道右翼民粹主义政党（如德国选择党）。记者们承认过去报道有失误，并认为媒体可能助长了民粹主义的兴起。他们表示不会刻意排除民粹主义者的声音，除非其言论违宪。记者在报道中扮演三种角色：中立的信息传播者、批判的监督者和教育公众的引导者。",
+    "plain_summary_en": "This study explores how journalists at German public service media cover right-wing populist parties like the Alternative for Germany (AfD). Journalists admit past reporting mistakes and believe media may have contributed to the rise of populism. They say they do not exclude populist voices unless they make unconstitutional statements. Journalists take on three roles: neutral disseminators, critical watchdogs, and educators informing the public.",
+    "research_direction_zh": "新闻角色与民粹主义报道",
+    "research_direction_en": "Journalistic roles and populism coverage",
+    "method_tags_zh": [
+      "访谈"
+    ],
+    "method_tags_en": [
+      "interview"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-06-03T23:28:31.960Z"
+  },
+  {
     "id": "policy-and-internet-37077dcf5ce7",
     "doi": "10.1002/poi3.70043",
     "url": "https://doi.org/10.1002/poi3.70043",
@@ -2867,6 +2914,104 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-04-16T09:17:32.917Z"
+  },
+  {
+    "id": "social-media-and-society-41daadf8b7bd",
+    "doi": "10.1177/20563051261452021",
+    "url": "https://doi.org/10.1177/20563051261452021",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "William R. Frey"
+    ],
+    "title_en": "Normative White Internet Practices: Performances at the Edge of a Digital Black Community",
+    "title_zh": "规范性的白人互联网实践：数字黑人社区边缘的表演",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Whiteness",
+      "normative internet practices",
+      "online racism",
+      "digital Black community",
+      "allyship",
+      "Reddit",
+      "ethnography"
+    ],
+    "inferred_keywords_zh": [
+      "白人性",
+      "规范性互联网实践",
+      "网络种族主义",
+      "数字黑人社区",
+      "盟友关系",
+      "Reddit",
+      "民族志"
+    ],
+    "plain_summary_zh": "这项研究观察了乔治·弗洛伊德事件后，大量白人用户在Reddit上申请加入黑人社区版块的行为。研究发现，这些白人用户虽然声称支持黑人，但他们的行为实际上是在维护自己的白人特权，比如通过寻求信息、展示自己与众不同、管理形象等方式，最终可能对黑人社区造成伤害。研究指出，网络上的种族主义往往以更隐蔽、更“正常”的方式存在，不容易被平台发现或制止。",
+    "plain_summary_en": "This study observed that after George Floyd's murder, many white users applied to join a Black community subreddit on Reddit. The research found that although these white users claimed to support Black people, their actions actually upheld white privilege, such as seeking information, differentiating themselves, and managing impressions, which could ultimately harm the Black community. The study points out that online racism often exists in more subtle and 'normal' ways that are not easily detected or stopped by platforms.",
+    "research_direction_zh": "社交媒体中的种族主义与白人规范性实践",
+    "research_direction_en": "Racism and normative white practices in social media",
+    "method_tags_zh": [
+      "民族志",
+      "定性案例研究",
+      "内容分析"
+    ],
+    "method_tags_en": [
+      "ethnography",
+      "qualitative case study",
+      "content analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-06-03T23:28:18.990Z"
+  },
+  {
+    "id": "social-media-and-society-03f23901ef91",
+    "doi": "10.1177/20563051261452539",
+    "url": "https://doi.org/10.1177/20563051261452539",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Alondra Nelson"
+    ],
+    "title_en": "Structured Absence",
+    "title_zh": "结构性缺席",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "generative AI",
+      "platform governance",
+      "democratic accountability",
+      "structured absence",
+      "predatory inclusion",
+      "authorization",
+      "infrastructure"
+    ],
+    "inferred_keywords_zh": [
+      "生成式人工智能",
+      "平台治理",
+      "民主问责制",
+      "结构性缺席",
+      "掠夺性包容",
+      "授权",
+      "基础设施"
+    ],
+    "plain_summary_zh": "这篇文章讨论的是生成式人工智能（比如ChatGPT）背后的权力问题。作者认为，仅仅把AI看作一个“平台”是不够的，因为真正的控制权其实在更上游的地方，比如芯片制造、能源消耗、矿产开采等。作者提出了“结构性缺席”这个概念，意思是虽然AI系统在被管理，但公众却没有机会参与决策。文章还提到“掠夺性包容”，指人们被不平等地纳入AI系统，却没有话语权。最后，作者呼吁建立能让公众参与技术决策的民主基础设施。",
+    "plain_summary_en": "This article discusses the power dynamics behind generative AI (like ChatGPT). The author argues that simply calling AI a 'platform' is insufficient because real control lies upstream in areas like chip manufacturing, energy use, and mineral extraction. The author introduces the concept of 'structured absence,' meaning that while AI systems are governed, the public has no say in decision-making. The article also mentions 'predatory inclusion,' where people are incorporated into AI systems on unequal terms without a voice. Finally, the author calls for democratic infrastructures that allow public participation in technological decisions.",
+    "research_direction_zh": "人工智能治理与民主问责",
+    "research_direction_en": "AI governance and democratic accountability",
+    "method_tags_zh": [
+      "理论分析",
+      "概念构建"
+    ],
+    "method_tags_en": [
+      "theoretical analysis",
+      "concept building"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-06-03T23:28:17.921Z"
   },
   {
     "id": "social-media-and-society-9f6355622ab4",
