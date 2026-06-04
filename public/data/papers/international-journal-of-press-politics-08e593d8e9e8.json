@@ -1,0 +1,50 @@
+{
+  "id": "international-journal-of-press-politics-08e593d8e9e8",
+  "doi": "10.1177/19401612261452050",
+  "url": "https://doi.org/10.1177/19401612261452050",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2026-06-04T00:00:00.000Z",
+  "authors": [
+    "Tenzin Tamang"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-06-04T23:03:05.171Z",
+  "language": "en",
+  "raw_title": "Identity–Policy Fusion and Polarization in United States House Campaign Language",
+  "raw_abstract": "Campaign language in the United States has grown markedly polarized, with candidates increasingly speaking in party-distinctive ways. Yet the mechanisms driving this linguistic divergence remain insufficiently understood. This study proposes identity–policy fusion, a framing strategy in which candidates embed distinctive biographical vocabulary into policy statements, as one factor shaping this divergence. By framing policy as an authentic extension of lived experience, fusion may tie stances to in-group identity and biographical authority, raising the psychological and social costs of disagreement. Using computational text analysis of 41,842 policy statements from 3,343 U.S. House candidates in the 2018, 2020, and 2022 election cycles, the study operationalizes fusion as term frequency–inverse document frequency (TF–IDF)-weighted lexical overlap between biographies and policy texts, and polarization as a statement’s relative similarity to in-party versus out-party linguistic norms within policy domains. Ordinary least squares regression shows that fusion is significantly associated with higher polarization in campaign language, with the association approximately 26 percent stronger for Republicans than Democrats. This partisan asymmetry is consistent with fusion serving as an alternative source of legitimation under conditions of contested institutional authority, illuminating a potential mechanism through which elite messaging may harden partisan boundaries.",
+  "raw_keywords": [],
+  "title_en": "Identity–Policy Fusion and Polarization in United States House Campaign Language",
+  "title_zh": "身份-政策融合与美国众议院竞选语言中的极化现象",
+  "abstract_en": "Campaign language in the United States has grown markedly polarized, with candidates increasingly speaking in party-distinctive ways. Yet the mechanisms driving this linguistic divergence remain insufficiently understood. This study proposes identity–policy fusion, a framing strategy in which candidates embed distinctive biographical vocabulary into policy statements, as one factor shaping this divergence. By framing policy as an authentic extension of lived experience, fusion may tie stances to in-group identity and biographical authority, raising the psychological and social costs of disagreement. Using computational text analysis of 41,842 policy statements from 3,343 U.S. House candidates in the 2018, 2020, and 2022 election cycles, the study operationalizes fusion as term frequency–inverse document frequency (TF–IDF)-weighted lexical overlap between biographies and policy texts, and polarization as a statement’s relative similarity to in-party versus out-party linguistic norms within policy domains. Ordinary least squares regression shows that fusion is significantly associated with higher polarization in campaign language, with the association approximately 26 percent stronger for Republicans than Democrats. This partisan asymmetry is consistent with fusion serving as an alternative source of legitimation under conditions of contested institutional authority, illuminating a potential mechanism through which elite messaging may harden partisan boundaries.",
+  "abstract_zh": "美国竞选语言已显著极化，候选人越来越多地以党派特有的方式发言。然而，导致这种语言分化的机制仍未被充分理解。本研究提出身份-政策融合（一种候选人在政策陈述中嵌入独特传记词汇的框架策略）是塑造这种分化的一个因素。通过将政策框定为生活经历的真实延伸，融合可能将立场与内群体身份和传记权威联系起来，提高不同意见的心理和社会成本。通过对2018、2020和2022年选举周期中3343名美国众议院候选人的41842份政策声明进行计算机文本分析，本研究将融合操作化为传记与政策文本之间基于词频-逆文档频率（TF-IDF）加权的词汇重叠，将极化操作化为陈述在政策领域内与党内相对于党外语言规范的相对相似性。普通最小二乘回归显示，融合与竞选语言中更高的极化显著相关，且这种关联在共和党中比民主党强约26%。这种党派不对称与融合在制度权威受到争议时作为替代合法性来源的作用一致，揭示了精英信息传递可能强化党派界限的潜在机制。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "identity-policy fusion",
+    "polarization",
+    "campaign language",
+    "computational text analysis",
+    "U.S. House candidates"
+  ],
+  "inferred_keywords_zh": [
+    "身份-政策融合",
+    "极化",
+    "竞选语言",
+    "计算文本分析",
+    "美国众议院候选人"
+  ],
+  "plain_summary_zh": "这项研究发现，美国众议院候选人在竞选演讲中，如果将自己的个人经历与政策主张紧密结合起来（即“身份-政策融合”），他们的语言会变得更加党派化。这种效应在共和党候选人中比民主党候选人更明显。研究通过分析数千份竞选声明，揭示了这种语言策略如何加深政治分歧。",
+  "plain_summary_en": "This study finds that when U.S. House candidates closely link their personal experiences with policy proposals (called 'identity-policy fusion'), their campaign language becomes more partisan. This effect is stronger for Republican candidates than Democrats. By analyzing thousands of campaign statements, the research reveals how this language strategy can deepen political divides.",
+  "research_direction_zh": "政治传播与语言极化",
+  "research_direction_en": "Political communication and linguistic polarization",
+  "method_tags_zh": [
+    "计算文本分析",
+    "回归分析"
+  ],
+  "method_tags_en": [
+    "computational text analysis",
+    "regression analysis"
+  ]
+}

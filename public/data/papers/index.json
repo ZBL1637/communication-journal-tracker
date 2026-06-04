@@ -1,5 +1,49 @@
 [
   {
+    "id": "international-journal-of-press-politics-08e593d8e9e8",
+    "doi": "10.1177/19401612261452050",
+    "url": "https://doi.org/10.1177/19401612261452050",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-06-04T00:00:00.000Z",
+    "authors": [
+      "Tenzin Tamang"
+    ],
+    "title_en": "Identity–Policy Fusion and Polarization in United States House Campaign Language",
+    "title_zh": "身份-政策融合与美国众议院竞选语言中的极化现象",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "identity-policy fusion",
+      "polarization",
+      "campaign language",
+      "computational text analysis",
+      "U.S. House candidates"
+    ],
+    "inferred_keywords_zh": [
+      "身份-政策融合",
+      "极化",
+      "竞选语言",
+      "计算文本分析",
+      "美国众议院候选人"
+    ],
+    "plain_summary_zh": "这项研究发现，美国众议院候选人在竞选演讲中，如果将自己的个人经历与政策主张紧密结合起来（即“身份-政策融合”），他们的语言会变得更加党派化。这种效应在共和党候选人中比民主党候选人更明显。研究通过分析数千份竞选声明，揭示了这种语言策略如何加深政治分歧。",
+    "plain_summary_en": "This study finds that when U.S. House candidates closely link their personal experiences with policy proposals (called 'identity-policy fusion'), their campaign language becomes more partisan. This effect is stronger for Republican candidates than Democrats. By analyzing thousands of campaign statements, the research reveals how this language strategy can deepen political divides.",
+    "research_direction_zh": "政治传播与语言极化",
+    "research_direction_en": "Political communication and linguistic polarization",
+    "method_tags_zh": [
+      "计算文本分析",
+      "回归分析"
+    ],
+    "method_tags_en": [
+      "computational text analysis",
+      "regression analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-06-04T23:03:05.171Z"
+  },
+  {
     "id": "international-journal-of-press-politics-7f140da3f834",
     "doi": "10.1177/19401612261438333",
     "url": "https://doi.org/10.1177/19401612261438333",

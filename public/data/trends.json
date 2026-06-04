@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-03T23:28:33.296Z",
+  "generatedAt": "2026-06-04T23:03:05.686Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
       "paperCount": 18,
-      "overview_en": "Across 18 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 18 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_en": "Across 18 papers, the most visible themes are The, And, political communication. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 18 papers, the most visible themes are The, And, political communication. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
@@ -59,30 +59,30 @@
           "count": 2
         },
         {
-          "label_en": "public service media",
-          "label_zh": "公共服务媒体",
+          "label_en": "identity-policy fusion",
+          "label_zh": "身份-政策融合",
           "count": 1
         },
         {
-          "label_en": "journalistic roles",
-          "label_zh": "新闻角色",
+          "label_en": "polarization",
+          "label_zh": "极化",
           "count": 1
         },
         {
-          "label_en": "populism",
-          "label_zh": "民粹主义",
+          "label_en": "campaign language",
+          "label_zh": "竞选语言",
           "count": 1
         }
       ],
       "high_frequency_methods": [
         {
-          "label_en": "mixed methods",
-          "label_zh": "混合方法",
-          "count": 5
-        },
-        {
           "label_en": "interview",
           "label_zh": "访谈",
+          "count": 4
+        },
+        {
+          "label_en": "mixed methods",
+          "label_zh": "混合方法",
           "count": 4
         },
         {
@@ -106,6 +106,16 @@
           "count": 2
         },
         {
+          "label_en": "computational text analysis",
+          "label_zh": "计算文本分析",
+          "count": 1
+        },
+        {
+          "label_en": "regression analysis",
+          "label_zh": "回归分析",
+          "count": 1
+        },
+        {
           "label_en": "semi-structured interview",
           "label_zh": "半结构化访谈",
           "count": 1
@@ -114,16 +124,6 @@
           "label_en": "policy analysis",
           "label_zh": "政策分析",
           "count": 1
-        },
-        {
-          "label_en": "digital ethnography",
-          "label_zh": "数字民族志",
-          "count": 1
-        },
-        {
-          "label_en": "conceptual elaboration",
-          "label_zh": "概念阐释",
-          "count": 1
         }
       ]
     },
@@ -131,9 +131,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 39,
-      "overview_en": "Across 39 papers, the most visible themes are conversation analysis, social media, political communication. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 39 papers, the most visible themes are conversation analysis, social media, political communication. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
+      "paperCount": 40,
+      "overview_en": "Across 40 papers, the most visible themes are conversation analysis, social media, political communication. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 40 papers, the most visible themes are conversation analysis, social media, political communication. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "conversation analysis",
         "social media",
@@ -257,9 +257,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 185,
-      "overview_en": "Across 185 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 185 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
+      "paperCount": 186,
+      "overview_en": "Across 186 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 186 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -558,7 +558,7 @@
     {
       "journalName": "International Journal of Press/Politics",
       "journalSlug": "international-journal-of-press-politics",
-      "paperCount": 18,
+      "paperCount": 19,
       "topic_bias_en": [
         "And",
         "The",
