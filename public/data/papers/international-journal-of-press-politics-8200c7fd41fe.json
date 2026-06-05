@@ -1,0 +1,63 @@
+{
+  "id": "international-journal-of-press-politics-8200c7fd41fe",
+  "doi": "10.1177/19401612261452109",
+  "url": "https://doi.org/10.1177/19401612261452109",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2026-06-05T00:00:00.000Z",
+  "authors": [
+    "Tamer Farag",
+    "Christoph Neuberger",
+    "Sonja Kretzschmar",
+    "Annika Sehl"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-06-05T23:00:05.175Z",
+  "language": "en",
+  "raw_title": "Media Systems and Violent Conflicts: A Theoretical Framework and Patterns of Transformation",
+  "raw_abstract": "This study provides a theoretical framework for the dynamic interactions between media systems and violent conflict. Taking the media system framework developed by Hallin and Mancini in Comparing Media Systems: Three Models of Media and Politics as a point of departure, the study highlights the role of violent conflict in transforming media systems beyond the Western world. To achieve this goal, the study first refines the media system framework to make it applicable to non-Western countries affected by violent conflict. It conceptualizes violent conflict as a social transformative force that alters political and media systems. Building on these steps, we present a theoretical framework for the mechanism by which violent conflicts transform political and media systems. The theoretical framework is then utilized to study these transformation processes in four purposefully sampled countries: Afghanistan, Lebanon, Israel, and Turkey. Finally, the four countries are used as case studies to discern three patterns of interaction between violent conflict and political and media systems. The results show three patterns: victorious autocrat, stalemate, and instrumental escalation. This study contributes to the literature on media systems and the relationship between the media and violent conflict.",
+  "raw_keywords": [],
+  "title_en": "Media Systems and Violent Conflicts: A Theoretical Framework and Patterns of Transformation",
+  "title_zh": "媒体系统与暴力冲突：理论框架与转型模式",
+  "abstract_en": "This study provides a theoretical framework for the dynamic interactions between media systems and violent conflict. Taking the media system framework developed by Hallin and Mancini in Comparing Media Systems: Three Models of Media and Politics as a point of departure, the study highlights the role of violent conflict in transforming media systems beyond the Western world. To achieve this goal, the study first refines the media system framework to make it applicable to non-Western countries affected by violent conflict. It conceptualizes violent conflict as a social transformative force that alters political and media systems. Building on these steps, we present a theoretical framework for the mechanism by which violent conflicts transform political and media systems. The theoretical framework is then utilized to study these transformation processes in four purposefully sampled countries: Afghanistan, Lebanon, Israel, and Turkey. Finally, the four countries are used as case studies to discern three patterns of interaction between violent conflict and political and media systems. The results show three patterns: victorious autocrat, stalemate, and instrumental escalation. This study contributes to the literature on media systems and the relationship between the media and violent conflict.",
+  "abstract_zh": "本研究为媒体系统与暴力冲突之间的动态互动提供了一个理论框架。以哈林和曼奇尼在《比较媒体系统：媒体与政治的三种模式》中提出的媒体系统框架为出发点，研究强调了暴力冲突在西方世界以外地区媒体系统转型中的作用。为实现这一目标，研究首先完善了媒体系统框架，使其适用于受暴力冲突影响的非西方国家。它将暴力冲突概念化为一种改变政治和媒体系统的社会变革力量。在此基础上，我们提出了暴力冲突如何转变政治和媒体系统的机制理论框架。然后，利用该理论框架研究了四个有目的地选取的国家：阿富汗、黎巴嫩、以色列和土耳其的转型过程。最后，以这四个国家为案例，识别出暴力冲突与政治和媒体系统之间互动的三种模式：胜利的独裁者、僵局和工具性升级。本研究为媒体系统以及媒体与暴力冲突关系的文献做出了贡献。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "media systems",
+    "violent conflict",
+    "political systems",
+    "transformation",
+    "non-Western countries",
+    "case studies",
+    "Afghanistan",
+    "Lebanon",
+    "Israel",
+    "Turkey"
+  ],
+  "inferred_keywords_zh": [
+    "媒体系统",
+    "暴力冲突",
+    "政治系统",
+    "转型",
+    "非西方国家",
+    "案例研究",
+    "阿富汗",
+    "黎巴嫩",
+    "以色列",
+    "土耳其"
+  ],
+  "plain_summary_zh": "这项研究探讨了媒体系统（如新闻机构、社交媒体等）与暴力冲突（如战争、内战）之间的相互影响。作者提出了一个理论框架，并用阿富汗、黎巴嫩、以色列和土耳其的例子，展示了暴力冲突如何改变一个国家的媒体和政治系统。他们发现了三种模式：胜利的独裁者（冲突后权力集中）、僵局（双方势均力敌）和工具性升级（冲突被用作政治工具）。简单来说，这项研究帮助我们理解战争和冲突如何重塑媒体格局。",
+  "plain_summary_en": "This study explores how media systems (like news outlets and social media) and violent conflicts (such as wars and civil wars) influence each other. The authors develop a theoretical framework and use examples from Afghanistan, Lebanon, Israel, and Turkey to show how violent conflict can transform a country's media and political systems. They identify three patterns: victorious autocrat (power becomes concentrated after conflict), stalemate (neither side wins), and instrumental escalation (conflict is used as a political tool). In simple terms, this research helps us understand how war and conflict reshape the media landscape.",
+  "research_direction_zh": "媒体系统与政治冲突的互动关系研究",
+  "research_direction_en": "Interaction between media systems and political conflict",
+  "method_tags_zh": [
+    "案例研究",
+    "理论框架"
+  ],
+  "method_tags_en": [
+    "case study",
+    "theoretical framework"
+  ]
+}

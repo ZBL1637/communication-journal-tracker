@@ -1,5 +1,62 @@
 [
   {
+    "id": "international-journal-of-press-politics-8200c7fd41fe",
+    "doi": "10.1177/19401612261452109",
+    "url": "https://doi.org/10.1177/19401612261452109",
+    "journalName": "International Journal of Press/Politics",
+    "journalSlug": "international-journal-of-press-politics",
+    "issn": "1940-1612",
+    "publishedAt": "2026-06-05T00:00:00.000Z",
+    "authors": [
+      "Tamer Farag",
+      "Christoph Neuberger",
+      "Sonja Kretzschmar",
+      "Annika Sehl"
+    ],
+    "title_en": "Media Systems and Violent Conflicts: A Theoretical Framework and Patterns of Transformation",
+    "title_zh": "媒体系统与暴力冲突：理论框架与转型模式",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "media systems",
+      "violent conflict",
+      "political systems",
+      "transformation",
+      "non-Western countries",
+      "case studies",
+      "Afghanistan",
+      "Lebanon",
+      "Israel",
+      "Turkey"
+    ],
+    "inferred_keywords_zh": [
+      "媒体系统",
+      "暴力冲突",
+      "政治系统",
+      "转型",
+      "非西方国家",
+      "案例研究",
+      "阿富汗",
+      "黎巴嫩",
+      "以色列",
+      "土耳其"
+    ],
+    "plain_summary_zh": "这项研究探讨了媒体系统（如新闻机构、社交媒体等）与暴力冲突（如战争、内战）之间的相互影响。作者提出了一个理论框架，并用阿富汗、黎巴嫩、以色列和土耳其的例子，展示了暴力冲突如何改变一个国家的媒体和政治系统。他们发现了三种模式：胜利的独裁者（冲突后权力集中）、僵局（双方势均力敌）和工具性升级（冲突被用作政治工具）。简单来说，这项研究帮助我们理解战争和冲突如何重塑媒体格局。",
+    "plain_summary_en": "This study explores how media systems (like news outlets and social media) and violent conflicts (such as wars and civil wars) influence each other. The authors develop a theoretical framework and use examples from Afghanistan, Lebanon, Israel, and Turkey to show how violent conflict can transform a country's media and political systems. They identify three patterns: victorious autocrat (power becomes concentrated after conflict), stalemate (neither side wins), and instrumental escalation (conflict is used as a political tool). In simple terms, this research helps us understand how war and conflict reshape the media landscape.",
+    "research_direction_zh": "媒体系统与政治冲突的互动关系研究",
+    "research_direction_en": "Interaction between media systems and political conflict",
+    "method_tags_zh": [
+      "案例研究",
+      "理论框架"
+    ],
+    "method_tags_en": [
+      "case study",
+      "theoretical framework"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-06-05T23:00:05.175Z"
+  },
+  {
     "id": "international-journal-of-press-politics-08e593d8e9e8",
     "doi": "10.1177/19401612261452050",
     "url": "https://doi.org/10.1177/19401612261452050",
