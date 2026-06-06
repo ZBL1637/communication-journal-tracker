@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-05T23:00:12.958Z",
+  "generatedAt": "2026-06-06T22:57:05.769Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 17,
-      "overview_en": "Across 17 papers, the most visible themes are The, And, social media. Researchers most often rely on case study, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 17 papers, the most visible themes are The, And, social media. Researchers most often rely on case study, interview to explain what these changes mean for communication.",
+      "paperCount": 14,
+      "overview_en": "Across 14 papers, the most visible themes are The, And, social media. Researchers most often rely on mixed methods, case study to explain what these changes mean for communication.",
+      "overview_zh": "Across 14 papers, the most visible themes are The, And, social media. Researchers most often rely on mixed methods, case study to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
@@ -54,11 +54,6 @@
           "count": 2
         },
         {
-          "label_en": "journalism ethics",
-          "label_zh": "新闻伦理",
-          "count": 2
-        },
-        {
           "label_en": "media systems",
           "label_zh": "媒体系统",
           "count": 1
@@ -72,32 +67,32 @@
           "label_en": "political systems",
           "label_zh": "政治系统",
           "count": 1
+        },
+        {
+          "label_en": "transformation",
+          "label_zh": "转型",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
-        {
-          "label_en": "case study",
-          "label_zh": "案例研究",
-          "count": 4
-        },
-        {
-          "label_en": "interview",
-          "label_zh": "访谈",
-          "count": 4
-        },
         {
           "label_en": "mixed methods",
           "label_zh": "混合方法",
           "count": 4
         },
         {
-          "label_en": "theoretical analysis",
-          "label_zh": "理论分析",
+          "label_en": "case study",
+          "label_zh": "案例研究",
           "count": 3
         },
         {
-          "label_en": "survey",
-          "label_zh": "调查",
+          "label_en": "interview",
+          "label_zh": "访谈",
+          "count": 3
+        },
+        {
+          "label_en": "theoretical analysis",
+          "label_zh": "理论分析",
           "count": 2
         },
         {
@@ -123,6 +118,11 @@
         {
           "label_en": "policy analysis",
           "label_zh": "政策分析",
+          "count": 1
+        },
+        {
+          "label_en": "digital ethnography",
+          "label_zh": "数字民族志",
           "count": 1
         }
       ]
@@ -257,9 +257,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 187,
-      "overview_en": "Across 187 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 187 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
+      "paperCount": 188,
+      "overview_en": "Across 188 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 188 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -333,13 +333,13 @@
           "count": 41
         },
         {
-          "label_en": "survey",
-          "label_zh": "调查",
-          "count": 35
-        },
-        {
           "label_en": "content analysis",
           "label_zh": "内容分析",
+          "count": 36
+        },
+        {
+          "label_en": "survey",
+          "label_zh": "调查",
           "count": 35
         },
         {
@@ -500,7 +500,7 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 48,
+      "paperCount": 49,
       "topic_bias_en": [
         "And",
         "The",
@@ -515,14 +515,14 @@
       ],
       "method_bias_en": [
         "computational analysis",
-        "mixed methods",
         "content analysis",
+        "mixed methods",
         "survey"
       ],
       "method_bias_zh": [
         "computational analysis",
-        "mixed methods",
         "内容分析",
+        "mixed methods",
         "问卷调查"
       ]
     },
@@ -683,13 +683,13 @@
       "count": 41
     },
     {
-      "label_en": "survey",
-      "label_zh": "调查",
-      "count": 35
-    },
-    {
       "label_en": "content analysis",
       "label_zh": "内容分析",
+      "count": 36
+    },
+    {
+      "label_en": "survey",
+      "label_zh": "调查",
       "count": 35
     },
     {

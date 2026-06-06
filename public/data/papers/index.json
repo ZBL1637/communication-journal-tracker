@@ -3017,6 +3017,57 @@
     "fetchedAt": "2026-04-16T09:17:32.917Z"
   },
   {
+    "id": "social-media-and-society-10b9c41af2b0",
+    "doi": "10.1177/20563051261449018",
+    "url": "https://doi.org/10.1177/20563051261449018",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Lenka Vochocová",
+      "Jana Rosenfeldová"
+    ],
+    "title_en": "Preventing Radicalisation, or Forcing Ideological Consent? Crises, Uncertainty Reduction and Collective Identity Negotiation in Collaborative Communities of Online Third Spaces",
+    "title_zh": "防止激进化，还是强制意识形态同意？在线第三空间协作社区中的危机、不确定性减少与集体身份协商",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "online third spaces",
+      "collective identity",
+      "polarisation",
+      "radicalisation",
+      "parenting forum",
+      "COVID-19",
+      "Russian-Ukrainian conflict",
+      "qualitative analysis"
+    ],
+    "inferred_keywords_zh": [
+      "在线第三空间",
+      "集体身份",
+      "极化",
+      "激进化",
+      "育儿论坛",
+      "COVID-19",
+      "俄乌冲突",
+      "定性分析"
+    ],
+    "plain_summary_zh": "这项研究探讨了在线育儿论坛（一种“第三空间”）如何在危机时期（如新冠疫情和俄乌冲突）处理成员之间的政治分歧。研究发现，论坛在某种程度上仍能保持合作和支持，但也反映了社会极化，排斥极端观点，可能导致少数派激进化。",
+    "plain_summary_en": "This study examines how an online parenting forum (a 'third space') handles political disagreements among members during crises like the COVID-19 pandemic and the Russia-Ukraine conflict. It finds that while the forum maintains cooperation and support to some extent, it also reflects societal polarization, excluding extreme views and potentially pushing minorities toward radicalization.",
+    "research_direction_zh": "在线社区中的集体身份、极化与激进化研究",
+    "research_direction_en": "Collective identity, polarization, and radicalization in online communities",
+    "method_tags_zh": [
+      "定性分析",
+      "内容分析"
+    ],
+    "method_tags_en": [
+      "qualitative analysis",
+      "content analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-06-06T22:56:57.571Z"
+  },
+  {
     "id": "social-media-and-society-41daadf8b7bd",
     "doi": "10.1177/20563051261452021",
     "url": "https://doi.org/10.1177/20563051261452021",
