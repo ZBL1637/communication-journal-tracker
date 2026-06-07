@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-06-06T22:57:05.769Z",
+  "generatedAt": "2026-06-07T22:57:09.702Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 14,
-      "overview_en": "Across 14 papers, the most visible themes are The, And, social media. Researchers most often rely on mixed methods, case study to explain what these changes mean for communication.",
-      "overview_zh": "Across 14 papers, the most visible themes are The, And, social media. Researchers most often rely on mixed methods, case study to explain what these changes mean for communication.",
+      "paperCount": 13,
+      "overview_en": "Across 13 papers, the most visible themes are The, And, digital governance. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 13 papers, the most visible themes are The, And, digital governance. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
-        "social media",
         "digital governance",
-        "Policy"
+        "Policy",
+        "media systems"
       ],
       "hot_topics_zh": [
         "The",
         "And",
-        "社交媒体",
         "数字治理",
-        "Policy"
+        "Policy",
+        "媒体系统"
       ],
       "high_frequency_keywords": [
         {
@@ -34,11 +34,6 @@
           "count": 4
         },
         {
-          "label_en": "social media",
-          "label_zh": "社交媒体",
-          "count": 2
-        },
-        {
           "label_en": "digital governance",
           "label_zh": "数字治理",
           "count": 2
@@ -46,11 +41,6 @@
         {
           "label_en": "Policy",
           "label_zh": "Policy",
-          "count": 2
-        },
-        {
-          "label_en": "political communication",
-          "label_zh": "政治传播",
           "count": 2
         },
         {
@@ -72,6 +62,16 @@
           "label_en": "transformation",
           "label_zh": "转型",
           "count": 1
+        },
+        {
+          "label_en": "non-Western countries",
+          "label_zh": "非西方国家",
+          "count": 1
+        },
+        {
+          "label_en": "case studies",
+          "label_zh": "案例研究",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
@@ -81,14 +81,14 @@
           "count": 4
         },
         {
-          "label_en": "case study",
-          "label_zh": "案例研究",
-          "count": 3
-        },
-        {
           "label_en": "interview",
           "label_zh": "访谈",
           "count": 3
+        },
+        {
+          "label_en": "case study",
+          "label_zh": "案例研究",
+          "count": 2
         },
         {
           "label_en": "theoretical analysis",
@@ -131,9 +131,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 31,
-      "overview_en": "Across 31 papers, the most visible themes are social media, The, And. Researchers most often rely on survey, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 31 papers, the most visible themes are social media, The, And. Researchers most often rely on survey, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 30,
+      "overview_en": "Across 30 papers, the most visible themes are social media, The, And. Researchers most often rely on survey, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 30 papers, the most visible themes are social media, The, And. Researchers most often rely on survey, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "social media",
         "The",
@@ -195,8 +195,8 @@
           "count": 2
         },
         {
-          "label_en": "Politics",
-          "label_zh": "政治",
+          "label_en": "ethics",
+          "label_zh": "伦理",
           "count": 2
         }
       ],
@@ -212,14 +212,14 @@
           "count": 6
         },
         {
-          "label_en": "case study",
-          "label_zh": "案例研究",
-          "count": 5
-        },
-        {
           "label_en": "interview",
           "label_zh": "访谈",
           "count": 5
+        },
+        {
+          "label_en": "case study",
+          "label_zh": "案例研究",
+          "count": 4
         },
         {
           "label_en": "theoretical analysis",
@@ -227,14 +227,14 @@
           "count": 4
         },
         {
-          "label_en": "content analysis",
-          "label_zh": "内容分析",
-          "count": 4
-        },
-        {
           "label_en": "experiment",
           "label_zh": "实验",
           "count": 4
+        },
+        {
+          "label_en": "content analysis",
+          "label_zh": "内容分析",
+          "count": 3
         },
         {
           "label_en": "theoretical framework",
