@@ -1,48 +1,28 @@
 {
-  "generatedAt": "2026-06-08T23:08:50.362Z",
+  "generatedAt": "2026-06-09T23:13:47.159Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 12,
-      "overview_en": "Across 12 papers, the most visible themes are The, And, digital governance. Researchers most often rely on mixed methods, case study to explain what these changes mean for communication.",
-      "overview_zh": "Across 12 papers, the most visible themes are The, And, digital governance. Researchers most often rely on mixed methods, case study to explain what these changes mean for communication.",
+      "paperCount": 3,
+      "overview_en": "Across 3 papers, the most visible themes are media systems, violent conflict, political systems. Researchers most often rely on case study, theoretical framework to explain what these changes mean for communication.",
+      "overview_zh": "Across 3 papers, the most visible themes are media systems, violent conflict, political systems. Researchers most often rely on case study, theoretical framework to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "The",
-        "And",
-        "digital governance",
-        "Policy",
-        "media systems"
+        "media systems",
+        "violent conflict",
+        "political systems",
+        "transformation",
+        "non-Western countries"
       ],
       "hot_topics_zh": [
-        "The",
-        "And",
-        "数字治理",
-        "Policy",
-        "媒体系统"
+        "媒体系统",
+        "暴力冲突",
+        "政治系统",
+        "转型",
+        "非西方国家"
       ],
       "high_frequency_keywords": [
-        {
-          "label_en": "The",
-          "label_zh": "The",
-          "count": 4
-        },
-        {
-          "label_en": "And",
-          "label_zh": "And",
-          "count": 4
-        },
-        {
-          "label_en": "digital governance",
-          "label_zh": "数字治理",
-          "count": 2
-        },
-        {
-          "label_en": "Policy",
-          "label_zh": "Policy",
-          "count": 2
-        },
         {
           "label_en": "media systems",
           "label_zh": "媒体系统",
@@ -72,28 +52,33 @@
           "label_en": "case studies",
           "label_zh": "案例研究",
           "count": 1
+        },
+        {
+          "label_en": "Afghanistan",
+          "label_zh": "阿富汗",
+          "count": 1
+        },
+        {
+          "label_en": "Lebanon",
+          "label_zh": "黎巴嫩",
+          "count": 1
+        },
+        {
+          "label_en": "Israel",
+          "label_zh": "以色列",
+          "count": 1
+        },
+        {
+          "label_en": "Turkey",
+          "label_zh": "土耳其",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
-          "label_en": "mixed methods",
-          "label_zh": "混合方法",
-          "count": 4
-        },
-        {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 2
-        },
-        {
-          "label_en": "interview",
-          "label_zh": "访谈",
-          "count": 2
-        },
-        {
-          "label_en": "theoretical analysis",
-          "label_zh": "理论分析",
-          "count": 2
+          "count": 1
         },
         {
           "label_en": "theoretical framework",
@@ -111,18 +96,8 @@
           "count": 1
         },
         {
-          "label_en": "semi-structured interview",
-          "label_zh": "半结构化访谈",
-          "count": 1
-        },
-        {
-          "label_en": "policy analysis",
-          "label_zh": "政策分析",
-          "count": 1
-        },
-        {
-          "label_en": "digital ethnography",
-          "label_zh": "数字民族志",
+          "label_en": "interview",
+          "label_zh": "访谈",
           "count": 1
         }
       ]
@@ -131,22 +106,22 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 30,
-      "overview_en": "Across 30 papers, the most visible themes are social media, The, And. Researchers most often rely on survey, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 30 papers, the most visible themes are social media, The, And. Researchers most often rely on survey, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 29,
+      "overview_en": "Across 29 papers, the most visible themes are social media, The, And. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 29 papers, the most visible themes are social media, The, And. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "social media",
         "The",
         "And",
         "political communication",
-        "journalistic roles"
+        "digital governance"
       ],
       "hot_topics_zh": [
         "社交媒体",
         "The",
         "And",
         "政治传播",
-        "新闻角色"
+        "数字治理"
       ],
       "high_frequency_keywords": [
         {
@@ -170,11 +145,6 @@
           "count": 4
         },
         {
-          "label_en": "journalistic roles",
-          "label_zh": "新闻角色",
-          "count": 2
-        },
-        {
           "label_en": "digital governance",
           "label_zh": "数字治理",
           "count": 2
@@ -185,30 +155,35 @@
           "count": 2
         },
         {
-          "label_en": "generative AI",
-          "label_zh": "生成式人工智能",
-          "count": 2
-        },
-        {
           "label_en": "journalism ethics",
           "label_zh": "新闻伦理",
           "count": 2
         },
         {
-          "label_en": "ethics",
-          "label_zh": "伦理",
+          "label_en": "Alternative media",
+          "label_zh": "替代媒体",
           "count": 2
+        },
+        {
+          "label_en": "media systems",
+          "label_zh": "媒体系统",
+          "count": 1
+        },
+        {
+          "label_en": "violent conflict",
+          "label_zh": "暴力冲突",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
-          "label_en": "survey",
-          "label_zh": "调查",
-          "count": 7
-        },
-        {
           "label_en": "mixed methods",
           "label_zh": "混合方法",
+          "count": 6
+        },
+        {
+          "label_en": "survey",
+          "label_zh": "调查",
           "count": 6
         },
         {
