@@ -1,99 +1,25 @@
 {
-  "generatedAt": "2026-06-12T23:09:24.420Z",
+  "generatedAt": "2026-06-13T22:56:29.654Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 1,
-      "overview_en": "Across 1 papers, the most visible themes are media systems, violent conflict, political systems. Researchers most often rely on case study, theoretical framework to explain what these changes mean for communication.",
-      "overview_zh": "Across 1 papers, the most visible themes are media systems, violent conflict, political systems. Researchers most often rely on case study, theoretical framework to explain what these changes mean for communication.",
-      "hot_topics_en": [
-        "media systems",
-        "violent conflict",
-        "political systems",
-        "transformation",
-        "non-Western countries"
-      ],
-      "hot_topics_zh": [
-        "媒体系统",
-        "暴力冲突",
-        "政治系统",
-        "转型",
-        "非西方国家"
-      ],
-      "high_frequency_keywords": [
-        {
-          "label_en": "media systems",
-          "label_zh": "媒体系统",
-          "count": 1
-        },
-        {
-          "label_en": "violent conflict",
-          "label_zh": "暴力冲突",
-          "count": 1
-        },
-        {
-          "label_en": "political systems",
-          "label_zh": "政治系统",
-          "count": 1
-        },
-        {
-          "label_en": "transformation",
-          "label_zh": "转型",
-          "count": 1
-        },
-        {
-          "label_en": "non-Western countries",
-          "label_zh": "非西方国家",
-          "count": 1
-        },
-        {
-          "label_en": "case studies",
-          "label_zh": "案例研究",
-          "count": 1
-        },
-        {
-          "label_en": "Afghanistan",
-          "label_zh": "阿富汗",
-          "count": 1
-        },
-        {
-          "label_en": "Lebanon",
-          "label_zh": "黎巴嫩",
-          "count": 1
-        },
-        {
-          "label_en": "Israel",
-          "label_zh": "以色列",
-          "count": 1
-        },
-        {
-          "label_en": "Turkey",
-          "label_zh": "土耳其",
-          "count": 1
-        }
-      ],
-      "high_frequency_methods": [
-        {
-          "label_en": "case study",
-          "label_zh": "案例研究",
-          "count": 1
-        },
-        {
-          "label_en": "theoretical framework",
-          "label_zh": "理论框架",
-          "count": 1
-        }
-      ]
+      "paperCount": 0,
+      "overview_en": "Across 0 papers, the most visible themes are platforms, news, and public attention. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 0 papers, the most visible themes are platforms, news, and public attention. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "hot_topics_en": [],
+      "hot_topics_zh": [],
+      "high_frequency_keywords": [],
+      "high_frequency_methods": []
     },
     {
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 28,
-      "overview_en": "Across 28 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 28 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 27,
+      "overview_en": "Across 27 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 27 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
@@ -194,7 +120,7 @@
         {
           "label_en": "experiment",
           "label_zh": "实验",
-          "count": 3
+          "count": 2
         },
         {
           "label_en": "theoretical framework",
