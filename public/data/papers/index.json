@@ -3017,6 +3017,119 @@
     "fetchedAt": "2026-04-16T09:17:32.917Z"
   },
   {
+    "id": "social-media-and-society-799b348d788d",
+    "doi": "10.1177/20563051261458617",
+    "url": "https://doi.org/10.1177/20563051261458617",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Erika Ningxin Wang"
+    ],
+    "title_en": "“My Non-Existing Organ”: Transitional Objects, Compensatory Romance, and the Affective Enclaves of Chinese Female Idol Fandom",
+    "title_zh": "“我那不存在的器官”：过渡性客体、补偿性浪漫与中国女性偶像粉丝的情感飞地",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Chinese female fandom",
+      "idol fandom",
+      "gender subjectivity",
+      "compensatory romance",
+      "transitional objects",
+      "affective enclave",
+      "digital ethnography",
+      "coded language",
+      "cyber-penis memes",
+      "platform surveillance"
+    ],
+    "inferred_keywords_zh": [
+      "中国女性粉丝",
+      "偶像粉丝",
+      "性别主体性",
+      "补偿性浪漫",
+      "过渡性客体",
+      "情感飞地",
+      "数字民族志",
+      "编码语言",
+      "网络阴茎梗",
+      "平台监控"
+    ],
+    "plain_summary_zh": "这篇文章研究了中国年轻女性如何通过追星（特别是偶像团体ONER）来表达和捍卫自己的性别身份。粉丝们在微博、豆瓣和微信群里使用暗语和网络梗（比如“我那不存在的器官”）来创造一种私密空间，既满足浪漫幻想，又应对社会压力。研究发现，粉丝们扮演“女友粉”或“妈妈粉”的角色，灵活地处理幻想、道德焦虑和现实约束。这些做法就像心理上的“过渡性客体”，帮助她们在受监控的网络环境中保护自己的情感和欲望。",
+    "plain_summary_en": "This article studies how young Chinese women use fandom (especially of the idol group ONER) to express and defend their gender identities. Fans on Weibo, Douban, and WeChat groups use coded language and memes (like 'my non-existing organ') to create a private space that satisfies romantic fantasies while coping with social pressures. The study finds that fans adopt roles like 'girlfriend-fan' or 'mum-fan,' flexibly managing tensions between fantasy, moral anxiety, and reality. These practices act as psychological 'transitional objects,' helping them protect their emotions and desires within China's surveilled online environment.",
+    "research_direction_zh": "数字媒介与性别研究，特别是中国语境下女性粉丝文化的情感政治与身份建构",
+    "research_direction_en": "Digital media and gender studies, focusing on the affective politics and identity construction of female fan culture in the Chinese context",
+    "method_tags_zh": [
+      "数字民族志",
+      "多地点民族志",
+      "参与观察"
+    ],
+    "method_tags_en": [
+      "digital ethnography",
+      "multi-sited ethnography",
+      "participant observation"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-06-15T23:29:35.502Z"
+  },
+  {
+    "id": "social-media-and-society-12c8ad1a4cab",
+    "doi": "10.1177/20563051261454774",
+    "url": "https://doi.org/10.1177/20563051261454774",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "authors": [
+      "Alaeddin A. Banikalef",
+      "Mohammad Issa Mehawesh"
+    ],
+    "title_en": "Performing Identity: Repetition, Emoji, and Candidate Indicators of Amplified Visibility in Jordanian–Palestinian Facebook Discourse",
+    "title_zh": "身份表演：约旦-巴勒斯坦脸书话语中的重复、表情符号与放大可见性的候选指标",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "identity performance",
+      "Facebook discourse",
+      "Jordanian-Palestinian relations",
+      "amplified visibility",
+      "digital ethnography",
+      "netnography",
+      "coordination detection",
+      "emoji",
+      "repetition"
+    ],
+    "inferred_keywords_zh": [
+      "身份表演",
+      "脸书话语",
+      "约旦-巴勒斯坦关系",
+      "放大可见性",
+      "数字民族志",
+      "网络志",
+      "协调检测",
+      "表情符号",
+      "重复"
+    ],
+    "plain_summary_zh": "这项研究分析了约旦和巴勒斯坦人在脸书上的评论，发现人们通过使用方言、宗教用语、表情符号和重复口号等方式来表达自己的身份，并让信息传播得更广。研究者还发现了一些可能表明信息被刻意放大的迹象，比如完全相同的文字被反复发布、发布时间非常集中等。不过，这些迹象并不一定证明有人在背后组织，只是提醒我们需要进一步关注。",
+    "plain_summary_en": "This study analyzed Facebook comments between Jordanians and Palestinians and found that people use dialect, religious phrases, emojis, and repeated slogans to express identity and make messages spread widely. Researchers also found signs that some messages might be artificially boosted, such as exact text repetition and clustered posting times. However, these signs do not prove organized coordination, only that further investigation is needed.",
+    "research_direction_zh": "社交媒体中的身份表演与政治话语协调检测",
+    "research_direction_en": "Identity performance and coordination detection in social media political discourse",
+    "method_tags_zh": [
+      "数字民族志",
+      "网络志",
+      "内容分析",
+      "协调检测"
+    ],
+    "method_tags_en": [
+      "digital ethnography",
+      "netnography",
+      "content analysis",
+      "coordination detection"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-06-15T23:29:34.475Z"
+  },
+  {
     "id": "social-media-and-society-10b9c41af2b0",
     "doi": "10.1177/20563051261449018",
     "url": "https://doi.org/10.1177/20563051261449018",

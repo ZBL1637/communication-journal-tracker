@@ -1,0 +1,63 @@
+{
+  "id": "social-media-and-society-12c8ad1a4cab",
+  "doi": "10.1177/20563051261454774",
+  "url": "https://doi.org/10.1177/20563051261454774",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "authors": [
+    "Alaeddin A. Banikalef",
+    "Mohammad Issa Mehawesh"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-06-15T23:29:34.475Z",
+  "language": "en",
+  "raw_title": "Performing Identity: Repetition, Emoji, and Candidate Indicators of Amplified Visibility in Jordanian–Palestinian Facebook Discourse",
+  "raw_abstract": "This study examines how Arabic Facebook comments shape political tensions between Jordanians and Palestinians. The corpus contains 800 public comments collected from public Facebook pages focused on Jordanian–Palestinian affairs between January and July 2025. Methods combine immersive digital ethnography with systematic netnographic coding and a reproducible coordination–detection protocol applied at three scales: micro (linguistic strategies), meso (semiotic affordances), and macro (temporal and network patterns). The results show that dialectal markers, religious formulae, emojis, short slogans, and threaded replies interact to produce strong identity signaling and affective circulation. A subset of items displays heuristic markers associated with amplified visibility, such as exact-text repetition, clustered timestamps, repeated links, and low-engagement account profiles. These markers are presented as candidate indicators of amplification, not as proof of centralized orchestration. This study provides open detection scripts and appendix materials for human adjudication and follow-up network analyses. Findings point to low-cost interventions, such as prompts before verbatim reposting and triage workflows for flagged clusters, and to the need for cross-platform tracing and bot analyses to confirm provenance.",
+  "raw_keywords": [],
+  "title_en": "Performing Identity: Repetition, Emoji, and Candidate Indicators of Amplified Visibility in Jordanian–Palestinian Facebook Discourse",
+  "title_zh": "身份表演：约旦-巴勒斯坦脸书话语中的重复、表情符号与放大可见性的候选指标",
+  "abstract_en": "This study examines how Arabic Facebook comments shape political tensions between Jordanians and Palestinians. The corpus contains 800 public comments collected from public Facebook pages focused on Jordanian–Palestinian affairs between January and July 2025. Methods combine immersive digital ethnography with systematic netnographic coding and a reproducible coordination–detection protocol applied at three scales: micro (linguistic strategies), meso (semiotic affordances), and macro (temporal and network patterns). The results show that dialectal markers, religious formulae, emojis, short slogans, and threaded replies interact to produce strong identity signaling and affective circulation. A subset of items displays heuristic markers associated with amplified visibility, such as exact-text repetition, clustered timestamps, repeated links, and low-engagement account profiles. These markers are presented as candidate indicators of amplification, not as proof of centralized orchestration. This study provides open detection scripts and appendix materials for human adjudication and follow-up network analyses. Findings point to low-cost interventions, such as prompts before verbatim reposting and triage workflows for flagged clusters, and to the need for cross-platform tracing and bot analyses to confirm provenance.",
+  "abstract_zh": "本研究考察阿拉伯语脸书评论如何塑造约旦人和巴勒斯坦人之间的政治紧张关系。语料库包含2025年1月至7月从关注约旦-巴勒斯坦事务的公共脸书页面收集的800条公开评论。方法结合了沉浸式数字民族志、系统性网络志编码以及可复现的协调检测协议，应用于三个尺度：微观（语言策略）、中观（符号可供性）和宏观（时间与网络模式）。结果显示，方言标记、宗教套语、表情符号、简短口号和回复线程相互作用，产生强烈的身份信号和情感流通。部分项目显示出与放大可见性相关的启发式标记，如精确文本重复、聚集时间戳、重复链接和低参与度账户资料。这些标记被呈现为放大的候选指标，而非集中策划的证据。本研究提供了开放检测脚本和附录材料，用于人工裁决和后续网络分析。研究结果指向低成本干预措施，如逐字转发前的提示和标记集群的分诊流程，以及需要跨平台追踪和机器人分析以确认来源。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "identity performance",
+    "Facebook discourse",
+    "Jordanian-Palestinian relations",
+    "amplified visibility",
+    "digital ethnography",
+    "netnography",
+    "coordination detection",
+    "emoji",
+    "repetition"
+  ],
+  "inferred_keywords_zh": [
+    "身份表演",
+    "脸书话语",
+    "约旦-巴勒斯坦关系",
+    "放大可见性",
+    "数字民族志",
+    "网络志",
+    "协调检测",
+    "表情符号",
+    "重复"
+  ],
+  "plain_summary_zh": "这项研究分析了约旦和巴勒斯坦人在脸书上的评论，发现人们通过使用方言、宗教用语、表情符号和重复口号等方式来表达自己的身份，并让信息传播得更广。研究者还发现了一些可能表明信息被刻意放大的迹象，比如完全相同的文字被反复发布、发布时间非常集中等。不过，这些迹象并不一定证明有人在背后组织，只是提醒我们需要进一步关注。",
+  "plain_summary_en": "This study analyzed Facebook comments between Jordanians and Palestinians and found that people use dialect, religious phrases, emojis, and repeated slogans to express identity and make messages spread widely. Researchers also found signs that some messages might be artificially boosted, such as exact text repetition and clustered posting times. However, these signs do not prove organized coordination, only that further investigation is needed.",
+  "research_direction_zh": "社交媒体中的身份表演与政治话语协调检测",
+  "research_direction_en": "Identity performance and coordination detection in social media political discourse",
+  "method_tags_zh": [
+    "数字民族志",
+    "网络志",
+    "内容分析",
+    "协调检测"
+  ],
+  "method_tags_en": [
+    "digital ethnography",
+    "netnography",
+    "content analysis",
+    "coordination detection"
+  ]
+}
