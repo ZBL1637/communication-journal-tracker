@@ -1,25 +1,99 @@
 {
-  "generatedAt": "2026-06-15T23:29:43.079Z",
+  "generatedAt": "2026-06-16T23:18:45.471Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 0,
-      "overview_en": "Across 0 papers, the most visible themes are platforms, news, and public attention. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 0 papers, the most visible themes are platforms, news, and public attention. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
-      "hot_topics_en": [],
-      "hot_topics_zh": [],
-      "high_frequency_keywords": [],
-      "high_frequency_methods": []
+      "paperCount": 1,
+      "overview_en": "Across 1 papers, the most visible themes are Systemic Lupus Erythematosus, BATF, RORgt. Researchers most often rely on bioinformatics analysis, animal experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 1 papers, the most visible themes are Systemic Lupus Erythematosus, BATF, RORgt. Researchers most often rely on bioinformatics analysis, animal experiment to explain what these changes mean for communication.",
+      "hot_topics_en": [
+        "Systemic Lupus Erythematosus",
+        "BATF",
+        "RORgt",
+        "IL-17",
+        "Bioinformatics"
+      ],
+      "hot_topics_zh": [
+        "系统性红斑狼疮",
+        "BATF",
+        "RORgt",
+        "IL-17",
+        "生物信息学"
+      ],
+      "high_frequency_keywords": [
+        {
+          "label_en": "Systemic Lupus Erythematosus",
+          "label_zh": "系统性红斑狼疮",
+          "count": 1
+        },
+        {
+          "label_en": "BATF",
+          "label_zh": "BATF",
+          "count": 1
+        },
+        {
+          "label_en": "RORgt",
+          "label_zh": "RORgt",
+          "count": 1
+        },
+        {
+          "label_en": "IL-17",
+          "label_zh": "IL-17",
+          "count": 1
+        },
+        {
+          "label_en": "Bioinformatics",
+          "label_zh": "生物信息学",
+          "count": 1
+        },
+        {
+          "label_en": "Langchuangding",
+          "label_zh": "狼疮定",
+          "count": 1
+        },
+        {
+          "label_en": "Prednisone",
+          "label_zh": "泼尼松",
+          "count": 1
+        },
+        {
+          "label_en": "Pioneer Factor",
+          "label_zh": "先驱因子",
+          "count": 1
+        }
+      ],
+      "high_frequency_methods": [
+        {
+          "label_en": "bioinformatics analysis",
+          "label_zh": "生物信息学分析",
+          "count": 1
+        },
+        {
+          "label_en": "animal experiment",
+          "label_zh": "动物实验",
+          "count": 1
+        },
+        {
+          "label_en": "qPCR",
+          "label_zh": "qPCR",
+          "count": 1
+        },
+        {
+          "label_en": "ELISA",
+          "label_zh": "ELISA",
+          "count": 1
+        }
+      ]
     },
     {
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 27,
-      "overview_en": "Across 27 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 27 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 28,
+      "overview_en": "Across 28 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 28 papers, the most visible themes are The, And, political communication. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
@@ -71,18 +145,18 @@
           "count": 2
         },
         {
-          "label_en": "media systems",
-          "label_zh": "媒体系统",
+          "label_en": "Systemic Lupus Erythematosus",
+          "label_zh": "系统性红斑狼疮",
           "count": 1
         },
         {
-          "label_en": "violent conflict",
-          "label_zh": "暴力冲突",
+          "label_en": "BATF",
+          "label_zh": "BATF",
           "count": 1
         },
         {
-          "label_en": "political systems",
-          "label_zh": "政治系统",
+          "label_en": "RORgt",
+          "label_zh": "RORgt",
           "count": 1
         }
       ],
@@ -123,18 +197,18 @@
           "count": 2
         },
         {
-          "label_en": "theoretical framework",
-          "label_zh": "理论框架",
+          "label_en": "bioinformatics analysis",
+          "label_zh": "生物信息学分析",
           "count": 1
         },
         {
-          "label_en": "computational text analysis",
-          "label_zh": "计算文本分析",
+          "label_en": "animal experiment",
+          "label_zh": "动物实验",
           "count": 1
         },
         {
-          "label_en": "regression analysis",
-          "label_zh": "回归分析",
+          "label_en": "qPCR",
+          "label_zh": "qPCR",
           "count": 1
         }
       ]
@@ -143,9 +217,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 186,
-      "overview_en": "Across 186 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 186 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 187,
+      "overview_en": "Across 187 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 187 papers, the most visible themes are And, The, social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -473,30 +547,30 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 17,
+      "paperCount": 18,
       "topic_bias_en": [
         "Meta-Analysis",
         "Systematic Review",
-        "Chinese Cinema",
-        "Ideology"
+        "Systemic Lupus Erythematosus",
+        "BATF"
       ],
       "topic_bias_zh": [
         "Meta-Analysis",
         "Systematic Review",
-        "中国电影",
-        "意识形态"
+        "系统性红斑狼疮",
+        "BATF"
       ],
       "method_bias_en": [
         "review",
         "systematic literature review",
-        "contextual analysis",
-        "thematic analysis"
+        "bioinformatics analysis",
+        "animal experiment"
       ],
       "method_bias_zh": [
         "review",
         "系统文献综述",
-        "背景分析",
-        "主题分析"
+        "生物信息学分析",
+        "动物实验"
       ]
     }
   ],

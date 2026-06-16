@@ -1,0 +1,77 @@
+{
+  "id": "review-of-communication-research-41fa80f1b898",
+  "doi": "10.52152/FH9183",
+  "url": "https://doi.org/10.52152/fh9183",
+  "journalName": "Review of Communication Research",
+  "journalSlug": "review-of-communication-research",
+  "issn": "2255-4165",
+  "publishedAt": "2026-06-16T00:00:00.000Z",
+  "authors": [
+    "Zhaochun He",
+    "Ying Shao",
+    "Xia Chen",
+    "Zhimin Xie",
+    "Keming Chen",
+    "Kepeng Yang",
+    "Xinchang Wang",
+    "Yanhong Chen",
+    "Zhengfu Li"
+  ],
+  "source": "crossref+detail",
+  "fetchedAt": "2026-06-16T23:18:45.466Z",
+  "language": "en",
+  "raw_title": "BATF/RORgt/IL-17 Axis as a Therapeutic Target in Systemic Lupus Erythematosus: Integrative Bioinformatics and In Vivo Validation of Langchuangding Combined with Prednisone",
+  "raw_abstract": "Background: Systemic lupus erythematosus (SLE) is a highly heterogeneous autoimmune disease characterized by aberrant Th17/Treg balance and autoantibody production. While glucocorticoids remain the cornerstone of treatment, their long-term adverse effects necessitate the development of steroid-sparing agents. The basic leucine zipper transcription factor ATF-like (BATF) serves as an essential pioneer factor for Th17 differentiation, yet its precise therapeutic potential in SLE remains underexplored. This study aims to validate the BATF/RORgt/IL-17 axis as a critical therapeutic target in SLE through integrative bioinformatics analysis of human cohorts and in vivo experimental validation using a combined regimen of Traditional Chinese Medicine (Langchuangding, LCD) and Prednisone. Methods: Transcriptomic profiles of peripheral blood mononuclear cells (PBMCs) from 61 SLE patients and 20 healthy controls (HC) were retrieved from the Gene Expression Omnibus (GEO: GSE50772). Differentially expressed genes (DEGs) and immune pathway signatures were analyzed. For in vivo validation, 40 female MRL/lpr mice (SLE model) and 10 normal Kunming mice were randomly divided into five groups. Over a 10-week intervention, body weight and organ indices were monitored. The mRNA and protein expression levels of BATF, RORgt (Rorc), and IL-17 in renal tissues were quantified using qPCR and ELISA. Serum autoantibodies (ANA, anti-dsDNA, anti-Sm-DNA) were also measured. Results: Bioinformatics analysis revealed significant upregulation of BCL6 and IL10 in SLE PBMCs, alongside a global interferon signature, establishing a pronounced systemic inflammatory state. In MRL/lpr mice, the Model group exhibited severe splenomegaly, elevated autoantibodies, and robust overexpression of renal BATF, RORgt, and IL-17. The Combined therapy (LCD + Prednisone) demonstrated superior efficacy, significantly attenuating body weight loss, normalizing spleen indices, and drastically suppressing the BATF/RORgt/IL-17 cascade at both transcriptional and translational levels (p &lt; 0.001 vs. Model). Serum ANA, anti-dsDNA, and anti-Sm-DNA levels were also maximally reduced in the Combined group. Conclusion: The BATF/RORgt/IL-17 axis is a pivotal pathogenic driver in SLE, bridging epigenetic chromatin remodeling with downstream Th17-mediated autoimmunity. The synergistic application of LCD and Prednisone effectively dismantles this axis, offering a promising steroid-sparing, individualized therapeutic strategy for SLE management.",
+  "raw_keywords": [
+    "Systemic Lupus Erythematosus",
+    "BATF",
+    "RORgt",
+    "IL-17",
+    "Bioinformatics",
+    "Langchuangding",
+    "Prednisone",
+    "Pioneer Factor"
+  ],
+  "title_en": "BATF/RORgt/IL-17 Axis as a Therapeutic Target in Systemic Lupus Erythematosus: Integrative Bioinformatics and In Vivo Validation of Langchuangding Combined with Prednisone",
+  "title_zh": "BATF/RORgt/IL-17轴作为系统性红斑狼疮治疗靶点：整合生物信息学及狼疮定联合泼尼松的体内验证",
+  "abstract_en": "Background: Systemic lupus erythematosus (SLE) is a highly heterogeneous autoimmune disease characterized by aberrant Th17/Treg balance and autoantibody production. While glucocorticoids remain the cornerstone of treatment, their long-term adverse effects necessitate the development of steroid-sparing agents. The basic leucine zipper transcription factor ATF-like (BATF) serves as an essential pioneer factor for Th17 differentiation, yet its precise therapeutic potential in SLE remains underexplored. This study aims to validate the BATF/RORgt/IL-17 axis as a critical therapeutic target in SLE through integrative bioinformatics analysis of human cohorts and in vivo experimental validation using a combined regimen of Traditional Chinese Medicine (Langchuangding, LCD) and Prednisone. Methods: Transcriptomic profiles of peripheral blood mononuclear cells (PBMCs) from 61 SLE patients and 20 healthy controls (HC) were retrieved from the Gene Expression Omnibus (GEO: GSE50772). Differentially expressed genes (DEGs) and immune pathway signatures were analyzed. For in vivo validation, 40 female MRL/lpr mice (SLE model) and 10 normal Kunming mice were randomly divided into five groups. Over a 10-week intervention, body weight and organ indices were monitored. The mRNA and protein expression levels of BATF, RORgt (Rorc), and IL-17 in renal tissues were quantified using qPCR and ELISA. Serum autoantibodies (ANA, anti-dsDNA, anti-Sm-DNA) were also measured. Results: Bioinformatics analysis revealed significant upregulation of BCL6 and IL10 in SLE PBMCs, alongside a global interferon signature, establishing a pronounced systemic inflammatory state. In MRL/lpr mice, the Model group exhibited severe splenomegaly, elevated autoantibodies, and robust overexpression of renal BATF, RORgt, and IL-17. The Combined therapy (LCD + Prednisone) demonstrated superior efficacy, significantly attenuating body weight loss, normalizing spleen indices, and drastically suppressing the BATF/RORgt/IL-17 cascade at both transcriptional and translational levels (p < 0.001 vs. Model). Serum ANA, anti-dsDNA, and anti-Sm-DNA levels were also maximally reduced in the Combined group. Conclusion: The BATF/RORgt/IL-17 axis is a pivotal pathogenic driver in SLE, bridging epigenetic chromatin remodeling with downstream Th17-mediated autoimmunity. The synergistic application of LCD and Prednisone effectively dismantles this axis, offering a promising steroid-sparing, individualized therapeutic strategy for SLE management.",
+  "abstract_zh": "背景：系统性红斑狼疮（SLE）是一种高度异质性的自身免疫性疾病，以Th17/Treg失衡和自身抗体产生为特征。虽然糖皮质激素仍是治疗基石，但其长期不良反应促使人们开发激素节约药物。碱性亮氨酸拉链转录因子ATF样蛋白（BATF）是Th17分化的关键先驱因子，但其在SLE中的治疗潜力尚未充分探索。本研究旨在通过整合人类队列的生物信息学分析和中药狼疮定（LCD）联合泼尼松的体内实验验证，确认BATF/RORgt/IL-17轴作为SLE关键治疗靶点。方法：从基因表达综合数据库（GEO: GSE50772）获取61例SLE患者和20例健康对照者外周血单个核细胞（PBMC）的转录组数据，分析差异表达基因和免疫通路特征。体内验证中，将40只雌性MRL/lpr小鼠（SLE模型）和10只正常昆明小鼠随机分为五组。干预10周后，监测体重和器官指数。采用qPCR和ELISA定量肾组织中BATF、RORgt（Rorc）和IL-17的mRNA和蛋白表达水平，并检测血清自身抗体（ANA、抗dsDNA、抗Sm-DNA）。结果：生物信息学分析显示SLE患者PBMC中BCL6和IL10显著上调，并伴有全局干扰素特征，表明存在明显的全身炎症状态。在MRL/lpr小鼠中，模型组出现严重脾肿大、自身抗体升高以及肾BATF、RORgt和IL-17的强烈过表达。联合治疗（LCD+泼尼松）显示出优越疗效，显著减轻体重下降、使脾指数正常化，并在转录和翻译水平上显著抑制BATF/RORgt/IL-17级联反应（与模型组相比p<0.001）。联合组血清ANA、抗dsDNA和抗Sm-DNA水平也最大程度降低。结论：BATF/RORgt/IL-17轴是SLE的关键致病驱动因素，连接表观遗传染色质重塑与下游Th17介导的自身免疫。LCD和泼尼松的协同应用有效瓦解该轴，为SLE管理提供了一种有前景的激素节约、个体化治疗策略。",
+  "keywords_en": [
+    "Systemic Lupus Erythematosus",
+    "BATF",
+    "RORgt",
+    "IL-17",
+    "Bioinformatics",
+    "Langchuangding",
+    "Prednisone",
+    "Pioneer Factor"
+  ],
+  "keywords_zh": [
+    "系统性红斑狼疮",
+    "BATF",
+    "RORgt",
+    "IL-17",
+    "生物信息学",
+    "狼疮定",
+    "泼尼松",
+    "先驱因子"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_zh": "这项研究探讨了系统性红斑狼疮（SLE）的一种新治疗靶点。SLE是一种自身免疫性疾病，患者免疫系统攻击自身组织。研究发现，一个名为BATF/RORgt/IL-17的分子通路在SLE中过度活跃，导致炎症。通过分析患者数据和小鼠实验，研究人员发现中药狼疮定联合西药泼尼松能有效抑制这条通路，减轻症状，并可能减少激素用量。",
+  "plain_summary_en": "This study explores a new therapeutic target for systemic lupus erythematosus (SLE), an autoimmune disease where the immune system attacks the body's own tissues. The researchers found that a molecular pathway called BATF/RORgt/IL-17 is overactive in SLE, causing inflammation. By analyzing patient data and conducting mouse experiments, they discovered that a combination of the traditional Chinese medicine Langchuangding and the drug prednisone can effectively suppress this pathway, reduce symptoms, and potentially lower the need for steroids.",
+  "research_direction_zh": "自身免疫性疾病的分子机制与中西医结合治疗",
+  "research_direction_en": "Molecular mechanisms of autoimmune diseases and integrated traditional Chinese and Western medicine therapy",
+  "method_tags_zh": [
+    "生物信息学分析",
+    "动物实验",
+    "qPCR",
+    "ELISA"
+  ],
+  "method_tags_en": [
+    "bioinformatics analysis",
+    "animal experiment",
+    "qPCR",
+    "ELISA"
+  ]
+}

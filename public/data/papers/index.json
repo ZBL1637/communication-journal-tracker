@@ -1,5 +1,67 @@
 [
   {
+    "id": "review-of-communication-research-41fa80f1b898",
+    "doi": "10.52152/FH9183",
+    "url": "https://doi.org/10.52152/fh9183",
+    "journalName": "Review of Communication Research",
+    "journalSlug": "review-of-communication-research",
+    "issn": "2255-4165",
+    "publishedAt": "2026-06-16T00:00:00.000Z",
+    "authors": [
+      "Zhaochun He",
+      "Ying Shao",
+      "Xia Chen",
+      "Zhimin Xie",
+      "Keming Chen",
+      "Kepeng Yang",
+      "Xinchang Wang",
+      "Yanhong Chen",
+      "Zhengfu Li"
+    ],
+    "title_en": "BATF/RORgt/IL-17 Axis as a Therapeutic Target in Systemic Lupus Erythematosus: Integrative Bioinformatics and In Vivo Validation of Langchuangding Combined with Prednisone",
+    "title_zh": "BATF/RORgt/IL-17轴作为系统性红斑狼疮治疗靶点：整合生物信息学及狼疮定联合泼尼松的体内验证",
+    "keywords_en": [
+      "Systemic Lupus Erythematosus",
+      "BATF",
+      "RORgt",
+      "IL-17",
+      "Bioinformatics",
+      "Langchuangding",
+      "Prednisone",
+      "Pioneer Factor"
+    ],
+    "keywords_zh": [
+      "系统性红斑狼疮",
+      "BATF",
+      "RORgt",
+      "IL-17",
+      "生物信息学",
+      "狼疮定",
+      "泼尼松",
+      "先驱因子"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "这项研究探讨了系统性红斑狼疮（SLE）的一种新治疗靶点。SLE是一种自身免疫性疾病，患者免疫系统攻击自身组织。研究发现，一个名为BATF/RORgt/IL-17的分子通路在SLE中过度活跃，导致炎症。通过分析患者数据和小鼠实验，研究人员发现中药狼疮定联合西药泼尼松能有效抑制这条通路，减轻症状，并可能减少激素用量。",
+    "plain_summary_en": "This study explores a new therapeutic target for systemic lupus erythematosus (SLE), an autoimmune disease where the immune system attacks the body's own tissues. The researchers found that a molecular pathway called BATF/RORgt/IL-17 is overactive in SLE, causing inflammation. By analyzing patient data and conducting mouse experiments, they discovered that a combination of the traditional Chinese medicine Langchuangding and the drug prednisone can effectively suppress this pathway, reduce symptoms, and potentially lower the need for steroids.",
+    "research_direction_zh": "自身免疫性疾病的分子机制与中西医结合治疗",
+    "research_direction_en": "Molecular mechanisms of autoimmune diseases and integrated traditional Chinese and Western medicine therapy",
+    "method_tags_zh": [
+      "生物信息学分析",
+      "动物实验",
+      "qPCR",
+      "ELISA"
+    ],
+    "method_tags_en": [
+      "bioinformatics analysis",
+      "animal experiment",
+      "qPCR",
+      "ELISA"
+    ],
+    "source": "crossref+detail",
+    "fetchedAt": "2026-06-16T23:18:45.466Z"
+  },
+  {
     "id": "international-journal-of-press-politics-8200c7fd41fe",
     "doi": "10.1177/19401612261452109",
     "url": "https://doi.org/10.1177/19401612261452109",
