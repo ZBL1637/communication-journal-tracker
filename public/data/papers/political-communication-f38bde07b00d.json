@@ -1,0 +1,89 @@
+{
+  "id": "political-communication-f38bde07b00d",
+  "doi": "10.1080/10584609.2026.2671765",
+  "url": "https://doi.org/10.1080/10584609.2026.2671765",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-06-10T07:12:21.000Z",
+  "authors": [
+    "Megan A. Brown",
+    "James Bisbee",
+    "Angela Lai",
+    "Richard Bonneau",
+    "Jonathan Nagler",
+    "Joshua A. Tucker",
+    "Ann Arbor",
+    "Michigan",
+    "USAb",
+    "Vanderbilt",
+    "Nashville",
+    "Tennessee",
+    "USAc Firsthand AI",
+    "Firsthand AI",
+    "New York",
+    "USAd Genentech / Roche",
+    "USAe",
+    "AI, and Politics",
+    "USAf Politics",
+    "Roslyn S. Silver, and Enid Silver Winslow Professor",
+    "Director of",
+    "the Jordan",
+    "Co-Director of",
+    "the NYU",
+    "Politics, and Political Science."
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-06-17T23:17:57.040Z",
+  "language": "en",
+  "raw_title": "Evaluating Echo Chambers, Rabbit Holes, and Radicalization Pathways on YouTube",
+  "raw_abstract": "",
+  "raw_keywords": [
+    "Echo (communications protocol)",
+    "Radicalization",
+    "Social media",
+    "The Internet"
+  ],
+  "title_en": "Evaluating Echo Chambers, Rabbit Holes, and Radicalization Pathways on YouTube",
+  "title_zh": "评估YouTube上的回音室、兔子洞和激进化路径",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [
+    "Echo (communications protocol)",
+    "Radicalization",
+    "Social media",
+    "The Internet"
+  ],
+  "keywords_zh": [
+    "回音（通信协议）",
+    "激进化",
+    "社交媒体",
+    "互联网"
+  ],
+  "inferred_keywords_en": [
+    "YouTube",
+    "echo chambers",
+    "rabbit holes",
+    "radicalization",
+    "algorithmic recommendation"
+  ],
+  "inferred_keywords_zh": [
+    "YouTube",
+    "回音室",
+    "兔子洞",
+    "激进化",
+    "算法推荐"
+  ],
+  "plain_summary_zh": "这项研究探讨了YouTube平台上的回音室效应、兔子洞现象以及用户如何通过推荐算法走向激进化。",
+  "plain_summary_en": "This study examines echo chambers, rabbit holes, and how users may become radicalized through YouTube's recommendation algorithms.",
+  "research_direction_zh": "社交媒体平台上的信息传播与用户行为研究",
+  "research_direction_en": "Information dissemination and user behavior on social media platforms",
+  "method_tags_zh": [
+    "内容分析",
+    "算法审计"
+  ],
+  "method_tags_en": [
+    "content analysis",
+    "algorithm audit"
+  ]
+}

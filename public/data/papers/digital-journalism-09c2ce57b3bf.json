@@ -1,0 +1,82 @@
+{
+  "id": "digital-journalism-09c2ce57b3bf",
+  "doi": "10.1080/21670811.2026.2685660",
+  "url": "https://doi.org/10.1080/21670811.2026.2685660",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-06-14T04:11:58.000Z",
+  "authors": [
+    "Lion Wedel",
+    "a Weizenbaum",
+    "Berlin",
+    "Germanyb Freie",
+    "Universität Berlin",
+    "Germany"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-06-17T23:18:09.490Z",
+  "language": "en",
+  "raw_title": "What is Informative to Young Adults? Decoding Informativeness Perceptions Among Audiences of Audio-Visual Digital Platforms",
+  "raw_abstract": "Social media has fundamentally altered what young adults consider news. However, a conceptual mismatch persists: what researchers consider news and journalistic actors often fails to align with what audiences perceive as such. Drawing on reception studies, this paper developes an audience-centered concept: informativeness. It describes the continuous space of a user’s subjective evaluation of media content as new and/or useful. To empirically unpack this concept, this study employed a two-step qualitative research design with eight focus groups of young German adults (ages 18–35). Findings show that audiences attribute informativeness through an encoding schema that is comprised of five core dimensions (informative practices and norms, relevance and relatability, actor-specific, usefulness, and platform-specific), which are flexibly applied beyond and independent of news and news media as a normative standard, and are adaptable to other online information spheres, such as misinformation, health guidance, or political information.",
+  "raw_keywords": [
+    "Schema (genetic algorithms)",
+    "Perception",
+    "Normative",
+    "Social media",
+    "Focus group",
+    "German",
+    "Focus (optics)",
+    "Politics"
+  ],
+  "title_en": "What is Informative to Young Adults? Decoding Informativeness Perceptions Among Audiences of Audio-Visual Digital Platforms",
+  "title_zh": "年轻人认为什么是有信息量的？解码视听数字平台受众的信息性感知",
+  "abstract_en": "Social media has fundamentally altered what young adults consider news. However, a conceptual mismatch persists: what researchers consider news and journalistic actors often fails to align with what audiences perceive as such. Drawing on reception studies, this paper developes an audience-centered concept: informativeness. It describes the continuous space of a user’s subjective evaluation of media content as new and/or useful. To empirically unpack this concept, this study employed a two-step qualitative research design with eight focus groups of young German adults (ages 18–35). Findings show that audiences attribute informativeness through an encoding schema that is comprised of five core dimensions (informative practices and norms, relevance and relatability, actor-specific, usefulness, and platform-specific), which are flexibly applied beyond and independent of news and news media as a normative standard, and are adaptable to other online information spheres, such as misinformation, health guidance, or political information.",
+  "abstract_zh": "社交媒体从根本上改变了年轻人对新闻的看法。然而，概念上的错位依然存在：研究人员和新闻从业者所认为的新闻往往与受众的感知不一致。借鉴接受研究，本文提出了一个以受众为中心的概念：信息性。它描述了用户对媒体内容主观评价为新颖和/或有用的连续空间。为了实证地解析这一概念，本研究采用了两个步骤的定性研究设计，对德国年轻人（18-35岁）进行了八次焦点小组讨论。研究结果表明，受众通过一个由五个核心维度（信息实践与规范、相关性与关联性、行动者特定、有用性和平台特定）组成的编码模式来赋予信息性，这些维度灵活地应用于新闻和新闻媒体作为规范性标准之外，并独立于它们，同时适用于其他在线信息领域，如错误信息、健康指导或政治信息。",
+  "keywords_en": [
+    "Schema (genetic algorithms)",
+    "Perception",
+    "Normative",
+    "Social media",
+    "Focus group",
+    "German",
+    "Focus (optics)",
+    "Politics"
+  ],
+  "keywords_zh": [
+    "模式（遗传算法）",
+    "感知",
+    "规范性",
+    "社交媒体",
+    "焦点小组",
+    "德国",
+    "焦点（光学）",
+    "政治"
+  ],
+  "inferred_keywords_en": [
+    "informativeness",
+    "young adults",
+    "audience perception",
+    "digital platforms",
+    "qualitative research"
+  ],
+  "inferred_keywords_zh": [
+    "信息性",
+    "年轻人",
+    "受众感知",
+    "数字平台",
+    "定性研究"
+  ],
+  "plain_summary_zh": "这项研究探讨了年轻人如何判断社交媒体上的内容是否“有信息量”。研究者发现，年轻人有一套自己的标准，包括内容是否新颖、有用、与自己相关等，这些标准并不局限于传统新闻。研究通过焦点小组访谈德国年轻人，总结出五个关键维度。",
+  "plain_summary_en": "This study explores how young adults decide whether social media content is 'informative'. Researchers found that young people use their own criteria, such as novelty, usefulness, and relevance, which go beyond traditional news. The study used focus groups with German young adults and identified five key dimensions.",
+  "research_direction_zh": "受众对数字平台内容信息性的感知与评估机制",
+  "research_direction_en": "Audience perception and evaluation of informativeness on digital platforms",
+  "method_tags_zh": [
+    "焦点小组",
+    "定性研究"
+  ],
+  "method_tags_en": [
+    "focus group",
+    "qualitative research"
+  ]
+}

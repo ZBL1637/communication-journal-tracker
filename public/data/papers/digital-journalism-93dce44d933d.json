@@ -1,0 +1,62 @@
+{
+  "id": "digital-journalism-93dce44d933d",
+  "doi": "10.1080/21670811.2026.2686381",
+  "url": "https://doi.org/10.1080/21670811.2026.2686381",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-06-14T04:12:40.000Z",
+  "authors": [
+    "Marília Gehrke",
+    "Ansgard Heinrich",
+    "Groningen",
+    "Netherlands"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-06-17T23:18:09.328Z",
+  "language": "en",
+  "raw_title": "Who Checks the Fact-Checkers? Studying the Work of External Assessors Behind Fact-Checking Organizations",
+  "raw_abstract": "This paper examines the behind the scenes of fact-checking. Based on in-depth interviews with 16 external assessors and advisory board members working for the International Fact-Checking Network (IFCN) and the European Fact-Checking Standards Network (EFCSN), it discusses how these professionals assist in establishing credibility for fact-checking organizations. While scholarship till date has mainly explored frontstage operations through investigating the work of fact-checkers, little is known about the assessment processes of organizations such as IFCN or EFCSN and how they evaluate the performances of fact-checking organizations. This paper turns backstage to get to know the personnel who check the fact-checkers. A thematic analysis shows that assessors are at times caught in a “neutrality dilemma” during evaluation processes. In addition, while assessment processes are oriented with standardized Codes of Conduct and contribute to the professionalization of fact-checking operations, the evaluation process is not always uniform. Lastly, participants raised concerns about the impact of platformization on fact-checking practices, where fact-checkers are pushed into dependency relations with big tech. Overall, this study lifts the curtain on the backstage operations that support fact-checking organizations in their attempt to be recognized as important actors in fighting disinformation.",
+  "raw_keywords": [
+    "Work (physics)",
+    "Key (lock)"
+  ],
+  "title_en": "Who Checks the Fact-Checkers? Studying the Work of External Assessors Behind Fact-Checking Organizations",
+  "title_zh": "谁来检查事实核查员？研究事实核查组织背后的外部评估者的工作",
+  "abstract_en": "This paper examines the behind the scenes of fact-checking. Based on in-depth interviews with 16 external assessors and advisory board members working for the International Fact-Checking Network (IFCN) and the European Fact-Checking Standards Network (EFCSN), it discusses how these professionals assist in establishing credibility for fact-checking organizations. While scholarship till date has mainly explored frontstage operations through investigating the work of fact-checkers, little is known about the assessment processes of organizations such as IFCN or EFCSN and how they evaluate the performances of fact-checking organizations. This paper turns backstage to get to know the personnel who check the fact-checkers. A thematic analysis shows that assessors are at times caught in a “neutrality dilemma” during evaluation processes. In addition, while assessment processes are oriented with standardized Codes of Conduct and contribute to the professionalization of fact-checking operations, the evaluation process is not always uniform. Lastly, participants raised concerns about the impact of platformization on fact-checking practices, where fact-checkers are pushed into dependency relations with big tech. Overall, this study lifts the curtain on the backstage operations that support fact-checking organizations in their attempt to be recognized as important actors in fighting disinformation.",
+  "abstract_zh": "本文探讨了事实核查的幕后工作。基于对国际事实核查网络（IFCN）和欧洲事实核查标准网络（EFCSN）的16名外部评估者和顾问委员会成员的深度访谈，讨论了这些专业人士如何帮助事实核查组织建立可信度。迄今为止，学术界主要关注前台操作，即调查事实核查员的工作，但对IFCN或EFCSN等组织的评估过程以及它们如何评估事实核查组织的表现知之甚少。本文转向幕后，了解检查事实核查员的人员。主题分析显示，评估者在评估过程中有时会陷入“中立困境”。此外，虽然评估过程以标准化的行为准则为导向，并有助于事实核查操作的专业化，但评估过程并不总是统一的。最后，参与者对平台化对事实核查实践的影响表示担忧，事实核查者被推入与大型科技公司的依赖关系。总体而言，本研究揭示了支持事实核查组织试图被认可为打击虚假信息的重要参与者的幕后操作。",
+  "keywords_en": [
+    "Work (physics)",
+    "Key (lock)"
+  ],
+  "keywords_zh": [
+    "功（物理）",
+    "钥匙（锁）"
+  ],
+  "inferred_keywords_en": [
+    "fact-checking",
+    "external assessors",
+    "credibility",
+    "neutrality dilemma",
+    "platformization"
+  ],
+  "inferred_keywords_zh": [
+    "事实核查",
+    "外部评估者",
+    "可信度",
+    "中立困境",
+    "平台化"
+  ],
+  "plain_summary_zh": "这项研究通过采访16位为国际事实核查网络和欧洲事实核查标准网络工作的外部评估者，揭示了事实核查组织背后的评估过程。研究发现，评估者在评估时面临保持中立的困难，评估过程并不完全统一，并且事实核查者越来越依赖大型科技公司。",
+  "plain_summary_en": "This study reveals the evaluation processes behind fact-checking organizations by interviewing 16 external assessors working for the International Fact-Checking Network and the European Fact-Checking Standards Network. It finds that assessors struggle to remain neutral, the evaluation process is not always uniform, and fact-checkers are becoming increasingly dependent on big tech companies.",
+  "research_direction_zh": "事实核查的幕后机制与可信度建设",
+  "research_direction_en": "Backstage mechanisms and credibility building in fact-checking",
+  "method_tags_zh": [
+    "访谈",
+    "主题分析"
+  ],
+  "method_tags_en": [
+    "interview",
+    "thematic analysis"
+  ]
+}

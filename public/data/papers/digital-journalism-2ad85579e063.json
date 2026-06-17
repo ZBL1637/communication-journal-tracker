@@ -1,0 +1,70 @@
+{
+  "id": "digital-journalism-2ad85579e063",
+  "doi": "10.1080/21670811.2026.2685658",
+  "url": "https://doi.org/10.1080/21670811.2026.2685658",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-06-14T04:11:09.000Z",
+  "authors": [
+    "Emma Verhoeven",
+    "Sarah Van Leuven",
+    "Antwerp",
+    "Belgiumb",
+    "Ghent",
+    "Belgium"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-06-17T23:18:12.330Z",
+  "language": "en",
+  "raw_title": "Rewriting the Rules? European Media Councils’ Responses to Digital Journalism’s Ethical Challenges",
+  "raw_abstract": "As ethical self-regulating bodies and institutionalized intermediaries between journalism and the public, media councils translate journalistic norms into concrete standards. This study explores how these institutions adapt their workings and standards to digital journalism’s challenges. We conducted a multi-method study of nine European media councils (Belgium’s Dutch-speaking and French-speaking councils, Denmark, Finland, France, Georgia, Ireland, North Macedonia, and Slovenia), combining qualitative content analysis of 152 complaints decisions in 2022 with nine in-depth interviews with council functionaries. Drawing on boundary work theory, we identify normative adaptation strategies across four domains: privacy concerns, corrections and rectifications, journalistic use of AI, and delineating journalistic actors. Both the nature and pace of adaptation vary across these domains, reflecting different perceived threats to journalistic authority. Most adaptation occurs reactively and pragmatically, although almost all councils are proactively outlining ethical use of AI – potentially because of its threat to journalism’s epistemic authority. The Danish enforcement of the right to be forgotten represents the most significant adaptive capacity, though it exists in tension with the advisory nature of most councils. Adaptation has largely occurred for online journalism in the traditional sense, with councils converging on explicit correction requirements, while remaining absent for social media corrections.",
+  "raw_keywords": [
+    "Rewriting",
+    "Digital media",
+    "Journalism",
+    "Ethical issues"
+  ],
+  "title_en": "Rewriting the Rules? European Media Councils’ Responses to Digital Journalism’s Ethical Challenges",
+  "title_zh": "改写规则？欧洲媒体委员会对数字新闻伦理挑战的回应",
+  "abstract_en": "As ethical self-regulating bodies and institutionalized intermediaries between journalism and the public, media councils translate journalistic norms into concrete standards. This study explores how these institutions adapt their workings and standards to digital journalism’s challenges. We conducted a multi-method study of nine European media councils (Belgium’s Dutch-speaking and French-speaking councils, Denmark, Finland, France, Georgia, Ireland, North Macedonia, and Slovenia), combining qualitative content analysis of 152 complaints decisions in 2022 with nine in-depth interviews with council functionaries. Drawing on boundary work theory, we identify normative adaptation strategies across four domains: privacy concerns, corrections and rectifications, journalistic use of AI, and delineating journalistic actors. Both the nature and pace of adaptation vary across these domains, reflecting different perceived threats to journalistic authority. Most adaptation occurs reactively and pragmatically, although almost all councils are proactively outlining ethical use of AI – potentially because of its threat to journalism’s epistemic authority. The Danish enforcement of the right to be forgotten represents the most significant adaptive capacity, though it exists in tension with the advisory nature of most councils. Adaptation has largely occurred for online journalism in the traditional sense, with councils converging on explicit correction requirements, while remaining absent for social media corrections.",
+  "abstract_zh": "作为伦理自律机构以及新闻业与公众之间的制度化中介，媒体委员会将新闻规范转化为具体标准。本研究探讨这些机构如何调整其运作和标准以应对数字新闻的挑战。我们对九个欧洲媒体委员会（比利时荷语区和法语区委员会、丹麦、芬兰、法国、格鲁吉亚、爱尔兰、北马其顿和斯洛文尼亚）进行了多方法研究，结合了对2022年152项投诉决定的定性内容分析以及对委员会工作人员的九次深度访谈。借鉴边界工作理论，我们识别了四个领域的规范适应策略：隐私问题、更正与修正、新闻业使用人工智能以及界定新闻行动者。适应的性质和速度在不同领域有所不同，反映了对新闻权威的不同感知威胁。大多数适应是反应性和实用性的，尽管几乎所有委员会都在主动制定人工智能的伦理使用指南——可能是因为它对新闻认识论权威的威胁。丹麦对“被遗忘权”的执行代表了最显著的适应能力，尽管这与大多数委员会的咨询性质存在紧张关系。适应主要发生在传统意义上的在线新闻领域，委员会在明确的更正要求上趋于一致，但在社交媒体更正方面仍然缺失。",
+  "keywords_en": [
+    "Rewriting",
+    "Digital media",
+    "Journalism",
+    "Ethical issues"
+  ],
+  "keywords_zh": [
+    "改写",
+    "数字媒体",
+    "新闻业",
+    "伦理问题"
+  ],
+  "inferred_keywords_en": [
+    "media councils",
+    "self-regulation",
+    "boundary work",
+    "normative adaptation",
+    "AI ethics"
+  ],
+  "inferred_keywords_zh": [
+    "媒体委员会",
+    "自律",
+    "边界工作",
+    "规范适应",
+    "人工智能伦理"
+  ],
+  "plain_summary_zh": "这项研究调查了欧洲九个国家的媒体委员会如何应对数字新闻带来的伦理挑战。媒体委员会是监督新闻伦理的机构，它们处理公众投诉并制定标准。研究者分析了这些委员会在2022年处理的152起投诉，并采访了九位工作人员。他们发现，委员会在隐私、更正错误、使用人工智能以及界定谁是记者等方面采取了不同的适应策略。大多数调整是应对具体问题而做出的，但几乎所有委员会都在主动制定人工智能使用的伦理规则，因为人工智能可能威胁新闻的可信度。丹麦的委员会在执行“被遗忘权”方面最为积极，但这与其他委员会主要提供建议的角色存在冲突。总体而言，委员会对传统在线新闻的伦理问题（如要求明确更正）适应较好，但对社交媒体上的错误更正关注不足。",
+  "plain_summary_en": "This study examines how media councils in nine European countries are responding to ethical challenges posed by digital journalism. Media councils are bodies that oversee journalistic ethics, handling public complaints and setting standards. Researchers analyzed 152 complaint decisions from 2022 and interviewed nine council staff. They found that councils adapt differently in areas like privacy, corrections, use of AI, and defining who counts as a journalist. Most changes are reactive and practical, but nearly all councils are proactively developing ethical guidelines for AI, likely because AI threatens journalism's credibility. Denmark's council stands out for enforcing the 'right to be forgotten,' though this conflicts with most councils' advisory role. Overall, councils have adapted well to traditional online journalism (e.g., requiring clear corrections) but have not addressed corrections on social media.",
+  "research_direction_zh": "新闻伦理与数字媒体治理",
+  "research_direction_en": "Journalism ethics and digital media governance",
+  "method_tags_zh": [
+    "内容分析",
+    "访谈"
+  ],
+  "method_tags_en": [
+    "content analysis",
+    "interview"
+  ]
+}

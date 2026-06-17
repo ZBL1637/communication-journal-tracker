@@ -1,5 +1,54 @@
 [
   {
+    "id": "political-communication-d0b1d98bb660",
+    "doi": "10.1080/10584609.2026.2682952",
+    "url": "https://doi.org/10.1080/10584609.2026.2682952",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-06-17T12:57:01.000Z",
+    "authors": [
+      "Justin Wedeking",
+      "Michael A. Zilis",
+      "Lexington",
+      "KY",
+      "Political Behavior, and Politics",
+      "Groups and Identities."
+    ],
+    "title_en": "Democratic Institutions Under Threat: Corrosive Frames, Internet News, and the U.S. Supreme Court",
+    "title_zh": "民主制度面临威胁：腐蚀性框架、互联网新闻与美国最高法院",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "U.S. Supreme Court",
+      "corrosive frames",
+      "internet news",
+      "democratic institutions",
+      "public opinion"
+    ],
+    "inferred_keywords_zh": [
+      "美国最高法院",
+      "腐蚀性框架",
+      "互联网新闻",
+      "民主制度",
+      "公众舆论"
+    ],
+    "plain_summary_zh": "该研究探讨了互联网新闻中使用的腐蚀性框架如何削弱公众对美国最高法院等民主机构的信任。",
+    "plain_summary_en": "This study examines how corrosive frames in internet news can undermine public trust in democratic institutions like the U.S. Supreme Court.",
+    "research_direction_zh": "政治传播与司法信任",
+    "research_direction_en": "Political communication and judicial trust",
+    "method_tags_zh": [
+      "实验",
+      "内容分析"
+    ],
+    "method_tags_en": [
+      "experiment",
+      "content analysis"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-06-17T23:17:59.518Z"
+  },
+  {
     "id": "review-of-communication-research-41fa80f1b898",
     "doi": "10.52152/FH9183",
     "url": "https://doi.org/10.52152/fh9183",
@@ -60,6 +109,338 @@
     ],
     "source": "crossref+detail",
     "fetchedAt": "2026-06-16T23:18:45.466Z"
+  },
+  {
+    "id": "digital-journalism-93dce44d933d",
+    "doi": "10.1080/21670811.2026.2686381",
+    "url": "https://doi.org/10.1080/21670811.2026.2686381",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-06-14T04:12:40.000Z",
+    "authors": [
+      "Marília Gehrke",
+      "Ansgard Heinrich",
+      "Groningen",
+      "Netherlands"
+    ],
+    "title_en": "Who Checks the Fact-Checkers? Studying the Work of External Assessors Behind Fact-Checking Organizations",
+    "title_zh": "谁来检查事实核查员？研究事实核查组织背后的外部评估者的工作",
+    "keywords_en": [
+      "Work (physics)",
+      "Key (lock)"
+    ],
+    "keywords_zh": [
+      "功（物理）",
+      "钥匙（锁）"
+    ],
+    "inferred_keywords_en": [
+      "fact-checking",
+      "external assessors",
+      "credibility",
+      "neutrality dilemma",
+      "platformization"
+    ],
+    "inferred_keywords_zh": [
+      "事实核查",
+      "外部评估者",
+      "可信度",
+      "中立困境",
+      "平台化"
+    ],
+    "plain_summary_zh": "这项研究通过采访16位为国际事实核查网络和欧洲事实核查标准网络工作的外部评估者，揭示了事实核查组织背后的评估过程。研究发现，评估者在评估时面临保持中立的困难，评估过程并不完全统一，并且事实核查者越来越依赖大型科技公司。",
+    "plain_summary_en": "This study reveals the evaluation processes behind fact-checking organizations by interviewing 16 external assessors working for the International Fact-Checking Network and the European Fact-Checking Standards Network. It finds that assessors struggle to remain neutral, the evaluation process is not always uniform, and fact-checkers are becoming increasingly dependent on big tech companies.",
+    "research_direction_zh": "事实核查的幕后机制与可信度建设",
+    "research_direction_en": "Backstage mechanisms and credibility building in fact-checking",
+    "method_tags_zh": [
+      "访谈",
+      "主题分析"
+    ],
+    "method_tags_en": [
+      "interview",
+      "thematic analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-06-17T23:18:09.328Z"
+  },
+  {
+    "id": "digital-journalism-09c2ce57b3bf",
+    "doi": "10.1080/21670811.2026.2685660",
+    "url": "https://doi.org/10.1080/21670811.2026.2685660",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-06-14T04:11:58.000Z",
+    "authors": [
+      "Lion Wedel",
+      "a Weizenbaum",
+      "Berlin",
+      "Germanyb Freie",
+      "Universität Berlin",
+      "Germany"
+    ],
+    "title_en": "What is Informative to Young Adults? Decoding Informativeness Perceptions Among Audiences of Audio-Visual Digital Platforms",
+    "title_zh": "年轻人认为什么是有信息量的？解码视听数字平台受众的信息性感知",
+    "keywords_en": [
+      "Schema (genetic algorithms)",
+      "Perception",
+      "Normative",
+      "Social media",
+      "Focus group",
+      "German",
+      "Focus (optics)",
+      "Politics"
+    ],
+    "keywords_zh": [
+      "模式（遗传算法）",
+      "感知",
+      "规范性",
+      "社交媒体",
+      "焦点小组",
+      "德国",
+      "焦点（光学）",
+      "政治"
+    ],
+    "inferred_keywords_en": [
+      "informativeness",
+      "young adults",
+      "audience perception",
+      "digital platforms",
+      "qualitative research"
+    ],
+    "inferred_keywords_zh": [
+      "信息性",
+      "年轻人",
+      "受众感知",
+      "数字平台",
+      "定性研究"
+    ],
+    "plain_summary_zh": "这项研究探讨了年轻人如何判断社交媒体上的内容是否“有信息量”。研究者发现，年轻人有一套自己的标准，包括内容是否新颖、有用、与自己相关等，这些标准并不局限于传统新闻。研究通过焦点小组访谈德国年轻人，总结出五个关键维度。",
+    "plain_summary_en": "This study explores how young adults decide whether social media content is 'informative'. Researchers found that young people use their own criteria, such as novelty, usefulness, and relevance, which go beyond traditional news. The study used focus groups with German young adults and identified five key dimensions.",
+    "research_direction_zh": "受众对数字平台内容信息性的感知与评估机制",
+    "research_direction_en": "Audience perception and evaluation of informativeness on digital platforms",
+    "method_tags_zh": [
+      "焦点小组",
+      "定性研究"
+    ],
+    "method_tags_en": [
+      "focus group",
+      "qualitative research"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-06-17T23:18:09.490Z"
+  },
+  {
+    "id": "digital-journalism-2ad85579e063",
+    "doi": "10.1080/21670811.2026.2685658",
+    "url": "https://doi.org/10.1080/21670811.2026.2685658",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-06-14T04:11:09.000Z",
+    "authors": [
+      "Emma Verhoeven",
+      "Sarah Van Leuven",
+      "Antwerp",
+      "Belgiumb",
+      "Ghent",
+      "Belgium"
+    ],
+    "title_en": "Rewriting the Rules? European Media Councils’ Responses to Digital Journalism’s Ethical Challenges",
+    "title_zh": "改写规则？欧洲媒体委员会对数字新闻伦理挑战的回应",
+    "keywords_en": [
+      "Rewriting",
+      "Digital media",
+      "Journalism",
+      "Ethical issues"
+    ],
+    "keywords_zh": [
+      "改写",
+      "数字媒体",
+      "新闻业",
+      "伦理问题"
+    ],
+    "inferred_keywords_en": [
+      "media councils",
+      "self-regulation",
+      "boundary work",
+      "normative adaptation",
+      "AI ethics"
+    ],
+    "inferred_keywords_zh": [
+      "媒体委员会",
+      "自律",
+      "边界工作",
+      "规范适应",
+      "人工智能伦理"
+    ],
+    "plain_summary_zh": "这项研究调查了欧洲九个国家的媒体委员会如何应对数字新闻带来的伦理挑战。媒体委员会是监督新闻伦理的机构，它们处理公众投诉并制定标准。研究者分析了这些委员会在2022年处理的152起投诉，并采访了九位工作人员。他们发现，委员会在隐私、更正错误、使用人工智能以及界定谁是记者等方面采取了不同的适应策略。大多数调整是应对具体问题而做出的，但几乎所有委员会都在主动制定人工智能使用的伦理规则，因为人工智能可能威胁新闻的可信度。丹麦的委员会在执行“被遗忘权”方面最为积极，但这与其他委员会主要提供建议的角色存在冲突。总体而言，委员会对传统在线新闻的伦理问题（如要求明确更正）适应较好，但对社交媒体上的错误更正关注不足。",
+    "plain_summary_en": "This study examines how media councils in nine European countries are responding to ethical challenges posed by digital journalism. Media councils are bodies that oversee journalistic ethics, handling public complaints and setting standards. Researchers analyzed 152 complaint decisions from 2022 and interviewed nine council staff. They found that councils adapt differently in areas like privacy, corrections, use of AI, and defining who counts as a journalist. Most changes are reactive and practical, but nearly all councils are proactively developing ethical guidelines for AI, likely because AI threatens journalism's credibility. Denmark's council stands out for enforcing the 'right to be forgotten,' though this conflicts with most councils' advisory role. Overall, councils have adapted well to traditional online journalism (e.g., requiring clear corrections) but have not addressed corrections on social media.",
+    "research_direction_zh": "新闻伦理与数字媒体治理",
+    "research_direction_en": "Journalism ethics and digital media governance",
+    "method_tags_zh": [
+      "内容分析",
+      "访谈"
+    ],
+    "method_tags_en": [
+      "content analysis",
+      "interview"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-06-17T23:18:12.330Z"
+  },
+  {
+    "id": "political-communication-f38bde07b00d",
+    "doi": "10.1080/10584609.2026.2671765",
+    "url": "https://doi.org/10.1080/10584609.2026.2671765",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-06-10T07:12:21.000Z",
+    "authors": [
+      "Megan A. Brown",
+      "James Bisbee",
+      "Angela Lai",
+      "Richard Bonneau",
+      "Jonathan Nagler",
+      "Joshua A. Tucker",
+      "Ann Arbor",
+      "Michigan",
+      "USAb",
+      "Vanderbilt",
+      "Nashville",
+      "Tennessee",
+      "USAc Firsthand AI",
+      "Firsthand AI",
+      "New York",
+      "USAd Genentech / Roche",
+      "USAe",
+      "AI, and Politics",
+      "USAf Politics",
+      "Roslyn S. Silver, and Enid Silver Winslow Professor",
+      "Director of",
+      "the Jordan",
+      "Co-Director of",
+      "the NYU",
+      "Politics, and Political Science."
+    ],
+    "title_en": "Evaluating Echo Chambers, Rabbit Holes, and Radicalization Pathways on YouTube",
+    "title_zh": "评估YouTube上的回音室、兔子洞和激进化路径",
+    "keywords_en": [
+      "Echo (communications protocol)",
+      "Radicalization",
+      "Social media",
+      "The Internet"
+    ],
+    "keywords_zh": [
+      "回音（通信协议）",
+      "激进化",
+      "社交媒体",
+      "互联网"
+    ],
+    "inferred_keywords_en": [
+      "YouTube",
+      "echo chambers",
+      "rabbit holes",
+      "radicalization",
+      "algorithmic recommendation"
+    ],
+    "inferred_keywords_zh": [
+      "YouTube",
+      "回音室",
+      "兔子洞",
+      "激进化",
+      "算法推荐"
+    ],
+    "plain_summary_zh": "这项研究探讨了YouTube平台上的回音室效应、兔子洞现象以及用户如何通过推荐算法走向激进化。",
+    "plain_summary_en": "This study examines echo chambers, rabbit holes, and how users may become radicalized through YouTube's recommendation algorithms.",
+    "research_direction_zh": "社交媒体平台上的信息传播与用户行为研究",
+    "research_direction_en": "Information dissemination and user behavior on social media platforms",
+    "method_tags_zh": [
+      "内容分析",
+      "算法审计"
+    ],
+    "method_tags_en": [
+      "content analysis",
+      "algorithm audit"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-06-17T23:17:57.040Z"
+  },
+  {
+    "id": "political-communication-e022af0741f2",
+    "doi": "10.1080/10584609.2026.2679492",
+    "url": "https://doi.org/10.1080/10584609.2026.2679492",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-06-10T04:51:41.000Z",
+    "authors": [
+      "Ross Dahlke",
+      "Ryan C. Moore",
+      "Danya Adib-Azpeitia",
+      "Johan Ugander",
+      "Jeffrey Hancock",
+      "Jeffrey T. Hancock",
+      "Ross Dahlke Ryan C. Moore Danya Adib-Azpeitia Johan Ugander Jeffrey T. Hancock",
+      "WI",
+      "USAb",
+      "The",
+      "Austin",
+      "USAc Symbolic",
+      "Systems Program",
+      "Stanford",
+      "CA",
+      "USAd",
+      "Yale",
+      "New Haven",
+      "CT",
+      "USAe",
+      "USA",
+      "USARoss Dahlke (PhD"
+    ],
+    "title_en": "Multi-Platform Referrers of Misinformation: A Comparative Analysis of Misinformation Visits Referred by Facebook, Twitter, Instagram, Reddit, YouTube, Snapchat, and TikTok",
+    "title_zh": "多平台虚假信息引荐者：Facebook、Twitter、Instagram、Reddit、YouTube、Snapchat和TikTok引荐的虚假信息访问比较分析",
+    "keywords_en": [
+      "Misinformation",
+      "Social media",
+      "Operationalization",
+      "Counterfactual thinking",
+      "Key (lock)"
+    ],
+    "keywords_zh": [
+      "虚假信息",
+      "社交媒体",
+      "操作化",
+      "反事实思维",
+      "关键（锁）"
+    ],
+    "inferred_keywords_en": [
+      "web browsing data",
+      "platform comparison",
+      "misinformation exposure"
+    ],
+    "inferred_keywords_zh": [
+      "网络浏览数据",
+      "平台比较",
+      "虚假信息接触"
+    ],
+    "plain_summary_zh": "这项研究发现，社交媒体让人们接触虚假信息的作用比之前认为的要大得多。过去的研究只计算了用户直接点击社交媒体上的链接访问虚假信息的情况，但这项研究还考虑了用户通过社交媒体间接访问虚假信息的情况，比如先看到社交媒体上的内容，然后通过其他方式访问虚假网站。结果发现，考虑间接影响后，社交媒体对虚假信息传播的贡献是之前估计的1.5到15倍以上。",
+    "plain_summary_en": "This study finds that social media plays a much larger role in exposing people to misinformation than previously thought. Past research only counted visits to misinformation that directly followed a click from social media, but this study also considers indirect visits, such as when users see something on social media and later visit a misinformation site through other means. Results show that when indirect effects are included, social media's contribution to misinformation exposure is 1.5 to over 15 times larger than previous estimates.",
+    "research_direction_zh": "社交媒体对虚假信息传播的影响及其测量方法",
+    "research_direction_en": "Impact of social media on misinformation spread and its measurement methods",
+    "method_tags_zh": [
+      "网络行为追踪",
+      "反事实模拟",
+      "比较分析"
+    ],
+    "method_tags_en": [
+      "web behavior tracking",
+      "counterfactual simulation",
+      "comparative analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-06-17T23:18:01.559Z"
   },
   {
     "id": "international-journal-of-press-politics-8200c7fd41fe",

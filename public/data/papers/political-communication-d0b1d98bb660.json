@@ -1,0 +1,55 @@
+{
+  "id": "political-communication-d0b1d98bb660",
+  "doi": "10.1080/10584609.2026.2682952",
+  "url": "https://doi.org/10.1080/10584609.2026.2682952",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-06-17T12:57:01.000Z",
+  "authors": [
+    "Justin Wedeking",
+    "Michael A. Zilis",
+    "Lexington",
+    "KY",
+    "Political Behavior, and Politics",
+    "Groups and Identities."
+  ],
+  "source": "rss",
+  "fetchedAt": "2026-06-17T23:17:59.518Z",
+  "language": "en",
+  "raw_title": "Democratic Institutions Under Threat: Corrosive Frames, Internet News, and the U.S. Supreme Court",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "Democratic Institutions Under Threat: Corrosive Frames, Internet News, and the U.S. Supreme Court",
+  "title_zh": "民主制度面临威胁：腐蚀性框架、互联网新闻与美国最高法院",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "U.S. Supreme Court",
+    "corrosive frames",
+    "internet news",
+    "democratic institutions",
+    "public opinion"
+  ],
+  "inferred_keywords_zh": [
+    "美国最高法院",
+    "腐蚀性框架",
+    "互联网新闻",
+    "民主制度",
+    "公众舆论"
+  ],
+  "plain_summary_zh": "该研究探讨了互联网新闻中使用的腐蚀性框架如何削弱公众对美国最高法院等民主机构的信任。",
+  "plain_summary_en": "This study examines how corrosive frames in internet news can undermine public trust in democratic institutions like the U.S. Supreme Court.",
+  "research_direction_zh": "政治传播与司法信任",
+  "research_direction_en": "Political communication and judicial trust",
+  "method_tags_zh": [
+    "实验",
+    "内容分析"
+  ],
+  "method_tags_en": [
+    "experiment",
+    "content analysis"
+  ]
+}

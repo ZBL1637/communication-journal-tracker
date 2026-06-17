@@ -1,0 +1,87 @@
+{
+  "id": "political-communication-e022af0741f2",
+  "doi": "10.1080/10584609.2026.2679492",
+  "url": "https://doi.org/10.1080/10584609.2026.2679492",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-06-10T04:51:41.000Z",
+  "authors": [
+    "Ross Dahlke",
+    "Ryan C. Moore",
+    "Danya Adib-Azpeitia",
+    "Johan Ugander",
+    "Jeffrey Hancock",
+    "Jeffrey T. Hancock",
+    "Ross Dahlke Ryan C. Moore Danya Adib-Azpeitia Johan Ugander Jeffrey T. Hancock",
+    "WI",
+    "USAb",
+    "The",
+    "Austin",
+    "USAc Symbolic",
+    "Systems Program",
+    "Stanford",
+    "CA",
+    "USAd",
+    "Yale",
+    "New Haven",
+    "CT",
+    "USAe",
+    "USA",
+    "USARoss Dahlke (PhD"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-06-17T23:18:01.559Z",
+  "language": "en",
+  "raw_title": "Multi-Platform Referrers of Misinformation: A Comparative Analysis of Misinformation Visits Referred by Facebook, Twitter, Instagram, Reddit, YouTube, Snapchat, and TikTok",
+  "raw_abstract": "Journalistic and scholarly accounts alike often depict social media platforms as key players in exposing people to misinformation. Unfortunately, existing research examining social media’s role in exposing people to misinformation online implicitly operates under what we call the direct referrer paradigm, focusing only on visits to misinformation that directly follow social media. We introduce the embedded referrer paradigm, which considers social media’s more comprehensive role in leading people to visit misinformation throughout their online journeys and operationalize it via counterfactual simulations. We estimate the effects of social media in exposing people to misinformation websites under both paradigms using 3 months of a large sample of Americans’ (N = 1,240) web browsing behavior (21 million website visits). We explore seven different platforms’ (Facebook, Instagram, Reddit, Snapchat, TikTok, Twitter, YouTube) effects in exposing people to misinformation sites with various ideological leanings. Overall, our results suggest that analyses under the direct referrer paradigm underestimate the role of social media in exposing people to misinformation, with estimated effects under the embedded referrer paradigm ranging from 1.5 to 15+ times larger than effects under the direct referrer paradigm. The difference in estimated effects under both paradigms is generally consistent across platforms, misinformation types (liberal, conservative, non-ideological), and individuals’ partisanship. However, for some combinations of platforms, types of misinformation, and mobile vs. desktop devices, the discrepancy between the two paradigms is even greater.",
+  "raw_keywords": [
+    "Misinformation",
+    "Social media",
+    "Operationalization",
+    "Counterfactual thinking",
+    "Key (lock)"
+  ],
+  "title_en": "Multi-Platform Referrers of Misinformation: A Comparative Analysis of Misinformation Visits Referred by Facebook, Twitter, Instagram, Reddit, YouTube, Snapchat, and TikTok",
+  "title_zh": "多平台虚假信息引荐者：Facebook、Twitter、Instagram、Reddit、YouTube、Snapchat和TikTok引荐的虚假信息访问比较分析",
+  "abstract_en": "Journalistic and scholarly accounts alike often depict social media platforms as key players in exposing people to misinformation. Unfortunately, existing research examining social media’s role in exposing people to misinformation online implicitly operates under what we call the direct referrer paradigm, focusing only on visits to misinformation that directly follow social media. We introduce the embedded referrer paradigm, which considers social media’s more comprehensive role in leading people to visit misinformation throughout their online journeys and operationalize it via counterfactual simulations. We estimate the effects of social media in exposing people to misinformation websites under both paradigms using 3 months of a large sample of Americans’ (N = 1,240) web browsing behavior (21 million website visits). We explore seven different platforms’ (Facebook, Instagram, Reddit, Snapchat, TikTok, Twitter, YouTube) effects in exposing people to misinformation sites with various ideological leanings. Overall, our results suggest that analyses under the direct referrer paradigm underestimate the role of social media in exposing people to misinformation, with estimated effects under the embedded referrer paradigm ranging from 1.5 to 15+ times larger than effects under the direct referrer paradigm. The difference in estimated effects under both paradigms is generally consistent across platforms, misinformation types (liberal, conservative, non-ideological), and individuals’ partisanship. However, for some combinations of platforms, types of misinformation, and mobile vs. desktop devices, the discrepancy between the two paradigms is even greater.",
+  "abstract_zh": "新闻和学术报道常常将社交媒体平台描述为让人们接触虚假信息的关键角色。不幸的是，现有研究在考察社交媒体在让人们接触在线虚假信息方面的作用时，隐含地采用我们称之为直接引荐者范式的视角，只关注直接跟随社交媒体访问虚假信息的情况。我们引入了嵌入引荐者范式，该范式考虑了社交媒体在引导人们整个在线旅程中访问虚假信息的更全面作用，并通过反事实模拟进行操作。我们使用3个月的大样本美国人（N=1,240）的网络浏览行为（2100万次网站访问）来估计两种范式下社交媒体在让人们接触虚假信息网站方面的效果。我们探讨了七个不同平台（Facebook、Instagram、Reddit、Snapchat、TikTok、Twitter、YouTube）在让人们接触具有不同意识形态倾向的虚假信息网站方面的效果。总体而言，我们的结果表明，在直接引荐者范式下的分析低估了社交媒体在让人们接触虚假信息方面的作用，嵌入引荐者范式下的估计效果比直接引荐者范式下的效果大1.5到15倍以上。两种范式下估计效果的差异在平台、虚假信息类型（自由派、保守派、非意识形态）和个人党派归属方面基本一致。然而，对于某些平台、虚假信息类型以及移动设备与桌面设备的组合，两种范式之间的差异甚至更大。",
+  "keywords_en": [
+    "Misinformation",
+    "Social media",
+    "Operationalization",
+    "Counterfactual thinking",
+    "Key (lock)"
+  ],
+  "keywords_zh": [
+    "虚假信息",
+    "社交媒体",
+    "操作化",
+    "反事实思维",
+    "关键（锁）"
+  ],
+  "inferred_keywords_en": [
+    "web browsing data",
+    "platform comparison",
+    "misinformation exposure"
+  ],
+  "inferred_keywords_zh": [
+    "网络浏览数据",
+    "平台比较",
+    "虚假信息接触"
+  ],
+  "plain_summary_zh": "这项研究发现，社交媒体让人们接触虚假信息的作用比之前认为的要大得多。过去的研究只计算了用户直接点击社交媒体上的链接访问虚假信息的情况，但这项研究还考虑了用户通过社交媒体间接访问虚假信息的情况，比如先看到社交媒体上的内容，然后通过其他方式访问虚假网站。结果发现，考虑间接影响后，社交媒体对虚假信息传播的贡献是之前估计的1.5到15倍以上。",
+  "plain_summary_en": "This study finds that social media plays a much larger role in exposing people to misinformation than previously thought. Past research only counted visits to misinformation that directly followed a click from social media, but this study also considers indirect visits, such as when users see something on social media and later visit a misinformation site through other means. Results show that when indirect effects are included, social media's contribution to misinformation exposure is 1.5 to over 15 times larger than previous estimates.",
+  "research_direction_zh": "社交媒体对虚假信息传播的影响及其测量方法",
+  "research_direction_en": "Impact of social media on misinformation spread and its measurement methods",
+  "method_tags_zh": [
+    "网络行为追踪",
+    "反事实模拟",
+    "比较分析"
+  ],
+  "method_tags_en": [
+    "web behavior tracking",
+    "counterfactual simulation",
+    "comparative analysis"
+  ]
+}
