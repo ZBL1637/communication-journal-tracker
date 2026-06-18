@@ -591,6 +591,54 @@
     "fetchedAt": "2026-06-03T23:28:31.960Z"
   },
   {
+    "id": "policy-and-internet-c9b99ac544ac",
+    "doi": "10.1002/poi3.70045",
+    "url": "https://doi.org/10.1002/poi3.70045",
+    "journalName": "Policy & Internet",
+    "journalSlug": "policy-and-internet",
+    "issn": "1944-2866",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "authors": [
+      "Friederike Quint",
+      "Yannis Theocharis",
+      "Mia Nahrgang",
+      "Nils B. Weidmann",
+      "Margaret E. Roberts"
+    ],
+    "title_en": "Does the Community Understand the Community Guidelines?",
+    "title_zh": "社区是否理解社区准则？",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "community guidelines",
+      "content moderation",
+      "user understanding",
+      "transparency",
+      "social media platforms"
+    ],
+    "inferred_keywords_zh": [
+      "社区准则",
+      "内容审核",
+      "用户理解",
+      "透明度",
+      "社交媒体平台"
+    ],
+    "plain_summary_zh": "这项研究探讨了用户是否真正理解社交媒体平台的社区准则。通过两个实验，发现用户对准则的理解不一致，尤其是当准则较长时。缩短准则长度但没有简化规则并不能减少分歧。研究表明，需要更清晰、以示例为主的指导来帮助用户更好地理解平台的内容审核规则。",
+    "plain_summary_en": "This study examines whether users truly understand social media platforms' community guidelines. Through two experiments, it found that users' interpretations of the guidelines were inconsistent, especially for longer documents. Shortening the guidelines without simplifying the rules did not reduce disagreement. The research suggests that clearer, example-driven guidance is needed to help users better understand platforms' content moderation rules.",
+    "research_direction_zh": "社交媒体内容审核与用户理解",
+    "research_direction_en": "Social media content moderation and user understanding",
+    "method_tags_zh": [
+      "实验",
+      "调查"
+    ],
+    "method_tags_en": [
+      "experiment",
+      "survey"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-06-18T23:29:22.576Z"
+  },
+  {
     "id": "policy-and-internet-37077dcf5ce7",
     "doi": "10.1002/poi3.70043",
     "url": "https://doi.org/10.1002/poi3.70043",

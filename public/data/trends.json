@@ -1,43 +1,28 @@
 {
-  "generatedAt": "2026-06-17T23:18:21.635Z",
+  "generatedAt": "2026-06-18T23:29:25.980Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 7,
-      "overview_en": "Across 7 papers, the most visible themes are Social media, Key (lock), Radicalization. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 7 papers, the most visible themes are Social media, Key (lock), Radicalization. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
+      "paperCount": 5,
+      "overview_en": "Across 5 papers, the most visible themes are U.S. Supreme Court, corrosive frames, internet news. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 5 papers, the most visible themes are U.S. Supreme Court, corrosive frames, internet news. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Social media",
-        "Key (lock)",
-        "Radicalization",
         "U.S. Supreme Court",
-        "corrosive frames"
+        "corrosive frames",
+        "internet news",
+        "democratic institutions",
+        "public opinion"
       ],
       "hot_topics_zh": [
-        "社交媒体",
-        "钥匙（锁）",
-        "激进化",
         "美国最高法院",
-        "腐蚀性框架"
+        "腐蚀性框架",
+        "互联网新闻",
+        "民主制度",
+        "公众舆论"
       ],
       "high_frequency_keywords": [
-        {
-          "label_en": "Social media",
-          "label_zh": "社交媒体",
-          "count": 3
-        },
-        {
-          "label_en": "Key (lock)",
-          "label_zh": "钥匙（锁）",
-          "count": 2
-        },
-        {
-          "label_en": "Radicalization",
-          "label_zh": "激进化",
-          "count": 2
-        },
         {
           "label_en": "U.S. Supreme Court",
           "label_zh": "美国最高法院",
@@ -72,13 +57,28 @@
           "label_en": "BATF",
           "label_zh": "BATF",
           "count": 1
+        },
+        {
+          "label_en": "RORgt",
+          "label_zh": "RORgt",
+          "count": 1
+        },
+        {
+          "label_en": "IL-17",
+          "label_zh": "IL-17",
+          "count": 1
+        },
+        {
+          "label_en": "Bioinformatics",
+          "label_zh": "生物信息学",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 3
+          "count": 2
         },
         {
           "label_en": "interview",
@@ -131,9 +131,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 34,
-      "overview_en": "Across 34 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 34 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "paperCount": 35,
+      "overview_en": "Across 35 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 35 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Social media",
         "The",
@@ -212,14 +212,19 @@
           "count": 6
         },
         {
+          "label_en": "survey",
+          "label_zh": "调查",
+          "count": 6
+        },
+        {
           "label_en": "mixed methods",
           "label_zh": "混合方法",
           "count": 6
         },
         {
-          "label_en": "survey",
-          "label_zh": "调查",
-          "count": 5
+          "label_en": "experiment",
+          "label_zh": "实验",
+          "count": 4
         },
         {
           "label_en": "case study",
@@ -230,11 +235,6 @@
           "label_en": "theoretical analysis",
           "label_zh": "理论分析",
           "count": 4
-        },
-        {
-          "label_en": "experiment",
-          "label_zh": "实验",
-          "count": 3
         },
         {
           "label_en": "bioinformatics analysis",
@@ -303,12 +303,12 @@
         {
           "label_en": "Work (physics)",
           "label_zh": "功（物理）",
-          "count": 14
+          "count": 13
         },
         {
           "label_en": "Journalism",
           "label_zh": "新闻业",
-          "count": 13
+          "count": 12
         },
         {
           "label_en": "Misinformation",
@@ -340,17 +340,17 @@
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 34
-        },
-        {
-          "label_en": "mixed methods",
-          "label_zh": "混合方法",
-          "count": 23
+          "count": 35
         },
         {
           "label_en": "experiment",
           "label_zh": "实验",
-          "count": 21
+          "count": 22
+        },
+        {
+          "label_en": "mixed methods",
+          "label_zh": "混合方法",
+          "count": 22
         },
         {
           "label_en": "interview",
@@ -442,7 +442,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 30,
+      "paperCount": 29,
       "topic_bias_en": [
         "Work (physics)",
         "Journalism",
@@ -529,7 +529,7 @@
     {
       "journalName": "Policy & Internet",
       "journalSlug": "policy-and-internet",
-      "paperCount": 20,
+      "paperCount": 21,
       "topic_bias_en": [
         "The",
         "And",
@@ -545,14 +545,14 @@
       "method_bias_en": [
         "survey",
         "mixed methods",
-        "case study",
-        "interview"
+        "experiment",
+        "case study"
       ],
       "method_bias_zh": [
         "调查",
         "混合方法",
-        "案例研究",
-        "访谈"
+        "实验",
+        "案例研究"
       ]
     },
     {
@@ -643,12 +643,12 @@
     {
       "label_en": "Work (physics)",
       "label_zh": "功（物理）",
-      "count": 14
+      "count": 13
     },
     {
       "label_en": "Journalism",
       "label_zh": "新闻业",
-      "count": 13
+      "count": 12
     },
     {
       "label_en": "Misinformation",
@@ -690,17 +690,17 @@
     {
       "label_en": "survey",
       "label_zh": "调查",
-      "count": 34
-    },
-    {
-      "label_en": "mixed methods",
-      "label_zh": "混合方法",
-      "count": 23
+      "count": 35
     },
     {
       "label_en": "experiment",
       "label_zh": "实验",
-      "count": 21
+      "count": 22
+    },
+    {
+      "label_en": "mixed methods",
+      "label_zh": "混合方法",
+      "count": 22
     },
     {
       "label_en": "interview",

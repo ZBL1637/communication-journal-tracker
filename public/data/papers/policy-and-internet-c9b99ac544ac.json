@@ -1,0 +1,54 @@
+{
+  "id": "policy-and-internet-c9b99ac544ac",
+  "doi": "10.1002/poi3.70045",
+  "url": "https://doi.org/10.1002/poi3.70045",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-06-01T00:00:00.000Z",
+  "authors": [
+    "Friederike Quint",
+    "Yannis Theocharis",
+    "Mia Nahrgang",
+    "Nils B. Weidmann",
+    "Margaret E. Roberts"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-06-18T23:29:22.576Z",
+  "language": "en",
+  "raw_title": "Does the Community Understand the Community Guidelines?",
+  "raw_abstract": "ABSTRACT Amid continued public controversy and political debate about online speech governments and civil society have pushed social media platforms to increase transparency around how they regulate speech, through community guidelines and content moderation systems, to support users to hold companies accountable for content removals. But how well do users understand apply platform content rules? We report results of two complementary studies. In Study 1, lab participants were randomly assigned to judge whether posts violated the guidelines of 10 platforms. Users' interpretations of the guidelines were inconsistent with each other, especially for platforms with longer documents. In Study 2, we preregistered an experiment testing whether shortened versions of Meta's guidelines improved understanding. Reducing length without simplifying moderation rules did not lower disagreement about what content the platform moderates. Taken together, our results indicate substantial room to improve the interpretability of community guidelines, enabling users to evaluate moderation more reliably. These findings highlight design tradeoffs and motivate clearer, example‐driven guidance.",
+  "raw_keywords": [],
+  "title_en": "Does the Community Understand the Community Guidelines?",
+  "title_zh": "社区是否理解社区准则？",
+  "abstract_en": "ABSTRACT Amid continued public controversy and political debate about online speech governments and civil society have pushed social media platforms to increase transparency around how they regulate speech, through community guidelines and content moderation systems, to support users to hold companies accountable for content removals. But how well do users understand apply platform content rules? We report results of two complementary studies. In Study 1, lab participants were randomly assigned to judge whether posts violated the guidelines of 10 platforms. Users' interpretations of the guidelines were inconsistent with each other, especially for platforms with longer documents. In Study 2, we preregistered an experiment testing whether shortened versions of Meta's guidelines improved understanding. Reducing length without simplifying moderation rules did not lower disagreement about what content the platform moderates. Taken together, our results indicate substantial room to improve the interpretability of community guidelines, enabling users to evaluate moderation more reliably. These findings highlight design tradeoffs and motivate clearer, example‐driven guidance.",
+  "abstract_zh": "摘要：在持续存在的关于网络言论的公众争议和政治辩论中，政府和公民社会推动社交媒体平台通过社区准则和内容审核系统提高其言论监管的透明度，以支持用户追究公司对内容移除的责任。但用户对平台内容规则的理解和应用程度如何？我们报告了两项互补研究的结果。在研究1中，实验室参与者被随机分配判断帖子是否违反了10个平台的准则。用户对准则的解释相互不一致，尤其是对于文档较长的平台。在研究2中，我们预先注册了一项实验，测试Meta准则的简化版本是否提高了理解。在不简化审核规则的情况下减少长度并未降低关于平台审核哪些内容的分歧。综合来看，我们的结果表明社区准则的可解释性有相当大的改进空间，使用户能够更可靠地评估审核。这些发现凸显了设计权衡，并激励更清晰、以示例为导向的指导。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "community guidelines",
+    "content moderation",
+    "user understanding",
+    "transparency",
+    "social media platforms"
+  ],
+  "inferred_keywords_zh": [
+    "社区准则",
+    "内容审核",
+    "用户理解",
+    "透明度",
+    "社交媒体平台"
+  ],
+  "plain_summary_zh": "这项研究探讨了用户是否真正理解社交媒体平台的社区准则。通过两个实验，发现用户对准则的理解不一致，尤其是当准则较长时。缩短准则长度但没有简化规则并不能减少分歧。研究表明，需要更清晰、以示例为主的指导来帮助用户更好地理解平台的内容审核规则。",
+  "plain_summary_en": "This study examines whether users truly understand social media platforms' community guidelines. Through two experiments, it found that users' interpretations of the guidelines were inconsistent, especially for longer documents. Shortening the guidelines without simplifying the rules did not reduce disagreement. The research suggests that clearer, example-driven guidance is needed to help users better understand platforms' content moderation rules.",
+  "research_direction_zh": "社交媒体内容审核与用户理解",
+  "research_direction_en": "Social media content moderation and user understanding",
+  "method_tags_zh": [
+    "实验",
+    "调查"
+  ],
+  "method_tags_en": [
+    "experiment",
+    "survey"
+  ]
+}
