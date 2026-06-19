@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T23:29:25.980Z",
+  "generatedAt": "2026-06-19T22:46:13.219Z",
   "snapshots": [
     {
       "key": "7d",
@@ -131,9 +131,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 35,
-      "overview_en": "Across 35 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 35 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "paperCount": 33,
+      "overview_en": "Across 33 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 33 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Social media",
         "The",
@@ -167,7 +167,7 @@
         {
           "label_en": "political communication",
           "label_zh": "政治传播",
-          "count": 4
+          "count": 3
         },
         {
           "label_en": "Key (lock)",
@@ -185,11 +185,6 @@
           "count": 2
         },
         {
-          "label_en": "Misinformation",
-          "label_zh": "虚假信息",
-          "count": 2
-        },
-        {
           "label_en": "digital governance",
           "label_zh": "数字治理",
           "count": 2
@@ -197,6 +192,11 @@
         {
           "label_en": "Policy",
           "label_zh": "Policy",
+          "count": 2
+        },
+        {
+          "label_en": "journalism ethics",
+          "label_zh": "新闻伦理",
           "count": 2
         }
       ],
@@ -222,11 +222,6 @@
           "count": 6
         },
         {
-          "label_en": "experiment",
-          "label_zh": "实验",
-          "count": 4
-        },
-        {
           "label_en": "case study",
           "label_zh": "案例研究",
           "count": 4
@@ -235,6 +230,11 @@
           "label_en": "theoretical analysis",
           "label_zh": "理论分析",
           "count": 4
+        },
+        {
+          "label_en": "experiment",
+          "label_zh": "实验",
+          "count": 3
         },
         {
           "label_en": "bioinformatics analysis",
