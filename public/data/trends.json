@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T22:59:45.715Z",
+  "generatedAt": "2026-06-21T23:03:05.388Z",
   "snapshots": [
     {
       "key": "7d",
@@ -131,9 +131,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 33,
-      "overview_en": "Across 33 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 33 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "paperCount": 31,
+      "overview_en": "Across 31 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 31 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Social media",
         "The",
@@ -152,7 +152,7 @@
         {
           "label_en": "Social media",
           "label_zh": "社交媒体",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "The",
@@ -209,21 +209,21 @@
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 6
-        },
-        {
-          "label_en": "survey",
-          "label_zh": "调查",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "mixed methods",
           "label_zh": "混合方法",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "case study",
           "label_zh": "案例研究",
+          "count": 4
+        },
+        {
+          "label_en": "survey",
+          "label_zh": "调查",
           "count": 4
         },
         {
@@ -234,7 +234,7 @@
         {
           "label_en": "experiment",
           "label_zh": "实验",
-          "count": 3
+          "count": 2
         },
         {
           "label_en": "bioinformatics analysis",
@@ -257,9 +257,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 193,
-      "overview_en": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 192,
+      "overview_en": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -303,12 +303,12 @@
         {
           "label_en": "Work (physics)",
           "label_zh": "功（物理）",
-          "count": 13
+          "count": 12
         },
         {
           "label_en": "Journalism",
           "label_zh": "新闻业",
-          "count": 12
+          "count": 11
         },
         {
           "label_en": "Misinformation",
@@ -330,17 +330,17 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 41
+          "count": 40
         },
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 39
+          "count": 38
         },
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 35
+          "count": 34
         },
         {
           "label_en": "experiment",
@@ -442,18 +442,18 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 29,
+      "paperCount": 28,
       "topic_bias_en": [
         "Work (physics)",
-        "Journalism",
         "digital journalism",
-        "Social media"
+        "Social media",
+        "Journalism"
       ],
       "topic_bias_zh": [
         "功（物理）",
-        "新闻业",
         "数字新闻",
-        "社交媒体"
+        "社交媒体",
+        "新闻业"
       ],
       "method_bias_en": [
         "case study",
@@ -643,12 +643,12 @@
     {
       "label_en": "Work (physics)",
       "label_zh": "功（物理）",
-      "count": 13
+      "count": 12
     },
     {
       "label_en": "Journalism",
       "label_zh": "新闻业",
-      "count": 12
+      "count": 11
     },
     {
       "label_en": "Misinformation",
@@ -680,17 +680,17 @@
     {
       "label_en": "case study",
       "label_zh": "案例研究",
-      "count": 41
+      "count": 40
     },
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 39
+      "count": 38
     },
     {
       "label_en": "survey",
       "label_zh": "调查",
-      "count": 35
+      "count": 34
     },
     {
       "label_en": "experiment",
