@@ -591,6 +591,100 @@
     "fetchedAt": "2026-06-03T23:28:31.960Z"
   },
   {
+    "id": "policy-and-internet-634472c08627",
+    "doi": "10.1002/poi3.70046",
+    "url": "https://doi.org/10.1002/poi3.70046",
+    "journalName": "Policy & Internet",
+    "journalSlug": "policy-and-internet",
+    "issn": "1944-2866",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "authors": [
+      "Ursula K. Schmid",
+      "Lena‐Maria Böswald",
+      "Pablo Jost"
+    ],
+    "title_en": "Too Difficult to Report? User Experiences With DSA and Community Guideline Reporting on Social Media",
+    "title_zh": "太难举报？用户对社交媒体上DSA和社区准则举报的体验",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "user reporting",
+      "Digital Services Act",
+      "community guidelines",
+      "social media governance",
+      "bystander intervention",
+      "platform regulation",
+      "user experience",
+      "Germany"
+    ],
+    "inferred_keywords_zh": [
+      "用户举报",
+      "数字服务法案",
+      "社区准则",
+      "社交媒体治理",
+      "旁观者干预",
+      "平台监管",
+      "用户体验",
+      "德国"
+    ],
+    "plain_summary_zh": "这项研究调查了用户举报社交媒体上违规内容时遇到的困难，特别是在欧盟新法规《数字服务法案》（DSA）实施后。研究发现，用户对自己举报能力的信心和对违规后果的担忧会影响他们是否举报以及举报的顺利程度。但DSA规定的举报流程更复杂，需要用户对内容进行分类并提供更多个人信息，导致更多人放弃举报或分类错误。研究建议平台应设计更简单、用户友好的举报系统。",
+    "plain_summary_en": "This study investigates the difficulties users face when reporting rule-breaking content on social media, especially after the EU's new Digital Services Act (DSA). It finds that users' confidence in their ability to report and their concerns about the consequences of violations affect whether they report and how smoothly it goes. However, DSA-mandated reporting processes are more complex, requiring users to classify content and provide more personal information, leading to more dropouts and misclassifications. The study suggests platforms should design simpler, more user-friendly reporting systems.",
+    "research_direction_zh": "社交媒体平台治理与用户举报行为研究",
+    "research_direction_en": "Social media platform governance and user reporting behavior",
+    "method_tags_zh": [
+      "访谈",
+      "调查实验"
+    ],
+    "method_tags_en": [
+      "interview",
+      "survey experiment"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-06-22T23:14:11.891Z"
+  },
+  {
+    "id": "policy-and-internet-371546da79cd",
+    "doi": "10.1002/poi3.70048",
+    "url": "https://doi.org/10.1002/poi3.70048",
+    "journalName": "Policy & Internet",
+    "journalSlug": "policy-and-internet",
+    "issn": "1944-2866",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "authors": [
+      "Pim Witlox"
+    ],
+    "title_en": "Breadth Without Depth—A Practitioner's Observation on Default‐Mode AI",
+    "title_zh": "广度无深度——从业者对默认模式AI的观察",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "default-mode AI",
+      "practitioner observation",
+      "AI breadth vs depth",
+      "AI limitations"
+    ],
+    "inferred_keywords_zh": [
+      "默认模式AI",
+      "从业者观察",
+      "AI广度与深度",
+      "AI局限性"
+    ],
+    "plain_summary_zh": "这篇文章是一位从业者对默认模式AI的观察，指出当前AI虽然应用广泛（广度），但在深入理解和处理复杂问题方面存在不足（缺乏深度）。",
+    "plain_summary_en": "This article is a practitioner's observation on default-mode AI, pointing out that while current AI is widely applied (breadth), it lacks depth in understanding and handling complex issues.",
+    "research_direction_zh": "人工智能的实用性与局限性分析",
+    "research_direction_en": "Analysis of AI practicality and limitations",
+    "method_tags_zh": [
+      "观察",
+      "评论"
+    ],
+    "method_tags_en": [
+      "observation",
+      "commentary"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-06-22T23:14:06.314Z"
+  },
+  {
     "id": "policy-and-internet-c9b99ac544ac",
     "doi": "10.1002/poi3.70045",
     "url": "https://doi.org/10.1002/poi3.70045",

@@ -1,0 +1,48 @@
+{
+  "id": "policy-and-internet-371546da79cd",
+  "doi": "10.1002/poi3.70048",
+  "url": "https://doi.org/10.1002/poi3.70048",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-06-01T00:00:00.000Z",
+  "authors": [
+    "Pim Witlox"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-06-22T23:14:06.314Z",
+  "language": "en",
+  "raw_title": "Breadth Without Depth—A Practitioner's Observation on Default‐Mode AI",
+  "raw_abstract": "",
+  "raw_keywords": [],
+  "title_en": "Breadth Without Depth—A Practitioner's Observation on Default‐Mode AI",
+  "title_zh": "广度无深度——从业者对默认模式AI的观察",
+  "abstract_en": "",
+  "abstract_zh": "",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "default-mode AI",
+    "practitioner observation",
+    "AI breadth vs depth",
+    "AI limitations"
+  ],
+  "inferred_keywords_zh": [
+    "默认模式AI",
+    "从业者观察",
+    "AI广度与深度",
+    "AI局限性"
+  ],
+  "plain_summary_zh": "这篇文章是一位从业者对默认模式AI的观察，指出当前AI虽然应用广泛（广度），但在深入理解和处理复杂问题方面存在不足（缺乏深度）。",
+  "plain_summary_en": "This article is a practitioner's observation on default-mode AI, pointing out that while current AI is widely applied (breadth), it lacks depth in understanding and handling complex issues.",
+  "research_direction_zh": "人工智能的实用性与局限性分析",
+  "research_direction_en": "Analysis of AI practicality and limitations",
+  "method_tags_zh": [
+    "观察",
+    "评论"
+  ],
+  "method_tags_en": [
+    "observation",
+    "commentary"
+  ]
+}

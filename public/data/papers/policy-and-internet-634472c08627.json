@@ -1,0 +1,58 @@
+{
+  "id": "policy-and-internet-634472c08627",
+  "doi": "10.1002/poi3.70046",
+  "url": "https://doi.org/10.1002/poi3.70046",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-06-01T00:00:00.000Z",
+  "authors": [
+    "Ursula K. Schmid",
+    "Lena‐Maria Böswald",
+    "Pablo Jost"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-06-22T23:14:11.891Z",
+  "language": "en",
+  "raw_title": "Too Difficult to Report? User Experiences With DSA and Community Guideline Reporting on Social Media",
+  "raw_abstract": "ABSTRACT User reporting of norm‐violating content on social media is a crucial component of platform governance. While prior research has explored the motivations behind reporting—often drawing on the Bystander Intervention Model —less attention has been paid to how users navigate the processes involved. This process‐oriented perspective has become particularly important in light of the European Union's Digital Services Act (DSA), which enables dual reporting pathways for community guideline violations and illegal content. Using a mixed‐methods approach that combines qualitative interviews ( N = 20) and a large‐scale survey experiment ( N = 2040), we examine user reporting behavior and the challenges encountered across social media platforms in Germany. Our findings indicate that factors such as users' internal reporting efficacy and the perceived consequences of norm‐violating content are associated not only with prior reporting behavior but also with fewer difficulties during the reporting process. However, DSA‐aligned reporting pathways introduce substantial procedural barriers, including classification complexity and data disclosure requirements. Compared to community‐guideline reporting, navigating DSA‐aligned pathways results in higher abandonment rates, more frequent misclassification, and increased self‐reported difficulties. These insights highlight the need for user‐centered reporting systems that are accessible and aligned with regulatory standards, providing guidance for platform design and policy implementation.",
+  "raw_keywords": [],
+  "title_en": "Too Difficult to Report? User Experiences With DSA and Community Guideline Reporting on Social Media",
+  "title_zh": "太难举报？用户对社交媒体上DSA和社区准则举报的体验",
+  "abstract_en": "User reporting of norm‐violating content on social media is a crucial component of platform governance. While prior research has explored the motivations behind reporting—often drawing on the Bystander Intervention Model —less attention has been paid to how users navigate the processes involved. This process‐oriented perspective has become particularly important in light of the European Union's Digital Services Act (DSA), which enables dual reporting pathways for community guideline violations and illegal content. Using a mixed‐methods approach that combines qualitative interviews ( N = 20) and a large‐scale survey experiment ( N = 2040), we examine user reporting behavior and the challenges encountered across social media platforms in Germany. Our findings indicate that factors such as users' internal reporting efficacy and the perceived consequences of norm‐violating content are associated not only with prior reporting behavior but also with fewer difficulties during the reporting process. However, DSA‐aligned reporting pathways introduce substantial procedural barriers, including classification complexity and data disclosure requirements. Compared to community‐guideline reporting, navigating DSA‐aligned pathways results in higher abandonment rates, more frequent misclassification, and increased self‐reported difficulties. These insights highlight the need for user‐centered reporting systems that are accessible and aligned with regulatory standards, providing guidance for platform design and policy implementation.",
+  "abstract_zh": "用户举报社交媒体上的违规内容是平台治理的关键组成部分。虽然先前的研究探讨了举报背后的动机——通常借鉴旁观者干预模型——但较少关注用户如何应对相关流程。鉴于欧盟《数字服务法案》（DSA）为社区准则违规和非法内容提供了双重举报途径，这种以流程为导向的视角变得尤为重要。我们采用混合方法，结合定性访谈（N=20）和大规模调查实验（N=2040），考察了德国社交媒体平台上用户的举报行为及遇到的挑战。研究结果表明，用户的内部举报效能感以及对违规内容后果的感知等因素，不仅与先前的举报行为相关，还与举报过程中遇到的困难较少有关。然而，符合DSA的举报途径引入了实质性的程序障碍，包括分类复杂性和数据披露要求。与社区准则举报相比，遵循DSA途径会导致更高的放弃率、更频繁的错误分类以及更多的自我报告困难。这些见解凸显了需要以用户为中心的举报系统，这些系统既易于使用又符合监管标准，为平台设计和政策实施提供指导。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "user reporting",
+    "Digital Services Act",
+    "community guidelines",
+    "social media governance",
+    "bystander intervention",
+    "platform regulation",
+    "user experience",
+    "Germany"
+  ],
+  "inferred_keywords_zh": [
+    "用户举报",
+    "数字服务法案",
+    "社区准则",
+    "社交媒体治理",
+    "旁观者干预",
+    "平台监管",
+    "用户体验",
+    "德国"
+  ],
+  "plain_summary_zh": "这项研究调查了用户举报社交媒体上违规内容时遇到的困难，特别是在欧盟新法规《数字服务法案》（DSA）实施后。研究发现，用户对自己举报能力的信心和对违规后果的担忧会影响他们是否举报以及举报的顺利程度。但DSA规定的举报流程更复杂，需要用户对内容进行分类并提供更多个人信息，导致更多人放弃举报或分类错误。研究建议平台应设计更简单、用户友好的举报系统。",
+  "plain_summary_en": "This study investigates the difficulties users face when reporting rule-breaking content on social media, especially after the EU's new Digital Services Act (DSA). It finds that users' confidence in their ability to report and their concerns about the consequences of violations affect whether they report and how smoothly it goes. However, DSA-mandated reporting processes are more complex, requiring users to classify content and provide more personal information, leading to more dropouts and misclassifications. The study suggests platforms should design simpler, more user-friendly reporting systems.",
+  "research_direction_zh": "社交媒体平台治理与用户举报行为研究",
+  "research_direction_en": "Social media platform governance and user reporting behavior",
+  "method_tags_zh": [
+    "访谈",
+    "调查实验"
+  ],
+  "method_tags_en": [
+    "interview",
+    "survey experiment"
+  ]
+}
