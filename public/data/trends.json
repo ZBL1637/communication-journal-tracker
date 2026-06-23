@@ -1,28 +1,63 @@
 {
-  "generatedAt": "2026-06-22T23:14:18.407Z",
+  "generatedAt": "2026-06-23T23:01:46.690Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 2,
-      "overview_en": "Across 2 papers, the most visible themes are U.S. Supreme Court, corrosive frames, internet news. Researchers most often rely on experiment, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 2 papers, the most visible themes are U.S. Supreme Court, corrosive frames, internet news. Researchers most often rely on experiment, content analysis to explain what these changes mean for communication.",
+      "paperCount": 3,
+      "overview_en": "Across 3 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 3 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "U.S. Supreme Court",
-        "corrosive frames",
-        "internet news",
-        "democratic institutions",
-        "public opinion"
+        "selective exposure",
+        "political attitudes",
+        "emotions",
+        "news selection",
+        "migration"
       ],
       "hot_topics_zh": [
-        "美国最高法院",
-        "腐蚀性框架",
-        "互联网新闻",
-        "民主制度",
-        "公众舆论"
+        "选择性接触",
+        "政治态度",
+        "情绪",
+        "新闻选择",
+        "移民"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "selective exposure",
+          "label_zh": "选择性接触",
+          "count": 1
+        },
+        {
+          "label_en": "political attitudes",
+          "label_zh": "政治态度",
+          "count": 1
+        },
+        {
+          "label_en": "emotions",
+          "label_zh": "情绪",
+          "count": 1
+        },
+        {
+          "label_en": "news selection",
+          "label_zh": "新闻选择",
+          "count": 1
+        },
+        {
+          "label_en": "migration",
+          "label_zh": "移民",
+          "count": 1
+        },
+        {
+          "label_en": "negativity bias",
+          "label_zh": "负面偏见",
+          "count": 1
+        },
+        {
+          "label_en": "online experiment",
+          "label_zh": "在线实验",
+          "count": 1
+        },
         {
           "label_en": "U.S. Supreme Court",
           "label_zh": "美国最高法院",
@@ -37,44 +72,14 @@
           "label_en": "internet news",
           "label_zh": "互联网新闻",
           "count": 1
-        },
-        {
-          "label_en": "democratic institutions",
-          "label_zh": "民主制度",
-          "count": 1
-        },
-        {
-          "label_en": "public opinion",
-          "label_zh": "公众舆论",
-          "count": 1
-        },
-        {
-          "label_en": "Systemic Lupus Erythematosus",
-          "label_zh": "系统性红斑狼疮",
-          "count": 1
-        },
-        {
-          "label_en": "BATF",
-          "label_zh": "BATF",
-          "count": 1
-        },
-        {
-          "label_en": "RORgt",
-          "label_zh": "RORgt",
-          "count": 1
-        },
-        {
-          "label_en": "IL-17",
-          "label_zh": "IL-17",
-          "count": 1
-        },
-        {
-          "label_en": "Bioinformatics",
-          "label_zh": "生物信息学",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
+        {
+          "label_en": "online experiment",
+          "label_zh": "在线实验",
+          "count": 1
+        },
         {
           "label_en": "experiment",
           "label_zh": "实验",
@@ -111,9 +116,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 31,
-      "overview_en": "Across 31 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 31 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "paperCount": 32,
+      "overview_en": "Across 32 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 32 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Social media",
         "The",
@@ -222,13 +227,13 @@
           "count": 2
         },
         {
-          "label_en": "bioinformatics analysis",
-          "label_zh": "生物信息学分析",
+          "label_en": "online experiment",
+          "label_zh": "在线实验",
           "count": 1
         },
         {
-          "label_en": "animal experiment",
-          "label_zh": "动物实验",
+          "label_en": "bioinformatics analysis",
+          "label_zh": "生物信息学分析",
           "count": 1
         }
       ]
@@ -258,12 +263,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 58
+          "count": 57
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 54
+          "count": 53
         },
         {
           "label_en": "Social media",
@@ -323,11 +328,6 @@
           "count": 34
         },
         {
-          "label_en": "experiment",
-          "label_zh": "实验",
-          "count": 22
-        },
-        {
           "label_en": "interview",
           "label_zh": "访谈",
           "count": 22
@@ -338,6 +338,11 @@
           "count": 22
         },
         {
+          "label_en": "experiment",
+          "label_zh": "实验",
+          "count": 21
+        },
+        {
           "label_en": "review",
           "label_zh": "review",
           "count": 19
@@ -345,7 +350,7 @@
         {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
-          "count": 13
+          "count": 12
         },
         {
           "label_en": "theoretical analysis",
@@ -543,25 +548,25 @@
         "And",
         "The",
         "ethics",
-        "News"
+        "journalistic roles"
       ],
       "topic_bias_zh": [
         "And",
         "The",
         "伦理",
-        "News"
+        "新闻角色"
       ],
       "method_bias_en": [
         "interview",
         "survey",
-        "experiment",
-        "mixed methods"
+        "mixed methods",
+        "case study"
       ],
       "method_bias_zh": [
         "访谈",
         "调查",
-        "实验",
-        "mixed methods"
+        "mixed methods",
+        "案例研究"
       ]
     },
     {
@@ -598,12 +603,12 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 58
+      "count": 57
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 54
+      "count": 53
     },
     {
       "label_en": "Social media",
@@ -673,11 +678,6 @@
       "count": 34
     },
     {
-      "label_en": "experiment",
-      "label_zh": "实验",
-      "count": 22
-    },
-    {
       "label_en": "interview",
       "label_zh": "访谈",
       "count": 22
@@ -688,6 +688,11 @@
       "count": 22
     },
     {
+      "label_en": "experiment",
+      "label_zh": "实验",
+      "count": 21
+    },
+    {
       "label_en": "review",
       "label_zh": "review",
       "count": 19
@@ -695,7 +700,7 @@
     {
       "label_en": "computational analysis",
       "label_zh": "computational analysis",
-      "count": 13
+      "count": 12
     },
     {
       "label_en": "theoretical analysis",

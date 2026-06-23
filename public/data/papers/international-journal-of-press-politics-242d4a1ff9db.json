@@ -1,0 +1,53 @@
+{
+  "id": "international-journal-of-press-politics-242d4a1ff9db",
+  "doi": "10.1177/19401612261456367",
+  "url": "https://doi.org/10.1177/19401612261456367",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "authors": [
+    "Nico Spreen",
+    "Pablo Jost"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-06-23T23:01:44.757Z",
+  "language": "en",
+  "raw_title": "Attitudes or Emotions as News Compasses? Comparing Attitudinal and Emotional Guidance in Selecting News About Migration",
+  "raw_abstract": "This study compares the guiding influence of political attitudes and emotions on citizens’ news selection within a fragmented, polarized, and emotionalized political information environment. While selective exposure has long been a central focus in research on political information behavior, the guiding role of emotions has received far less attention. This study brings both perspectives together by directly comparing how pre-existing attitudes and momentary emotional responses shape citizens’ news choices. Using migration as a salient and contested issue, an online experiment conducted in Germany in June 2025 ( N = 1,002) tested how framing variations in political stance (supportive, balanced, opposing migration) and emotional valence (positive, unemotional, negative) shape citizens’ news choices, and how these effects depend on individuals’ pre-existing attitudes and induced emotional responses toward migration. Results reveal a clear negativity bias: negatively valenced and contra-migration news were chosen most frequently, whereas positive and pro-migration ones were least preferred. Negative affect increased the likelihood of selecting negatively framed news, while positive affect showed no effect. In contrast, pre-existing attitudes exerted stronger and more consistent guidance, as citizens predominantly selected attitude-congruent information. The findings highlight how affective and cognitive orientations jointly shape selective exposure and suggest possible implications for how such patterns may unfold in algorithmically curated political information environments.",
+  "raw_keywords": [],
+  "title_en": "Attitudes or Emotions as News Compasses? Comparing Attitudinal and Emotional Guidance in Selecting News About Migration",
+  "title_zh": "态度还是情绪作为新闻指南？比较态度和情绪在移民新闻选择中的引导作用",
+  "abstract_en": "This study compares the guiding influence of political attitudes and emotions on citizens’ news selection within a fragmented, polarized, and emotionalized political information environment. While selective exposure has long been a central focus in research on political information behavior, the guiding role of emotions has received far less attention. This study brings both perspectives together by directly comparing how pre-existing attitudes and momentary emotional responses shape citizens’ news choices. Using migration as a salient and contested issue, an online experiment conducted in Germany in June 2025 ( N = 1,002) tested how framing variations in political stance (supportive, balanced, opposing migration) and emotional valence (positive, unemotional, negative) shape citizens’ news choices, and how these effects depend on individuals’ pre-existing attitudes and induced emotional responses toward migration. Results reveal a clear negativity bias: negatively valenced and contra-migration news were chosen most frequently, whereas positive and pro-migration ones were least preferred. Negative affect increased the likelihood of selecting negatively framed news, while positive affect showed no effect. In contrast, pre-existing attitudes exerted stronger and more consistent guidance, as citizens predominantly selected attitude-congruent information. The findings highlight how affective and cognitive orientations jointly shape selective exposure and suggest possible implications for how such patterns may unfold in algorithmically curated political information environments.",
+  "abstract_zh": "本研究比较了政治态度和情绪在碎片化、极化和情绪化的政治信息环境中对公民新闻选择的引导作用。虽然选择性接触长期以来一直是政治信息行为研究的核心焦点，但情绪的引导作用受到的关注要少得多。本研究通过直接比较预先存在的态度和瞬间情绪反应如何塑造公民的新闻选择，将这两种视角结合起来。以移民这一突出且有争议的问题为例，2025年6月在德国进行的一项在线实验（N = 1,002）测试了政治立场（支持、平衡、反对移民）和情感效价（积极、无情绪、消极）的框架变化如何影响公民的新闻选择，以及这些效应如何依赖于个体预先存在的态度和对移民的情绪反应。结果揭示了明显的负面偏见：负面效价和反对移民的新闻被选择最多，而积极和支持移民的新闻最不受欢迎。负面情绪增加了选择负面框架新闻的可能性，而积极情绪则没有影响。相比之下，预先存在的态度发挥了更强且更一致的引导作用，公民主要选择与态度一致的信息。研究结果强调了情感和认知取向如何共同塑造选择性接触，并提出了这些模式在算法策划的政治信息环境中可能如何展开的潜在影响。",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "selective exposure",
+    "political attitudes",
+    "emotions",
+    "news selection",
+    "migration",
+    "negativity bias",
+    "online experiment"
+  ],
+  "inferred_keywords_zh": [
+    "选择性接触",
+    "政治态度",
+    "情绪",
+    "新闻选择",
+    "移民",
+    "负面偏见",
+    "在线实验"
+  ],
+  "plain_summary_zh": "这项研究探讨了在当今信息环境中，人们选择新闻时是更受自己已有的政治态度影响，还是更受瞬间情绪的影响。研究者以移民问题为例，在德国进行了一项在线实验，发现人们更倾向于选择负面和反对移民的新闻，而积极和支持移民的新闻则较少被选择。已有的态度对新闻选择的影响比情绪更强、更一致。",
+  "plain_summary_en": "This study explores whether people's news choices are more influenced by their pre-existing political attitudes or by momentary emotions in today's information environment. Using migration as a case, an online experiment in Germany found that people preferred negative and anti-migration news, while positive and pro-migration news were least chosen. Pre-existing attitudes had a stronger and more consistent influence on news selection than emotions.",
+  "research_direction_zh": "政治传播中的选择性接触与情绪引导",
+  "research_direction_en": "Selective exposure and emotional guidance in political communication",
+  "method_tags_zh": [
+    "在线实验"
+  ],
+  "method_tags_en": [
+    "online experiment"
+  ]
+}
