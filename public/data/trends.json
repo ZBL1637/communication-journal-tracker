@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-23T23:01:46.690Z",
+  "generatedAt": "2026-06-24T23:00:10.310Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 3,
-      "overview_en": "Across 3 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 3 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment, experiment to explain what these changes mean for communication.",
+      "paperCount": 2,
+      "overview_en": "Across 2 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 2 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
         "selective exposure",
         "political attitudes",
@@ -88,26 +88,6 @@
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 1
-        },
-        {
-          "label_en": "bioinformatics analysis",
-          "label_zh": "生物信息学分析",
-          "count": 1
-        },
-        {
-          "label_en": "animal experiment",
-          "label_zh": "动物实验",
-          "count": 1
-        },
-        {
-          "label_en": "qPCR",
-          "label_zh": "qPCR",
-          "count": 1
-        },
-        {
-          "label_en": "ELISA",
-          "label_zh": "ELISA",
           "count": 1
         }
       ]
@@ -242,9 +222,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 193,
-      "overview_en": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 192,
+      "overview_en": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -278,12 +258,12 @@
         {
           "label_en": "political communication",
           "label_zh": "政治传播",
-          "count": 17
+          "count": 16
         },
         {
           "label_en": "Politics",
           "label_zh": "政治",
-          "count": 15
+          "count": 14
         },
         {
           "label_en": "Work (physics)",
@@ -315,12 +295,12 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 39
+          "count": 38
         },
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 37
+          "count": 36
         },
         {
           "label_en": "survey",
@@ -398,7 +378,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 30,
+      "paperCount": 29,
       "topic_bias_en": [
         "political communication",
         "Politics",
@@ -618,12 +598,12 @@
     {
       "label_en": "political communication",
       "label_zh": "政治传播",
-      "count": 17
+      "count": 16
     },
     {
       "label_en": "Politics",
       "label_zh": "政治",
-      "count": 15
+      "count": 14
     },
     {
       "label_en": "Work (physics)",
@@ -665,12 +645,12 @@
     {
       "label_en": "case study",
       "label_zh": "案例研究",
-      "count": 39
+      "count": 38
     },
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 37
+      "count": 36
     },
     {
       "label_en": "survey",
