@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-24T23:00:10.310Z",
+  "generatedAt": "2026-06-25T23:10:15.223Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 2,
-      "overview_en": "Across 2 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 2 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment, experiment to explain what these changes mean for communication.",
+      "paperCount": 1,
+      "overview_en": "Across 1 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 1 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
         "selective exposure",
         "political attitudes",
@@ -57,37 +57,12 @@
           "label_en": "online experiment",
           "label_zh": "在线实验",
           "count": 1
-        },
-        {
-          "label_en": "U.S. Supreme Court",
-          "label_zh": "美国最高法院",
-          "count": 1
-        },
-        {
-          "label_en": "corrosive frames",
-          "label_zh": "腐蚀性框架",
-          "count": 1
-        },
-        {
-          "label_en": "internet news",
-          "label_zh": "互联网新闻",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "online experiment",
           "label_zh": "在线实验",
-          "count": 1
-        },
-        {
-          "label_en": "experiment",
-          "label_zh": "实验",
-          "count": 1
-        },
-        {
-          "label_en": "content analysis",
-          "label_zh": "内容分析",
           "count": 1
         }
       ]
@@ -96,9 +71,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 32,
-      "overview_en": "Across 32 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 32 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "paperCount": 31,
+      "overview_en": "Across 31 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 31 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Social media",
         "The",
@@ -189,7 +164,7 @@
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 4
+          "count": 3
         },
         {
           "label_en": "theoretical analysis",
