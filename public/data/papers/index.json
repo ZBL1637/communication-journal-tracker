@@ -1,5 +1,131 @@
 [
   {
+    "id": "digital-journalism-bd8dd3c1f400",
+    "doi": "10.1080/21670811.2026.2683342",
+    "url": "https://doi.org/10.1080/21670811.2026.2683342",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-06-26T03:31:33.000Z",
+    "authors": [
+      "Qinfeng Zhu",
+      "Fan Liang",
+      "Gabriel Miao Li",
+      "Gabriel Miao",
+      "Li a",
+      "Duke Kunshan Universityc",
+      "Chapman"
+    ],
+    "title_en": "Locate Alternative Media in the Digital News Ecosystem: A Cross-Country Comparative Study of Alternative-Mainstream Audience Overlap Networks",
+    "title_zh": "在数字新闻生态中定位替代性媒体：替代性与主流受众重叠网络的跨国比较研究",
+    "keywords_en": [
+      "Mainstream",
+      "Digital media",
+      "Alternative media",
+      "Politics",
+      "News media",
+      "Comparative research",
+      "Citizen media",
+      "Media relations"
+    ],
+    "keywords_zh": [
+      "主流",
+      "数字媒体",
+      "替代性媒体",
+      "政治",
+      "新闻媒体",
+      "比较研究",
+      "公民媒体",
+      "媒体关系"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "这项研究调查了六个欧洲国家中，人们如何同时访问替代性新闻网站和主流新闻网站。结果发现，虽然大多数人只关注其中一类，但在极右翼政党影响力较大的国家，两类网站的受众重叠更多。研究还发现，在新闻业发达的国家（如瑞典），替代性媒体形成了自己的小圈子。",
+    "plain_summary_en": "This study looked at how people in six European countries visit both alternative and mainstream news websites. It found that while most people stick to one type, there is more overlap in countries where far-right parties have more political influence. It also found that in countries with strong journalism (like Sweden), alternative media form their own separate communities.",
+    "research_direction_zh": "数字新闻生态中的替代性媒体与主流媒体的关系及受众行为",
+    "research_direction_en": "Relationship between alternative and mainstream media in digital news ecosystems and audience behavior",
+    "method_tags_zh": [
+      "网络分析",
+      "跨国比较"
+    ],
+    "method_tags_en": [
+      "network analysis",
+      "cross-country comparison"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-06-27T22:56:39.913Z"
+  },
+  {
+    "id": "political-communication-f4d6ac7f9450",
+    "doi": "10.1080/10584609.2026.2690998",
+    "url": "https://doi.org/10.1080/10584609.2026.2690998",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-06-25T05:29:03.000Z",
+    "authors": [
+      "Dominik Stecuła",
+      "Dannagal G. Young",
+      "Michael W. Wagner",
+      "Dhavan V. Shah",
+      "Dominik A. Stecuła",
+      "Dominik A. Stecuła Dannagal G. Young Michael W. Wagner Dhavan V. Shah",
+      "The Ohio State",
+      "Columbus",
+      "USAb",
+      "Newark",
+      "USAc",
+      "Madison",
+      "USADominik A. Stecuła is as Assistant Professor at the"
+    ],
+    "title_en": "The Joe Rogan Experience: Epistemic Style Over Ideological Extremity in the Manosphere",
+    "title_zh": "乔·罗根体验：知识风格胜过意识形态极端在男性圈中",
+    "keywords_en": [
+      "Ideology",
+      "Skepticism",
+      "Context (archaeology)",
+      "Active listening",
+      "Politics",
+      "Style (visual arts)"
+    ],
+    "keywords_zh": [
+      "意识形态",
+      "怀疑主义",
+      "语境（考古学）",
+      "主动倾听",
+      "政治",
+      "风格（视觉艺术）"
+    ],
+    "inferred_keywords_en": [
+      "Podcast",
+      "Audience analysis",
+      "Manosphere",
+      "Epistemic orientation",
+      "Media consumption",
+      "Political trust"
+    ],
+    "inferred_keywords_zh": [
+      "播客",
+      "受众分析",
+      "男性圈",
+      "认知取向",
+      "媒体消费",
+      "政治信任"
+    ],
+    "plain_summary_zh": "这项研究调查了美国最受欢迎的播客《乔·罗根体验》的听众。研究发现，罗根的听众主要是年轻男性，他们倾向于消费保守派媒体，对主流信息持怀疑态度，并且不信任政治和机构。与普遍看法不同，听众的党派归属或性别歧视态度并不是他们收听节目的主要原因。相反，他们的认知风格和媒体习惯更重要。",
+    "plain_summary_en": "This study examines the audience of the most popular podcast in the US, The Joe Rogan Experience. It finds that Rogan's listeners are mostly young men who consume conservative media, are skeptical of mainstream information, and distrust politics and institutions. Contrary to common belief, listeners' party affiliation or sexist attitudes are not the main reasons they tune in. Instead, their epistemic style and media habits matter more.",
+    "research_direction_zh": "政治传播与媒体效果，特别是新兴媒体形式（如播客）对受众认知和意识形态的影响。",
+    "research_direction_en": "Political communication and media effects, especially the influence of emerging media forms (e.g., podcasts) on audience cognition and ideology.",
+    "method_tags_zh": [
+      "调查"
+    ],
+    "method_tags_en": [
+      "survey"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-06-27T22:56:33.043Z"
+  },
+  {
     "id": "international-journal-of-press-politics-242d4a1ff9db",
     "doi": "10.1177/19401612261456367",
     "url": "https://doi.org/10.1177/19401612261456367",

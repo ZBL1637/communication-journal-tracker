@@ -1,65 +1,95 @@
 {
-  "generatedAt": "2026-06-26T22:59:56.306Z",
+  "generatedAt": "2026-06-27T22:56:48.382Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 1,
-      "overview_en": "Across 1 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 1 papers, the most visible themes are selective exposure, political attitudes, emotions. Researchers most often rely on online experiment to explain what these changes mean for communication.",
+      "paperCount": 3,
+      "overview_en": "Across 3 papers, the most visible themes are Politics, Mainstream, Digital media. Researchers most often rely on network analysis, cross-country comparison to explain what these changes mean for communication.",
+      "overview_zh": "Across 3 papers, the most visible themes are Politics, Mainstream, Digital media. Researchers most often rely on network analysis, cross-country comparison to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "selective exposure",
-        "political attitudes",
-        "emotions",
-        "news selection",
-        "migration"
+        "Politics",
+        "Mainstream",
+        "Digital media",
+        "Alternative media",
+        "News media"
       ],
       "hot_topics_zh": [
-        "选择性接触",
-        "政治态度",
-        "情绪",
-        "新闻选择",
-        "移民"
+        "政治",
+        "主流",
+        "数字媒体",
+        "替代性媒体",
+        "新闻媒体"
       ],
       "high_frequency_keywords": [
         {
-          "label_en": "selective exposure",
-          "label_zh": "选择性接触",
+          "label_en": "Politics",
+          "label_zh": "政治",
+          "count": 2
+        },
+        {
+          "label_en": "Mainstream",
+          "label_zh": "主流",
           "count": 1
         },
         {
-          "label_en": "political attitudes",
-          "label_zh": "政治态度",
+          "label_en": "Digital media",
+          "label_zh": "数字媒体",
           "count": 1
         },
         {
-          "label_en": "emotions",
-          "label_zh": "情绪",
+          "label_en": "Alternative media",
+          "label_zh": "替代性媒体",
           "count": 1
         },
         {
-          "label_en": "news selection",
-          "label_zh": "新闻选择",
+          "label_en": "News media",
+          "label_zh": "新闻媒体",
           "count": 1
         },
         {
-          "label_en": "migration",
-          "label_zh": "移民",
+          "label_en": "Comparative research",
+          "label_zh": "比较研究",
           "count": 1
         },
         {
-          "label_en": "negativity bias",
-          "label_zh": "负面偏见",
+          "label_en": "Citizen media",
+          "label_zh": "公民媒体",
           "count": 1
         },
         {
-          "label_en": "online experiment",
-          "label_zh": "在线实验",
+          "label_en": "Media relations",
+          "label_zh": "媒体关系",
+          "count": 1
+        },
+        {
+          "label_en": "Ideology",
+          "label_zh": "意识形态",
+          "count": 1
+        },
+        {
+          "label_en": "Skepticism",
+          "label_zh": "怀疑主义",
           "count": 1
         }
       ],
       "high_frequency_methods": [
+        {
+          "label_en": "network analysis",
+          "label_zh": "网络分析",
+          "count": 1
+        },
+        {
+          "label_en": "cross-country comparison",
+          "label_zh": "跨国比较",
+          "count": 1
+        },
+        {
+          "label_en": "survey",
+          "label_zh": "调查",
+          "count": 1
+        },
         {
           "label_en": "online experiment",
           "label_zh": "在线实验",
@@ -71,28 +101,33 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 31,
-      "overview_en": "Across 31 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 31 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "paperCount": 32,
+      "overview_en": "Across 32 papers, the most visible themes are Social media, Politics, The. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 32 papers, the most visible themes are Social media, Politics, The. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Social media",
+        "Politics",
         "The",
         "And",
-        "political communication",
-        "Key (lock)"
+        "political communication"
       ],
       "hot_topics_zh": [
         "社交媒体",
+        "政治",
         "The",
         "And",
-        "政治传播",
-        "钥匙（锁）"
+        "政治传播"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "Social media",
           "label_zh": "社交媒体",
           "count": 5
+        },
+        {
+          "label_en": "Politics",
+          "label_zh": "政治",
+          "count": 4
         },
         {
           "label_en": "The",
@@ -110,13 +145,18 @@
           "count": 3
         },
         {
-          "label_en": "Key (lock)",
-          "label_zh": "钥匙（锁）",
+          "label_en": "Digital media",
+          "label_zh": "数字媒体",
           "count": 2
         },
         {
-          "label_en": "Politics",
-          "label_zh": "政治",
+          "label_en": "Ideology",
+          "label_zh": "意识形态",
+          "count": 2
+        },
+        {
+          "label_en": "Key (lock)",
+          "label_zh": "钥匙（锁）",
           "count": 2
         },
         {
@@ -127,16 +167,6 @@
         {
           "label_en": "Germany",
           "label_zh": "德国",
-          "count": 2
-        },
-        {
-          "label_en": "community guidelines",
-          "label_zh": "社区准则",
-          "count": 2
-        },
-        {
-          "label_en": "digital governance",
-          "label_zh": "数字治理",
           "count": 2
         }
       ],
@@ -152,9 +182,9 @@
           "count": 5
         },
         {
-          "label_en": "mixed methods",
-          "label_zh": "混合方法",
-          "count": 5
+          "label_en": "survey",
+          "label_zh": "调查",
+          "count": 4
         },
         {
           "label_en": "case study",
@@ -162,9 +192,9 @@
           "count": 4
         },
         {
-          "label_en": "survey",
-          "label_zh": "调查",
-          "count": 3
+          "label_en": "mixed methods",
+          "label_zh": "混合方法",
+          "count": 4
         },
         {
           "label_en": "theoretical analysis",
@@ -182,13 +212,13 @@
           "count": 2
         },
         {
-          "label_en": "online experiment",
-          "label_zh": "在线实验",
+          "label_en": "network analysis",
+          "label_zh": "网络分析",
           "count": 1
         },
         {
-          "label_en": "bioinformatics analysis",
-          "label_zh": "生物信息学分析",
+          "label_en": "cross-country comparison",
+          "label_zh": "跨国比较",
           "count": 1
         }
       ]
@@ -197,22 +227,22 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 192,
-      "overview_en": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 194,
+      "overview_en": "Across 194 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 194 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
         "Social media",
-        "political communication",
-        "Politics"
+        "Politics",
+        "political communication"
       ],
       "hot_topics_zh": [
         "And",
         "The",
         "社交媒体",
-        "政治传播",
-        "政治"
+        "政治",
+        "政治传播"
       ],
       "high_frequency_keywords": [
         {
@@ -231,14 +261,14 @@
           "count": 22
         },
         {
-          "label_en": "political communication",
-          "label_zh": "政治传播",
+          "label_en": "Politics",
+          "label_zh": "政治",
           "count": 16
         },
         {
-          "label_en": "Politics",
-          "label_zh": "政治",
-          "count": 14
+          "label_en": "political communication",
+          "label_zh": "政治传播",
+          "count": 16
         },
         {
           "label_en": "Work (physics)",
@@ -280,7 +310,7 @@
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 34
+          "count": 35
         },
         {
           "label_en": "interview",
@@ -353,7 +383,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 29,
+      "paperCount": 30,
       "topic_bias_en": [
         "political communication",
         "Politics",
@@ -382,7 +412,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 28,
+      "paperCount": 29,
       "topic_bias_en": [
         "Work (physics)",
         "digital journalism",
@@ -571,14 +601,14 @@
       "count": 22
     },
     {
-      "label_en": "political communication",
-      "label_zh": "政治传播",
+      "label_en": "Politics",
+      "label_zh": "政治",
       "count": 16
     },
     {
-      "label_en": "Politics",
-      "label_zh": "政治",
-      "count": 14
+      "label_en": "political communication",
+      "label_zh": "政治传播",
+      "count": 16
     },
     {
       "label_en": "Work (physics)",
@@ -606,14 +636,14 @@
       "count": 10
     },
     {
-      "label_en": "Key (lock)",
-      "label_zh": "钥匙（锁）",
+      "label_en": "News media",
+      "label_zh": "新闻媒体",
       "count": 8
     },
     {
-      "label_en": "News media",
-      "label_zh": "新闻媒体",
-      "count": 7
+      "label_en": "Key (lock)",
+      "label_zh": "钥匙（锁）",
+      "count": 8
     }
   ],
   "high_frequency_methods": [
@@ -630,7 +660,7 @@
     {
       "label_en": "survey",
       "label_zh": "调查",
-      "count": 34
+      "count": 35
     },
     {
       "label_en": "interview",

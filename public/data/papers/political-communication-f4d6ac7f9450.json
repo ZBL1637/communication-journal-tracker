@@ -1,0 +1,83 @@
+{
+  "id": "political-communication-f4d6ac7f9450",
+  "doi": "10.1080/10584609.2026.2690998",
+  "url": "https://doi.org/10.1080/10584609.2026.2690998",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-06-25T05:29:03.000Z",
+  "authors": [
+    "Dominik Stecuła",
+    "Dannagal G. Young",
+    "Michael W. Wagner",
+    "Dhavan V. Shah",
+    "Dominik A. Stecuła",
+    "Dominik A. Stecuła Dannagal G. Young Michael W. Wagner Dhavan V. Shah",
+    "The Ohio State",
+    "Columbus",
+    "USAb",
+    "Newark",
+    "USAc",
+    "Madison",
+    "USADominik A. Stecuła is as Assistant Professor at the"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-06-27T22:56:33.043Z",
+  "language": "en",
+  "raw_title": "The Joe Rogan Experience: Epistemic Style Over Ideological Extremity in the Manosphere",
+  "raw_abstract": "Despite increasing prominence in the contemporary media ecosystem, podcasts have attracted limited scholarly attention. This study examines audience characteristics of the most popular podcast in the United States, The Joe Rogan Experience (JRE), situating it within the broader cultural context of the “manosphere.” Leveraging two national probability samples collected in October 2022 (N = 2,907) and November 2023 (N = 1,000), this research explores the socio-demographic profile, information environment, epistemic orientations, identity, ideology, and trust of Rogan’s listeners. Across both studies, among the strongest correlates of JRE listening is conservative media consumption, with additional associations with skeptical epistemic orientations, conspiracism, political and institutional distrust, and being young and male. In contrast, partisanship is not significantly associated with JRE listening once these other factors are included in the models. Contrary to common portrayals, hostile sexism, authoritarianism, and racial attitudes do not reliably predict JRE listening once media diet is accounted for. This research underscores the importance of examining audiences’ deeper cultural values and epistemic orientations alongside traditional political variables, thereby clarifying our understanding of how influential media figures such as Rogan shape and reflect broader currents in an increasingly fragmented information environment.",
+  "raw_keywords": [
+    "Ideology",
+    "Skepticism",
+    "Context (archaeology)",
+    "Active listening",
+    "Politics",
+    "Style (visual arts)"
+  ],
+  "title_en": "The Joe Rogan Experience: Epistemic Style Over Ideological Extremity in the Manosphere",
+  "title_zh": "乔·罗根体验：知识风格胜过意识形态极端在男性圈中",
+  "abstract_en": "Despite increasing prominence in the contemporary media ecosystem, podcasts have attracted limited scholarly attention. This study examines audience characteristics of the most popular podcast in the United States, The Joe Rogan Experience (JRE), situating it within the broader cultural context of the “manosphere.” Leveraging two national probability samples collected in October 2022 (N = 2,907) and November 2023 (N = 1,000), this research explores the socio-demographic profile, information environment, epistemic orientations, identity, ideology, and trust of Rogan’s listeners. Across both studies, among the strongest correlates of JRE listening is conservative media consumption, with additional associations with skeptical epistemic orientations, conspiracism, political and institutional distrust, and being young and male. In contrast, partisanship is not significantly associated with JRE listening once these other factors are included in the models. Contrary to common portrayals, hostile sexism, authoritarianism, and racial attitudes do not reliably predict JRE listening once media diet is accounted for. This research underscores the importance of examining audiences’ deeper cultural values and epistemic orientations alongside traditional political variables, thereby clarifying our understanding of how influential media figures such as Rogan shape and reflect broader currents in an increasingly fragmented information environment.",
+  "abstract_zh": "尽管播客在当代媒体生态中日益突出，但学术关注有限。本研究考察了美国最受欢迎的播客《乔·罗根体验》（JRE）的受众特征，将其置于“男性圈”的更广泛文化背景中。利用2022年10月（N=2,907）和2023年11月（N=1,000）收集的两个全国概率样本，本研究探讨了罗根听众的社会人口特征、信息环境、认知取向、身份、意识形态和信任。两项研究均显示，JRE收听的最强相关因素之一是保守媒体消费，此外还与怀疑认知取向、阴谋论、政治和制度不信任以及年轻男性有关。相比之下，一旦模型中包含这些其他因素，党派归属与JRE收听无显著关联。与常见描述相反，一旦考虑媒体饮食，敌意性别歧视、威权主义和种族态度并不能可靠预测JRE收听。本研究强调了在传统政治变量之外考察受众深层文化价值观和认知取向的重要性，从而阐明罗根等有影响力的媒体人物如何在日益碎片化的信息环境中塑造和反映更广泛的潮流。",
+  "keywords_en": [
+    "Ideology",
+    "Skepticism",
+    "Context (archaeology)",
+    "Active listening",
+    "Politics",
+    "Style (visual arts)"
+  ],
+  "keywords_zh": [
+    "意识形态",
+    "怀疑主义",
+    "语境（考古学）",
+    "主动倾听",
+    "政治",
+    "风格（视觉艺术）"
+  ],
+  "inferred_keywords_en": [
+    "Podcast",
+    "Audience analysis",
+    "Manosphere",
+    "Epistemic orientation",
+    "Media consumption",
+    "Political trust"
+  ],
+  "inferred_keywords_zh": [
+    "播客",
+    "受众分析",
+    "男性圈",
+    "认知取向",
+    "媒体消费",
+    "政治信任"
+  ],
+  "plain_summary_zh": "这项研究调查了美国最受欢迎的播客《乔·罗根体验》的听众。研究发现，罗根的听众主要是年轻男性，他们倾向于消费保守派媒体，对主流信息持怀疑态度，并且不信任政治和机构。与普遍看法不同，听众的党派归属或性别歧视态度并不是他们收听节目的主要原因。相反，他们的认知风格和媒体习惯更重要。",
+  "plain_summary_en": "This study examines the audience of the most popular podcast in the US, The Joe Rogan Experience. It finds that Rogan's listeners are mostly young men who consume conservative media, are skeptical of mainstream information, and distrust politics and institutions. Contrary to common belief, listeners' party affiliation or sexist attitudes are not the main reasons they tune in. Instead, their epistemic style and media habits matter more.",
+  "research_direction_zh": "政治传播与媒体效果，特别是新兴媒体形式（如播客）对受众认知和意识形态的影响。",
+  "research_direction_en": "Political communication and media effects, especially the influence of emerging media forms (e.g., podcasts) on audience cognition and ideology.",
+  "method_tags_zh": [
+    "调查"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

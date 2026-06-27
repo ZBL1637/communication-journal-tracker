@@ -1,0 +1,71 @@
+{
+  "id": "digital-journalism-bd8dd3c1f400",
+  "doi": "10.1080/21670811.2026.2683342",
+  "url": "https://doi.org/10.1080/21670811.2026.2683342",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-06-26T03:31:33.000Z",
+  "authors": [
+    "Qinfeng Zhu",
+    "Fan Liang",
+    "Gabriel Miao Li",
+    "Gabriel Miao",
+    "Li a",
+    "Duke Kunshan Universityc",
+    "Chapman"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-06-27T22:56:39.913Z",
+  "language": "en",
+  "raw_title": "Locate Alternative Media in the Digital News Ecosystem: A Cross-Country Comparative Study of Alternative-Mainstream Audience Overlap Networks",
+  "raw_abstract": "This study examines alternative media within the digital news ecosystem in six European countries: Norway, Sweden, Austria, Germany, France, and Spain. Using a network approach and a cross-country comparative design, we analyze audience overlap between alternative and mainstream media, the positions alternative media occupy within these networks, and how media systems and political contexts may shape these dynamics. Our findings show that while overall audience overlap is low, it is higher in countries where far-right populist parties have greater institutionalized access to political discourse. We also identify alternative media enclaves within the Northern-type media system characterized by strong professional journalism—particularly in Sweden, where far-right populist actors remained politically marginalized at the time of data collection. This study advances audience-centric alternative media research and offers insights into how contextual factors may shape the relationality between “alternative” and “mainstream”.",
+  "raw_keywords": [
+    "Mainstream",
+    "Digital media",
+    "Alternative media",
+    "Politics",
+    "News media",
+    "Comparative research",
+    "Citizen media",
+    "Media relations"
+  ],
+  "title_en": "Locate Alternative Media in the Digital News Ecosystem: A Cross-Country Comparative Study of Alternative-Mainstream Audience Overlap Networks",
+  "title_zh": "在数字新闻生态中定位替代性媒体：替代性与主流受众重叠网络的跨国比较研究",
+  "abstract_en": "This study examines alternative media within the digital news ecosystem in six European countries: Norway, Sweden, Austria, Germany, France, and Spain. Using a network approach and a cross-country comparative design, we analyze audience overlap between alternative and mainstream media, the positions alternative media occupy within these networks, and how media systems and political contexts may shape these dynamics. Our findings show that while overall audience overlap is low, it is higher in countries where far-right populist parties have greater institutionalized access to political discourse. We also identify alternative media enclaves within the Northern-type media system characterized by strong professional journalism—particularly in Sweden, where far-right populist actors remained politically marginalized at the time of data collection. This study advances audience-centric alternative media research and offers insights into how contextual factors may shape the relationality between “alternative” and “mainstream”.",
+  "abstract_zh": "本研究考察了六个欧洲国家（挪威、瑞典、奥地利、德国、法国和西班牙）数字新闻生态系统中的替代性媒体。采用网络方法和跨国比较设计，我们分析了替代性媒体与主流媒体之间的受众重叠、替代性媒体在这些网络中的位置，以及媒体系统和政治背景如何塑造这些动态。我们的发现表明，尽管总体受众重叠度较低，但在极右翼民粹主义政党拥有更大制度化政治话语权的国家，重叠度更高。我们还识别出在以北欧型媒体系统（以强大的专业新闻业为特征）中的替代性媒体飞地——特别是在瑞典，数据收集时极右翼民粹主义行动者在政治上仍处于边缘地位。本研究推进了以受众为中心的替代性媒体研究，并提供了关于背景因素如何塑造“替代性”与“主流”之间关系的见解。",
+  "keywords_en": [
+    "Mainstream",
+    "Digital media",
+    "Alternative media",
+    "Politics",
+    "News media",
+    "Comparative research",
+    "Citizen media",
+    "Media relations"
+  ],
+  "keywords_zh": [
+    "主流",
+    "数字媒体",
+    "替代性媒体",
+    "政治",
+    "新闻媒体",
+    "比较研究",
+    "公民媒体",
+    "媒体关系"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_zh": "这项研究调查了六个欧洲国家中，人们如何同时访问替代性新闻网站和主流新闻网站。结果发现，虽然大多数人只关注其中一类，但在极右翼政党影响力较大的国家，两类网站的受众重叠更多。研究还发现，在新闻业发达的国家（如瑞典），替代性媒体形成了自己的小圈子。",
+  "plain_summary_en": "This study looked at how people in six European countries visit both alternative and mainstream news websites. It found that while most people stick to one type, there is more overlap in countries where far-right parties have more political influence. It also found that in countries with strong journalism (like Sweden), alternative media form their own separate communities.",
+  "research_direction_zh": "数字新闻生态中的替代性媒体与主流媒体的关系及受众行为",
+  "research_direction_en": "Relationship between alternative and mainstream media in digital news ecosystems and audience behavior",
+  "method_tags_zh": [
+    "网络分析",
+    "跨国比较"
+  ],
+  "method_tags_en": [
+    "network analysis",
+    "cross-country comparison"
+  ]
+}
