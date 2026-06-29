@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T22:56:27.830Z",
+  "generatedAt": "2026-06-29T22:49:11.034Z",
   "snapshots": [
     {
       "key": "7d",
@@ -101,9 +101,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 30,
-      "overview_en": "Across 30 papers, the most visible themes are Social media, Politics, The. Researchers most often rely on interview, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 30 papers, the most visible themes are Social media, Politics, The. Researchers most often rely on interview, survey to explain what these changes mean for communication.",
+      "paperCount": 27,
+      "overview_en": "Across 27 papers, the most visible themes are Social media, Politics, The. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 27 papers, the most visible themes are Social media, Politics, The. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Social media",
         "Politics",
@@ -174,21 +174,11 @@
         {
           "label_en": "interview",
           "label_zh": "访谈",
-          "count": 7
-        },
-        {
-          "label_en": "survey",
-          "label_zh": "调查",
-          "count": 4
+          "count": 6
         },
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 4
-        },
-        {
-          "label_en": "case study",
-          "label_zh": "案例研究",
           "count": 4
         },
         {
@@ -197,8 +187,13 @@
           "count": 4
         },
         {
-          "label_en": "theoretical analysis",
-          "label_zh": "理论分析",
+          "label_en": "survey",
+          "label_zh": "调查",
+          "count": 3
+        },
+        {
+          "label_en": "case study",
+          "label_zh": "案例研究",
           "count": 3
         },
         {
@@ -209,6 +204,11 @@
         {
           "label_en": "commentary",
           "label_zh": "评论",
+          "count": 2
+        },
+        {
+          "label_en": "theoretical analysis",
+          "label_zh": "理论分析",
           "count": 2
         },
         {
