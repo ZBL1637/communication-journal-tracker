@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-30T23:04:36.489Z",
+  "generatedAt": "2026-07-01T23:05:07.037Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 3,
-      "overview_en": "Across 3 papers, the most visible themes are Politics, Mainstream, Digital media. Researchers most often rely on network analysis, cross-country comparison to explain what these changes mean for communication.",
-      "overview_zh": "Across 3 papers, the most visible themes are Politics, Mainstream, Digital media. Researchers most often rely on network analysis, cross-country comparison to explain what these changes mean for communication.",
+      "paperCount": 2,
+      "overview_en": "Across 2 papers, the most visible themes are Politics, Mainstream, Digital media. Researchers most often rely on network analysis, cross-country comparison to explain what these changes mean for communication.",
+      "overview_zh": "Across 2 papers, the most visible themes are Politics, Mainstream, Digital media. Researchers most often rely on network analysis, cross-country comparison to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Politics",
         "Mainstream",
@@ -89,11 +89,6 @@
           "label_en": "survey",
           "label_zh": "调查",
           "count": 1
-        },
-        {
-          "label_en": "online experiment",
-          "label_zh": "在线实验",
-          "count": 1
         }
       ]
     },
@@ -101,9 +96,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 26,
-      "overview_en": "Across 26 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 26 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "paperCount": 25,
+      "overview_en": "Across 25 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 25 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Social media",
         "The",
@@ -174,7 +169,7 @@
         {
           "label_en": "interview",
           "label_zh": "访谈",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "content analysis",
@@ -227,9 +222,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 193,
-      "overview_en": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 165,
+      "overview_en": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -248,17 +243,17 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 56
+          "count": 30
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 52
+          "count": 28
         },
         {
           "label_en": "Social media",
           "label_zh": "社交媒体",
-          "count": 22
+          "count": 21
         },
         {
           "label_en": "Politics",
@@ -281,11 +276,6 @@
           "count": 11
         },
         {
-          "label_en": "Misinformation",
-          "label_zh": "虚假信息",
-          "count": 10
-        },
-        {
           "label_en": "digital journalism",
           "label_zh": "数字新闻",
           "count": 10
@@ -294,38 +284,33 @@
           "label_en": "conversation analysis",
           "label_zh": "会话分析",
           "count": 10
+        },
+        {
+          "label_en": "News media",
+          "label_zh": "新闻媒体",
+          "count": 8
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 38
+          "count": 37
         },
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 36
+          "count": 32
         },
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 35
-        },
-        {
-          "label_en": "mixed methods",
-          "label_zh": "混合方法",
-          "count": 22
+          "count": 31
         },
         {
           "label_en": "experiment",
           "label_zh": "实验",
-          "count": 21
-        },
-        {
-          "label_en": "interview",
-          "label_zh": "访谈",
-          "count": 21
+          "count": 19
         },
         {
           "label_en": "review",
@@ -333,19 +318,29 @@
           "count": 19
         },
         {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 12
+          "label_en": "interview",
+          "label_zh": "访谈",
+          "count": 16
+        },
+        {
+          "label_en": "mixed methods",
+          "label_zh": "混合方法",
+          "count": 15
         },
         {
           "label_en": "theoretical analysis",
           "label_zh": "理论分析",
-          "count": 11
+          "count": 9
+        },
+        {
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
+          "count": 8
         },
         {
           "label_en": "literature review",
           "label_zh": "文献综述",
-          "count": 9
+          "count": 7
         }
       ]
     }
@@ -470,30 +465,30 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 51,
+      "paperCount": 23,
       "topic_bias_en": [
-        "And",
-        "The",
         "social media",
-        "TikTok"
+        "And",
+        "digital ethnography",
+        "The"
       ],
       "topic_bias_zh": [
-        "And",
-        "The",
         "社交媒体",
-        "TikTok"
+        "And",
+        "数字民族志",
+        "The"
       ],
       "method_bias_en": [
         "content analysis",
-        "computational analysis",
-        "mixed methods",
-        "survey"
+        "digital ethnography",
+        "survey",
+        "case study"
       ],
       "method_bias_zh": [
         "内容分析",
-        "computational analysis",
-        "mixed methods",
-        "问卷调查"
+        "数字民族志",
+        "问卷调查",
+        "案例研究"
       ]
     },
     {
@@ -588,17 +583,17 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 56
+      "count": 30
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 52
+      "count": 28
     },
     {
       "label_en": "Social media",
       "label_zh": "社交媒体",
-      "count": 22
+      "count": 21
     },
     {
       "label_en": "Politics",
@@ -621,11 +616,6 @@
       "count": 11
     },
     {
-      "label_en": "Misinformation",
-      "label_zh": "虚假信息",
-      "count": 10
-    },
-    {
       "label_en": "digital journalism",
       "label_zh": "数字新闻",
       "count": 10
@@ -644,38 +634,33 @@
       "label_en": "Key (lock)",
       "label_zh": "钥匙（锁）",
       "count": 8
+    },
+    {
+      "label_en": "Misinformation",
+      "label_zh": "虚假信息",
+      "count": 8
     }
   ],
   "high_frequency_methods": [
     {
       "label_en": "case study",
       "label_zh": "案例研究",
-      "count": 38
+      "count": 37
     },
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 36
+      "count": 32
     },
     {
       "label_en": "survey",
       "label_zh": "调查",
-      "count": 35
-    },
-    {
-      "label_en": "mixed methods",
-      "label_zh": "混合方法",
-      "count": 22
+      "count": 31
     },
     {
       "label_en": "experiment",
       "label_zh": "实验",
-      "count": 21
-    },
-    {
-      "label_en": "interview",
-      "label_zh": "访谈",
-      "count": 21
+      "count": 19
     },
     {
       "label_en": "review",
@@ -683,18 +668,18 @@
       "count": 19
     },
     {
-      "label_en": "computational analysis",
-      "label_zh": "computational analysis",
-      "count": 12
+      "label_en": "interview",
+      "label_zh": "访谈",
+      "count": 16
+    },
+    {
+      "label_en": "mixed methods",
+      "label_zh": "混合方法",
+      "count": 15
     },
     {
       "label_en": "theoretical analysis",
       "label_zh": "理论分析",
-      "count": 11
-    },
-    {
-      "label_en": "literature review",
-      "label_zh": "文献综述",
       "count": 9
     },
     {
@@ -703,9 +688,19 @@
       "count": 8
     },
     {
+      "label_en": "literature review",
+      "label_zh": "文献综述",
+      "count": 7
+    },
+    {
+      "label_en": "computational analysis",
+      "label_zh": "computational analysis",
+      "count": 5
+    },
+    {
       "label_en": "discourse analysis",
       "label_zh": "话语分析",
-      "count": 7
+      "count": 5
     }
   ]
 }
