@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T23:05:07.037Z",
+  "generatedAt": "2026-07-02T22:58:06.916Z",
   "snapshots": [
     {
       "key": "7d",
@@ -96,42 +96,32 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 25,
-      "overview_en": "Across 25 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 25 papers, the most visible themes are Social media, The, And. Researchers most often rely on interview, content analysis to explain what these changes mean for communication.",
+      "paperCount": 13,
+      "overview_en": "Across 13 papers, the most visible themes are Politics, Social media, Digital media. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 13 papers, the most visible themes are Politics, Social media, Digital media. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Social media",
-        "The",
-        "And",
         "Politics",
-        "Digital media"
+        "Social media",
+        "Digital media",
+        "Key (lock)",
+        "Radicalization"
       ],
       "hot_topics_zh": [
-        "社交媒体",
-        "The",
-        "And",
         "政治",
-        "数字媒体"
+        "社交媒体",
+        "数字媒体",
+        "钥匙（锁）",
+        "激进化"
       ],
       "high_frequency_keywords": [
         {
-          "label_en": "Social media",
-          "label_zh": "社交媒体",
-          "count": 4
-        },
-        {
-          "label_en": "The",
-          "label_zh": "The",
-          "count": 4
-        },
-        {
-          "label_en": "And",
-          "label_zh": "And",
-          "count": 4
-        },
-        {
           "label_en": "Politics",
           "label_zh": "政治",
+          "count": 3
+        },
+        {
+          "label_en": "Social media",
+          "label_zh": "社交媒体",
           "count": 3
         },
         {
@@ -150,56 +140,41 @@
           "count": 2
         },
         {
-          "label_en": "Germany",
-          "label_zh": "德国",
-          "count": 2
+          "label_en": "Mainstream",
+          "label_zh": "主流",
+          "count": 1
         },
         {
-          "label_en": "community guidelines",
-          "label_zh": "社区准则",
-          "count": 2
+          "label_en": "Alternative media",
+          "label_zh": "替代性媒体",
+          "count": 1
         },
         {
-          "label_en": "digital governance",
-          "label_zh": "数字治理",
-          "count": 2
+          "label_en": "News media",
+          "label_zh": "新闻媒体",
+          "count": 1
+        },
+        {
+          "label_en": "Comparative research",
+          "label_zh": "比较研究",
+          "count": 1
+        },
+        {
+          "label_en": "Citizen media",
+          "label_zh": "公民媒体",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
-          "label_en": "interview",
-          "label_zh": "访谈",
-          "count": 5
-        },
-        {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 4
-        },
-        {
-          "label_en": "mixed methods",
-          "label_zh": "混合方法",
-          "count": 4
-        },
-        {
-          "label_en": "survey",
-          "label_zh": "调查",
           "count": 3
         },
         {
-          "label_en": "experiment",
-          "label_zh": "实验",
-          "count": 2
-        },
-        {
-          "label_en": "case study",
-          "label_zh": "案例研究",
-          "count": 2
-        },
-        {
-          "label_en": "theoretical analysis",
-          "label_zh": "理论分析",
-          "count": 2
+          "label_en": "interview",
+          "label_zh": "访谈",
+          "count": 3
         },
         {
           "label_en": "network analysis",
@@ -212,8 +187,33 @@
           "count": 1
         },
         {
+          "label_en": "survey",
+          "label_zh": "调查",
+          "count": 1
+        },
+        {
           "label_en": "online experiment",
           "label_zh": "在线实验",
+          "count": 1
+        },
+        {
+          "label_en": "experiment",
+          "label_zh": "实验",
+          "count": 1
+        },
+        {
+          "label_en": "bioinformatics analysis",
+          "label_zh": "生物信息学分析",
+          "count": 1
+        },
+        {
+          "label_en": "animal experiment",
+          "label_zh": "动物实验",
+          "count": 1
+        },
+        {
+          "label_en": "qPCR",
+          "label_zh": "qPCR",
           "count": 1
         }
       ]
