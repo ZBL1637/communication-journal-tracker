@@ -1,32 +1,57 @@
 {
-  "generatedAt": "2026-07-02T22:58:06.916Z",
+  "generatedAt": "2026-07-03T22:56:01.150Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
       "paperCount": 2,
-      "overview_en": "Across 2 papers, the most visible themes are Politics, Mainstream, Digital media. Researchers most often rely on network analysis, cross-country comparison to explain what these changes mean for communication.",
-      "overview_zh": "Across 2 papers, the most visible themes are Politics, Mainstream, Digital media. Researchers most often rely on network analysis, cross-country comparison to explain what these changes mean for communication.",
+      "overview_en": "Across 2 papers, the most visible themes are And, State, Content. Researchers most often rely on computational analysis, network analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 2 papers, the most visible themes are And, State, Content. Researchers most often rely on computational analysis, network analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Politics",
-        "Mainstream",
-        "Digital media",
-        "Alternative media",
-        "News media"
+        "And",
+        "State",
+        "Content",
+        "Created",
+        "Authoritarian"
       ],
       "hot_topics_zh": [
-        "政治",
-        "主流",
-        "数字媒体",
-        "替代性媒体",
-        "新闻媒体"
+        "And",
+        "State",
+        "Content",
+        "Created",
+        "Authoritarian"
       ],
       "high_frequency_keywords": [
         {
-          "label_en": "Politics",
-          "label_zh": "政治",
-          "count": 2
+          "label_en": "And",
+          "label_zh": "And",
+          "count": 1
+        },
+        {
+          "label_en": "State",
+          "label_zh": "State",
+          "count": 1
+        },
+        {
+          "label_en": "Content",
+          "label_zh": "Content",
+          "count": 1
+        },
+        {
+          "label_en": "Created",
+          "label_zh": "Created",
+          "count": 1
+        },
+        {
+          "label_en": "Authoritarian",
+          "label_zh": "Authoritarian",
+          "count": 1
+        },
+        {
+          "label_en": "Curation",
+          "label_zh": "Curation",
+          "count": 1
         },
         {
           "label_en": "Mainstream",
@@ -44,37 +69,17 @@
           "count": 1
         },
         {
-          "label_en": "News media",
-          "label_zh": "新闻媒体",
-          "count": 1
-        },
-        {
-          "label_en": "Comparative research",
-          "label_zh": "比较研究",
-          "count": 1
-        },
-        {
-          "label_en": "Citizen media",
-          "label_zh": "公民媒体",
-          "count": 1
-        },
-        {
-          "label_en": "Media relations",
-          "label_zh": "媒体关系",
-          "count": 1
-        },
-        {
-          "label_en": "Ideology",
-          "label_zh": "意识形态",
-          "count": 1
-        },
-        {
-          "label_en": "Skepticism",
-          "label_zh": "怀疑主义",
+          "label_en": "Politics",
+          "label_zh": "政治",
           "count": 1
         }
       ],
       "high_frequency_methods": [
+        {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 1
+        },
         {
           "label_en": "network analysis",
           "label_zh": "网络分析",
@@ -84,11 +89,6 @@
           "label_en": "cross-country comparison",
           "label_zh": "跨国比较",
           "count": 1
-        },
-        {
-          "label_en": "survey",
-          "label_zh": "调查",
-          "count": 1
         }
       ]
     },
@@ -96,9 +96,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 13,
-      "overview_en": "Across 13 papers, the most visible themes are Politics, Social media, Digital media. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 13 papers, the most visible themes are Politics, Social media, Digital media. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
+      "paperCount": 14,
+      "overview_en": "Across 14 papers, the most visible themes are Politics, Social media, Digital media. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 14 papers, the most visible themes are Politics, Social media, Digital media. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Politics",
         "Social media",
@@ -140,28 +140,28 @@
           "count": 2
         },
         {
-          "label_en": "Mainstream",
-          "label_zh": "主流",
+          "label_en": "And",
+          "label_zh": "And",
           "count": 1
         },
         {
-          "label_en": "Alternative media",
-          "label_zh": "替代性媒体",
+          "label_en": "State",
+          "label_zh": "State",
           "count": 1
         },
         {
-          "label_en": "News media",
-          "label_zh": "新闻媒体",
+          "label_en": "Content",
+          "label_zh": "Content",
           "count": 1
         },
         {
-          "label_en": "Comparative research",
-          "label_zh": "比较研究",
+          "label_en": "Created",
+          "label_zh": "Created",
           "count": 1
         },
         {
-          "label_en": "Citizen media",
-          "label_zh": "公民媒体",
+          "label_en": "Authoritarian",
+          "label_zh": "Authoritarian",
           "count": 1
         }
       ],
@@ -175,6 +175,11 @@
           "label_en": "interview",
           "label_zh": "访谈",
           "count": 3
+        },
+        {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 1
         },
         {
           "label_en": "network analysis",
@@ -210,11 +215,6 @@
           "label_en": "animal experiment",
           "label_zh": "动物实验",
           "count": 1
-        },
-        {
-          "label_en": "qPCR",
-          "label_zh": "qPCR",
-          "count": 1
         }
       ]
     },
@@ -243,7 +243,7 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 30
+          "count": 31
         },
         {
           "label_en": "The",
@@ -273,7 +273,7 @@
         {
           "label_en": "Journalism",
           "label_zh": "新闻业",
-          "count": 11
+          "count": 10
         },
         {
           "label_en": "digital journalism",
@@ -315,7 +315,7 @@
         {
           "label_en": "review",
           "label_zh": "review",
-          "count": 19
+          "count": 18
         },
         {
           "label_en": "interview",
@@ -349,7 +349,7 @@
     {
       "journalName": "JOURNAL OF COMMUNICATION",
       "journalSlug": "journal-of-communication",
-      "paperCount": 11,
+      "paperCount": 12,
       "topic_bias_en": [
         "And",
         "The",
@@ -552,18 +552,18 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 18,
+      "paperCount": 17,
       "topic_bias_en": [
         "Meta-Analysis",
-        "Systematic Review",
         "Systemic Lupus Erythematosus",
-        "BATF"
+        "BATF",
+        "RORgt"
       ],
       "topic_bias_zh": [
         "Meta-Analysis",
-        "Systematic Review",
         "系统性红斑狼疮",
-        "BATF"
+        "BATF",
+        "RORgt"
       ],
       "method_bias_en": [
         "review",
@@ -583,7 +583,7 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 30
+      "count": 31
     },
     {
       "label_en": "The",
@@ -613,7 +613,7 @@
     {
       "label_en": "Journalism",
       "label_zh": "新闻业",
-      "count": 11
+      "count": 10
     },
     {
       "label_en": "digital journalism",
@@ -665,7 +665,7 @@
     {
       "label_en": "review",
       "label_zh": "review",
-      "count": 19
+      "count": 18
     },
     {
       "label_en": "interview",
@@ -695,7 +695,7 @@
     {
       "label_en": "computational analysis",
       "label_zh": "computational analysis",
-      "count": 5
+      "count": 6
     },
     {
       "label_en": "discourse analysis",
