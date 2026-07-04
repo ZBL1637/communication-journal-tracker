@@ -46,6 +46,97 @@
     "fetchedAt": "2026-07-03T22:55:40.407Z"
   },
   {
+    "id": "social-media-and-society-a0baed76ece5",
+    "doi": "10.1177/20563051261458615",
+    "url": "https://doi.org/10.1177/20563051261458615",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "authors": [
+      "Muyang Li"
+    ],
+    "title_en": "Conspiracies and Algorithms: How Reddit’s Conspiracy Community Perceives Algorithm-Driven Social Automation",
+    "title_zh": "Conspiracies and Algorithms: How Reddit’s Conspiracy Community Perceives Algorithm-Driven Social Automation",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "And",
+      "Algorithms",
+      "Conspiracy",
+      "The",
+      "Technical",
+      "Algorithmic"
+    ],
+    "inferred_keywords_zh": [
+      "And",
+      "Algorithms",
+      "Conspiracy",
+      "The",
+      "Technical",
+      "Algorithmic"
+    ],
+    "plain_summary_zh": "This paper studies Conspiracies and Algorithms: How Reddit’s Conspiracy Community Perceives Algorithm-Driven Social Automation. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, Algorithms, Conspiracy, The. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Conspiracies and Algorithms: How Reddit’s Conspiracy Community Perceives Algorithm-Driven Social Automation. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, Algorithms, Conspiracy, The. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around And, Algorithms, Conspiracy, The, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around And, Algorithms, Conspiracy, The, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-07-04T22:50:44.885Z"
+  },
+  {
+    "id": "social-media-and-society-53ec9247c1eb",
+    "doi": "10.1177/20563051261462091",
+    "url": "https://doi.org/10.1177/20563051261462091",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "authors": [
+      "Ashwin Rajadesingan",
+      "Tejasvi Chebrolu"
+    ],
+    "title_en": "Divisive or Bridging? Personal Stories in Cross-Cutting Political Discussions on Reddit",
+    "title_zh": "Divisive or Bridging? Personal Stories in Cross-Cutting Political Discussions on Reddit",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Stories",
+      "Personal",
+      "Cross",
+      "Cutting",
+      "Political",
+      "And"
+    ],
+    "inferred_keywords_zh": [
+      "Stories",
+      "Personal",
+      "Cross",
+      "Cutting",
+      "Political",
+      "And"
+    ],
+    "plain_summary_zh": "This paper studies Divisive or Bridging? Personal Stories in Cross-Cutting Political Discussions on Reddit. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Stories, Personal, Cross, Cutting. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Divisive or Bridging? Personal Stories in Cross-Cutting Political Discussions on Reddit. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Stories, Personal, Cross, Cutting. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Stories, Personal, Cross, Cutting, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Stories, Personal, Cross, Cutting, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "experiment",
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "experiment",
+      "computational analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-07-04T22:50:44.872Z"
+  },
+  {
     "id": "digital-journalism-bd8dd3c1f400",
     "doi": "10.1080/21670811.2026.2683342",
     "url": "https://doi.org/10.1080/21670811.2026.2683342",

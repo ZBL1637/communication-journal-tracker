@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-03T22:56:01.150Z",
+  "generatedAt": "2026-07-04T22:50:59.722Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 2,
-      "overview_en": "Across 2 papers, the most visible themes are And, State, Content. Researchers most often rely on computational analysis, network analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 2 papers, the most visible themes are And, State, Content. Researchers most often rely on computational analysis, network analysis to explain what these changes mean for communication.",
+      "paperCount": 3,
+      "overview_en": "Across 3 papers, the most visible themes are And, State, Content. Researchers most often rely on computational analysis, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 3 papers, the most visible themes are And, State, Content. Researchers most often rely on computational analysis, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "State",
@@ -26,7 +26,7 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 1
+          "count": 3
         },
         {
           "label_en": "State",
@@ -54,23 +54,23 @@
           "count": 1
         },
         {
-          "label_en": "Mainstream",
-          "label_zh": "主流",
+          "label_en": "Algorithms",
+          "label_zh": "Algorithms",
           "count": 1
         },
         {
-          "label_en": "Digital media",
-          "label_zh": "数字媒体",
+          "label_en": "Conspiracy",
+          "label_zh": "Conspiracy",
           "count": 1
         },
         {
-          "label_en": "Alternative media",
-          "label_zh": "替代性媒体",
+          "label_en": "The",
+          "label_zh": "The",
           "count": 1
         },
         {
-          "label_en": "Politics",
-          "label_zh": "政治",
+          "label_en": "Technical",
+          "label_zh": "Technical",
           "count": 1
         }
       ],
@@ -78,16 +78,11 @@
         {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
-          "count": 1
+          "count": 3
         },
         {
-          "label_en": "network analysis",
-          "label_zh": "网络分析",
-          "count": 1
-        },
-        {
-          "label_en": "cross-country comparison",
-          "label_zh": "跨国比较",
+          "label_en": "experiment",
+          "label_zh": "experiment",
           "count": 1
         }
       ]
@@ -96,24 +91,29 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 14,
-      "overview_en": "Across 14 papers, the most visible themes are Politics, Social media, Digital media. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 14 papers, the most visible themes are Politics, Social media, Digital media. Researchers most often rely on content analysis, interview to explain what these changes mean for communication.",
+      "paperCount": 15,
+      "overview_en": "Across 15 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 15 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
+        "And",
         "Politics",
         "Social media",
         "Digital media",
-        "Key (lock)",
-        "Radicalization"
+        "Key (lock)"
       ],
       "hot_topics_zh": [
+        "And",
         "政治",
         "社交媒体",
         "数字媒体",
-        "钥匙（锁）",
-        "激进化"
+        "钥匙（锁）"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "And",
+          "label_zh": "And",
+          "count": 3
+        },
         {
           "label_en": "Politics",
           "label_zh": "政治",
@@ -140,11 +140,6 @@
           "count": 2
         },
         {
-          "label_en": "And",
-          "label_zh": "And",
-          "count": 1
-        },
-        {
           "label_en": "State",
           "label_zh": "State",
           "count": 1
@@ -167,19 +162,24 @@
       ],
       "high_frequency_methods": [
         {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 3
+        },
+        {
           "label_en": "content analysis",
           "label_zh": "内容分析",
           "count": 3
         },
         {
-          "label_en": "interview",
-          "label_zh": "访谈",
-          "count": 3
+          "label_en": "experiment",
+          "label_zh": "experiment",
+          "count": 2
         },
         {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 1
+          "label_en": "interview",
+          "label_zh": "访谈",
+          "count": 2
         },
         {
           "label_en": "network analysis",
@@ -202,11 +202,6 @@
           "count": 1
         },
         {
-          "label_en": "experiment",
-          "label_zh": "实验",
-          "count": 1
-        },
-        {
           "label_en": "bioinformatics analysis",
           "label_zh": "生物信息学分析",
           "count": 1
@@ -222,9 +217,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 165,
-      "overview_en": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 166,
+      "overview_en": "Across 166 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 166 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -243,12 +238,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 31
+          "count": 33
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 28
+          "count": 29
         },
         {
           "label_en": "Social media",
@@ -309,13 +304,13 @@
         },
         {
           "label_en": "experiment",
-          "label_zh": "实验",
-          "count": 19
+          "label_zh": "experiment",
+          "count": 20
         },
         {
           "label_en": "review",
           "label_zh": "review",
-          "count": 18
+          "count": 17
         },
         {
           "label_en": "interview",
@@ -333,14 +328,14 @@
           "count": 9
         },
         {
-          "label_en": "conversation analysis",
-          "label_zh": "会话分析",
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
           "count": 8
         },
         {
-          "label_en": "literature review",
-          "label_zh": "文献综述",
-          "count": 7
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
+          "count": 8
         }
       ]
     }
@@ -465,30 +460,30 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 23,
+      "paperCount": 25,
       "topic_bias_en": [
-        "social media",
         "And",
-        "digital ethnography",
-        "The"
+        "The",
+        "social media",
+        "Algorithms"
       ],
       "topic_bias_zh": [
-        "社交媒体",
         "And",
-        "数字民族志",
-        "The"
+        "The",
+        "社交媒体",
+        "Algorithms"
       ],
       "method_bias_en": [
         "content analysis",
-        "digital ethnography",
-        "survey",
-        "case study"
+        "computational analysis",
+        "experiment",
+        "digital ethnography"
       ],
       "method_bias_zh": [
         "内容分析",
-        "数字民族志",
-        "问卷调查",
-        "案例研究"
+        "computational analysis",
+        "experiment",
+        "数字民族志"
       ]
     },
     {
@@ -552,7 +547,7 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 17,
+      "paperCount": 16,
       "topic_bias_en": [
         "Meta-Analysis",
         "Systemic Lupus Erythematosus",
@@ -583,12 +578,12 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 31
+      "count": 33
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 28
+      "count": 29
     },
     {
       "label_en": "Social media",
@@ -659,13 +654,13 @@
     },
     {
       "label_en": "experiment",
-      "label_zh": "实验",
-      "count": 19
+      "label_zh": "experiment",
+      "count": 20
     },
     {
       "label_en": "review",
       "label_zh": "review",
-      "count": 18
+      "count": 17
     },
     {
       "label_en": "interview",
@@ -683,6 +678,11 @@
       "count": 9
     },
     {
+      "label_en": "computational analysis",
+      "label_zh": "computational analysis",
+      "count": 8
+    },
+    {
       "label_en": "conversation analysis",
       "label_zh": "会话分析",
       "count": 8
@@ -691,11 +691,6 @@
       "label_en": "literature review",
       "label_zh": "文献综述",
       "count": 7
-    },
-    {
-      "label_en": "computational analysis",
-      "label_zh": "computational analysis",
-      "count": 6
     },
     {
       "label_en": "discourse analysis",

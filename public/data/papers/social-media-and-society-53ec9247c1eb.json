@@ -1,0 +1,53 @@
+{
+  "id": "social-media-and-society-53ec9247c1eb",
+  "doi": "10.1177/20563051261462091",
+  "url": "https://doi.org/10.1177/20563051261462091",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "authors": [
+    "Ashwin Rajadesingan",
+    "Tejasvi Chebrolu"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-07-04T22:50:44.872Z",
+  "language": "en",
+  "raw_title": "Divisive or Bridging? Personal Stories in Cross-Cutting Political Discussions on Reddit",
+  "raw_abstract": "Recent experimental research suggests that sharing personal stories can foster respect and reduce prejudice in cross-cutting settings. Yet, some studies suggest that personal stories shared on social media, amplified by partisan dynamics and platform characteristics, may deepen divides rather than reconcile differences. We evaluate these seemingly contradictory assessments through a large-scale computational analysis of personal stories shared in 400,000 like-minded and cross-cutting political interactions on Reddit during a time of significant affective polarization in the United States (2015–2021). We find that, in cross-cutting settings, comments with personal stories tend to have a positive effect, receiving more favorable evaluations (via up/down votes) and more responses than other comments. However, this positive reception does not translate into less toxic responses. Moreover, users are less likely to share personal stories in political interactions in general but more so with those holding opposing views, limiting their impact in cross-cutting exchanges. We also observe some differential effects of sharing personal stories based on user ideology. Overall, drawing on small stories research on social media, our findings provide a nuanced view on the role of personal stories in online political discussions.",
+  "raw_keywords": [],
+  "title_en": "Divisive or Bridging? Personal Stories in Cross-Cutting Political Discussions on Reddit",
+  "title_zh": "Divisive or Bridging? Personal Stories in Cross-Cutting Political Discussions on Reddit",
+  "abstract_en": "Recent experimental research suggests that sharing personal stories can foster respect and reduce prejudice in cross-cutting settings. Yet, some studies suggest that personal stories shared on social media, amplified by partisan dynamics and platform characteristics, may deepen divides rather than reconcile differences. We evaluate these seemingly contradictory assessments through a large-scale computational analysis of personal stories shared in 400,000 like-minded and cross-cutting political interactions on Reddit during a time of significant affective polarization in the United States (2015–2021). We find that, in cross-cutting settings, comments with personal stories tend to have a positive effect, receiving more favorable evaluations (via up/down votes) and more responses than other comments. However, this positive reception does not translate into less toxic responses. Moreover, users are less likely to share personal stories in political interactions in general but more so with those holding opposing views, limiting their impact in cross-cutting exchanges. We also observe some differential effects of sharing personal stories based on user ideology. Overall, drawing on small stories research on social media, our findings provide a nuanced view on the role of personal stories in online political discussions.",
+  "abstract_zh": "Recent experimental research suggests that sharing personal stories can foster respect and reduce prejudice in cross-cutting settings. Yet, some studies suggest that personal stories shared on social media, amplified by partisan dynamics and platform characteristics, may deepen divides rather than reconcile differences. We evaluate these seemingly contradictory assessments through a large-scale computational analysis of personal stories shared in 400,000 like-minded and cross-cutting political interactions on Reddit during a time of significant affective polarization in the United States (2015–2021). We find that, in cross-cutting settings, comments with personal stories tend to have a positive effect, receiving more favorable evaluations (via up/down votes) and more responses than other comments. However, this positive reception does not translate into less toxic responses. Moreover, users are less likely to share personal stories in political interactions in general but more so with those holding opposing views, limiting their impact in cross-cutting exchanges. We also observe some differential effects of sharing personal stories based on user ideology. Overall, drawing on small stories research on social media, our findings provide a nuanced view on the role of personal stories in online political discussions.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "Stories",
+    "Personal",
+    "Cross",
+    "Cutting",
+    "Political",
+    "And"
+  ],
+  "inferred_keywords_zh": [
+    "Stories",
+    "Personal",
+    "Cross",
+    "Cutting",
+    "Political",
+    "And"
+  ],
+  "plain_summary_en": "This paper studies Divisive or Bridging? Personal Stories in Cross-Cutting Political Discussions on Reddit. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Stories, Personal, Cross, Cutting. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Divisive or Bridging? Personal Stories in Cross-Cutting Political Discussions on Reddit. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Stories, Personal, Cross, Cutting. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Stories, Personal, Cross, Cutting, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Stories, Personal, Cross, Cutting, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "experiment",
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "experiment",
+    "computational analysis"
+  ]
+}
