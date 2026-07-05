@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T22:50:59.722Z",
+  "generatedAt": "2026-07-05T22:55:14.380Z",
   "snapshots": [
     {
       "key": "7d",
@@ -91,9 +91,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 15,
-      "overview_en": "Across 15 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 15 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
+      "paperCount": 14,
+      "overview_en": "Across 14 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 14 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "Politics",
