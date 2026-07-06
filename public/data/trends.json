@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T22:55:14.380Z",
+  "generatedAt": "2026-07-06T23:01:46.792Z",
   "snapshots": [
     {
       "key": "7d",
@@ -91,9 +91,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 14,
-      "overview_en": "Across 14 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 14 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
+      "paperCount": 13,
+      "overview_en": "Across 13 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 13 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "Politics",
@@ -217,9 +217,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 166,
-      "overview_en": "Across 166 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 166 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 164,
+      "overview_en": "Across 164 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 164 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -248,7 +248,7 @@
         {
           "label_en": "Social media",
           "label_zh": "社交媒体",
-          "count": 21
+          "count": 20
         },
         {
           "label_en": "Politics",
@@ -281,8 +281,8 @@
           "count": 10
         },
         {
-          "label_en": "News media",
-          "label_zh": "新闻媒体",
+          "label_en": "Key (lock)",
+          "label_zh": "钥匙（锁）",
           "count": 8
         }
       ],
@@ -300,7 +300,7 @@
         {
           "label_en": "survey",
           "label_zh": "调查",
-          "count": 31
+          "count": 30
         },
         {
           "label_en": "experiment",
@@ -320,7 +320,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "混合方法",
-          "count": 15
+          "count": 14
         },
         {
           "label_en": "theoretical analysis",
@@ -373,7 +373,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 30,
+      "paperCount": 29,
       "topic_bias_en": [
         "political communication",
         "Politics",
@@ -402,30 +402,30 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 29,
+      "paperCount": 28,
       "topic_bias_en": [
         "Work (physics)",
         "digital journalism",
-        "Social media",
-        "Journalism"
+        "Journalism",
+        "Social media"
       ],
       "topic_bias_zh": [
         "功（物理）",
         "数字新闻",
-        "社交媒体",
-        "新闻业"
+        "新闻业",
+        "社交媒体"
       ],
       "method_bias_en": [
         "case study",
         "content analysis",
-        "survey",
-        "interview"
+        "interview",
+        "survey"
       ],
       "method_bias_zh": [
         "案例研究",
         "内容分析",
-        "调查",
-        "访谈"
+        "访谈",
+        "调查"
       ]
     },
     {
@@ -588,7 +588,7 @@
     {
       "label_en": "Social media",
       "label_zh": "社交媒体",
-      "count": 21
+      "count": 20
     },
     {
       "label_en": "Politics",
@@ -621,11 +621,6 @@
       "count": 10
     },
     {
-      "label_en": "News media",
-      "label_zh": "新闻媒体",
-      "count": 8
-    },
-    {
       "label_en": "Key (lock)",
       "label_zh": "钥匙（锁）",
       "count": 8
@@ -634,6 +629,11 @@
       "label_en": "Misinformation",
       "label_zh": "虚假信息",
       "count": 8
+    },
+    {
+      "label_en": "News media",
+      "label_zh": "新闻媒体",
+      "count": 7
     }
   ],
   "high_frequency_methods": [
@@ -650,7 +650,7 @@
     {
       "label_en": "survey",
       "label_zh": "调查",
-      "count": 31
+      "count": 30
     },
     {
       "label_en": "experiment",
@@ -670,7 +670,7 @@
     {
       "label_en": "mixed methods",
       "label_zh": "混合方法",
-      "count": 15
+      "count": 14
     },
     {
       "label_en": "theoretical analysis",
