@@ -1,32 +1,42 @@
 {
-  "generatedAt": "2026-07-06T23:01:46.792Z",
+  "generatedAt": "2026-07-07T22:53:32.898Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 3,
-      "overview_en": "Across 3 papers, the most visible themes are And, State, Content. Researchers most often rely on computational analysis, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 3 papers, the most visible themes are And, State, Content. Researchers most often rely on computational analysis, experiment to explain what these changes mean for communication.",
+      "paperCount": 4,
+      "overview_en": "Across 4 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 4 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
+        "The",
+        "Algorithmic",
         "State",
-        "Content",
-        "Created",
-        "Authoritarian"
+        "Content"
       ],
       "hot_topics_zh": [
         "And",
+        "The",
+        "Algorithmic",
         "State",
-        "Content",
-        "Created",
-        "Authoritarian"
+        "Content"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "And",
           "label_zh": "And",
           "count": 3
+        },
+        {
+          "label_en": "The",
+          "label_zh": "The",
+          "count": 2
+        },
+        {
+          "label_en": "Algorithmic",
+          "label_zh": "Algorithmic",
+          "count": 2
         },
         {
           "label_en": "State",
@@ -54,23 +64,13 @@
           "count": 1
         },
         {
-          "label_en": "Algorithms",
-          "label_zh": "Algorithms",
+          "label_en": "Intelligibility",
+          "label_zh": "Intelligibility",
           "count": 1
         },
         {
-          "label_en": "Conspiracy",
-          "label_zh": "Conspiracy",
-          "count": 1
-        },
-        {
-          "label_en": "The",
-          "label_zh": "The",
-          "count": 1
-        },
-        {
-          "label_en": "Technical",
-          "label_zh": "Technical",
+          "label_en": "Human",
+          "label_zh": "Human",
           "count": 1
         }
       ],
@@ -78,7 +78,12 @@
         {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
-          "count": 3
+          "count": 4
+        },
+        {
+          "label_en": "interview",
+          "label_zh": "interview",
+          "count": 1
         },
         {
           "label_en": "experiment",
@@ -91,22 +96,22 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 13,
-      "overview_en": "Across 13 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 13 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, content analysis to explain what these changes mean for communication.",
+      "paperCount": 14,
+      "overview_en": "Across 14 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 14 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "Politics",
         "Social media",
-        "Digital media",
-        "Key (lock)"
+        "The",
+        "Algorithmic"
       ],
       "hot_topics_zh": [
         "And",
         "政治",
         "社交媒体",
-        "数字媒体",
-        "钥匙（锁）"
+        "The",
+        "Algorithmic"
       ],
       "high_frequency_keywords": [
         {
@@ -123,6 +128,16 @@
           "label_en": "Social media",
           "label_zh": "社交媒体",
           "count": 3
+        },
+        {
+          "label_en": "The",
+          "label_zh": "The",
+          "count": 2
+        },
+        {
+          "label_en": "Algorithmic",
+          "label_zh": "Algorithmic",
+          "count": 2
         },
         {
           "label_en": "Digital media",
@@ -148,22 +163,17 @@
           "label_en": "Content",
           "label_zh": "Content",
           "count": 1
-        },
-        {
-          "label_en": "Created",
-          "label_zh": "Created",
-          "count": 1
-        },
-        {
-          "label_en": "Authoritarian",
-          "label_zh": "Authoritarian",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
+          "count": 4
+        },
+        {
+          "label_en": "interview",
+          "label_zh": "interview",
           "count": 3
         },
         {
@@ -174,11 +184,6 @@
         {
           "label_en": "experiment",
           "label_zh": "experiment",
-          "count": 2
-        },
-        {
-          "label_en": "interview",
-          "label_zh": "访谈",
           "count": 2
         },
         {
@@ -243,12 +248,12 @@
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 29
+          "count": 30
         },
         {
           "label_en": "Social media",
           "label_zh": "社交媒体",
-          "count": 20
+          "count": 19
         },
         {
           "label_en": "Politics",
@@ -263,7 +268,7 @@
         {
           "label_en": "Work (physics)",
           "label_zh": "功（物理）",
-          "count": 12
+          "count": 11
         },
         {
           "label_en": "Journalism",
@@ -281,8 +286,8 @@
           "count": 10
         },
         {
-          "label_en": "Key (lock)",
-          "label_zh": "钥匙（锁）",
+          "label_en": "Misinformation",
+          "label_zh": "虚假信息",
           "count": 8
         }
       ],
@@ -308,14 +313,14 @@
           "count": 20
         },
         {
-          "label_en": "review",
-          "label_zh": "review",
+          "label_en": "interview",
+          "label_zh": "interview",
           "count": 17
         },
         {
-          "label_en": "interview",
-          "label_zh": "访谈",
-          "count": 16
+          "label_en": "review",
+          "label_zh": "review",
+          "count": 17
         },
         {
           "label_en": "mixed methods",
@@ -323,14 +328,14 @@
           "count": 14
         },
         {
-          "label_en": "theoretical analysis",
-          "label_zh": "理论分析",
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
           "count": 9
         },
         {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 8
+          "label_en": "theoretical analysis",
+          "label_zh": "理论分析",
+          "count": 9
         },
         {
           "label_en": "conversation analysis",
@@ -402,18 +407,18 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 28,
+      "paperCount": 27,
       "topic_bias_en": [
         "Work (physics)",
         "digital journalism",
         "Journalism",
-        "Social media"
+        "Politics"
       ],
       "topic_bias_zh": [
         "功（物理）",
         "数字新闻",
         "新闻业",
-        "社交媒体"
+        "政治"
       ],
       "method_bias_en": [
         "case study",
@@ -460,7 +465,7 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 25,
+      "paperCount": 26,
       "topic_bias_en": [
         "And",
         "The",
@@ -474,14 +479,14 @@
         "Algorithms"
       ],
       "method_bias_en": [
-        "content analysis",
         "computational analysis",
+        "content analysis",
         "experiment",
         "digital ethnography"
       ],
       "method_bias_zh": [
-        "内容分析",
         "computational analysis",
+        "内容分析",
         "experiment",
         "数字民族志"
       ]
@@ -583,12 +588,12 @@
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 29
+      "count": 30
     },
     {
       "label_en": "Social media",
       "label_zh": "社交媒体",
-      "count": 20
+      "count": 19
     },
     {
       "label_en": "Politics",
@@ -603,7 +608,7 @@
     {
       "label_en": "Work (physics)",
       "label_zh": "功（物理）",
-      "count": 12
+      "count": 11
     },
     {
       "label_en": "Journalism",
@@ -621,11 +626,6 @@
       "count": 10
     },
     {
-      "label_en": "Key (lock)",
-      "label_zh": "钥匙（锁）",
-      "count": 8
-    },
-    {
       "label_en": "Misinformation",
       "label_zh": "虚假信息",
       "count": 8
@@ -633,6 +633,11 @@
     {
       "label_en": "News media",
       "label_zh": "新闻媒体",
+      "count": 7
+    },
+    {
+      "label_en": "Key (lock)",
+      "label_zh": "钥匙（锁）",
       "count": 7
     }
   ],
@@ -658,14 +663,14 @@
       "count": 20
     },
     {
-      "label_en": "review",
-      "label_zh": "review",
+      "label_en": "interview",
+      "label_zh": "interview",
       "count": 17
     },
     {
-      "label_en": "interview",
-      "label_zh": "访谈",
-      "count": 16
+      "label_en": "review",
+      "label_zh": "review",
+      "count": 17
     },
     {
       "label_en": "mixed methods",
@@ -673,14 +678,14 @@
       "count": 14
     },
     {
-      "label_en": "theoretical analysis",
-      "label_zh": "理论分析",
+      "label_en": "computational analysis",
+      "label_zh": "computational analysis",
       "count": 9
     },
     {
-      "label_en": "computational analysis",
-      "label_zh": "computational analysis",
-      "count": 8
+      "label_en": "theoretical analysis",
+      "label_zh": "理论分析",
+      "count": 9
     },
     {
       "label_en": "conversation analysis",
@@ -690,7 +695,7 @@
     {
       "label_en": "literature review",
       "label_zh": "文献综述",
-      "count": 7
+      "count": 6
     },
     {
       "label_en": "discourse analysis",
