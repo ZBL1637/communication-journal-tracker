@@ -1,0 +1,55 @@
+{
+  "id": "political-communication-040b8099c54d",
+  "doi": "10.1080/10584609.2026.2679475",
+  "url": "https://doi.org/10.1080/10584609.2026.2679475",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-06-30T05:51:22.000Z",
+  "authors": [
+    "Anja Bechmann",
+    "Aarhus"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-08T22:57:01.655Z",
+  "language": "en",
+  "raw_title": "Platform Collective Behavior as Democratic Infrastructure: Beyond Causal Effects in the DSA Era",
+  "raw_abstract": "Online platforms have become infrastructural to democratic life, yet their influence is often examined through narrow causal-effect models that overlook systemic socio-technical dynamics. This Forum contribution introduces the concept of platform collective behavior to conceptualize how intertwined human-AI agency generates population-level patterns with systemic risk implications for democracy and citizen well-being. Rather than focusing on isolated persuasion effects, platform collective behavior captures emergent socio-algorithmic patterns such as unequal political participation, differential exposure to misinformation, bot amplification, and subgroup information segregation. The article evaluates whether Article 40 of the European Digital Services Act (DSA), which grants vetted researchers access to platform data, enables robust investigation of such systemic risks. While the DSA represents an unprecedented regulatory intervention in research data access, its scope is limited to systemic risks and depends on platform-provided datasets. The analysis identifies blind spots, including infrastructural and economic power asymmetries, offline behavioral consequences, and data integrity concerns. The article concludes that DSA access is necessary but insufficient for fully assessing platform influence on democracy.",
+  "raw_keywords": [
+    "Democracy",
+    "Collective behavior",
+    "Voting behavior",
+    "Collective action",
+    "Causal model"
+  ],
+  "title_en": "Platform Collective Behavior as Democratic Infrastructure: Beyond Causal Effects in the DSA Era",
+  "title_zh": "Platform Collective Behavior as Democratic Infrastructure: Beyond Causal Effects in the DSA Era",
+  "abstract_en": "Online platforms have become infrastructural to democratic life, yet their influence is often examined through narrow causal-effect models that overlook systemic socio-technical dynamics. This Forum contribution introduces the concept of platform collective behavior to conceptualize how intertwined human-AI agency generates population-level patterns with systemic risk implications for democracy and citizen well-being. Rather than focusing on isolated persuasion effects, platform collective behavior captures emergent socio-algorithmic patterns such as unequal political participation, differential exposure to misinformation, bot amplification, and subgroup information segregation. The article evaluates whether Article 40 of the European Digital Services Act (DSA), which grants vetted researchers access to platform data, enables robust investigation of such systemic risks. While the DSA represents an unprecedented regulatory intervention in research data access, its scope is limited to systemic risks and depends on platform-provided datasets. The analysis identifies blind spots, including infrastructural and economic power asymmetries, offline behavioral consequences, and data integrity concerns. The article concludes that DSA access is necessary but insufficient for fully assessing platform influence on democracy.",
+  "abstract_zh": "Online platforms have become infrastructural to democratic life, yet their influence is often examined through narrow causal-effect models that overlook systemic socio-technical dynamics. This Forum contribution introduces the concept of platform collective behavior to conceptualize how intertwined human-AI agency generates population-level patterns with systemic risk implications for democracy and citizen well-being. Rather than focusing on isolated persuasion effects, platform collective behavior captures emergent socio-algorithmic patterns such as unequal political participation, differential exposure to misinformation, bot amplification, and subgroup information segregation. The article evaluates whether Article 40 of the European Digital Services Act (DSA), which grants vetted researchers access to platform data, enables robust investigation of such systemic risks. While the DSA represents an unprecedented regulatory intervention in research data access, its scope is limited to systemic risks and depends on platform-provided datasets. The analysis identifies blind spots, including infrastructural and economic power asymmetries, offline behavioral consequences, and data integrity concerns. The article concludes that DSA access is necessary but insufficient for fully assessing platform influence on democracy.",
+  "keywords_en": [
+    "Democracy",
+    "Collective behavior",
+    "Voting behavior",
+    "Collective action",
+    "Causal model"
+  ],
+  "keywords_zh": [
+    "Democracy",
+    "Collective behavior",
+    "Voting behavior",
+    "Collective action",
+    "Causal model"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Platform Collective Behavior as Democratic Infrastructure: Beyond Causal Effects in the DSA Era. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Democracy, Collective behavior, Voting behavior, Collective action. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Platform Collective Behavior as Democratic Infrastructure: Beyond Causal Effects in the DSA Era. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Democracy, Collective behavior, Voting behavior, Collective action. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Democracy, Collective behavior, Voting behavior, Collective action, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Democracy, Collective behavior, Voting behavior, Collective action, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "computational analysis"
+  ]
+}

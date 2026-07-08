@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-07-07T22:53:32.898Z",
+  "generatedAt": "2026-07-08T22:57:08.766Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 4,
-      "overview_en": "Across 4 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 4 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
+      "paperCount": 5,
+      "overview_en": "Across 5 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on computational analysis, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 5 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on computational analysis, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
         "Algorithmic",
-        "State",
-        "Content"
+        "Polarization (electrochemistry)",
+        "Operationalization"
       ],
       "hot_topics_zh": [
         "And",
         "The",
         "Algorithmic",
-        "State",
-        "Content"
+        "Polarization (electrochemistry)",
+        "Operationalization"
       ],
       "high_frequency_keywords": [
         {
@@ -39,38 +39,38 @@
           "count": 2
         },
         {
+          "label_en": "Polarization (electrochemistry)",
+          "label_zh": "Polarization (electrochemistry)",
+          "count": 1
+        },
+        {
+          "label_en": "Operationalization",
+          "label_zh": "Operationalization",
+          "count": 1
+        },
+        {
+          "label_en": "Presidential system",
+          "label_zh": "Presidential system",
+          "count": 1
+        },
+        {
+          "label_en": "Affect (linguistics)",
+          "label_zh": "Affect (linguistics)",
+          "count": 1
+        },
+        {
+          "label_en": "Correlation",
+          "label_zh": "Correlation",
+          "count": 1
+        },
+        {
+          "label_en": "Presidential election",
+          "label_zh": "Presidential election",
+          "count": 1
+        },
+        {
           "label_en": "State",
           "label_zh": "State",
-          "count": 1
-        },
-        {
-          "label_en": "Content",
-          "label_zh": "Content",
-          "count": 1
-        },
-        {
-          "label_en": "Created",
-          "label_zh": "Created",
-          "count": 1
-        },
-        {
-          "label_en": "Authoritarian",
-          "label_zh": "Authoritarian",
-          "count": 1
-        },
-        {
-          "label_en": "Curation",
-          "label_zh": "Curation",
-          "count": 1
-        },
-        {
-          "label_en": "Intelligibility",
-          "label_zh": "Intelligibility",
-          "count": 1
-        },
-        {
-          "label_en": "Human",
-          "label_zh": "Human",
           "count": 1
         }
       ],
@@ -79,6 +79,11 @@
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
           "count": 4
+        },
+        {
+          "label_en": "survey",
+          "label_zh": "survey",
+          "count": 1
         },
         {
           "label_en": "interview",
@@ -96,22 +101,22 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 14,
-      "overview_en": "Across 14 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 14 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
+      "paperCount": 16,
+      "overview_en": "Across 16 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 16 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "Politics",
         "Social media",
-        "The",
-        "Algorithmic"
+        "Operationalization",
+        "The"
       ],
       "hot_topics_zh": [
         "And",
         "政治",
         "社交媒体",
-        "The",
-        "Algorithmic"
+        "Operationalization",
+        "The"
       ],
       "high_frequency_keywords": [
         {
@@ -128,6 +133,11 @@
           "label_en": "Social media",
           "label_zh": "社交媒体",
           "count": 3
+        },
+        {
+          "label_en": "Operationalization",
+          "label_zh": "Operationalization",
+          "count": 2
         },
         {
           "label_en": "The",
@@ -155,13 +165,8 @@
           "count": 2
         },
         {
-          "label_en": "State",
-          "label_zh": "State",
-          "count": 1
-        },
-        {
-          "label_en": "Content",
-          "label_zh": "Content",
+          "label_en": "Polarization (electrochemistry)",
+          "label_zh": "Polarization (electrochemistry)",
           "count": 1
         }
       ],
@@ -169,7 +174,7 @@
         {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
-          "count": 4
+          "count": 5
         },
         {
           "label_en": "interview",
@@ -180,6 +185,11 @@
           "label_en": "content analysis",
           "label_zh": "内容分析",
           "count": 3
+        },
+        {
+          "label_en": "survey",
+          "label_zh": "survey",
+          "count": 2
         },
         {
           "label_en": "experiment",
@@ -194,11 +204,6 @@
         {
           "label_en": "cross-country comparison",
           "label_zh": "跨国比较",
-          "count": 1
-        },
-        {
-          "label_en": "survey",
-          "label_zh": "调查",
           "count": 1
         },
         {
@@ -222,9 +227,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 164,
-      "overview_en": "Across 164 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 164 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 165,
+      "overview_en": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -304,13 +309,13 @@
         },
         {
           "label_en": "survey",
-          "label_zh": "调查",
+          "label_zh": "survey",
           "count": 30
         },
         {
           "label_en": "experiment",
           "label_zh": "experiment",
-          "count": 20
+          "count": 19
         },
         {
           "label_en": "interview",
@@ -330,7 +335,7 @@
         {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
-          "count": 9
+          "count": 10
         },
         {
           "label_en": "theoretical analysis",
@@ -378,7 +383,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 29,
+      "paperCount": 30,
       "topic_bias_en": [
         "political communication",
         "Politics",
@@ -394,14 +399,14 @@
       "method_bias_en": [
         "content analysis",
         "case study",
-        "experiment",
-        "survey"
+        "survey",
+        "experiment"
       ],
       "method_bias_zh": [
         "内容分析",
         "案例研究",
-        "实验",
-        "调查"
+        "survey",
+        "实验"
       ]
     },
     {
@@ -654,13 +659,13 @@
     },
     {
       "label_en": "survey",
-      "label_zh": "调查",
+      "label_zh": "survey",
       "count": 30
     },
     {
       "label_en": "experiment",
       "label_zh": "experiment",
-      "count": 20
+      "count": 19
     },
     {
       "label_en": "interview",
@@ -680,7 +685,7 @@
     {
       "label_en": "computational analysis",
       "label_zh": "computational analysis",
-      "count": 9
+      "count": 10
     },
     {
       "label_en": "theoretical analysis",
