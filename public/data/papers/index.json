@@ -1,5 +1,163 @@
 [
   {
+    "id": "digital-journalism-3a20dd993ca6",
+    "doi": "10.1080/21670811.2026.2700589",
+    "url": "https://doi.org/10.1080/21670811.2026.2700589",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-09T03:41:16.000Z",
+    "authors": [
+      "Alex Zhi-Xiong Koo",
+      "Cheryl S.",
+      "Y. Shea",
+      "Alex Zhi-Xiong",
+      "Koo Cheryl",
+      "S. Y. Shea",
+      "The Chinese"
+    ],
+    "title_en": "Repressor on Leashes: Hybridized Practice of Pro-Regime Media in Hong Kong",
+    "title_zh": "Repressor on Leashes: Hybridized Practice of Pro-Regime Media in Hong Kong",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Repressor",
+      "Leashes",
+      "Hybridized",
+      "Practice",
+      "Pro",
+      "Regime"
+    ],
+    "inferred_keywords_zh": [
+      "Repressor",
+      "Leashes",
+      "Hybridized",
+      "Practice",
+      "Pro",
+      "Regime"
+    ],
+    "plain_summary_zh": "This paper studies Repressor on Leashes: Hybridized Practice of Pro-Regime Media in Hong Kong. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Repressor, Leashes, Hybridized, Practice. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Repressor on Leashes: Hybridized Practice of Pro-Regime Media in Hong Kong. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Repressor, Leashes, Hybridized, Practice. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Repressor, Leashes, Hybridized, Practice, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Repressor, Leashes, Hybridized, Practice, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-07-09T23:04:02.357Z"
+  },
+  {
+    "id": "digital-journalism-7168dcaba663",
+    "doi": "10.1080/21670811.2026.2700587",
+    "url": "https://doi.org/10.1080/21670811.2026.2700587",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-09T03:40:38.000Z",
+    "authors": [
+      "Huong Ha",
+      "Hong Tien Vu",
+      "Media",
+      "Design and Information",
+      "Colorado Boulder",
+      "Boulder",
+      "CO",
+      "USAb",
+      "Environmental Journalism",
+      "USA"
+    ],
+    "title_en": "“Shamed,” “Embarrassed,” and “Skeptical”: How Inadvertently Sharing Fake News Influences Users’ Perceptions of the Information Environment and Social Media Use",
+    "title_zh": "“Shamed,” “Embarrassed,” and “Skeptical”: How Inadvertently Sharing Fake News Influences Users’ Perceptions of the Information Environment and Social Media Use",
+    "keywords_en": [
+      "Perception",
+      "Social media",
+      "Fake news",
+      "Misinformation",
+      "Information sharing",
+      "Affect (linguistics)",
+      "Journalism"
+    ],
+    "keywords_zh": [
+      "Perception",
+      "Social media",
+      "Fake news",
+      "Misinformation",
+      "Information sharing",
+      "Affect (linguistics)",
+      "Journalism"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies “Shamed,” “Embarrassed,” and “Skeptical”: How Inadvertently Sharing Fake News Influences Users’ Perceptions of the Information Environment and Social Media Use. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Perception, Social media, Fake news, Misinformation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies “Shamed,” “Embarrassed,” and “Skeptical”: How Inadvertently Sharing Fake News Influences Users’ Perceptions of the Information Environment and Social Media Use. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Perception, Social media, Fake news, Misinformation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Perception, Social media, Fake news, Misinformation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Perception, Social media, Fake news, Misinformation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-09T23:04:01.191Z"
+  },
+  {
+    "id": "journal-of-communication-208fb9b16633",
+    "doi": "10.1093/joc/jqag009",
+    "url": "https://doi.org/10.1093/joc/jqag009",
+    "journalName": "JOURNAL OF COMMUNICATION",
+    "journalSlug": "journal-of-communication",
+    "issn": "0021-9916",
+    "publishedAt": "2026-07-09T00:00:00.000Z",
+    "authors": [
+      "Jane Shawcroft",
+      "McCall A Booth",
+      "Chris L Porter",
+      "Megan Van Alfen",
+      "Megan Gale",
+      "Lara A Maximiano",
+      "Elena K Holmes",
+      "Sarah M Coyne",
+      "Hailey G Holmgren",
+      "Blake L Jones"
+    ],
+    "title_en": "Media emotion regulation and executive functions: individual differences in temporal ordering among young children",
+    "title_zh": "Media emotion regulation and executive functions: individual differences in temporal ordering among young children",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "Temporal",
+      "Ordering",
+      "Children",
+      "And",
+      "Executive"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "Temporal",
+      "Ordering",
+      "Children",
+      "And",
+      "Executive"
+    ],
+    "plain_summary_zh": "This paper studies Media emotion regulation and executive functions: individual differences in temporal ordering among young children. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Temporal, Ordering, Children. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Media emotion regulation and executive functions: individual differences in temporal ordering among young children. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Temporal, Ordering, Children. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, Temporal, Ordering, Children, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, Temporal, Ordering, Children, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-07-09T23:03:55.569Z"
+  },
+  {
     "id": "political-communication-2f403e50365a",
     "doi": "10.1080/10584609.2026.2699105",
     "url": "https://doi.org/10.1080/10584609.2026.2699105",

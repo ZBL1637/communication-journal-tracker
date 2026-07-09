@@ -1,84 +1,84 @@
 {
-  "generatedAt": "2026-07-08T22:57:08.766Z",
+  "generatedAt": "2026-07-09T23:04:07.776Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
       "paperCount": 5,
-      "overview_en": "Across 5 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on computational analysis, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 5 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on computational analysis, survey to explain what these changes mean for communication.",
+      "overview_en": "Across 5 papers, the most visible themes are Affect (linguistics), And, Repressor. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 5 papers, the most visible themes are Affect (linguistics), And, Repressor. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
+        "Affect (linguistics)",
         "And",
-        "The",
-        "Algorithmic",
-        "Polarization (electrochemistry)",
-        "Operationalization"
+        "Repressor",
+        "Leashes",
+        "Hybridized"
       ],
       "hot_topics_zh": [
+        "Affect (linguistics)",
         "And",
-        "The",
-        "Algorithmic",
-        "Polarization (electrochemistry)",
-        "Operationalization"
+        "Repressor",
+        "Leashes",
+        "Hybridized"
       ],
       "high_frequency_keywords": [
         {
-          "label_en": "And",
-          "label_zh": "And",
-          "count": 3
-        },
-        {
-          "label_en": "The",
-          "label_zh": "The",
-          "count": 2
-        },
-        {
-          "label_en": "Algorithmic",
-          "label_zh": "Algorithmic",
-          "count": 2
-        },
-        {
-          "label_en": "Polarization (electrochemistry)",
-          "label_zh": "Polarization (electrochemistry)",
-          "count": 1
-        },
-        {
-          "label_en": "Operationalization",
-          "label_zh": "Operationalization",
-          "count": 1
-        },
-        {
-          "label_en": "Presidential system",
-          "label_zh": "Presidential system",
-          "count": 1
-        },
-        {
           "label_en": "Affect (linguistics)",
           "label_zh": "Affect (linguistics)",
+          "count": 2
+        },
+        {
+          "label_en": "And",
+          "label_zh": "And",
+          "count": 2
+        },
+        {
+          "label_en": "Repressor",
+          "label_zh": "Repressor",
           "count": 1
         },
         {
-          "label_en": "Correlation",
-          "label_zh": "Correlation",
+          "label_en": "Leashes",
+          "label_zh": "Leashes",
           "count": 1
         },
         {
-          "label_en": "Presidential election",
-          "label_zh": "Presidential election",
+          "label_en": "Hybridized",
+          "label_zh": "Hybridized",
           "count": 1
         },
         {
-          "label_en": "State",
-          "label_zh": "State",
+          "label_en": "Practice",
+          "label_zh": "Practice",
+          "count": 1
+        },
+        {
+          "label_en": "Pro",
+          "label_zh": "Pro",
+          "count": 1
+        },
+        {
+          "label_en": "Regime",
+          "label_zh": "Regime",
+          "count": 1
+        },
+        {
+          "label_en": "Perception",
+          "label_zh": "Perception",
+          "count": 1
+        },
+        {
+          "label_en": "Social media",
+          "label_zh": "Social media",
           "count": 1
         }
       ],
       "high_frequency_methods": [
         {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 4
+          "label_en": "mixed methods",
+          "label_zh": "mixed methods",
+          "count": 3
         },
         {
           "label_en": "survey",
@@ -86,13 +86,8 @@
           "count": 1
         },
         {
-          "label_en": "interview",
-          "label_zh": "interview",
-          "count": 1
-        },
-        {
-          "label_en": "experiment",
-          "label_zh": "experiment",
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
           "count": 1
         }
       ]
@@ -101,27 +96,37 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 16,
-      "overview_en": "Across 16 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 16 papers, the most visible themes are And, Politics, Social media. Researchers most often rely on computational analysis, interview to explain what these changes mean for communication.",
+      "paperCount": 19,
+      "overview_en": "Across 19 papers, the most visible themes are Social media, And, The. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 19 papers, the most visible themes are Social media, And, The. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "And",
-        "Politics",
         "Social media",
-        "Operationalization",
-        "The"
+        "And",
+        "The",
+        "Politics",
+        "Perception"
       ],
       "hot_topics_zh": [
+        "Social media",
         "And",
+        "The",
         "政治",
-        "社交媒体",
-        "Operationalization",
-        "The"
+        "Perception"
       ],
       "high_frequency_keywords": [
         {
+          "label_en": "Social media",
+          "label_zh": "Social media",
+          "count": 4
+        },
+        {
           "label_en": "And",
           "label_zh": "And",
+          "count": 4
+        },
+        {
+          "label_en": "The",
+          "label_zh": "The",
           "count": 3
         },
         {
@@ -130,9 +135,24 @@
           "count": 3
         },
         {
-          "label_en": "Social media",
-          "label_zh": "社交媒体",
-          "count": 3
+          "label_en": "Perception",
+          "label_zh": "Perception",
+          "count": 2
+        },
+        {
+          "label_en": "Misinformation",
+          "label_zh": "Misinformation",
+          "count": 2
+        },
+        {
+          "label_en": "Affect (linguistics)",
+          "label_zh": "Affect (linguistics)",
+          "count": 2
+        },
+        {
+          "label_en": "Journalism",
+          "label_zh": "Journalism",
+          "count": 2
         },
         {
           "label_en": "Operationalization",
@@ -140,34 +160,9 @@
           "count": 2
         },
         {
-          "label_en": "The",
-          "label_zh": "The",
-          "count": 2
-        },
-        {
           "label_en": "Algorithmic",
           "label_zh": "Algorithmic",
           "count": 2
-        },
-        {
-          "label_en": "Digital media",
-          "label_zh": "数字媒体",
-          "count": 2
-        },
-        {
-          "label_en": "Key (lock)",
-          "label_zh": "钥匙（锁）",
-          "count": 2
-        },
-        {
-          "label_en": "Radicalization",
-          "label_zh": "激进化",
-          "count": 2
-        },
-        {
-          "label_en": "Polarization (electrochemistry)",
-          "label_zh": "Polarization (electrochemistry)",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
@@ -175,6 +170,11 @@
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
           "count": 5
+        },
+        {
+          "label_en": "mixed methods",
+          "label_zh": "mixed methods",
+          "count": 3
         },
         {
           "label_en": "interview",
@@ -215,11 +215,6 @@
           "label_en": "bioinformatics analysis",
           "label_zh": "生物信息学分析",
           "count": 1
-        },
-        {
-          "label_en": "animal experiment",
-          "label_zh": "动物实验",
-          "count": 1
         }
       ]
     },
@@ -227,9 +222,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 165,
-      "overview_en": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 165 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 168,
+      "overview_en": "Across 168 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 168 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -240,7 +235,7 @@
       "hot_topics_zh": [
         "And",
         "The",
-        "社交媒体",
+        "Social media",
         "政治",
         "政治传播"
       ],
@@ -248,17 +243,17 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 33
+          "count": 34
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 30
+          "count": 31
         },
         {
           "label_en": "Social media",
-          "label_zh": "社交媒体",
-          "count": 19
+          "label_zh": "Social media",
+          "count": 20
         },
         {
           "label_en": "Politics",
@@ -271,14 +266,14 @@
           "count": 16
         },
         {
-          "label_en": "Work (physics)",
-          "label_zh": "功（物理）",
+          "label_en": "Journalism",
+          "label_zh": "Journalism",
           "count": 11
         },
         {
-          "label_en": "Journalism",
-          "label_zh": "新闻业",
-          "count": 10
+          "label_en": "Work (physics)",
+          "label_zh": "功（物理）",
+          "count": 11
         },
         {
           "label_en": "digital journalism",
@@ -292,8 +287,8 @@
         },
         {
           "label_en": "Misinformation",
-          "label_zh": "虚假信息",
-          "count": 8
+          "label_zh": "Misinformation",
+          "count": 9
         }
       ],
       "high_frequency_methods": [
@@ -318,6 +313,11 @@
           "count": 19
         },
         {
+          "label_en": "mixed methods",
+          "label_zh": "mixed methods",
+          "count": 17
+        },
+        {
           "label_en": "interview",
           "label_zh": "interview",
           "count": 17
@@ -326,11 +326,6 @@
           "label_en": "review",
           "label_zh": "review",
           "count": 17
-        },
-        {
-          "label_en": "mixed methods",
-          "label_zh": "混合方法",
-          "count": 14
         },
         {
           "label_en": "computational analysis",
@@ -354,7 +349,7 @@
     {
       "journalName": "JOURNAL OF COMMUNICATION",
       "journalSlug": "journal-of-communication",
-      "paperCount": 12,
+      "paperCount": 13,
       "topic_bias_en": [
         "And",
         "The",
@@ -412,18 +407,18 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 27,
+      "paperCount": 29,
       "topic_bias_en": [
+        "Journalism",
         "Work (physics)",
         "digital journalism",
-        "Journalism",
-        "Politics"
+        "Social media"
       ],
       "topic_bias_zh": [
+        "Journalism",
         "功（物理）",
         "数字新闻",
-        "新闻业",
-        "政治"
+        "Social media"
       ],
       "method_bias_en": [
         "case study",
@@ -588,17 +583,17 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 33
+      "count": 34
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 30
+      "count": 31
     },
     {
       "label_en": "Social media",
-      "label_zh": "社交媒体",
-      "count": 19
+      "label_zh": "Social media",
+      "count": 20
     },
     {
       "label_en": "Politics",
@@ -611,14 +606,14 @@
       "count": 16
     },
     {
-      "label_en": "Work (physics)",
-      "label_zh": "功（物理）",
+      "label_en": "Journalism",
+      "label_zh": "Journalism",
       "count": 11
     },
     {
-      "label_en": "Journalism",
-      "label_zh": "新闻业",
-      "count": 10
+      "label_en": "Work (physics)",
+      "label_zh": "功（物理）",
+      "count": 11
     },
     {
       "label_en": "digital journalism",
@@ -632,8 +627,8 @@
     },
     {
       "label_en": "Misinformation",
-      "label_zh": "虚假信息",
-      "count": 8
+      "label_zh": "Misinformation",
+      "count": 9
     },
     {
       "label_en": "News media",
@@ -668,6 +663,11 @@
       "count": 19
     },
     {
+      "label_en": "mixed methods",
+      "label_zh": "mixed methods",
+      "count": 17
+    },
+    {
       "label_en": "interview",
       "label_zh": "interview",
       "count": 17
@@ -676,11 +676,6 @@
       "label_en": "review",
       "label_zh": "review",
       "count": 17
-    },
-    {
-      "label_en": "mixed methods",
-      "label_zh": "混合方法",
-      "count": 14
     },
     {
       "label_en": "computational analysis",
