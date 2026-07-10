@@ -1,0 +1,50 @@
+{
+  "id": "policy-and-internet-b21802f4751a",
+  "doi": "10.1002/poi3.70050",
+  "url": "https://doi.org/10.1002/poi3.70050",
+  "journalName": "Policy & Internet",
+  "journalSlug": "policy-and-internet",
+  "issn": "1944-2866",
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "authors": [
+    "Anis Ben Brik"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-07-10T22:53:25.269Z",
+  "language": "en",
+  "raw_title": "Measuring Governance or Wealth? Construct Validation of AI Readiness Indices",
+  "raw_abstract": "ABSTRACT Many are the promises of artificial intelligence and the indices claiming to measure government readiness for it. This study provides the first construct validity investigation of the Oxford Insights Government AI Readiness Index, the Tortoise Global AI Index, and the IMF AI Preparedness Index, using a nine‐test battery and drawing on confirmatory factor analysis (CFA), income saturation analysis, sigma convergence analysis, architectural sensitivity testing, and criterion validation against policy and governance data (Stanford HAI, V‐Dem, and the Worldwide Governance Indicators). All three indicies are heavily income‐saturated and show weak discriminant validity, ranking countries substantially—though not exclusively—by economic development level rather than governance capacity. Decomposing the income relationship shows that the governance‐labelled dimensions retain only a modest association with administrative governance once income is removed, and their link to democratic governance can largely be explained by income. An evaluation of the Tortoise Globaly AI Index, in particular, which achieves genuine dimensional separation between capability and governance, shows that income‐independent measurement is attainable with existing data. The paper identifies four systemic measurement gaps and proposes a research agenda for achieving more valid measurements of AI readiness. The findings have direct implications for governments, development agencies, and researchers using readiness indices as measures of governance quality.",
+  "raw_keywords": [],
+  "title_en": "Measuring Governance or Wealth? Construct Validation of AI Readiness Indices",
+  "title_zh": "Measuring Governance or Wealth? Construct Validation of AI Readiness Indices",
+  "abstract_en": "ABSTRACT Many are the promises of artificial intelligence and the indices claiming to measure government readiness for it. This study provides the first construct validity investigation of the Oxford Insights Government AI Readiness Index, the Tortoise Global AI Index, and the IMF AI Preparedness Index, using a nine‐test battery and drawing on confirmatory factor analysis (CFA), income saturation analysis, sigma convergence analysis, architectural sensitivity testing, and criterion validation against policy and governance data (Stanford HAI, V‐Dem, and the Worldwide Governance Indicators). All three indicies are heavily income‐saturated and show weak discriminant validity, ranking countries substantially—though not exclusively—by economic development level rather than governance capacity. Decomposing the income relationship shows that the governance‐labelled dimensions retain only a modest association with administrative governance once income is removed, and their link to democratic governance can largely be explained by income. An evaluation of the Tortoise Globaly AI Index, in particular, which achieves genuine dimensional separation between capability and governance, shows that income‐independent measurement is attainable with existing data. The paper identifies four systemic measurement gaps and proposes a research agenda for achieving more valid measurements of AI readiness. The findings have direct implications for governments, development agencies, and researchers using readiness indices as measures of governance quality.",
+  "abstract_zh": "ABSTRACT Many are the promises of artificial intelligence and the indices claiming to measure government readiness for it. This study provides the first construct validity investigation of the Oxford Insights Government AI Readiness Index, the Tortoise Global AI Index, and the IMF AI Preparedness Index, using a nine‐test battery and drawing on confirmatory factor analysis (CFA), income saturation analysis, sigma convergence analysis, architectural sensitivity testing, and criterion validation against policy and governance data (Stanford HAI, V‐Dem, and the Worldwide Governance Indicators). All three indicies are heavily income‐saturated and show weak discriminant validity, ranking countries substantially—though not exclusively—by economic development level rather than governance capacity. Decomposing the income relationship shows that the governance‐labelled dimensions retain only a modest association with administrative governance once income is removed, and their link to democratic governance can largely be explained by income. An evaluation of the Tortoise Globaly AI Index, in particular, which achieves genuine dimensional separation between capability and governance, shows that income‐independent measurement is attainable with existing data. The paper identifies four systemic measurement gaps and proposes a research agenda for achieving more valid measurements of AI readiness. The findings have direct implications for governments, development agencies, and researchers using readiness indices as measures of governance quality.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "The",
+    "And",
+    "Governance",
+    "Income",
+    "Readiness",
+    "Index"
+  ],
+  "inferred_keywords_zh": [
+    "The",
+    "And",
+    "Governance",
+    "Income",
+    "Readiness",
+    "Index"
+  ],
+  "plain_summary_en": "This paper studies Measuring Governance or Wealth? Construct Validation of AI Readiness Indices. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Governance, Income. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Measuring Governance or Wealth? Construct Validation of AI Readiness Indices. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Governance, Income. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around The, And, Governance, Income, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around The, And, Governance, Income, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "mixed methods"
+  ],
+  "method_tags_en": [
+    "mixed methods"
+  ]
+}

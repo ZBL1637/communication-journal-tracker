@@ -1,37 +1,62 @@
 {
-  "generatedAt": "2026-07-09T23:04:07.776Z",
+  "generatedAt": "2026-07-10T22:53:28.479Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 5,
-      "overview_en": "Across 5 papers, the most visible themes are Affect (linguistics), And, Repressor. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 5 papers, the most visible themes are Affect (linguistics), And, Repressor. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 6,
+      "overview_en": "Across 6 papers, the most visible themes are And, The, Affect (linguistics). Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 6 papers, the most visible themes are And, The, Affect (linguistics). Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Affect (linguistics)",
         "And",
-        "Repressor",
-        "Leashes",
-        "Hybridized"
+        "The",
+        "Affect (linguistics)",
+        "Governance",
+        "Income"
       ],
       "hot_topics_zh": [
-        "Affect (linguistics)",
         "And",
-        "Repressor",
-        "Leashes",
-        "Hybridized"
+        "The",
+        "Affect (linguistics)",
+        "Governance",
+        "Income"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "And",
+          "label_zh": "And",
+          "count": 3
+        },
+        {
+          "label_en": "The",
+          "label_zh": "The",
+          "count": 2
+        },
         {
           "label_en": "Affect (linguistics)",
           "label_zh": "Affect (linguistics)",
           "count": 2
         },
         {
-          "label_en": "And",
-          "label_zh": "And",
-          "count": 2
+          "label_en": "Governance",
+          "label_zh": "Governance",
+          "count": 1
+        },
+        {
+          "label_en": "Income",
+          "label_zh": "Income",
+          "count": 1
+        },
+        {
+          "label_en": "Readiness",
+          "label_zh": "Readiness",
+          "count": 1
+        },
+        {
+          "label_en": "Index",
+          "label_zh": "Index",
+          "count": 1
         },
         {
           "label_en": "Repressor",
@@ -47,38 +72,13 @@
           "label_en": "Hybridized",
           "label_zh": "Hybridized",
           "count": 1
-        },
-        {
-          "label_en": "Practice",
-          "label_zh": "Practice",
-          "count": 1
-        },
-        {
-          "label_en": "Pro",
-          "label_zh": "Pro",
-          "count": 1
-        },
-        {
-          "label_en": "Regime",
-          "label_zh": "Regime",
-          "count": 1
-        },
-        {
-          "label_en": "Perception",
-          "label_zh": "Perception",
-          "count": 1
-        },
-        {
-          "label_en": "Social media",
-          "label_zh": "Social media",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 3
+          "count": 4
         },
         {
           "label_en": "survey",
@@ -96,38 +96,38 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 19,
-      "overview_en": "Across 19 papers, the most visible themes are Social media, And, The. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 19 papers, the most visible themes are Social media, And, The. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 21,
+      "overview_en": "Across 21 papers, the most visible themes are And, The, Social media. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 21 papers, the most visible themes are And, The, Social media. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Social media",
         "And",
         "The",
+        "Social media",
         "Politics",
         "Perception"
       ],
       "hot_topics_zh": [
-        "Social media",
         "And",
         "The",
+        "Social media",
         "政治",
         "Perception"
       ],
       "high_frequency_keywords": [
         {
-          "label_en": "Social media",
-          "label_zh": "Social media",
-          "count": 4
-        },
-        {
           "label_en": "And",
           "label_zh": "And",
-          "count": 4
+          "count": 6
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 3
+          "count": 5
+        },
+        {
+          "label_en": "Social media",
+          "label_zh": "Social media",
+          "count": 4
         },
         {
           "label_en": "Politics",
@@ -174,12 +174,12 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 3
+          "count": 4
         },
         {
           "label_en": "interview",
           "label_zh": "interview",
-          "count": 3
+          "count": 4
         },
         {
           "label_en": "content analysis",
@@ -222,9 +222,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 168,
-      "overview_en": "Across 168 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 168 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 170,
+      "overview_en": "Across 170 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 170 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -243,12 +243,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 34
+          "count": 36
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 31
+          "count": 33
         },
         {
           "label_en": "Social media",
@@ -315,12 +315,12 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 17
+          "count": 18
         },
         {
           "label_en": "interview",
           "label_zh": "interview",
-          "count": 17
+          "count": 18
         },
         {
           "label_en": "review",
@@ -465,7 +465,7 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 26,
+      "paperCount": 27,
       "topic_bias_en": [
         "And",
         "The",
@@ -481,20 +481,20 @@
       "method_bias_en": [
         "computational analysis",
         "content analysis",
-        "experiment",
-        "digital ethnography"
+        "interview",
+        "experiment"
       ],
       "method_bias_zh": [
         "computational analysis",
         "内容分析",
-        "experiment",
-        "数字民族志"
+        "interview",
+        "experiment"
       ]
     },
     {
       "journalName": "Policy & Internet",
       "journalSlug": "policy-and-internet",
-      "paperCount": 23,
+      "paperCount": 24,
       "topic_bias_en": [
         "The",
         "And",
@@ -515,7 +515,7 @@
       ],
       "method_bias_zh": [
         "调查",
-        "混合方法",
+        "mixed methods",
         "访谈",
         "实验"
       ]
@@ -583,12 +583,12 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 34
+      "count": 36
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 31
+      "count": 33
     },
     {
       "label_en": "Social media",
@@ -665,12 +665,12 @@
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 17
+      "count": 18
     },
     {
       "label_en": "interview",
       "label_zh": "interview",
-      "count": 17
+      "count": 18
     },
     {
       "label_en": "review",

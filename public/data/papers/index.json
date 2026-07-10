@@ -1,5 +1,49 @@
 [
   {
+    "id": "policy-and-internet-b21802f4751a",
+    "doi": "10.1002/poi3.70050",
+    "url": "https://doi.org/10.1002/poi3.70050",
+    "journalName": "Policy & Internet",
+    "journalSlug": "policy-and-internet",
+    "issn": "1944-2866",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "authors": [
+      "Anis Ben Brik"
+    ],
+    "title_en": "Measuring Governance or Wealth? Construct Validation of AI Readiness Indices",
+    "title_zh": "Measuring Governance or Wealth? Construct Validation of AI Readiness Indices",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "And",
+      "Governance",
+      "Income",
+      "Readiness",
+      "Index"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "And",
+      "Governance",
+      "Income",
+      "Readiness",
+      "Index"
+    ],
+    "plain_summary_zh": "This paper studies Measuring Governance or Wealth? Construct Validation of AI Readiness Indices. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Governance, Income. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Measuring Governance or Wealth? Construct Validation of AI Readiness Indices. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Governance, Income. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, And, Governance, Income, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, And, Governance, Income, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-07-10T22:53:25.269Z"
+  },
+  {
     "id": "digital-journalism-3a20dd993ca6",
     "doi": "10.1080/21670811.2026.2700589",
     "url": "https://doi.org/10.1080/21670811.2026.2700589",
@@ -268,6 +312,50 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-07-03T22:55:40.407Z"
+  },
+  {
+    "id": "social-media-and-society-a5d61af35844",
+    "doi": "10.1177/20563051261463859",
+    "url": "https://doi.org/10.1177/20563051261463859",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "authors": [
+      "Zoe Tzanis"
+    ],
+    "title_en": "Co-Producing Endurance: Strava and the Construction of the Professional Endurance Athlete",
+    "title_zh": "Co-Producing Endurance: Strava and the Construction of the Professional Endurance Athlete",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "And",
+      "Endurance",
+      "Strava",
+      "Professional",
+      "Athletes"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "And",
+      "Endurance",
+      "Strava",
+      "Professional",
+      "Athletes"
+    ],
+    "plain_summary_zh": "This paper studies Co-Producing Endurance: Strava and the Construction of the Professional Endurance Athlete. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Endurance, Strava. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Co-Producing Endurance: Strava and the Construction of the Professional Endurance Athlete. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Endurance, Strava. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, And, Endurance, Strava, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, And, Endurance, Strava, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "interview"
+    ],
+    "method_tags_en": [
+      "interview"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-07-10T22:53:21.373Z"
   },
   {
     "id": "social-media-and-society-39d669111f76",
