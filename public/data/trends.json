@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-07-10T22:53:28.479Z",
+  "generatedAt": "2026-07-11T22:39:17.651Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 6,
-      "overview_en": "Across 6 papers, the most visible themes are And, The, Affect (linguistics). Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 6 papers, the most visible themes are And, The, Affect (linguistics). Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 5,
+      "overview_en": "Across 5 papers, the most visible themes are The, And, Affect (linguistics). Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 5 papers, the most visible themes are The, And, Affect (linguistics). Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "And",
         "The",
+        "And",
         "Affect (linguistics)",
         "Governance",
         "Income"
       ],
       "hot_topics_zh": [
-        "And",
         "The",
+        "And",
         "Affect (linguistics)",
         "Governance",
         "Income"
       ],
       "high_frequency_keywords": [
         {
-          "label_en": "And",
-          "label_zh": "And",
-          "count": 3
-        },
-        {
           "label_en": "The",
           "label_zh": "The",
+          "count": 2
+        },
+        {
+          "label_en": "And",
+          "label_zh": "And",
           "count": 2
         },
         {
@@ -84,11 +84,6 @@
           "label_en": "survey",
           "label_zh": "survey",
           "count": 1
-        },
-        {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 1
         }
       ]
     },
@@ -96,22 +91,22 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 21,
-      "overview_en": "Across 21 papers, the most visible themes are And, The, Social media. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 21 papers, the most visible themes are And, The, Social media. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 19,
+      "overview_en": "Across 19 papers, the most visible themes are And, The, Politics. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 19 papers, the most visible themes are And, The, Politics. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
-        "Social media",
         "Politics",
-        "Perception"
+        "Perception",
+        "Social media"
       ],
       "hot_topics_zh": [
         "And",
         "The",
-        "Social media",
         "政治",
-        "Perception"
+        "Perception",
+        "Social media"
       ],
       "high_frequency_keywords": [
         {
@@ -125,11 +120,6 @@
           "count": 5
         },
         {
-          "label_en": "Social media",
-          "label_zh": "Social media",
-          "count": 4
-        },
-        {
           "label_en": "Politics",
           "label_zh": "政治",
           "count": 3
@@ -140,8 +130,8 @@
           "count": 2
         },
         {
-          "label_en": "Misinformation",
-          "label_zh": "Misinformation",
+          "label_en": "Social media",
+          "label_zh": "Social media",
           "count": 2
         },
         {
@@ -155,14 +145,19 @@
           "count": 2
         },
         {
-          "label_en": "Operationalization",
-          "label_zh": "Operationalization",
-          "count": 2
-        },
-        {
           "label_en": "Algorithmic",
           "label_zh": "Algorithmic",
           "count": 2
+        },
+        {
+          "label_en": "Digital media",
+          "label_zh": "数字媒体",
+          "count": 2
+        },
+        {
+          "label_en": "Governance",
+          "label_zh": "Governance",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
@@ -182,11 +177,6 @@
           "count": 4
         },
         {
-          "label_en": "content analysis",
-          "label_zh": "内容分析",
-          "count": 3
-        },
-        {
           "label_en": "survey",
           "label_zh": "survey",
           "count": 2
@@ -194,6 +184,11 @@
         {
           "label_en": "experiment",
           "label_zh": "experiment",
+          "count": 2
+        },
+        {
+          "label_en": "content analysis",
+          "label_zh": "内容分析",
           "count": 2
         },
         {
