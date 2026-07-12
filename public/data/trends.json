@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-07-11T22:39:17.651Z",
+  "generatedAt": "2026-07-12T22:39:24.045Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 5,
-      "overview_en": "Across 5 papers, the most visible themes are The, And, Affect (linguistics). Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 5 papers, the most visible themes are The, And, Affect (linguistics). Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 6,
+      "overview_en": "Across 6 papers, the most visible themes are The, And, Journalism. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 6 papers, the most visible themes are The, And, Journalism. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
+        "Journalism",
         "Affect (linguistics)",
-        "Governance",
-        "Income"
+        "Governance"
       ],
       "hot_topics_zh": [
         "The",
         "And",
+        "Journalism",
         "Affect (linguistics)",
-        "Governance",
-        "Income"
+        "Governance"
       ],
       "high_frequency_keywords": [
         {
@@ -31,6 +31,11 @@
         {
           "label_en": "And",
           "label_zh": "And",
+          "count": 2
+        },
+        {
+          "label_en": "Journalism",
+          "label_zh": "Journalism",
           "count": 2
         },
         {
@@ -59,18 +64,13 @@
           "count": 1
         },
         {
-          "label_en": "Repressor",
-          "label_zh": "Repressor",
+          "label_en": "Visualization",
+          "label_zh": "Visualization",
           "count": 1
         },
         {
-          "label_en": "Leashes",
-          "label_zh": "Leashes",
-          "count": 1
-        },
-        {
-          "label_en": "Hybridized",
-          "label_zh": "Hybridized",
+          "label_en": "Legitimacy",
+          "label_zh": "Legitimacy",
           "count": 1
         }
       ],
@@ -79,6 +79,11 @@
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
           "count": 4
+        },
+        {
+          "label_en": "interview",
+          "label_zh": "interview",
+          "count": 1
         },
         {
           "label_en": "survey",
@@ -91,22 +96,22 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 19,
-      "overview_en": "Across 19 papers, the most visible themes are And, The, Politics. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 19 papers, the most visible themes are And, The, Politics. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 20,
+      "overview_en": "Across 20 papers, the most visible themes are And, The, Journalism. Researchers most often rely on interview, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 20 papers, the most visible themes are And, The, Journalism. Researchers most often rely on interview, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
-        "Politics",
-        "Perception",
-        "Social media"
+        "Journalism",
+        "Digital media",
+        "Politics"
       ],
       "hot_topics_zh": [
         "And",
         "The",
-        "政治",
-        "Perception",
-        "Social media"
+        "Journalism",
+        "Digital media",
+        "政治"
       ],
       "high_frequency_keywords": [
         {
@@ -118,6 +123,16 @@
           "label_en": "The",
           "label_zh": "The",
           "count": 5
+        },
+        {
+          "label_en": "Journalism",
+          "label_zh": "Journalism",
+          "count": 3
+        },
+        {
+          "label_en": "Digital media",
+          "label_zh": "Digital media",
+          "count": 3
         },
         {
           "label_en": "Politics",
@@ -140,18 +155,8 @@
           "count": 2
         },
         {
-          "label_en": "Journalism",
-          "label_zh": "Journalism",
-          "count": 2
-        },
-        {
           "label_en": "Algorithmic",
           "label_zh": "Algorithmic",
-          "count": 2
-        },
-        {
-          "label_en": "Digital media",
-          "label_zh": "数字媒体",
           "count": 2
         },
         {
@@ -162,6 +167,11 @@
       ],
       "high_frequency_methods": [
         {
+          "label_en": "interview",
+          "label_zh": "interview",
+          "count": 5
+        },
+        {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
           "count": 5
@@ -169,11 +179,6 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 4
-        },
-        {
-          "label_en": "interview",
-          "label_zh": "interview",
           "count": 4
         },
         {
@@ -217,9 +222,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 170,
-      "overview_en": "Across 170 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 170 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 167,
+      "overview_en": "Across 167 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 167 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -263,7 +268,7 @@
         {
           "label_en": "Journalism",
           "label_zh": "Journalism",
-          "count": 11
+          "count": 12
         },
         {
           "label_en": "Work (physics)",
@@ -276,31 +281,36 @@
           "count": 10
         },
         {
-          "label_en": "conversation analysis",
-          "label_zh": "会话分析",
-          "count": 10
-        },
-        {
           "label_en": "Misinformation",
           "label_zh": "Misinformation",
           "count": 9
+        },
+        {
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
+          "count": 8
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 37
+          "count": 35
         },
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 32
+          "count": 31
         },
         {
           "label_en": "survey",
           "label_zh": "survey",
           "count": 30
+        },
+        {
+          "label_en": "interview",
+          "label_zh": "interview",
+          "count": 19
         },
         {
           "label_en": "experiment",
@@ -313,14 +323,9 @@
           "count": 18
         },
         {
-          "label_en": "interview",
-          "label_zh": "interview",
-          "count": 18
-        },
-        {
           "label_en": "review",
           "label_zh": "review",
-          "count": 17
+          "count": 16
         },
         {
           "label_en": "computational analysis",
@@ -333,9 +338,9 @@
           "count": 9
         },
         {
-          "label_en": "conversation analysis",
-          "label_zh": "会话分析",
-          "count": 8
+          "label_en": "literature review",
+          "label_zh": "文献综述",
+          "count": 6
         }
       ]
     }
@@ -402,7 +407,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 29,
+      "paperCount": 30,
       "topic_bias_en": [
         "Journalism",
         "Work (physics)",
@@ -417,21 +422,21 @@
       ],
       "method_bias_en": [
         "case study",
-        "content analysis",
         "interview",
+        "content analysis",
         "survey"
       ],
       "method_bias_zh": [
         "案例研究",
+        "interview",
         "内容分析",
-        "访谈",
         "调查"
       ]
     },
     {
       "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
       "journalSlug": "research-on-language-and-social-interaction",
-      "paperCount": 12,
+      "paperCount": 8,
       "topic_bias_en": [
         "conversation analysis",
         "social interaction",
@@ -603,7 +608,7 @@
     {
       "label_en": "Journalism",
       "label_zh": "Journalism",
-      "count": 11
+      "count": 12
     },
     {
       "label_en": "Work (physics)",
@@ -616,14 +621,14 @@
       "count": 10
     },
     {
-      "label_en": "conversation analysis",
-      "label_zh": "会话分析",
-      "count": 10
-    },
-    {
       "label_en": "Misinformation",
       "label_zh": "Misinformation",
       "count": 9
+    },
+    {
+      "label_en": "conversation analysis",
+      "label_zh": "会话分析",
+      "count": 8
     },
     {
       "label_en": "News media",
@@ -640,17 +645,22 @@
     {
       "label_en": "case study",
       "label_zh": "案例研究",
-      "count": 37
+      "count": 35
     },
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 32
+      "count": 31
     },
     {
       "label_en": "survey",
       "label_zh": "survey",
       "count": 30
+    },
+    {
+      "label_en": "interview",
+      "label_zh": "interview",
+      "count": 19
     },
     {
       "label_en": "experiment",
@@ -663,14 +673,9 @@
       "count": 18
     },
     {
-      "label_en": "interview",
-      "label_zh": "interview",
-      "count": 18
-    },
-    {
       "label_en": "review",
       "label_zh": "review",
-      "count": 17
+      "count": 16
     },
     {
       "label_en": "computational analysis",
@@ -683,19 +688,19 @@
       "count": 9
     },
     {
-      "label_en": "conversation analysis",
-      "label_zh": "会话分析",
-      "count": 8
-    },
-    {
       "label_en": "literature review",
       "label_zh": "文献综述",
       "count": 6
     },
     {
-      "label_en": "discourse analysis",
-      "label_zh": "话语分析",
-      "count": 5
+      "label_en": "conversation analysis",
+      "label_zh": "会话分析",
+      "count": 6
+    },
+    {
+      "label_en": "digital ethnography",
+      "label_zh": "数字民族志",
+      "count": 4
     }
   ]
 }
