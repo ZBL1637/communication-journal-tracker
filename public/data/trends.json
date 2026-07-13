@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T22:39:24.045Z",
+  "generatedAt": "2026-07-13T22:47:51.822Z",
   "snapshots": [
     {
       "key": "7d",
@@ -222,22 +222,22 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 167,
-      "overview_en": "Across 167 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 167 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "paperCount": 164,
+      "overview_en": "Across 164 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 164 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, content analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
         "Social media",
-        "Politics",
-        "political communication"
+        "political communication",
+        "Politics"
       ],
       "hot_topics_zh": [
         "And",
         "The",
         "Social media",
-        "政治",
-        "政治传播"
+        "政治传播",
+        "政治"
       ],
       "high_frequency_keywords": [
         {
@@ -256,14 +256,14 @@
           "count": 20
         },
         {
-          "label_en": "Politics",
-          "label_zh": "政治",
-          "count": 16
-        },
-        {
           "label_en": "political communication",
           "label_zh": "政治传播",
           "count": 16
+        },
+        {
+          "label_en": "Politics",
+          "label_zh": "政治",
+          "count": 15
         },
         {
           "label_en": "Journalism",
@@ -295,17 +295,17 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 35
+          "count": 34
         },
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 31
+          "count": 30
         },
         {
           "label_en": "survey",
           "label_zh": "survey",
-          "count": 30
+          "count": 29
         },
         {
           "label_en": "interview",
@@ -325,7 +325,7 @@
         {
           "label_en": "review",
           "label_zh": "review",
-          "count": 16
+          "count": 14
         },
         {
           "label_en": "computational analysis",
@@ -378,7 +378,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 30,
+      "paperCount": 29,
       "topic_bias_en": [
         "political communication",
         "Politics",
@@ -394,14 +394,14 @@
       "method_bias_en": [
         "content analysis",
         "case study",
-        "survey",
-        "experiment"
+        "experiment",
+        "survey"
       ],
       "method_bias_zh": [
         "内容分析",
         "案例研究",
-        "survey",
-        "实验"
+        "实验",
+        "survey"
       ]
     },
     {
@@ -552,7 +552,7 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 16,
+      "paperCount": 14,
       "topic_bias_en": [
         "Meta-Analysis",
         "Systemic Lupus Erythematosus",
@@ -596,14 +596,14 @@
       "count": 20
     },
     {
-      "label_en": "Politics",
-      "label_zh": "政治",
-      "count": 16
-    },
-    {
       "label_en": "political communication",
       "label_zh": "政治传播",
       "count": 16
+    },
+    {
+      "label_en": "Politics",
+      "label_zh": "政治",
+      "count": 15
     },
     {
       "label_en": "Journalism",
@@ -645,17 +645,17 @@
     {
       "label_en": "case study",
       "label_zh": "案例研究",
-      "count": 35
+      "count": 34
     },
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 31
+      "count": 30
     },
     {
       "label_en": "survey",
       "label_zh": "survey",
-      "count": 30
+      "count": 29
     },
     {
       "label_en": "interview",
@@ -675,7 +675,7 @@
     {
       "label_en": "review",
       "label_zh": "review",
-      "count": 16
+      "count": 14
     },
     {
       "label_en": "computational analysis",
