@@ -12,20 +12,20 @@
       "a[href*='/article-abstract/']",
       "a[href*='/doi/']"
     ],
-    "paperCount": 19,
-    "latestPublishedAt": "2026-07-09T00:00:00.000Z",
+    "paperCount": 20,
+    "latestPublishedAt": "2026-08-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "The",
-      "Temporal",
-      "Ordering",
-      "Children",
+      "Capture",
+      "Academia",
+      "Rising",
+      "Authoritarianism",
       "And"
     ],
     "topKeywordsZh": [
-      "The",
-      "Temporal",
-      "Ordering",
-      "Children",
+      "Capture",
+      "Academia",
+      "Rising",
+      "Authoritarianism",
       "And"
     ]
   },
@@ -136,21 +136,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 56,
+    "paperCount": 58,
     "latestPublishedAt": "2026-07-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "Religion",
       "And",
-      "The",
-      "Black",
-      "Studies"
+      "Information",
+      "Adults",
+      "Practices",
+      "Older"
     ],
     "topKeywordsZh": [
-      "Religion",
       "And",
-      "The",
-      "Black",
-      "Studies"
+      "Information",
+      "Adults",
+      "Practices",
+      "Older"
     ]
   },
   {
@@ -167,21 +167,21 @@
       ".issue-item a",
       "h2 a"
     ],
-    "paperCount": 29,
+    "paperCount": 31,
     "latestPublishedAt": "2026-09-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "The",
       "And",
-      "Governance",
-      "Income",
-      "Readiness"
+      "The",
+      "Nato",
+      "Political",
+      "Framing"
     ],
     "topKeywordsZh": [
-      "The",
       "And",
-      "Governance",
-      "Income",
-      "Readiness"
+      "The",
+      "Nato",
+      "Political",
+      "Framing"
     ]
   },
   {
