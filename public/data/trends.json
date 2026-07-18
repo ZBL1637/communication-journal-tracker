@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-17T22:40:56.447Z",
+  "generatedAt": "2026-07-18T22:40:15.760Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 8,
-      "overview_en": "Across 8 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 8 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 7,
+      "overview_en": "Across 7 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 7 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
@@ -81,14 +81,14 @@
           "count": 3
         },
         {
-          "label_en": "interview",
-          "label_zh": "interview",
-          "count": 2
-        },
-        {
           "label_en": "experiment",
           "label_zh": "experiment",
           "count": 2
+        },
+        {
+          "label_en": "interview",
+          "label_zh": "interview",
+          "count": 1
         },
         {
           "label_en": "survey",
@@ -101,9 +101,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 25,
-      "overview_en": "Across 25 papers, the most visible themes are And, The, Governance. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 25 papers, the most visible themes are And, The, Governance. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 24,
+      "overview_en": "Across 24 papers, the most visible themes are And, The, Governance. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 24 papers, the most visible themes are And, The, Governance. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -182,14 +182,14 @@
           "count": 5
         },
         {
-          "label_en": "experiment",
-          "label_zh": "experiment",
-          "count": 5
-        },
-        {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
           "count": 5
+        },
+        {
+          "label_en": "experiment",
+          "label_zh": "experiment",
+          "count": 4
         },
         {
           "label_en": "survey",
@@ -214,11 +214,6 @@
         {
           "label_en": "online experiment",
           "label_zh": "在线实验",
-          "count": 1
-        },
-        {
-          "label_en": "content analysis",
-          "label_zh": "内容分析",
           "count": 1
         }
       ]
