@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T22:40:15.760Z",
+  "generatedAt": "2026-07-19T22:42:58.503Z",
   "snapshots": [
     {
       "key": "7d",
@@ -101,33 +101,38 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 24,
-      "overview_en": "Across 24 papers, the most visible themes are And, The, Governance. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 24 papers, the most visible themes are And, The, Governance. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 25,
+      "overview_en": "Across 25 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 25 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
+        "Algorithmic",
         "Governance",
-        "Political",
-        "For"
+        "Political"
       ],
       "hot_topics_zh": [
         "And",
         "The",
+        "Algorithmic",
         "Governance",
-        "Political",
-        "For"
+        "Political"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 13
+          "count": 14
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 12
+          "count": 13
+        },
+        {
+          "label_en": "Algorithmic",
+          "label_zh": "Algorithmic",
+          "count": 3
         },
         {
           "label_en": "Governance",
@@ -160,11 +165,6 @@
           "count": 2
         },
         {
-          "label_en": "Algorithmic",
-          "label_zh": "Algorithmic",
-          "count": 2
-        },
-        {
           "label_en": "Politics",
           "label_zh": "政治",
           "count": 2
@@ -172,19 +172,19 @@
       ],
       "high_frequency_methods": [
         {
+          "label_en": "interview",
+          "label_zh": "interview",
+          "count": 6
+        },
+        {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
           "count": 6
         },
         {
-          "label_en": "interview",
-          "label_zh": "interview",
-          "count": 5
-        },
-        {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
-          "count": 5
+          "count": 6
         },
         {
           "label_en": "experiment",
@@ -222,9 +222,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 172,
-      "overview_en": "Across 172 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 172 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
+      "paperCount": 173,
+      "overview_en": "Across 173 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 173 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -243,12 +243,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 43
+          "count": 44
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 40
+          "count": 41
         },
         {
           "label_en": "Social media",
@@ -308,14 +308,14 @@
           "count": 29
         },
         {
-          "label_en": "experiment",
-          "label_zh": "experiment",
+          "label_en": "interview",
+          "label_zh": "interview",
           "count": 22
         },
         {
-          "label_en": "interview",
-          "label_zh": "interview",
-          "count": 21
+          "label_en": "experiment",
+          "label_zh": "experiment",
+          "count": 22
         },
         {
           "label_en": "mixed methods",
@@ -330,7 +330,7 @@
         {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
-          "count": 10
+          "count": 11
         },
         {
           "label_en": "theoretical analysis",
@@ -465,29 +465,29 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 30,
+      "paperCount": 31,
       "topic_bias_en": [
         "And",
         "The",
         "social media",
-        "Algorithms"
+        "Algorithmic"
       ],
       "topic_bias_zh": [
         "And",
         "The",
         "社交媒体",
-        "Algorithms"
+        "Algorithmic"
       ],
       "method_bias_en": [
         "computational analysis",
-        "content analysis",
         "interview",
+        "content analysis",
         "survey"
       ],
       "method_bias_zh": [
         "computational analysis",
-        "内容分析",
         "interview",
+        "内容分析",
         "survey"
       ]
     },
@@ -583,12 +583,12 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 43
+      "count": 44
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 40
+      "count": 41
     },
     {
       "label_en": "Social media",
@@ -658,14 +658,14 @@
       "count": 29
     },
     {
-      "label_en": "experiment",
-      "label_zh": "experiment",
+      "label_en": "interview",
+      "label_zh": "interview",
       "count": 22
     },
     {
-      "label_en": "interview",
-      "label_zh": "interview",
-      "count": 21
+      "label_en": "experiment",
+      "label_zh": "experiment",
+      "count": 22
     },
     {
       "label_en": "mixed methods",
@@ -680,7 +680,7 @@
     {
       "label_en": "computational analysis",
       "label_zh": "computational analysis",
-      "count": 10
+      "count": 11
     },
     {
       "label_en": "theoretical analysis",
