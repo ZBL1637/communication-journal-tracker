@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-19T22:42:58.503Z",
+  "generatedAt": "2026-07-20T22:50:59.188Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 7,
-      "overview_en": "Across 7 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 7 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "paperCount": 8,
+      "overview_en": "Across 8 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 8 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
@@ -91,6 +91,11 @@
           "count": 1
         },
         {
+          "label_en": "review",
+          "label_zh": "review",
+          "count": 1
+        },
+        {
           "label_en": "survey",
           "label_zh": "survey",
           "count": 1
@@ -101,9 +106,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 25,
-      "overview_en": "Across 25 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 25 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 26,
+      "overview_en": "Across 26 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 26 papers, the most visible themes are And, The, Algorithmic. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -199,7 +204,7 @@
         {
           "label_en": "review",
           "label_zh": "review",
-          "count": 1
+          "count": 2
         },
         {
           "label_en": "network analysis",
@@ -258,12 +263,12 @@
         {
           "label_en": "Politics",
           "label_zh": "政治",
-          "count": 15
+          "count": 14
         },
         {
           "label_en": "political communication",
           "label_zh": "政治传播",
-          "count": 15
+          "count": 14
         },
         {
           "label_en": "Journalism",
@@ -295,7 +300,7 @@
         {
           "label_en": "case study",
           "label_zh": "案例研究",
-          "count": 33
+          "count": 32
         },
         {
           "label_en": "survey",
@@ -305,7 +310,7 @@
         {
           "label_en": "content analysis",
           "label_zh": "内容分析",
-          "count": 29
+          "count": 28
         },
         {
           "label_en": "interview",
@@ -325,7 +330,7 @@
         {
           "label_en": "review",
           "label_zh": "review",
-          "count": 15
+          "count": 16
         },
         {
           "label_en": "computational analysis",
@@ -378,7 +383,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 28,
+      "paperCount": 27,
       "topic_bias_en": [
         "political communication",
         "Politics",
@@ -552,18 +557,18 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 14,
+      "paperCount": 15,
       "topic_bias_en": [
         "Meta-Analysis",
-        "Systemic Lupus Erythematosus",
-        "BATF",
-        "RORgt"
+        "Auditory Stream Segregation",
+        "Polytemporal Media",
+        "Cognitive Load"
       ],
       "topic_bias_zh": [
         "Meta-Analysis",
-        "系统性红斑狼疮",
-        "BATF",
-        "RORgt"
+        "Auditory Stream Segregation",
+        "Polytemporal Media",
+        "Cognitive Load"
       ],
       "method_bias_en": [
         "review",
@@ -598,12 +603,12 @@
     {
       "label_en": "Politics",
       "label_zh": "政治",
-      "count": 15
+      "count": 14
     },
     {
       "label_en": "political communication",
       "label_zh": "政治传播",
-      "count": 15
+      "count": 14
     },
     {
       "label_en": "Journalism",
@@ -645,7 +650,7 @@
     {
       "label_en": "case study",
       "label_zh": "案例研究",
-      "count": 33
+      "count": 32
     },
     {
       "label_en": "survey",
@@ -655,7 +660,7 @@
     {
       "label_en": "content analysis",
       "label_zh": "内容分析",
-      "count": 29
+      "count": 28
     },
     {
       "label_en": "interview",
@@ -675,7 +680,7 @@
     {
       "label_en": "review",
       "label_zh": "review",
-      "count": 15
+      "count": 16
     },
     {
       "label_en": "computational analysis",
