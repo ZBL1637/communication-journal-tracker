@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:50:59.188Z",
+  "generatedAt": "2026-07-21T22:47:07.002Z",
   "snapshots": [
     {
       "key": "7d",
@@ -227,9 +227,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 173,
-      "overview_en": "Across 173 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 173 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
+      "paperCount": 172,
+      "overview_en": "Across 172 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 172 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -253,7 +253,7 @@
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 41
+          "count": 40
         },
         {
           "label_en": "Social media",
@@ -325,7 +325,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 20
+          "count": 19
         },
         {
           "label_en": "review",
@@ -528,30 +528,30 @@
     {
       "journalName": "International Journal of Press/Politics",
       "journalSlug": "international-journal-of-press-politics",
-      "paperCount": 20,
+      "paperCount": 19,
       "topic_bias_en": [
         "And",
         "The",
-        "News",
-        "ethics"
+        "ethics",
+        "News"
       ],
       "topic_bias_zh": [
         "And",
         "The",
-        "News",
-        "伦理"
+        "伦理",
+        "News"
       ],
       "method_bias_en": [
         "survey",
         "interview",
-        "mixed methods",
-        "case study"
+        "case study",
+        "experiment"
       ],
       "method_bias_zh": [
         "survey",
         "访谈",
-        "mixed methods",
-        "案例研究"
+        "案例研究",
+        "实验"
       ]
     },
     {
@@ -593,7 +593,7 @@
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 41
+      "count": 40
     },
     {
       "label_en": "Social media",
@@ -675,7 +675,7 @@
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 20
+      "count": 19
     },
     {
       "label_en": "review",
