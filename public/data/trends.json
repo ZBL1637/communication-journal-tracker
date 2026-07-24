@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-23T22:48:49.729Z",
+  "generatedAt": "2026-07-24T22:54:46.357Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 8,
-      "overview_en": "Across 8 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 8 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "paperCount": 7,
+      "overview_en": "Across 7 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 7 papers, the most visible themes are The, And, Governance. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
@@ -26,12 +26,12 @@
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "Governance",
@@ -94,11 +94,6 @@
           "label_en": "review",
           "label_zh": "review",
           "count": 1
-        },
-        {
-          "label_en": "survey",
-          "label_zh": "survey",
-          "count": 1
         }
       ]
     },
@@ -127,12 +122,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 14
+          "count": 15
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 13
+          "count": 14
         },
         {
           "label_en": "Algorithmic",
@@ -204,7 +199,7 @@
         {
           "label_en": "review",
           "label_zh": "review",
-          "count": 2
+          "count": 3
         },
         {
           "label_en": "network analysis",
@@ -215,11 +210,6 @@
           "label_en": "cross-country comparison",
           "label_zh": "跨国比较",
           "count": 1
-        },
-        {
-          "label_en": "online experiment",
-          "label_zh": "在线实验",
-          "count": 1
         }
       ]
     },
@@ -227,9 +217,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 172,
-      "overview_en": "Across 172 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 172 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
+      "paperCount": 173,
+      "overview_en": "Across 173 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 173 papers, the most visible themes are And, The, Social media. Researchers most often rely on case study, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -248,12 +238,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 44
+          "count": 45
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 40
+          "count": 41
         },
         {
           "label_en": "Social media",
@@ -330,7 +320,7 @@
         {
           "label_en": "review",
           "label_zh": "review",
-          "count": 16
+          "count": 17
         },
         {
           "label_en": "computational analysis",
@@ -470,7 +460,7 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 31,
+      "paperCount": 32,
       "topic_bias_en": [
         "And",
         "The",
@@ -588,12 +578,12 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 44
+      "count": 45
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 40
+      "count": 41
     },
     {
       "label_en": "Social media",
@@ -680,7 +670,7 @@
     {
       "label_en": "review",
       "label_zh": "review",
-      "count": 16
+      "count": 17
     },
     {
       "label_en": "computational analysis",
