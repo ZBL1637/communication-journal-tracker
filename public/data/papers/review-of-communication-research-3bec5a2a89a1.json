@@ -1,0 +1,55 @@
+{
+  "id": "review-of-communication-research-3bec5a2a89a1",
+  "doi": "10.52152/RCR.V14.12",
+  "url": "https://doi.org/10.52152/rcr.v14.12",
+  "journalName": "Review of Communication Research",
+  "journalSlug": "review-of-communication-research",
+  "issn": "2255-4165",
+  "publishedAt": "2026-07-27T00:00:00.000Z",
+  "authors": [
+    "Felipe Núñez",
+    "Carlos Elías"
+  ],
+  "source": "crossref+detail",
+  "fetchedAt": "2026-07-27T22:54:00.047Z",
+  "language": "en",
+  "raw_title": "Climate Change Literature Within the Field of Communication in the Disinformation Era: A Comprehensive Analysis of Thirty Years of Progress",
+  "raw_abstract": "Interest in climate communication has increased significantly in recent decades. Despite the existence of various reviews on this topic, there is still no work that focuses exclusively on the field of communication studies. Therefore, this article aims to explore how communication research has addressed climate change. Through a systematic review of the literature in communication journals indexed in Scopus and Web of Science (N = 1621), this study offers an understanding of the evolution of publications and scientific activity in this area. On the one hand, the main journals, authors and literature are analysed through a bibliometric analysis, and a critical synthesis of the most relevant findings is presented. On the other hand, the conceptual structure of the field is investigated using a temporal analysis of keywords and a thematic analysis through the Bibliometrix package. The results indicate that the field is fundamentally quantitative, with a focus on Western countries and a predominance of framing theory as a central theme. However, the thematic analysis also reveals an uneven development, as while framing dominates as a motor theme, phenomena such as misinformation are still emerging and topics such as selective exposure and public perception remain isolated from the field's central debates. These gaps suggest directions for future research.",
+  "raw_keywords": [
+    "Systematic Review",
+    "Climate Change",
+    "Global Warming",
+    "Media Research",
+    "Science Communication"
+  ],
+  "title_en": "Climate Change Literature Within the Field of Communication in the Disinformation Era: A Comprehensive Analysis of Thirty Years of Progress",
+  "title_zh": "Climate Change Literature Within the Field of Communication in the Disinformation Era: A Comprehensive Analysis of Thirty Years of Progress",
+  "abstract_en": "Interest in climate communication has increased significantly in recent decades. Despite the existence of various reviews on this topic, there is still no work that focuses exclusively on the field of communication studies. Therefore, this article aims to explore how communication research has addressed climate change. Through a systematic review of the literature in communication journals indexed in Scopus and Web of Science (N = 1621), this study offers an understanding of the evolution of publications and scientific activity in this area. On the one hand, the main journals, authors and literature are analysed through a bibliometric analysis, and a critical synthesis of the most relevant findings is presented. On the other hand, the conceptual structure of the field is investigated using a temporal analysis of keywords and a thematic analysis through the Bibliometrix package. The results indicate that the field is fundamentally quantitative, with a focus on Western countries and a predominance of framing theory as a central theme. However, the thematic analysis also reveals an uneven development, as while framing dominates as a motor theme, phenomena such as misinformation are still emerging and topics such as selective exposure and public perception remain isolated from the field's central debates. These gaps suggest directions for future research.",
+  "abstract_zh": "Interest in climate communication has increased significantly in recent decades. Despite the existence of various reviews on this topic, there is still no work that focuses exclusively on the field of communication studies. Therefore, this article aims to explore how communication research has addressed climate change. Through a systematic review of the literature in communication journals indexed in Scopus and Web of Science (N = 1621), this study offers an understanding of the evolution of publications and scientific activity in this area. On the one hand, the main journals, authors and literature are analysed through a bibliometric analysis, and a critical synthesis of the most relevant findings is presented. On the other hand, the conceptual structure of the field is investigated using a temporal analysis of keywords and a thematic analysis through the Bibliometrix package. The results indicate that the field is fundamentally quantitative, with a focus on Western countries and a predominance of framing theory as a central theme. However, the thematic analysis also reveals an uneven development, as while framing dominates as a motor theme, phenomena such as misinformation are still emerging and topics such as selective exposure and public perception remain isolated from the field's central debates. These gaps suggest directions for future research.",
+  "keywords_en": [
+    "Systematic Review",
+    "Climate Change",
+    "Global Warming",
+    "Media Research",
+    "Science Communication"
+  ],
+  "keywords_zh": [
+    "Systematic Review",
+    "Climate Change",
+    "Global Warming",
+    "Media Research",
+    "Science Communication"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Climate Change Literature Within the Field of Communication in the Disinformation Era: A Comprehensive Analysis of Thirty Years of Progress. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Systematic Review, Climate Change, Global Warming, Media Research. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Climate Change Literature Within the Field of Communication in the Disinformation Era: A Comprehensive Analysis of Thirty Years of Progress. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Systematic Review, Climate Change, Global Warming, Media Research. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Systematic Review, Climate Change, Global Warming, Media Research, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Systematic Review, Climate Change, Global Warming, Media Research, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "review"
+  ],
+  "method_tags_en": [
+    "review"
+  ]
+}

@@ -198,21 +198,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 30,
-    "latestPublishedAt": "2026-07-16T00:00:00.000Z",
+    "paperCount": 31,
+    "latestPublishedAt": "2026-07-26T00:00:00.000Z",
     "topKeywordsEn": [
-      "News",
-      "The",
-      "Trust",
       "And",
-      "Use"
+      "Use",
+      "Attitudes",
+      "The",
+      "Toward"
     ],
     "topKeywordsZh": [
-      "News",
-      "The",
-      "Trust",
       "And",
-      "Use"
+      "Use",
+      "Attitudes",
+      "The",
+      "Toward"
     ]
   },
   {
@@ -229,21 +229,21 @@
       ".obj_article_summary h3 a",
       ".cmp_article_list__item h3 a"
     ],
-    "paperCount": 22,
-    "latestPublishedAt": "2026-07-20T00:00:00.000Z",
+    "paperCount": 23,
+    "latestPublishedAt": "2026-07-27T00:00:00.000Z",
     "topKeywordsEn": [
-      "Auditory Stream Segregation",
-      "Polytemporal Media",
-      "Cognitive Load",
-      "Attentional Selection",
-      "Communication Psychology"
+      "Systematic Review",
+      "Climate Change",
+      "Global Warming",
+      "Media Research",
+      "Science Communication"
     ],
     "topKeywordsZh": [
-      "Auditory Stream Segregation",
-      "Polytemporal Media",
-      "Cognitive Load",
-      "Attentional Selection",
-      "Communication Psychology"
+      "Systematic Review",
+      "Climate Change",
+      "Global Warming",
+      "Media Research",
+      "Science Communication"
     ]
   }
 ]
