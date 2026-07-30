@@ -1,0 +1,68 @@
+{
+  "id": "digital-journalism-7d9618222d00",
+  "doi": "10.1080/21670811.2026.2705298",
+  "url": "https://doi.org/10.1080/21670811.2026.2705298",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-07-28T12:47:21.000Z",
+  "authors": [
+    "Paul Balluff",
+    "Hajo G. Boomgaarden",
+    "Annie Waldherr",
+    "Hajo G.",
+    "Boomgaarden Annie Waldherr",
+    "Vienna",
+    "Austriab GESIS – Leibniz",
+    "Cologne",
+    "Germany"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:49.570Z",
+  "language": "en",
+  "raw_title": "Relying on the Mainstream? Entity Networks in Alternative Media",
+  "raw_abstract": "Alternative media, characterized by their heterogeneous nature and self-perceived corrective role to legacy media, have gained increasing relevance in shaping public opinion. Despite their influence, large-scale analyses of their referential and actor-related reporting characteristics remain scarce. This exploratory study investigates named entity networks in German alternative and legacy media, focusing on their reporting on the Nord Stream 2 gas pipeline from 2011 to 2022. Using computational methods, we analyze news articles from 37 alternative and 98 legacy outlets, extracting named entities and constructing co-occurrence networks to identify distinct reporting patterns. Our findings challenge assumptions that alternative media inherently diverge from legacy media in their referenced entities. While alternative media exhibit distinctive network structures—such as lower modularity and higher transitivity—they also demonstrate substantial overlap in their choice of entities and patterns of media mentions. These findings suggest that alternative media frequently mention other media, which may reflect resource limitations and reactive reporting tendencies. This study contributes to a deeper understanding of alternative media by highlighting both their unique characteristics and shared practices with legacy media.",
+  "raw_keywords": [
+    "Modularity (biology)",
+    "Pipeline (software)",
+    "Relevance (law)",
+    "German",
+    "News media",
+    "Media event",
+    "Legacy system"
+  ],
+  "title_en": "Relying on the Mainstream? Entity Networks in Alternative Media",
+  "title_zh": "Relying on the Mainstream? Entity Networks in Alternative Media",
+  "abstract_en": "Alternative media, characterized by their heterogeneous nature and self-perceived corrective role to legacy media, have gained increasing relevance in shaping public opinion. Despite their influence, large-scale analyses of their referential and actor-related reporting characteristics remain scarce. This exploratory study investigates named entity networks in German alternative and legacy media, focusing on their reporting on the Nord Stream 2 gas pipeline from 2011 to 2022. Using computational methods, we analyze news articles from 37 alternative and 98 legacy outlets, extracting named entities and constructing co-occurrence networks to identify distinct reporting patterns. Our findings challenge assumptions that alternative media inherently diverge from legacy media in their referenced entities. While alternative media exhibit distinctive network structures—such as lower modularity and higher transitivity—they also demonstrate substantial overlap in their choice of entities and patterns of media mentions. These findings suggest that alternative media frequently mention other media, which may reflect resource limitations and reactive reporting tendencies. This study contributes to a deeper understanding of alternative media by highlighting both their unique characteristics and shared practices with legacy media.",
+  "abstract_zh": "Alternative media, characterized by their heterogeneous nature and self-perceived corrective role to legacy media, have gained increasing relevance in shaping public opinion. Despite their influence, large-scale analyses of their referential and actor-related reporting characteristics remain scarce. This exploratory study investigates named entity networks in German alternative and legacy media, focusing on their reporting on the Nord Stream 2 gas pipeline from 2011 to 2022. Using computational methods, we analyze news articles from 37 alternative and 98 legacy outlets, extracting named entities and constructing co-occurrence networks to identify distinct reporting patterns. Our findings challenge assumptions that alternative media inherently diverge from legacy media in their referenced entities. While alternative media exhibit distinctive network structures—such as lower modularity and higher transitivity—they also demonstrate substantial overlap in their choice of entities and patterns of media mentions. These findings suggest that alternative media frequently mention other media, which may reflect resource limitations and reactive reporting tendencies. This study contributes to a deeper understanding of alternative media by highlighting both their unique characteristics and shared practices with legacy media.",
+  "keywords_en": [
+    "Modularity (biology)",
+    "Pipeline (software)",
+    "Relevance (law)",
+    "German",
+    "News media",
+    "Media event",
+    "Legacy system"
+  ],
+  "keywords_zh": [
+    "Modularity (biology)",
+    "Pipeline (software)",
+    "Relevance (law)",
+    "German",
+    "News media",
+    "Media event",
+    "Legacy system"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Relying on the Mainstream? Entity Networks in Alternative Media. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Modularity (biology), Pipeline (software), Relevance (law), German. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Relying on the Mainstream? Entity Networks in Alternative Media. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Modularity (biology), Pipeline (software), Relevance (law), German. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Modularity (biology), Pipeline (software), Relevance (law), German, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Modularity (biology), Pipeline (software), Relevance (law), German, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "computational analysis"
+  ]
+}

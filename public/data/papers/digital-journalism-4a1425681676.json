@@ -1,0 +1,70 @@
+{
+  "id": "digital-journalism-4a1425681676",
+  "doi": "10.1080/21670811.2026.2700585",
+  "url": "https://doi.org/10.1080/21670811.2026.2700585",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-07-16T06:56:33.000Z",
+  "authors": [
+    "Toni G.L.A.",
+    "van der Meer",
+    "Michael Hameleers",
+    "Toni G.",
+    "L. A.",
+    "Toni G. L. A. van der Meer Michael Hameleers Amsterdam",
+    "Amsterdam",
+    "Netherlands"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:42.940Z",
+  "language": "en",
+  "raw_title": "Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility",
+  "raw_abstract": "This study investigates to what extent and how people perceive misinformation as a proximate phenomenon that has infiltrated their everyday digital news domains. Via a survey (US and the Netherlands, N = 1396), that uniquely tasked people with providing hyperlinks to both misinformation and credible information, we explored the perceived span, availability, and accessibility of misinformation. First, citizens’ understanding of misinformation seems to be subject to concept creep as it extends beyond strictly false content by including biased and politically motivated information. Second, when identifying sources of misinformation, respondents more often pointed to mainstream and widely accessible sources, such as partisan news outlets and social media, rather than fringe or extremist sources. Third, misinformation is perceived to be easily obtainable, while credible information remains more accessible. These findings underscore high levels of perceived misinformation nearness among citizens, which could be concerning as it is found to correlate with estimations of misinformation as more threatening and omnipresent. This study highlights the challenges audiences experience when curating their digital news diets in ways that avoid contamination by misinformation and inaccuracies.",
+  "raw_keywords": [
+    "Misinformation",
+    "Perception",
+    "Mainstream",
+    "False accusation",
+    "Social media",
+    "Disinformation",
+    "Fake news",
+    "Infographic"
+  ],
+  "title_en": "Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility",
+  "title_zh": "Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility",
+  "abstract_en": "This study investigates to what extent and how people perceive misinformation as a proximate phenomenon that has infiltrated their everyday digital news domains. Via a survey (US and the Netherlands, N = 1396), that uniquely tasked people with providing hyperlinks to both misinformation and credible information, we explored the perceived span, availability, and accessibility of misinformation. First, citizens’ understanding of misinformation seems to be subject to concept creep as it extends beyond strictly false content by including biased and politically motivated information. Second, when identifying sources of misinformation, respondents more often pointed to mainstream and widely accessible sources, such as partisan news outlets and social media, rather than fringe or extremist sources. Third, misinformation is perceived to be easily obtainable, while credible information remains more accessible. These findings underscore high levels of perceived misinformation nearness among citizens, which could be concerning as it is found to correlate with estimations of misinformation as more threatening and omnipresent. This study highlights the challenges audiences experience when curating their digital news diets in ways that avoid contamination by misinformation and inaccuracies.",
+  "abstract_zh": "This study investigates to what extent and how people perceive misinformation as a proximate phenomenon that has infiltrated their everyday digital news domains. Via a survey (US and the Netherlands, N = 1396), that uniquely tasked people with providing hyperlinks to both misinformation and credible information, we explored the perceived span, availability, and accessibility of misinformation. First, citizens’ understanding of misinformation seems to be subject to concept creep as it extends beyond strictly false content by including biased and politically motivated information. Second, when identifying sources of misinformation, respondents more often pointed to mainstream and widely accessible sources, such as partisan news outlets and social media, rather than fringe or extremist sources. Third, misinformation is perceived to be easily obtainable, while credible information remains more accessible. These findings underscore high levels of perceived misinformation nearness among citizens, which could be concerning as it is found to correlate with estimations of misinformation as more threatening and omnipresent. This study highlights the challenges audiences experience when curating their digital news diets in ways that avoid contamination by misinformation and inaccuracies.",
+  "keywords_en": [
+    "Misinformation",
+    "Perception",
+    "Mainstream",
+    "False accusation",
+    "Social media",
+    "Disinformation",
+    "Fake news",
+    "Infographic"
+  ],
+  "keywords_zh": [
+    "Misinformation",
+    "Perception",
+    "Mainstream",
+    "False accusation",
+    "Social media",
+    "Disinformation",
+    "Fake news",
+    "Infographic"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Misinformation, Perception, Mainstream, False accusation. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Misinformation, Perception, Mainstream, False accusation. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Misinformation, Perception, Mainstream, False accusation, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Misinformation, Perception, Mainstream, False accusation, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "survey"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "digital-journalism-44bd1dfdc2c1",
+  "doi": "10.1080/21670811.2026.2704003",
+  "url": "https://doi.org/10.1080/21670811.2026.2704003",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-07-24T11:24:22.000Z",
+  "authors": [
+    "Lynge Asbjørn Møller",
+    "Lynge Asbjørn",
+    "Møller Digital Democracy",
+    "Southern Denmark",
+    "Odense",
+    "Denmark"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:43.177Z",
+  "language": "en",
+  "raw_title": "Essential but Peripheral: The Position of Developers at the Margins of Journalism",
+  "raw_abstract": "As news organisations deepen their reliance on digital systems, developers have become important contributors to journalism. Yet their position remains ambiguous. Drawing on interviews with developers in Danish news organisations, this study examines how they experience and make sense of work within journalism’s authority structures and meaning systems. I conceptualise developers’ position as simultaneously essential and peripheral: operationally indispensable yet marginal within the hierarchies that define priorities. This peripherality unfolds across three dimensions. Structurally, developers enjoy autonomy in execution but face constrained agency due to exclusion from decision-making and reactive organisational practices. Symbolically, their expertise lacks legitimacy within a profession centred on editorial authority, reducing opportunities for professional recognition. Relationally, siloed communication reinforces boundaries between technical and editorial domains and limits cross-functional understanding. These dynamics keep developers at the periphery and narrow the space in which their work feels valued and meaningful. Despite these constraints, emerging product-focused models allow developers to cultivate legitimacy and gain informal influence. By mapping the structural, symbolic, and relational dynamics that produce peripherality, the study offers a framework for understanding how external expertise is organised, recognised, and negotiated in journalism, while illuminating broader challenges for legacy professions integrating essential technical expertise without compromising professional legitimacy.",
+  "raw_keywords": [
+    "Legitimacy",
+    "Agency (philosophy)",
+    "Autonomy",
+    "Meaning (existential)",
+    "Position (finance)",
+    "Cognitive reframing",
+    "Work (physics)",
+    "Face (sociological concept)"
+  ],
+  "title_en": "Essential but Peripheral: The Position of Developers at the Margins of Journalism",
+  "title_zh": "Essential but Peripheral: The Position of Developers at the Margins of Journalism",
+  "abstract_en": "As news organisations deepen their reliance on digital systems, developers have become important contributors to journalism. Yet their position remains ambiguous. Drawing on interviews with developers in Danish news organisations, this study examines how they experience and make sense of work within journalism’s authority structures and meaning systems. I conceptualise developers’ position as simultaneously essential and peripheral: operationally indispensable yet marginal within the hierarchies that define priorities. This peripherality unfolds across three dimensions. Structurally, developers enjoy autonomy in execution but face constrained agency due to exclusion from decision-making and reactive organisational practices. Symbolically, their expertise lacks legitimacy within a profession centred on editorial authority, reducing opportunities for professional recognition. Relationally, siloed communication reinforces boundaries between technical and editorial domains and limits cross-functional understanding. These dynamics keep developers at the periphery and narrow the space in which their work feels valued and meaningful. Despite these constraints, emerging product-focused models allow developers to cultivate legitimacy and gain informal influence. By mapping the structural, symbolic, and relational dynamics that produce peripherality, the study offers a framework for understanding how external expertise is organised, recognised, and negotiated in journalism, while illuminating broader challenges for legacy professions integrating essential technical expertise without compromising professional legitimacy.",
+  "abstract_zh": "As news organisations deepen their reliance on digital systems, developers have become important contributors to journalism. Yet their position remains ambiguous. Drawing on interviews with developers in Danish news organisations, this study examines how they experience and make sense of work within journalism’s authority structures and meaning systems. I conceptualise developers’ position as simultaneously essential and peripheral: operationally indispensable yet marginal within the hierarchies that define priorities. This peripherality unfolds across three dimensions. Structurally, developers enjoy autonomy in execution but face constrained agency due to exclusion from decision-making and reactive organisational practices. Symbolically, their expertise lacks legitimacy within a profession centred on editorial authority, reducing opportunities for professional recognition. Relationally, siloed communication reinforces boundaries between technical and editorial domains and limits cross-functional understanding. These dynamics keep developers at the periphery and narrow the space in which their work feels valued and meaningful. Despite these constraints, emerging product-focused models allow developers to cultivate legitimacy and gain informal influence. By mapping the structural, symbolic, and relational dynamics that produce peripherality, the study offers a framework for understanding how external expertise is organised, recognised, and negotiated in journalism, while illuminating broader challenges for legacy professions integrating essential technical expertise without compromising professional legitimacy.",
+  "keywords_en": [
+    "Legitimacy",
+    "Agency (philosophy)",
+    "Autonomy",
+    "Meaning (existential)",
+    "Position (finance)",
+    "Cognitive reframing",
+    "Work (physics)",
+    "Face (sociological concept)"
+  ],
+  "keywords_zh": [
+    "Legitimacy",
+    "Agency (philosophy)",
+    "Autonomy",
+    "Meaning (existential)",
+    "Position (finance)",
+    "Cognitive reframing",
+    "Work (physics)",
+    "Face (sociological concept)"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Essential but Peripheral: The Position of Developers at the Margins of Journalism. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Legitimacy, Agency (philosophy), Autonomy, Meaning (existential). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Essential but Peripheral: The Position of Developers at the Margins of Journalism. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Legitimacy, Agency (philosophy), Autonomy, Meaning (existential). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Legitimacy, Agency (philosophy), Autonomy, Meaning (existential), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Legitimacy, Agency (philosophy), Autonomy, Meaning (existential), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "interview"
+  ],
+  "method_tags_en": [
+    "interview"
+  ]
+}

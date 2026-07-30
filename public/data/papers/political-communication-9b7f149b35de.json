@@ -1,0 +1,66 @@
+{
+  "id": "political-communication-9b7f149b35de",
+  "doi": "10.1080/10584609.2026.2704899",
+  "url": "https://doi.org/10.1080/10584609.2026.2704899",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-07-24T05:39:40.000Z",
+  "authors": [
+    "Ashwin Rajadesingan",
+    "Austin",
+    "Texas",
+    "USAAshwin Rajadesingan (PhD"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:33.546Z",
+  "language": "en",
+  "raw_title": "Common Identities and Political Talk: Evaluating Cross-Cutting Political Discussions in Sports Communities on Reddit",
+  "raw_abstract": "Research suggests that online nonpolitical communities may facilitate better cross-cutting political discussions than explicitly political communities as users’ shared nonpolitical identities can offset partisan bias, in line with the Common Ingroup Identity Model. This study tests this idea through a large-scale computational analysis comparing the quantity, tone, and substance of political discussions on the same topics in political and sports communities on Reddit. Overall, we find that sports communities facilitate more cross-cutting political discussions than political communities, with the exception of soccer communities. These discussions use similar proportions of credible sources but use significantly fewer sources that are not credible compared to discussions in political communities. On the flip side, we do not find evidence of a meaningful difference in toxicity levels of cross-cutting political discussions in sports and political communities. Further, we find that political discussions in sports communities use fewer sources overall. These results advance a nuanced understanding of the promise of nonpolitical spaces for deliberative democracy and the role of common identities in political discussions.",
+  "raw_keywords": [
+    "Politics",
+    "Political communication",
+    "American political science",
+    "Identity (music)",
+    "Political culture",
+    "Democracy",
+    "Ingroups and outgroups",
+    "Voting behavior"
+  ],
+  "title_en": "Common Identities and Political Talk: Evaluating Cross-Cutting Political Discussions in Sports Communities on Reddit",
+  "title_zh": "Common Identities and Political Talk: Evaluating Cross-Cutting Political Discussions in Sports Communities on Reddit",
+  "abstract_en": "Research suggests that online nonpolitical communities may facilitate better cross-cutting political discussions than explicitly political communities as users’ shared nonpolitical identities can offset partisan bias, in line with the Common Ingroup Identity Model. This study tests this idea through a large-scale computational analysis comparing the quantity, tone, and substance of political discussions on the same topics in political and sports communities on Reddit. Overall, we find that sports communities facilitate more cross-cutting political discussions than political communities, with the exception of soccer communities. These discussions use similar proportions of credible sources but use significantly fewer sources that are not credible compared to discussions in political communities. On the flip side, we do not find evidence of a meaningful difference in toxicity levels of cross-cutting political discussions in sports and political communities. Further, we find that political discussions in sports communities use fewer sources overall. These results advance a nuanced understanding of the promise of nonpolitical spaces for deliberative democracy and the role of common identities in political discussions.",
+  "abstract_zh": "Research suggests that online nonpolitical communities may facilitate better cross-cutting political discussions than explicitly political communities as users’ shared nonpolitical identities can offset partisan bias, in line with the Common Ingroup Identity Model. This study tests this idea through a large-scale computational analysis comparing the quantity, tone, and substance of political discussions on the same topics in political and sports communities on Reddit. Overall, we find that sports communities facilitate more cross-cutting political discussions than political communities, with the exception of soccer communities. These discussions use similar proportions of credible sources but use significantly fewer sources that are not credible compared to discussions in political communities. On the flip side, we do not find evidence of a meaningful difference in toxicity levels of cross-cutting political discussions in sports and political communities. Further, we find that political discussions in sports communities use fewer sources overall. These results advance a nuanced understanding of the promise of nonpolitical spaces for deliberative democracy and the role of common identities in political discussions.",
+  "keywords_en": [
+    "Politics",
+    "Political communication",
+    "American political science",
+    "Identity (music)",
+    "Political culture",
+    "Democracy",
+    "Ingroups and outgroups",
+    "Voting behavior"
+  ],
+  "keywords_zh": [
+    "Politics",
+    "Political communication",
+    "American political science",
+    "Identity (music)",
+    "Political culture",
+    "Democracy",
+    "Ingroups and outgroups",
+    "Voting behavior"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Common Identities and Political Talk: Evaluating Cross-Cutting Political Discussions in Sports Communities on Reddit. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Political communication, American political science, Identity (music). The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Common Identities and Political Talk: Evaluating Cross-Cutting Political Discussions in Sports Communities on Reddit. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Political communication, American political science, Identity (music). The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Politics, Political communication, American political science, Identity (music), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Politics, Political communication, American political science, Identity (music), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "computational analysis"
+  ]
+}

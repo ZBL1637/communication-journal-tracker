@@ -1,0 +1,68 @@
+{
+  "id": "digital-journalism-dbf5a30c7004",
+  "doi": "10.1080/21670811.2026.2706053",
+  "url": "https://doi.org/10.1080/21670811.2026.2706053",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-07-22T04:27:45.000Z",
+  "authors": [
+    "Petra Petruccio",
+    "Julia Niemann",
+    "Tim Schatto‐Eckrodt",
+    "Julia Niemann-Lenz",
+    "Tim Schatto-Eckrodt",
+    "Hamburg",
+    "Germanyb German",
+    "Hannover",
+    "Germany"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:45.660Z",
+  "language": "en",
+  "raw_title": "AI Automated Publishing in Social Media Journalism: Is News Content on Facebook Becoming Softer?",
+  "raw_abstract": "This study investigated the impact of AI-driven automated publishing services (APSs) on the editorial character of news content disseminated via Facebook. While previous research suggests that human editors adapt news to social media logic, which often results in news softening, the specific influence of APSs on this process remains unexplored. As German newsrooms increasingly implement APSs, editorial decisions are partially transferred to algorithms that select, adapt, and publish news based on publishers’ content feeds. This automation raises concerns about potential erosion of journalistic standards and the systematic alteration of news content on social media platforms. Our analysis encompasses 2.6 million Facebook posts from 44 German news outlets; the posts were published between 2018 and 2023. We found that, in 2023, 57% of these outlets used APSs; however, they primarily used a semi-automated approach that allows manual oversight of topic selection and stylistic adaptation. Notably, APSs are associated with a marginally higher likelihood of sharing politically relevant content that generally contains less emotional language, contradicting the prevailing expectations of news softening. These results suggest that algorithmic efficiency, paired with human oversight and configurable editorial settings, can support news quality and serve journalism’s democratic function.",
+  "raw_keywords": [
+    "Social media",
+    "Publishing",
+    "Content (measure theory)",
+    "Content analysis",
+    "Electronic publishing",
+    "Journalism",
+    "Key (lock)"
+  ],
+  "title_en": "AI Automated Publishing in Social Media Journalism: Is News Content on Facebook Becoming Softer?",
+  "title_zh": "AI Automated Publishing in Social Media Journalism: Is News Content on Facebook Becoming Softer?",
+  "abstract_en": "This study investigated the impact of AI-driven automated publishing services (APSs) on the editorial character of news content disseminated via Facebook. While previous research suggests that human editors adapt news to social media logic, which often results in news softening, the specific influence of APSs on this process remains unexplored. As German newsrooms increasingly implement APSs, editorial decisions are partially transferred to algorithms that select, adapt, and publish news based on publishers’ content feeds. This automation raises concerns about potential erosion of journalistic standards and the systematic alteration of news content on social media platforms. Our analysis encompasses 2.6 million Facebook posts from 44 German news outlets; the posts were published between 2018 and 2023. We found that, in 2023, 57% of these outlets used APSs; however, they primarily used a semi-automated approach that allows manual oversight of topic selection and stylistic adaptation. Notably, APSs are associated with a marginally higher likelihood of sharing politically relevant content that generally contains less emotional language, contradicting the prevailing expectations of news softening. These results suggest that algorithmic efficiency, paired with human oversight and configurable editorial settings, can support news quality and serve journalism’s democratic function.",
+  "abstract_zh": "This study investigated the impact of AI-driven automated publishing services (APSs) on the editorial character of news content disseminated via Facebook. While previous research suggests that human editors adapt news to social media logic, which often results in news softening, the specific influence of APSs on this process remains unexplored. As German newsrooms increasingly implement APSs, editorial decisions are partially transferred to algorithms that select, adapt, and publish news based on publishers’ content feeds. This automation raises concerns about potential erosion of journalistic standards and the systematic alteration of news content on social media platforms. Our analysis encompasses 2.6 million Facebook posts from 44 German news outlets; the posts were published between 2018 and 2023. We found that, in 2023, 57% of these outlets used APSs; however, they primarily used a semi-automated approach that allows manual oversight of topic selection and stylistic adaptation. Notably, APSs are associated with a marginally higher likelihood of sharing politically relevant content that generally contains less emotional language, contradicting the prevailing expectations of news softening. These results suggest that algorithmic efficiency, paired with human oversight and configurable editorial settings, can support news quality and serve journalism’s democratic function.",
+  "keywords_en": [
+    "Social media",
+    "Publishing",
+    "Content (measure theory)",
+    "Content analysis",
+    "Electronic publishing",
+    "Journalism",
+    "Key (lock)"
+  ],
+  "keywords_zh": [
+    "Social media",
+    "Publishing",
+    "Content (measure theory)",
+    "Content analysis",
+    "Electronic publishing",
+    "Journalism",
+    "Key (lock)"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies AI Automated Publishing in Social Media Journalism: Is News Content on Facebook Becoming Softer?. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, Publishing, Content (measure theory), Content analysis. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies AI Automated Publishing in Social Media Journalism: Is News Content on Facebook Becoming Softer?. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, Publishing, Content (measure theory), Content analysis. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Social media, Publishing, Content (measure theory), Content analysis, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Social media, Publishing, Content (measure theory), Content analysis, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "computational analysis"
+  ]
+}

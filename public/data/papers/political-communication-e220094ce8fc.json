@@ -1,0 +1,78 @@
+{
+  "id": "political-communication-e220094ce8fc",
+  "doi": "10.1080/10584609.2026.2708132",
+  "url": "https://doi.org/10.1080/10584609.2026.2708132",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-07-28T06:48:38.000Z",
+  "authors": [
+    "Sang Jung Kim",
+    "Jordan Foley",
+    "A. J. Bauer",
+    "Keyeun Lee",
+    "Yunkang Yang",
+    "Sang Jung Kim Jordan Foley Yunkang Yang Keyeun Lee",
+    "Iowa City",
+    "USAb",
+    "Murrow",
+    "Washington State",
+    "Pullman",
+    "USAc",
+    "Texas A&",
+    "USAd",
+    "Seoul National",
+    "Seoul"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:33.642Z",
+  "language": "en",
+  "raw_title": "Networked Counterpublics and Contentious Publicity: A Cross-Platform Analysis of QAnon on Parler and Twitter",
+  "raw_abstract": "Extremist online movements often leverage social media affordances to shape in-group identity and influence broader publics through agenda-setting practices. This study uses QAnon as a case of a networked counterpublic to examine how these processes unfolded between 2018 and 2021. Drawing on affordance theory, we analyze how QAnon discourse activated the affordances of visibility, association, and persistence on Parler and Twitter – two platforms similar in technical features but distinct in their cultures of use. We identify differentiated affordance-activation practices that support different counterpublic functions: for example, hashtag stacking on Parler can be interpreted as contributing to identity-oriented meaning-making, whereas calls to “do your own research” on Twitter may function as epistemic invitations aimed at drawing mainstream users into conspiratorial interpretation. We further show that QAnon’s contentious publicness – the contestation of pro- and anti-QAnon claims – shifted dynamically across the movement’s developmental stages, and that identical informational resources (shared URLs) generated divergent discursive trajectories across platforms. By tracing these temporal and cross-platform dynamics, we illuminate how extremist counterpublics navigate visibility, identity work, and public contestation, offering insights for the study of political communication in an era of networked extremism.",
+  "raw_keywords": [
+    "Affordance",
+    "Leverage (statistics)",
+    "Mainstream",
+    "Identity (music)",
+    "Publics",
+    "Social media",
+    "Politics",
+    "Discourse analysis"
+  ],
+  "title_en": "Networked Counterpublics and Contentious Publicity: A Cross-Platform Analysis of QAnon on Parler and Twitter",
+  "title_zh": "Networked Counterpublics and Contentious Publicity: A Cross-Platform Analysis of QAnon on Parler and Twitter",
+  "abstract_en": "Extremist online movements often leverage social media affordances to shape in-group identity and influence broader publics through agenda-setting practices. This study uses QAnon as a case of a networked counterpublic to examine how these processes unfolded between 2018 and 2021. Drawing on affordance theory, we analyze how QAnon discourse activated the affordances of visibility, association, and persistence on Parler and Twitter – two platforms similar in technical features but distinct in their cultures of use. We identify differentiated affordance-activation practices that support different counterpublic functions: for example, hashtag stacking on Parler can be interpreted as contributing to identity-oriented meaning-making, whereas calls to “do your own research” on Twitter may function as epistemic invitations aimed at drawing mainstream users into conspiratorial interpretation. We further show that QAnon’s contentious publicness – the contestation of pro- and anti-QAnon claims – shifted dynamically across the movement’s developmental stages, and that identical informational resources (shared URLs) generated divergent discursive trajectories across platforms. By tracing these temporal and cross-platform dynamics, we illuminate how extremist counterpublics navigate visibility, identity work, and public contestation, offering insights for the study of political communication in an era of networked extremism.",
+  "abstract_zh": "Extremist online movements often leverage social media affordances to shape in-group identity and influence broader publics through agenda-setting practices. This study uses QAnon as a case of a networked counterpublic to examine how these processes unfolded between 2018 and 2021. Drawing on affordance theory, we analyze how QAnon discourse activated the affordances of visibility, association, and persistence on Parler and Twitter – two platforms similar in technical features but distinct in their cultures of use. We identify differentiated affordance-activation practices that support different counterpublic functions: for example, hashtag stacking on Parler can be interpreted as contributing to identity-oriented meaning-making, whereas calls to “do your own research” on Twitter may function as epistemic invitations aimed at drawing mainstream users into conspiratorial interpretation. We further show that QAnon’s contentious publicness – the contestation of pro- and anti-QAnon claims – shifted dynamically across the movement’s developmental stages, and that identical informational resources (shared URLs) generated divergent discursive trajectories across platforms. By tracing these temporal and cross-platform dynamics, we illuminate how extremist counterpublics navigate visibility, identity work, and public contestation, offering insights for the study of political communication in an era of networked extremism.",
+  "keywords_en": [
+    "Affordance",
+    "Leverage (statistics)",
+    "Mainstream",
+    "Identity (music)",
+    "Publics",
+    "Social media",
+    "Politics",
+    "Discourse analysis"
+  ],
+  "keywords_zh": [
+    "Affordance",
+    "Leverage (statistics)",
+    "Mainstream",
+    "Identity (music)",
+    "Publics",
+    "Social media",
+    "Politics",
+    "Discourse analysis"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Networked Counterpublics and Contentious Publicity: A Cross-Platform Analysis of QAnon on Parler and Twitter. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Affordance, Leverage (statistics), Mainstream, Identity (music). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Networked Counterpublics and Contentious Publicity: A Cross-Platform Analysis of QAnon on Parler and Twitter. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Affordance, Leverage (statistics), Mainstream, Identity (music). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Affordance, Leverage (statistics), Mainstream, Identity (music), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Affordance, Leverage (statistics), Mainstream, Identity (music), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "mixed methods"
+  ],
+  "method_tags_en": [
+    "mixed methods"
+  ]
+}

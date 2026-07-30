@@ -1,0 +1,57 @@
+{
+  "id": "digital-journalism-d8eaee59257f",
+  "doi": "10.1080/21670811.2026.2700581",
+  "url": "https://doi.org/10.1080/21670811.2026.2700581",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-07-22T01:01:08.000Z",
+  "authors": [
+    "Zhengyi Liang",
+    "Jaeho Cho",
+    "Davis",
+    "USA"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:40.528Z",
+  "language": "en",
+  "raw_title": "Complicating Wisdom of Crowds: News Sources Reveal Political Bias in Wikipedia Biographies",
+  "raw_abstract": "With the rise of partisan media and ideologically segregated news feeds on social media, balanced information is much needed for citizens to reference when they engage in politics. This paper seeks to explore whether Wikipedia, a peer-production platform, can be an alternative source that offers politically balanced information. By analyzing news references in the Wikipedia biographies of U.S. elected officials, we find evidence of a moderate but significant liberal bias, with liberal media sources cited more extensively than conservative ones across the pages of both Democrats and Republicans. We then discover that the bias in terms of the use of news citations is significantly associated with workload diversity and communication influence during the process of crowd editing. Our findings contribute to the emerging literature on bias in peer-production communities and shed light on the influence of digital media on collaborative knowledge production. Furthermore, our results challenge the belief that political neutrality can be safely assumed from collaborative editing, offering implications for digital journalism on how to produce more balanced, two-sided information.",
+  "raw_keywords": [
+    "Politics",
+    "Fake news",
+    "Journalism",
+    "Power (physics)",
+    "Work (physics)"
+  ],
+  "title_en": "Complicating Wisdom of Crowds: News Sources Reveal Political Bias in Wikipedia Biographies",
+  "title_zh": "Complicating Wisdom of Crowds: News Sources Reveal Political Bias in Wikipedia Biographies",
+  "abstract_en": "With the rise of partisan media and ideologically segregated news feeds on social media, balanced information is much needed for citizens to reference when they engage in politics. This paper seeks to explore whether Wikipedia, a peer-production platform, can be an alternative source that offers politically balanced information. By analyzing news references in the Wikipedia biographies of U.S. elected officials, we find evidence of a moderate but significant liberal bias, with liberal media sources cited more extensively than conservative ones across the pages of both Democrats and Republicans. We then discover that the bias in terms of the use of news citations is significantly associated with workload diversity and communication influence during the process of crowd editing. Our findings contribute to the emerging literature on bias in peer-production communities and shed light on the influence of digital media on collaborative knowledge production. Furthermore, our results challenge the belief that political neutrality can be safely assumed from collaborative editing, offering implications for digital journalism on how to produce more balanced, two-sided information.",
+  "abstract_zh": "With the rise of partisan media and ideologically segregated news feeds on social media, balanced information is much needed for citizens to reference when they engage in politics. This paper seeks to explore whether Wikipedia, a peer-production platform, can be an alternative source that offers politically balanced information. By analyzing news references in the Wikipedia biographies of U.S. elected officials, we find evidence of a moderate but significant liberal bias, with liberal media sources cited more extensively than conservative ones across the pages of both Democrats and Republicans. We then discover that the bias in terms of the use of news citations is significantly associated with workload diversity and communication influence during the process of crowd editing. Our findings contribute to the emerging literature on bias in peer-production communities and shed light on the influence of digital media on collaborative knowledge production. Furthermore, our results challenge the belief that political neutrality can be safely assumed from collaborative editing, offering implications for digital journalism on how to produce more balanced, two-sided information.",
+  "keywords_en": [
+    "Politics",
+    "Fake news",
+    "Journalism",
+    "Power (physics)",
+    "Work (physics)"
+  ],
+  "keywords_zh": [
+    "Politics",
+    "Fake news",
+    "Journalism",
+    "Power (physics)",
+    "Work (physics)"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Complicating Wisdom of Crowds: News Sources Reveal Political Bias in Wikipedia Biographies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Fake news, Journalism, Power (physics). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Complicating Wisdom of Crowds: News Sources Reveal Political Bias in Wikipedia Biographies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Fake news, Journalism, Power (physics). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Politics, Fake news, Journalism, Power (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Politics, Fake news, Journalism, Power (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "mixed methods"
+  ],
+  "method_tags_en": [
+    "mixed methods"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "digital-journalism-a73feeffe39c",
+  "doi": "10.1080/21670811.2026.2706052",
+  "url": "https://doi.org/10.1080/21670811.2026.2706052",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-07-24T05:07:47.000Z",
+  "authors": [
+    "Steen Steensen",
+    "Bente Kalsnes",
+    "Håvard Kiberg",
+    "Gunhild Ring Olsen",
+    "Lasha Kavtaradze",
+    "Steen Steensen Bente Kalsnes Håvard Kiberg Gunhild Ring Olsen Lasha Kavtaradze",
+    "Kristiania",
+    "Oslo",
+    "Norway"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:48.040Z",
+  "language": "en",
+  "raw_title": "News Diversity Across Platforms. A Large-Scale Analysis of the Norwegian News Media Market",
+  "raw_abstract": "This article examines how topic diversity in Norwegian news media varies across proprietary and social media platforms. Drawing on a comprehensive dataset of 224,905 articles published in 2023 by 22 Norwegian news outlets, and corresponding posts on Facebook, Instagram, and TikTok, the study employs Latent Dirichlet Allocation (LDA) topic modeling to identify and compare thematic patterns. Results reveal systematic adaptations to platform-specific logics: while the outlets’ online news sites maintain broad topical diversity, they favour politics and human-interest stories on Facebook, personalised and entertainment-oriented content on Instagram, and sensationalist, event-driven topics on TikTok. Statistical diversity measures confirm that the outlets’ social media posts display lower topical diversity than their online articles. These findings demonstrate that editorial strategies align with distinct platform logics, contributing to a segmented news environment. The study argues that such differentiation has implications for the democratic role of journalism, as audiences encounter increasingly platform-tailored representations of news.",
+  "raw_keywords": [
+    "Norwegian",
+    "Diversity (politics)",
+    "Latent Dirichlet allocation",
+    "Social media",
+    "Topic model",
+    "News media",
+    "Politics",
+    "Thematic analysis",
+    "Content analysis"
+  ],
+  "title_en": "News Diversity Across Platforms. A Large-Scale Analysis of the Norwegian News Media Market",
+  "title_zh": "News Diversity Across Platforms. A Large-Scale Analysis of the Norwegian News Media Market",
+  "abstract_en": "This article examines how topic diversity in Norwegian news media varies across proprietary and social media platforms. Drawing on a comprehensive dataset of 224,905 articles published in 2023 by 22 Norwegian news outlets, and corresponding posts on Facebook, Instagram, and TikTok, the study employs Latent Dirichlet Allocation (LDA) topic modeling to identify and compare thematic patterns. Results reveal systematic adaptations to platform-specific logics: while the outlets’ online news sites maintain broad topical diversity, they favour politics and human-interest stories on Facebook, personalised and entertainment-oriented content on Instagram, and sensationalist, event-driven topics on TikTok. Statistical diversity measures confirm that the outlets’ social media posts display lower topical diversity than their online articles. These findings demonstrate that editorial strategies align with distinct platform logics, contributing to a segmented news environment. The study argues that such differentiation has implications for the democratic role of journalism, as audiences encounter increasingly platform-tailored representations of news.",
+  "abstract_zh": "This article examines how topic diversity in Norwegian news media varies across proprietary and social media platforms. Drawing on a comprehensive dataset of 224,905 articles published in 2023 by 22 Norwegian news outlets, and corresponding posts on Facebook, Instagram, and TikTok, the study employs Latent Dirichlet Allocation (LDA) topic modeling to identify and compare thematic patterns. Results reveal systematic adaptations to platform-specific logics: while the outlets’ online news sites maintain broad topical diversity, they favour politics and human-interest stories on Facebook, personalised and entertainment-oriented content on Instagram, and sensationalist, event-driven topics on TikTok. Statistical diversity measures confirm that the outlets’ social media posts display lower topical diversity than their online articles. These findings demonstrate that editorial strategies align with distinct platform logics, contributing to a segmented news environment. The study argues that such differentiation has implications for the democratic role of journalism, as audiences encounter increasingly platform-tailored representations of news.",
+  "keywords_en": [
+    "Norwegian",
+    "Diversity (politics)",
+    "Latent Dirichlet allocation",
+    "Social media",
+    "Topic model",
+    "News media",
+    "Politics",
+    "Thematic analysis",
+    "Content analysis"
+  ],
+  "keywords_zh": [
+    "Norwegian",
+    "Diversity (politics)",
+    "Latent Dirichlet allocation",
+    "Social media",
+    "Topic model",
+    "News media",
+    "Politics",
+    "Thematic analysis",
+    "Content analysis"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies News Diversity Across Platforms. A Large-Scale Analysis of the Norwegian News Media Market. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Norwegian, Diversity (politics), Latent Dirichlet allocation, Social media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies News Diversity Across Platforms. A Large-Scale Analysis of the Norwegian News Media Market. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Norwegian, Diversity (politics), Latent Dirichlet allocation, Social media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Norwegian, Diversity (politics), Latent Dirichlet allocation, Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Norwegian, Diversity (politics), Latent Dirichlet allocation, Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "mixed methods"
+  ],
+  "method_tags_en": [
+    "mixed methods"
+  ]
+}

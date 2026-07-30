@@ -1,0 +1,59 @@
+{
+  "id": "political-communication-95dfff194d4e",
+  "doi": "10.1080/10584609.2026.2704896",
+  "url": "https://doi.org/10.1080/10584609.2026.2704896",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-07-20T05:51:20.000Z",
+  "authors": [
+    "Morgan Wack",
+    "Kayla Duskin",
+    "Damian Hodel",
+    "Zurich",
+    "Switzerlandb Information",
+    "Seattle",
+    "WA"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:31.252Z",
+  "language": "en",
+  "raw_title": "Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach",
+  "raw_abstract": "Fact-checking has been promoted as a key method for combating political misinformation. Comparing the spread of election-related misinformation narratives along with their relevant political fact-checks, this study provides the most comprehensive assessment to date of the real-world limitations faced by political fact-checking efforts. In conceptualizing these barriers to impact, this study extends recent work from laboratory and experimental settings to the wider online information ecosystem present during the 2022 U.S. midterm elections. We find that fact-checks as currently developed and distributed are severely inhibited by constraints on their i. coverage, ii. speed, and iii. reach, which we link to fundamental challenges to the production economies and information asymmetries that differentiate corrections from misinformation. Specifically, we provide evidence that fewer than half of all prominent election-related misinformation narratives were fact-checked. Within the subset of fact-checked claims, we find that the median fact-check was released a full four days after the initial appearance of a narrative. Using network analysis to estimate user partisanship and dynamics of information spread, we find additional evidence that fact-checks make up less than 1.2% of narrative conversations and that even when shared, fact-checks are nearly always shared within, rather than between, partisan communities. Finally, we provide empirical evidence which runs contrary to the assumption that fact-checking is politically biased. Through this assessment of the real-world influence of fact-checking efforts, our findings underscore how limitations in coverage, speed, and reach necessitate further examination of the use of fact-checks as the primary method for combating political misinformation.",
+  "raw_keywords": [
+    "Politics",
+    "Political science",
+    "Computer science",
+    "Law"
+  ],
+  "title_en": "Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach",
+  "title_zh": "Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach",
+  "abstract_en": "Fact-checking has been promoted as a key method for combating political misinformation. Comparing the spread of election-related misinformation narratives along with their relevant political fact-checks, this study provides the most comprehensive assessment to date of the real-world limitations faced by political fact-checking efforts. In conceptualizing these barriers to impact, this study extends recent work from laboratory and experimental settings to the wider online information ecosystem present during the 2022 U.S. midterm elections. We find that fact-checks as currently developed and distributed are severely inhibited by constraints on their i. coverage, ii. speed, and iii. reach, which we link to fundamental challenges to the production economies and information asymmetries that differentiate corrections from misinformation. Specifically, we provide evidence that fewer than half of all prominent election-related misinformation narratives were fact-checked. Within the subset of fact-checked claims, we find that the median fact-check was released a full four days after the initial appearance of a narrative. Using network analysis to estimate user partisanship and dynamics of information spread, we find additional evidence that fact-checks make up less than 1.2% of narrative conversations and that even when shared, fact-checks are nearly always shared within, rather than between, partisan communities. Finally, we provide empirical evidence which runs contrary to the assumption that fact-checking is politically biased. Through this assessment of the real-world influence of fact-checking efforts, our findings underscore how limitations in coverage, speed, and reach necessitate further examination of the use of fact-checks as the primary method for combating political misinformation.",
+  "abstract_zh": "Fact-checking has been promoted as a key method for combating political misinformation. Comparing the spread of election-related misinformation narratives along with their relevant political fact-checks, this study provides the most comprehensive assessment to date of the real-world limitations faced by political fact-checking efforts. In conceptualizing these barriers to impact, this study extends recent work from laboratory and experimental settings to the wider online information ecosystem present during the 2022 U.S. midterm elections. We find that fact-checks as currently developed and distributed are severely inhibited by constraints on their i. coverage, ii. speed, and iii. reach, which we link to fundamental challenges to the production economies and information asymmetries that differentiate corrections from misinformation. Specifically, we provide evidence that fewer than half of all prominent election-related misinformation narratives were fact-checked. Within the subset of fact-checked claims, we find that the median fact-check was released a full four days after the initial appearance of a narrative. Using network analysis to estimate user partisanship and dynamics of information spread, we find additional evidence that fact-checks make up less than 1.2% of narrative conversations and that even when shared, fact-checks are nearly always shared within, rather than between, partisan communities. Finally, we provide empirical evidence which runs contrary to the assumption that fact-checking is politically biased. Through this assessment of the real-world influence of fact-checking efforts, our findings underscore how limitations in coverage, speed, and reach necessitate further examination of the use of fact-checks as the primary method for combating political misinformation.",
+  "keywords_en": [
+    "Politics",
+    "Political science",
+    "Computer science",
+    "Law"
+  ],
+  "keywords_zh": [
+    "Politics",
+    "Political science",
+    "Computer science",
+    "Law"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Political science, Computer science, Law. The abstract suggests a experiment, network analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Political science, Computer science, Law. The abstract suggests a experiment, network analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Politics, Political science, Computer science, Law, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Politics, Political science, Computer science, Law, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "experiment",
+    "network analysis"
+  ],
+  "method_tags_en": [
+    "experiment",
+    "network analysis"
+  ]
+}

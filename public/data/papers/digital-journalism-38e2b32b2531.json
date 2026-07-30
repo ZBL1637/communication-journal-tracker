@@ -1,0 +1,74 @@
+{
+  "id": "digital-journalism-38e2b32b2531",
+  "doi": "10.1080/21670811.2026.2703602",
+  "url": "https://doi.org/10.1080/21670811.2026.2703602",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-07-28T01:05:26.000Z",
+  "authors": [
+    "Max van Drunen",
+    "Tomás Dodds",
+    "Hannes Cools",
+    "Theresa Josephine Seipp",
+    "Max van Drunen Tomás Dodds Hannes Cools Theresa Josephine Seipp",
+    "Amsterdam, the Netherlandsb",
+    "Madison",
+    "United Statesc Amsterdam",
+    "Amsterdam, the Netherlands"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:50.428Z",
+  "language": "en",
+  "raw_title": "EU Audience Measurement Regulation: Implications for the Media’s Democratic Role",
+  "raw_abstract": "New EU legislation aims to regulate audience measurement systems for the first time. With these rules, EU policymakers primarily seek to increase transparency, enabling media organisations to better understand the allocation and pricing of advertising revenue on platforms. However, as a long history of research in journalism studies shows, audience measurement systems also play an important role in editorial decision-making. This commentary draws on legal and journalism studies literature to offer a first exploration of the way new EU regulation of audience measurement systems could impact the media’s democratic function. It finds that the regulations’ focus on transparency may exacerbate power inequalities within the media system and between media and platforms, while their financial rationale neglects the impact audience measurement systems have on editorial decision-making. The commentary identifies ways to mitigate these challenges and closes by briefly highlighting new research opportunities that these upcoming EU regulations open up by making more data available on audience measurement systems.",
+  "raw_keywords": [
+    "Transparency (behavior)",
+    "Journalism",
+    "Democracy",
+    "Legislation",
+    "Technical Journalism",
+    "Audience measurement",
+    "Power (physics)",
+    "Accountability",
+    "Target audience"
+  ],
+  "title_en": "EU Audience Measurement Regulation: Implications for the Media’s Democratic Role",
+  "title_zh": "EU Audience Measurement Regulation: Implications for the Media’s Democratic Role",
+  "abstract_en": "New EU legislation aims to regulate audience measurement systems for the first time. With these rules, EU policymakers primarily seek to increase transparency, enabling media organisations to better understand the allocation and pricing of advertising revenue on platforms. However, as a long history of research in journalism studies shows, audience measurement systems also play an important role in editorial decision-making. This commentary draws on legal and journalism studies literature to offer a first exploration of the way new EU regulation of audience measurement systems could impact the media’s democratic function. It finds that the regulations’ focus on transparency may exacerbate power inequalities within the media system and between media and platforms, while their financial rationale neglects the impact audience measurement systems have on editorial decision-making. The commentary identifies ways to mitigate these challenges and closes by briefly highlighting new research opportunities that these upcoming EU regulations open up by making more data available on audience measurement systems.",
+  "abstract_zh": "New EU legislation aims to regulate audience measurement systems for the first time. With these rules, EU policymakers primarily seek to increase transparency, enabling media organisations to better understand the allocation and pricing of advertising revenue on platforms. However, as a long history of research in journalism studies shows, audience measurement systems also play an important role in editorial decision-making. This commentary draws on legal and journalism studies literature to offer a first exploration of the way new EU regulation of audience measurement systems could impact the media’s democratic function. It finds that the regulations’ focus on transparency may exacerbate power inequalities within the media system and between media and platforms, while their financial rationale neglects the impact audience measurement systems have on editorial decision-making. The commentary identifies ways to mitigate these challenges and closes by briefly highlighting new research opportunities that these upcoming EU regulations open up by making more data available on audience measurement systems.",
+  "keywords_en": [
+    "Transparency (behavior)",
+    "Journalism",
+    "Democracy",
+    "Legislation",
+    "Technical Journalism",
+    "Audience measurement",
+    "Power (physics)",
+    "Accountability",
+    "Target audience"
+  ],
+  "keywords_zh": [
+    "Transparency (behavior)",
+    "Journalism",
+    "Democracy",
+    "Legislation",
+    "Technical Journalism",
+    "Audience measurement",
+    "Power (physics)",
+    "Accountability",
+    "Target audience"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies EU Audience Measurement Regulation: Implications for the Media’s Democratic Role. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Transparency (behavior), Journalism, Democracy, Legislation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies EU Audience Measurement Regulation: Implications for the Media’s Democratic Role. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Transparency (behavior), Journalism, Democracy, Legislation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Transparency (behavior), Journalism, Democracy, Legislation, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Transparency (behavior), Journalism, Democracy, Legislation, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "mixed methods"
+  ],
+  "method_tags_en": [
+    "mixed methods"
+  ]
+}

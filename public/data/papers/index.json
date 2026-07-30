@@ -313,6 +313,237 @@
     "fetchedAt": "2026-07-15T22:51:35.420Z"
   },
   {
+    "id": "political-communication-d52c58f67071",
+    "doi": "10.1080/10584609.2026.2705676",
+    "url": "https://doi.org/10.1080/10584609.2026.2705676",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-07-30T05:35:42.000Z",
+    "authors": [
+      "Constantine Boussalis",
+      "Travis G. Coan",
+      "Mirya R. Holman",
+      "Travis G.",
+      "Coan Mirya",
+      "R. Holman",
+      "Trinity",
+      "Dublin",
+      "Irelandb",
+      "Exeter",
+      "Englandc Hobby",
+      "Houston",
+      "Texas"
+    ],
+    "title_en": "Happiness in Political Communication by Men and Women Members of the US Congress",
+    "title_zh": "Happiness in Political Communication by Men and Women Members of the US Congress",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Happiness",
+      "Political",
+      "Men",
+      "And",
+      "Women",
+      "Members"
+    ],
+    "inferred_keywords_zh": [
+      "Happiness",
+      "Political",
+      "Men",
+      "And",
+      "Women",
+      "Members"
+    ],
+    "plain_summary_zh": "This paper studies Happiness in Political Communication by Men and Women Members of the US Congress. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Happiness, Political, Men, And. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Happiness in Political Communication by Men and Women Members of the US Congress. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Happiness, Political, Men, And. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Happiness, Political, Men, And, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Happiness, Political, Men, And, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-07-30T22:57:36.958Z"
+  },
+  {
+    "id": "digital-journalism-7d9618222d00",
+    "doi": "10.1080/21670811.2026.2705298",
+    "url": "https://doi.org/10.1080/21670811.2026.2705298",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-28T12:47:21.000Z",
+    "authors": [
+      "Paul Balluff",
+      "Hajo G. Boomgaarden",
+      "Annie Waldherr",
+      "Hajo G.",
+      "Boomgaarden Annie Waldherr",
+      "Vienna",
+      "Austriab GESIS – Leibniz",
+      "Cologne",
+      "Germany"
+    ],
+    "title_en": "Relying on the Mainstream? Entity Networks in Alternative Media",
+    "title_zh": "Relying on the Mainstream? Entity Networks in Alternative Media",
+    "keywords_en": [
+      "Modularity (biology)",
+      "Pipeline (software)",
+      "Relevance (law)",
+      "German",
+      "News media",
+      "Media event",
+      "Legacy system"
+    ],
+    "keywords_zh": [
+      "Modularity (biology)",
+      "Pipeline (software)",
+      "Relevance (law)",
+      "German",
+      "News media",
+      "Media event",
+      "Legacy system"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Relying on the Mainstream? Entity Networks in Alternative Media. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Modularity (biology), Pipeline (software), Relevance (law), German. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Relying on the Mainstream? Entity Networks in Alternative Media. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Modularity (biology), Pipeline (software), Relevance (law), German. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Modularity (biology), Pipeline (software), Relevance (law), German, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Modularity (biology), Pipeline (software), Relevance (law), German, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:49.570Z"
+  },
+  {
+    "id": "political-communication-e220094ce8fc",
+    "doi": "10.1080/10584609.2026.2708132",
+    "url": "https://doi.org/10.1080/10584609.2026.2708132",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-07-28T06:48:38.000Z",
+    "authors": [
+      "Sang Jung Kim",
+      "Jordan Foley",
+      "A. J. Bauer",
+      "Keyeun Lee",
+      "Yunkang Yang",
+      "Sang Jung Kim Jordan Foley Yunkang Yang Keyeun Lee",
+      "Iowa City",
+      "USAb",
+      "Murrow",
+      "Washington State",
+      "Pullman",
+      "USAc",
+      "Texas A&",
+      "USAd",
+      "Seoul National",
+      "Seoul"
+    ],
+    "title_en": "Networked Counterpublics and Contentious Publicity: A Cross-Platform Analysis of QAnon on Parler and Twitter",
+    "title_zh": "Networked Counterpublics and Contentious Publicity: A Cross-Platform Analysis of QAnon on Parler and Twitter",
+    "keywords_en": [
+      "Affordance",
+      "Leverage (statistics)",
+      "Mainstream",
+      "Identity (music)",
+      "Publics",
+      "Social media",
+      "Politics",
+      "Discourse analysis"
+    ],
+    "keywords_zh": [
+      "Affordance",
+      "Leverage (statistics)",
+      "Mainstream",
+      "Identity (music)",
+      "Publics",
+      "Social media",
+      "Politics",
+      "Discourse analysis"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Networked Counterpublics and Contentious Publicity: A Cross-Platform Analysis of QAnon on Parler and Twitter. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Affordance, Leverage (statistics), Mainstream, Identity (music). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Networked Counterpublics and Contentious Publicity: A Cross-Platform Analysis of QAnon on Parler and Twitter. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Affordance, Leverage (statistics), Mainstream, Identity (music). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Affordance, Leverage (statistics), Mainstream, Identity (music), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Affordance, Leverage (statistics), Mainstream, Identity (music), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:33.642Z"
+  },
+  {
+    "id": "digital-journalism-38e2b32b2531",
+    "doi": "10.1080/21670811.2026.2703602",
+    "url": "https://doi.org/10.1080/21670811.2026.2703602",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-28T01:05:26.000Z",
+    "authors": [
+      "Max van Drunen",
+      "Tomás Dodds",
+      "Hannes Cools",
+      "Theresa Josephine Seipp",
+      "Max van Drunen Tomás Dodds Hannes Cools Theresa Josephine Seipp",
+      "Amsterdam, the Netherlandsb",
+      "Madison",
+      "United Statesc Amsterdam",
+      "Amsterdam, the Netherlands"
+    ],
+    "title_en": "EU Audience Measurement Regulation: Implications for the Media’s Democratic Role",
+    "title_zh": "EU Audience Measurement Regulation: Implications for the Media’s Democratic Role",
+    "keywords_en": [
+      "Transparency (behavior)",
+      "Journalism",
+      "Democracy",
+      "Legislation",
+      "Technical Journalism",
+      "Audience measurement",
+      "Power (physics)",
+      "Accountability",
+      "Target audience"
+    ],
+    "keywords_zh": [
+      "Transparency (behavior)",
+      "Journalism",
+      "Democracy",
+      "Legislation",
+      "Technical Journalism",
+      "Audience measurement",
+      "Power (physics)",
+      "Accountability",
+      "Target audience"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies EU Audience Measurement Regulation: Implications for the Media’s Democratic Role. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Transparency (behavior), Journalism, Democracy, Legislation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies EU Audience Measurement Regulation: Implications for the Media’s Democratic Role. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Transparency (behavior), Journalism, Democracy, Legislation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Transparency (behavior), Journalism, Democracy, Legislation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Transparency (behavior), Journalism, Democracy, Legislation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:50.428Z"
+  },
+  {
     "id": "review-of-communication-research-3bec5a2a89a1",
     "doi": "10.52152/RCR.V14.12",
     "url": "https://doi.org/10.52152/rcr.v14.12",
@@ -401,6 +632,775 @@
     "fetchedAt": "2026-07-27T22:53:56.229Z"
   },
   {
+    "id": "digital-journalism-bd7c96fbd652",
+    "doi": "10.1080/21670811.2026.2703599",
+    "url": "https://doi.org/10.1080/21670811.2026.2703599",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-25T06:38:05.000Z",
+    "authors": [
+      "Nicolas Mattis",
+      "Kimon Kieslich",
+      "Claes Holger",
+      "de Vreese",
+      "Nicolas Mattis Kimon Kieslich Claes Holger de Vreese a Amsterdam",
+      "Amsterdam",
+      "The Netherlandsb AI",
+      "Media & Democracy",
+      "The Netherlands"
+    ],
+    "title_en": "Feeling Iffy About Generative AI: Investigating Audiences’ Trustworthiness Perceptions of Task-Specific AI Disclosures",
+    "title_zh": "Feeling Iffy About Generative AI: Investigating Audiences’ Trustworthiness Perceptions of Task-Specific AI Disclosures",
+    "keywords_en": [
+      "Trustworthiness",
+      "Perception",
+      "Moderation",
+      "Transparency (behavior)",
+      "Affect (linguistics)",
+      "Feeling",
+      "Preference",
+      "Generative grammar"
+    ],
+    "keywords_zh": [
+      "Trustworthiness",
+      "Perception",
+      "Moderation",
+      "Transparency (behavior)",
+      "Affect (linguistics)",
+      "Feeling",
+      "Preference",
+      "Generative grammar"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Feeling Iffy About Generative AI: Investigating Audiences’ Trustworthiness Perceptions of Task-Specific AI Disclosures. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Trustworthiness, Perception, Moderation, Transparency (behavior). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Feeling Iffy About Generative AI: Investigating Audiences’ Trustworthiness Perceptions of Task-Specific AI Disclosures. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Trustworthiness, Perception, Moderation, Transparency (behavior). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Trustworthiness, Perception, Moderation, Transparency (behavior), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Trustworthiness, Perception, Moderation, Transparency (behavior), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "experiment"
+    ],
+    "method_tags_en": [
+      "experiment"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:48.444Z"
+  },
+  {
+    "id": "digital-journalism-44bd1dfdc2c1",
+    "doi": "10.1080/21670811.2026.2704003",
+    "url": "https://doi.org/10.1080/21670811.2026.2704003",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-24T11:24:22.000Z",
+    "authors": [
+      "Lynge Asbjørn Møller",
+      "Lynge Asbjørn",
+      "Møller Digital Democracy",
+      "Southern Denmark",
+      "Odense",
+      "Denmark"
+    ],
+    "title_en": "Essential but Peripheral: The Position of Developers at the Margins of Journalism",
+    "title_zh": "Essential but Peripheral: The Position of Developers at the Margins of Journalism",
+    "keywords_en": [
+      "Legitimacy",
+      "Agency (philosophy)",
+      "Autonomy",
+      "Meaning (existential)",
+      "Position (finance)",
+      "Cognitive reframing",
+      "Work (physics)",
+      "Face (sociological concept)"
+    ],
+    "keywords_zh": [
+      "Legitimacy",
+      "Agency (philosophy)",
+      "Autonomy",
+      "Meaning (existential)",
+      "Position (finance)",
+      "Cognitive reframing",
+      "Work (physics)",
+      "Face (sociological concept)"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Essential but Peripheral: The Position of Developers at the Margins of Journalism. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Legitimacy, Agency (philosophy), Autonomy, Meaning (existential). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Essential but Peripheral: The Position of Developers at the Margins of Journalism. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Legitimacy, Agency (philosophy), Autonomy, Meaning (existential). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Legitimacy, Agency (philosophy), Autonomy, Meaning (existential), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Legitimacy, Agency (philosophy), Autonomy, Meaning (existential), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "interview"
+    ],
+    "method_tags_en": [
+      "interview"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:43.177Z"
+  },
+  {
+    "id": "political-communication-9b7f149b35de",
+    "doi": "10.1080/10584609.2026.2704899",
+    "url": "https://doi.org/10.1080/10584609.2026.2704899",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-07-24T05:39:40.000Z",
+    "authors": [
+      "Ashwin Rajadesingan",
+      "Austin",
+      "Texas",
+      "USAAshwin Rajadesingan (PhD"
+    ],
+    "title_en": "Common Identities and Political Talk: Evaluating Cross-Cutting Political Discussions in Sports Communities on Reddit",
+    "title_zh": "Common Identities and Political Talk: Evaluating Cross-Cutting Political Discussions in Sports Communities on Reddit",
+    "keywords_en": [
+      "Politics",
+      "Political communication",
+      "American political science",
+      "Identity (music)",
+      "Political culture",
+      "Democracy",
+      "Ingroups and outgroups",
+      "Voting behavior"
+    ],
+    "keywords_zh": [
+      "Politics",
+      "Political communication",
+      "American political science",
+      "Identity (music)",
+      "Political culture",
+      "Democracy",
+      "Ingroups and outgroups",
+      "Voting behavior"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Common Identities and Political Talk: Evaluating Cross-Cutting Political Discussions in Sports Communities on Reddit. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Political communication, American political science, Identity (music). The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Common Identities and Political Talk: Evaluating Cross-Cutting Political Discussions in Sports Communities on Reddit. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Political communication, American political science, Identity (music). The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Politics, Political communication, American political science, Identity (music), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Politics, Political communication, American political science, Identity (music), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:33.546Z"
+  },
+  {
+    "id": "digital-journalism-a73feeffe39c",
+    "doi": "10.1080/21670811.2026.2706052",
+    "url": "https://doi.org/10.1080/21670811.2026.2706052",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-24T05:07:47.000Z",
+    "authors": [
+      "Steen Steensen",
+      "Bente Kalsnes",
+      "Håvard Kiberg",
+      "Gunhild Ring Olsen",
+      "Lasha Kavtaradze",
+      "Steen Steensen Bente Kalsnes Håvard Kiberg Gunhild Ring Olsen Lasha Kavtaradze",
+      "Kristiania",
+      "Oslo",
+      "Norway"
+    ],
+    "title_en": "News Diversity Across Platforms. A Large-Scale Analysis of the Norwegian News Media Market",
+    "title_zh": "News Diversity Across Platforms. A Large-Scale Analysis of the Norwegian News Media Market",
+    "keywords_en": [
+      "Norwegian",
+      "Diversity (politics)",
+      "Latent Dirichlet allocation",
+      "Social media",
+      "Topic model",
+      "News media",
+      "Politics",
+      "Thematic analysis",
+      "Content analysis"
+    ],
+    "keywords_zh": [
+      "Norwegian",
+      "Diversity (politics)",
+      "Latent Dirichlet allocation",
+      "Social media",
+      "Topic model",
+      "News media",
+      "Politics",
+      "Thematic analysis",
+      "Content analysis"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies News Diversity Across Platforms. A Large-Scale Analysis of the Norwegian News Media Market. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Norwegian, Diversity (politics), Latent Dirichlet allocation, Social media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies News Diversity Across Platforms. A Large-Scale Analysis of the Norwegian News Media Market. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Norwegian, Diversity (politics), Latent Dirichlet allocation, Social media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Norwegian, Diversity (politics), Latent Dirichlet allocation, Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Norwegian, Diversity (politics), Latent Dirichlet allocation, Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:48.040Z"
+  },
+  {
+    "id": "political-communication-acf9a44a8bef",
+    "doi": "10.1080/10584609.2026.2704891",
+    "url": "https://doi.org/10.1080/10584609.2026.2704891",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-07-22T10:45:51.000Z",
+    "authors": [
+      "Sungwon Jung",
+      "Zhi Lin",
+      "Joseph Michael Stepniewski",
+      "Jennifer Castillo Cortes",
+      "Yuzhe Lei",
+      "Joseph M Stepniewski",
+      "Sungwon Jung Zhi Lin Joseph M Stepniewski Jennifer Castillo Cortes Yuzhe Lei",
+      "The",
+      "Austin",
+      "Texas",
+      "USAb Annenberg",
+      "Philadelphia",
+      "Pennsylvania"
+    ],
+    "title_en": "Affective Publics in the YouTube Live Chat: Multimodal Emotional Contagion During the 2024 U.S. Presidential Debate",
+    "title_zh": "Affective Publics in the YouTube Live Chat: Multimodal Emotional Contagion During the 2024 U.S. Presidential Debate",
+    "keywords_en": [
+      "Sadness",
+      "Anger",
+      "Emotional contagion",
+      "Publics",
+      "Emotional expression",
+      "Facial expression",
+      "Presidential system",
+      "Politics",
+      "Conversation"
+    ],
+    "keywords_zh": [
+      "Sadness",
+      "Anger",
+      "Emotional contagion",
+      "Publics",
+      "Emotional expression",
+      "Facial expression",
+      "Presidential system",
+      "Politics",
+      "Conversation"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Affective Publics in the YouTube Live Chat: Multimodal Emotional Contagion During the 2024 U.S. Presidential Debate. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Sadness, Anger, Emotional contagion, Publics. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Affective Publics in the YouTube Live Chat: Multimodal Emotional Contagion During the 2024 U.S. Presidential Debate. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Sadness, Anger, Emotional contagion, Publics. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Sadness, Anger, Emotional contagion, Publics, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Sadness, Anger, Emotional contagion, Publics, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:31.323Z"
+  },
+  {
+    "id": "digital-journalism-dbf5a30c7004",
+    "doi": "10.1080/21670811.2026.2706053",
+    "url": "https://doi.org/10.1080/21670811.2026.2706053",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-22T04:27:45.000Z",
+    "authors": [
+      "Petra Petruccio",
+      "Julia Niemann",
+      "Tim Schatto‐Eckrodt",
+      "Julia Niemann-Lenz",
+      "Tim Schatto-Eckrodt",
+      "Hamburg",
+      "Germanyb German",
+      "Hannover",
+      "Germany"
+    ],
+    "title_en": "AI Automated Publishing in Social Media Journalism: Is News Content on Facebook Becoming Softer?",
+    "title_zh": "AI Automated Publishing in Social Media Journalism: Is News Content on Facebook Becoming Softer?",
+    "keywords_en": [
+      "Social media",
+      "Publishing",
+      "Content (measure theory)",
+      "Content analysis",
+      "Electronic publishing",
+      "Journalism",
+      "Key (lock)"
+    ],
+    "keywords_zh": [
+      "Social media",
+      "Publishing",
+      "Content (measure theory)",
+      "Content analysis",
+      "Electronic publishing",
+      "Journalism",
+      "Key (lock)"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies AI Automated Publishing in Social Media Journalism: Is News Content on Facebook Becoming Softer?. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, Publishing, Content (measure theory), Content analysis. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies AI Automated Publishing in Social Media Journalism: Is News Content on Facebook Becoming Softer?. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, Publishing, Content (measure theory), Content analysis. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Social media, Publishing, Content (measure theory), Content analysis, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Social media, Publishing, Content (measure theory), Content analysis, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:45.660Z"
+  },
+  {
+    "id": "political-communication-9e36fb98ab3e",
+    "doi": "10.1080/10584609.2026.2706643",
+    "url": "https://doi.org/10.1080/10584609.2026.2706643",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-07-22T02:57:22.000Z",
+    "authors": [
+      "Christian Baden",
+      "Anna Litvinenko",
+      "Gregory Asmolov",
+      "The Hebrew",
+      "Jerusalem",
+      "Israelb",
+      "Freie Universität Berlin",
+      "Berlin",
+      "Germanyc",
+      "King’",
+      "London",
+      "UKChristian Baden",
+      "is a",
+      "professor at the"
+    ],
+    "title_en": "Studying Propaganda as a Social Process",
+    "title_zh": "Studying Propaganda as a Social Process",
+    "keywords_en": [
+      "Disinformation",
+      "Sketch",
+      "Scholarship",
+      "Rhetorical question",
+      "Power (physics)",
+      "Process (computing)"
+    ],
+    "keywords_zh": [
+      "Disinformation",
+      "Sketch",
+      "Scholarship",
+      "Rhetorical question",
+      "Power (physics)",
+      "Process (computing)"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Studying Propaganda as a Social Process. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Disinformation, Sketch, Scholarship, Rhetorical question. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Studying Propaganda as a Social Process. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Disinformation, Sketch, Scholarship, Rhetorical question. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Disinformation, Sketch, Scholarship, Rhetorical question, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Disinformation, Sketch, Scholarship, Rhetorical question, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:38.005Z"
+  },
+  {
+    "id": "digital-journalism-d8eaee59257f",
+    "doi": "10.1080/21670811.2026.2700581",
+    "url": "https://doi.org/10.1080/21670811.2026.2700581",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-22T01:01:08.000Z",
+    "authors": [
+      "Zhengyi Liang",
+      "Jaeho Cho",
+      "Davis",
+      "USA"
+    ],
+    "title_en": "Complicating Wisdom of Crowds: News Sources Reveal Political Bias in Wikipedia Biographies",
+    "title_zh": "Complicating Wisdom of Crowds: News Sources Reveal Political Bias in Wikipedia Biographies",
+    "keywords_en": [
+      "Politics",
+      "Fake news",
+      "Journalism",
+      "Power (physics)",
+      "Work (physics)"
+    ],
+    "keywords_zh": [
+      "Politics",
+      "Fake news",
+      "Journalism",
+      "Power (physics)",
+      "Work (physics)"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Complicating Wisdom of Crowds: News Sources Reveal Political Bias in Wikipedia Biographies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Fake news, Journalism, Power (physics). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Complicating Wisdom of Crowds: News Sources Reveal Political Bias in Wikipedia Biographies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Fake news, Journalism, Power (physics). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Politics, Fake news, Journalism, Power (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Politics, Fake news, Journalism, Power (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:40.528Z"
+  },
+  {
+    "id": "digital-journalism-b7b9acf232aa",
+    "doi": "10.1080/21670811.2026.2704019",
+    "url": "https://doi.org/10.1080/21670811.2026.2704019",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-20T09:51:38.000Z",
+    "authors": [
+      "Minna Koivula",
+      "Pinja Päivänen",
+      "Mikko Villi",
+      "Jyväskylä",
+      "Finland"
+    ],
+    "title_en": "Data, Institutional Logics and Journalism’s Chase After the Paying Subscriber",
+    "title_zh": "Data, Institutional Logics and Journalism’s Chase After the Paying Subscriber",
+    "keywords_en": [
+      "Journalism",
+      "Institution",
+      "Work (physics)",
+      "Institutional logic",
+      "Institutional theory",
+      "Discourse analysis"
+    ],
+    "keywords_zh": [
+      "Journalism",
+      "Institution",
+      "Work (physics)",
+      "Institutional logic",
+      "Institutional theory",
+      "Discourse analysis"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Data, Institutional Logics and Journalism’s Chase After the Paying Subscriber. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Institution, Work (physics), Institutional logic. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Data, Institutional Logics and Journalism’s Chase After the Paying Subscriber. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Institution, Work (physics), Institutional logic. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Journalism, Institution, Work (physics), Institutional logic, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Journalism, Institution, Work (physics), Institutional logic, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:45.702Z"
+  },
+  {
+    "id": "political-communication-95dfff194d4e",
+    "doi": "10.1080/10584609.2026.2704896",
+    "url": "https://doi.org/10.1080/10584609.2026.2704896",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-07-20T05:51:20.000Z",
+    "authors": [
+      "Morgan Wack",
+      "Kayla Duskin",
+      "Damian Hodel",
+      "Zurich",
+      "Switzerlandb Information",
+      "Seattle",
+      "WA"
+    ],
+    "title_en": "Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach",
+    "title_zh": "Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach",
+    "keywords_en": [
+      "Politics",
+      "Political science",
+      "Computer science",
+      "Law"
+    ],
+    "keywords_zh": [
+      "Politics",
+      "Political science",
+      "Computer science",
+      "Law"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Political science, Computer science, Law. The abstract suggests a experiment, network analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Political science, Computer science, Law. The abstract suggests a experiment, network analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Politics, Political science, Computer science, Law, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Politics, Political science, Computer science, Law, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "experiment",
+      "network analysis"
+    ],
+    "method_tags_en": [
+      "experiment",
+      "network analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:31.252Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-829771650f13",
+    "doi": "10.1080/08351813.2026.2671620",
+    "url": "https://doi.org/10.1080/08351813.2026.2671620",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-07-20T02:00:37.000Z",
+    "authors": [
+      "Yuki Arita",
+      "Pomona",
+      "USA"
+    ],
+    "title_en": "Japanese Multiple Saying Iya Iya Iya as a Practice of Managing Persistence in Interaction",
+    "title_zh": "Japanese Multiple Saying Iya Iya Iya as a Practice of Managing Persistence in Interaction",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Iya",
+      "Japanese",
+      "Multiple",
+      "Saying",
+      "Practice",
+      "Managing"
+    ],
+    "inferred_keywords_zh": [
+      "Iya",
+      "Japanese",
+      "Multiple",
+      "Saying",
+      "Practice",
+      "Managing"
+    ],
+    "plain_summary_zh": "This paper studies Japanese Multiple Saying Iya Iya Iya as a Practice of Managing Persistence in Interaction. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Iya, Japanese, Multiple, Saying. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Japanese Multiple Saying Iya Iya Iya as a Practice of Managing Persistence in Interaction. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Iya, Japanese, Multiple, Saying. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Iya, Japanese, Multiple, Saying, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Iya, Japanese, Multiple, Saying, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-07-30T22:57:58.760Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-d0d9ce41d03a",
+    "doi": "10.1080/08351813.2026.2671604",
+    "url": "https://doi.org/10.1080/08351813.2026.2671604",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-07-20T02:00:37.000Z",
+    "authors": [
+      "Teppo Jakonen",
+      "Miro Laaksonen",
+      "Finlandb",
+      "Finland"
+    ],
+    "title_en": "Pointing to Facilitate Telepresence Robot-Mediated Participation in Hybrid Classroom Interaction",
+    "title_zh": "Pointing to Facilitate Telepresence Robot-Mediated Participation in Hybrid Classroom Interaction",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Pointing",
+      "Facilitate",
+      "Telepresence",
+      "Robot",
+      "Mediated",
+      "Participation"
+    ],
+    "inferred_keywords_zh": [
+      "Pointing",
+      "Facilitate",
+      "Telepresence",
+      "Robot",
+      "Mediated",
+      "Participation"
+    ],
+    "plain_summary_zh": "This paper studies Pointing to Facilitate Telepresence Robot-Mediated Participation in Hybrid Classroom Interaction. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Pointing, Facilitate, Telepresence, Robot. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Pointing to Facilitate Telepresence Robot-Mediated Participation in Hybrid Classroom Interaction. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Pointing, Facilitate, Telepresence, Robot. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Pointing, Facilitate, Telepresence, Robot, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Pointing, Facilitate, Telepresence, Robot, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-07-30T22:57:58.717Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-ad5b2899b78a",
+    "doi": "10.1080/08351813.2026.2671602",
+    "url": "https://doi.org/10.1080/08351813.2026.2671602",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-07-20T02:00:37.000Z",
+    "authors": [
+      "Sally Wiggins",
+      "Linköping",
+      "Sweden"
+    ],
+    "title_en": "When Eating Becomes Collaborative: Co-Eating Examples from Children’s Mealtimes",
+    "title_zh": "When Eating Becomes Collaborative: Co-Eating Examples from Children’s Mealtimes",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Eating",
+      "When",
+      "Becomes",
+      "Collaborative",
+      "Examples",
+      "Children"
+    ],
+    "inferred_keywords_zh": [
+      "Eating",
+      "When",
+      "Becomes",
+      "Collaborative",
+      "Examples",
+      "Children"
+    ],
+    "plain_summary_zh": "This paper studies When Eating Becomes Collaborative: Co-Eating Examples from Children’s Mealtimes. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Eating, When, Becomes, Collaborative. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies When Eating Becomes Collaborative: Co-Eating Examples from Children’s Mealtimes. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Eating, When, Becomes, Collaborative. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Eating, When, Becomes, Collaborative, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Eating, When, Becomes, Collaborative, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-07-30T22:57:55.073Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-6a2efd9667c3",
+    "doi": "10.1080/08351813.2026.2671595",
+    "url": "https://doi.org/10.1080/08351813.2026.2671595",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-07-20T02:00:37.000Z",
+    "authors": [
+      "Piia Mikkola",
+      "Elina Salomaa",
+      "Esa Lehtinen",
+      "Jyväskylä",
+      "Finland"
+    ],
+    "title_en": "Digital tool and material object: Using the computer mouse in initiating transitions in face-to-face workshops",
+    "title_zh": "Digital tool and material object: Using the computer mouse in initiating transitions in face-to-face workshops",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Face",
+      "Digital",
+      "Tool",
+      "And",
+      "Material",
+      "Object"
+    ],
+    "inferred_keywords_zh": [
+      "Face",
+      "Digital",
+      "Tool",
+      "And",
+      "Material",
+      "Object"
+    ],
+    "plain_summary_zh": "This paper studies Digital tool and material object: Using the computer mouse in initiating transitions in face-to-face workshops. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Face, Digital, Tool, And. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Digital tool and material object: Using the computer mouse in initiating transitions in face-to-face workshops. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Face, Digital, Tool, And. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Face, Digital, Tool, And, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Face, Digital, Tool, And, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-07-30T22:57:54.830Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-85572fd669da",
+    "doi": "10.1080/08351813.2026.2623812",
+    "url": "https://doi.org/10.1080/08351813.2026.2623812",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-07-20T02:00:37.000Z",
+    "authors": [
+      "Christian Greiffenhagen",
+      "Stuart Reeves",
+      "The Hong",
+      "Kong Polytechnic",
+      "Hong Kong",
+      "Chinab",
+      "UK"
+    ],
+    "title_en": "Handling troubles with discretion: Transforming informings into announcements in a control room behind a mixed-reality performance",
+    "title_zh": "Handling troubles with discretion: Transforming informings into announcements in a control room behind a mixed-reality performance",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Handling",
+      "Troubles",
+      "Discretion",
+      "Transforming",
+      "Informings",
+      "Announcements"
+    ],
+    "inferred_keywords_zh": [
+      "Handling",
+      "Troubles",
+      "Discretion",
+      "Transforming",
+      "Informings",
+      "Announcements"
+    ],
+    "plain_summary_zh": "This paper studies Handling troubles with discretion: Transforming informings into announcements in a control room behind a mixed-reality performance. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Handling, Troubles, Discretion, Transforming. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Handling troubles with discretion: Transforming informings into announcements in a control room behind a mixed-reality performance. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Handling, Troubles, Discretion, Transforming. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Handling, Troubles, Discretion, Transforming, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Handling, Troubles, Discretion, Transforming, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-07-30T22:57:54.706Z"
+  },
+  {
     "id": "review-of-communication-research-e72785c7a855",
     "doi": "10.52152/RCR.V14.S7",
     "url": "https://doi.org/10.52152/rcr.v14.s7",
@@ -441,6 +1441,162 @@
     ],
     "source": "crossref+detail",
     "fetchedAt": "2026-07-20T22:50:59.183Z"
+  },
+  {
+    "id": "political-communication-6f716f895235",
+    "doi": "10.1080/10584609.2026.2706641",
+    "url": "https://doi.org/10.1080/10584609.2026.2706641",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-07-18T10:57:46.000Z",
+    "authors": [
+      "Fatima Gaw",
+      "Erik C. Nisbet",
+      "Erik C.",
+      "Nisbet Communication Studies",
+      "Northwestern",
+      "Evanston",
+      "Illinois",
+      "USAFatima Gaw (MA",
+      "IL. His"
+    ],
+    "title_en": "Reintegrating Influencer Media Logic into the Study of Political Influencers",
+    "title_zh": "Reintegrating Influencer Media Logic into the Study of Political Influencers",
+    "keywords_en": [
+      "Influencer marketing",
+      "Politics",
+      "Political communication",
+      "Social media"
+    ],
+    "keywords_zh": [
+      "Influencer marketing",
+      "Politics",
+      "Political communication",
+      "Social media"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Reintegrating Influencer Media Logic into the Study of Political Influencers. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Influencer marketing, Politics, Political communication, Social media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Reintegrating Influencer Media Logic into the Study of Political Influencers. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Influencer marketing, Politics, Political communication, Social media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Influencer marketing, Politics, Political communication, Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Influencer marketing, Politics, Political communication, Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:35.898Z"
+  },
+  {
+    "id": "digital-journalism-521b242edaf3",
+    "doi": "10.1080/21670811.2026.2704009",
+    "url": "https://doi.org/10.1080/21670811.2026.2704009",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-18T10:51:54.000Z",
+    "authors": [
+      "Kostiantyn Yanchenko",
+      "Tetiana Gordiienko",
+      "Friedrich Schiller",
+      "Jena",
+      "Germanyb Mohyla",
+      "National",
+      "Kyiv",
+      "Ukraine"
+    ],
+    "title_en": "Adapt or Give Up: How Ukrainian Newsrooms Responded to the Termination of USAID Media Development Aid",
+    "title_zh": "Adapt or Give Up: How Ukrainian Newsrooms Responded to the Termination of USAID Media Development Aid",
+    "keywords_en": [
+      "Development aid",
+      "Ukrainian",
+      "Humanitarian aid",
+      "International development",
+      "Diplomacy",
+      "International relations",
+      "Foreign policy"
+    ],
+    "keywords_zh": [
+      "Development aid",
+      "Ukrainian",
+      "Humanitarian aid",
+      "International development",
+      "Diplomacy",
+      "International relations",
+      "Foreign policy"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Adapt or Give Up: How Ukrainian Newsrooms Responded to the Termination of USAID Media Development Aid. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Development aid, Ukrainian, Humanitarian aid, International development. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Adapt or Give Up: How Ukrainian Newsrooms Responded to the Termination of USAID Media Development Aid. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Development aid, Ukrainian, Humanitarian aid, International development. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Development aid, Ukrainian, Humanitarian aid, International development, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Development aid, Ukrainian, Humanitarian aid, International development, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:47.158Z"
+  },
+  {
+    "id": "digital-journalism-4a1425681676",
+    "doi": "10.1080/21670811.2026.2700585",
+    "url": "https://doi.org/10.1080/21670811.2026.2700585",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-16T06:56:33.000Z",
+    "authors": [
+      "Toni G.L.A.",
+      "van der Meer",
+      "Michael Hameleers",
+      "Toni G.",
+      "L. A.",
+      "Toni G. L. A. van der Meer Michael Hameleers Amsterdam",
+      "Amsterdam",
+      "Netherlands"
+    ],
+    "title_en": "Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility",
+    "title_zh": "Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility",
+    "keywords_en": [
+      "Misinformation",
+      "Perception",
+      "Mainstream",
+      "False accusation",
+      "Social media",
+      "Disinformation",
+      "Fake news",
+      "Infographic"
+    ],
+    "keywords_zh": [
+      "Misinformation",
+      "Perception",
+      "Mainstream",
+      "False accusation",
+      "Social media",
+      "Disinformation",
+      "Fake news",
+      "Infographic"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Misinformation, Perception, Mainstream, False accusation. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Misinformation, Perception, Mainstream, False accusation. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Misinformation, Perception, Mainstream, False accusation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Misinformation, Perception, Mainstream, False accusation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "survey"
+    ],
+    "method_tags_en": [
+      "survey"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:42.940Z"
   },
   {
     "id": "international-journal-of-press-politics-f993aef9327d",
@@ -488,6 +1644,210 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-07-17T22:40:56.391Z"
+  },
+  {
+    "id": "digital-journalism-3ff051c5ad37",
+    "doi": "10.1080/21670811.2026.2700590",
+    "url": "https://doi.org/10.1080/21670811.2026.2700590",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-15T01:41:53.000Z",
+    "authors": [
+      "Nisha Sridharan",
+      "Nisha Sridharan Temple",
+      "Philadelphia",
+      "Pennsylvania",
+      "USA"
+    ],
+    "title_en": "“Living Amoeba of an Organization”: Organizational Bricolage as an Adaptive Strategy in Digital Journalism",
+    "title_zh": "“Living Amoeba of an Organization”: Organizational Bricolage as an Adaptive Strategy in Digital Journalism",
+    "keywords_en": [
+      "Bricolage",
+      "Journalism",
+      "Sensemaking",
+      "Amoeba (genus)",
+      "Viable system model",
+      "Adaptation (eye)",
+      "Citizen journalism"
+    ],
+    "keywords_zh": [
+      "Bricolage",
+      "Journalism",
+      "Sensemaking",
+      "Amoeba (genus)",
+      "Viable system model",
+      "Adaptation (eye)",
+      "Citizen journalism"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies “Living Amoeba of an Organization”: Organizational Bricolage as an Adaptive Strategy in Digital Journalism. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Bricolage, Journalism, Sensemaking, Amoeba (genus). The abstract suggests a case study approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies “Living Amoeba of an Organization”: Organizational Bricolage as an Adaptive Strategy in Digital Journalism. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Bricolage, Journalism, Sensemaking, Amoeba (genus). The abstract suggests a case study approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Bricolage, Journalism, Sensemaking, Amoeba (genus), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Bricolage, Journalism, Sensemaking, Amoeba (genus), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "case study"
+    ],
+    "method_tags_en": [
+      "case study"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:40.788Z"
+  },
+  {
+    "id": "political-communication-96dfa8a7675e",
+    "doi": "10.1080/10584609.2026.2702539",
+    "url": "https://doi.org/10.1080/10584609.2026.2702539",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-07-14T07:59:02.000Z",
+    "authors": [
+      "Tay Jeong",
+      "Convergence Program",
+      "for Social Innovation",
+      "Sungkyunkwan",
+      "Seoul",
+      "Korea (the Republic of)Tay Jeong is an Assistant Professor at the",
+      "South Korea."
+    ],
+    "title_en": "Vengeance or Hope? A Role-Based Analysis of Hashtag Activism for the War in Gaza",
+    "title_zh": "Vengeance or Hope? A Role-Based Analysis of Hashtag Activism for the War in Gaza",
+    "keywords_en": [
+      "Rhetoric",
+      "Solidarity",
+      "Rhetorical question",
+      "Denunciation",
+      "Interpretation (philosophy)",
+      "Praxis",
+      "Rubric",
+      "German"
+    ],
+    "keywords_zh": [
+      "Rhetoric",
+      "Solidarity",
+      "Rhetorical question",
+      "Denunciation",
+      "Interpretation (philosophy)",
+      "Praxis",
+      "Rubric",
+      "German"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Vengeance or Hope? A Role-Based Analysis of Hashtag Activism for the War in Gaza. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Rhetoric, Solidarity, Rhetorical question, Denunciation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Vengeance or Hope? A Role-Based Analysis of Hashtag Activism for the War in Gaza. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Rhetoric, Solidarity, Rhetorical question, Denunciation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Rhetoric, Solidarity, Rhetorical question, Denunciation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Rhetoric, Solidarity, Rhetorical question, Denunciation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:31.222Z"
+  },
+  {
+    "id": "digital-journalism-90d337e79ce0",
+    "doi": "10.1080/21670811.2026.2700594",
+    "url": "https://doi.org/10.1080/21670811.2026.2700594",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-14T03:31:09.000Z",
+    "authors": [
+      "Stephanie Geise",
+      "Yi Xu",
+      "Communication and Information",
+      "Germanyb Management",
+      "Lancaster",
+      "Germany"
+    ],
+    "title_en": "Through Different Lenses: Comparing AI-Generated Imagery and Press Photography in Visual War Representation",
+    "title_zh": "Through Different Lenses: Comparing AI-Generated Imagery and Press Photography in Visual War Representation",
+    "keywords_en": [
+      "Representation (politics)",
+      "Photography",
+      "Photojournalism",
+      "Computational photography",
+      "First world war",
+      "Visual culture"
+    ],
+    "keywords_zh": [
+      "Representation (politics)",
+      "Photography",
+      "Photojournalism",
+      "Computational photography",
+      "First world war",
+      "Visual culture"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Through Different Lenses: Comparing AI-Generated Imagery and Press Photography in Visual War Representation. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Representation (politics), Photography, Photojournalism, Computational photography. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Through Different Lenses: Comparing AI-Generated Imagery and Press Photography in Visual War Representation. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Representation (politics), Photography, Photojournalism, Computational photography. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Representation (politics), Photography, Photojournalism, Computational photography, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Representation (politics), Photography, Photojournalism, Computational photography, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:40.820Z"
+  },
+  {
+    "id": "digital-journalism-38a4a175998f",
+    "doi": "10.1080/21670811.2026.2700586",
+    "url": "https://doi.org/10.1080/21670811.2026.2700586",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-07-13T04:15:55.000Z",
+    "authors": [
+      "Kenza Lamot",
+      "Tim Groot Kormelink",
+      "Tessel Bogaard",
+      "Kenza Lamot Tim Groot Kormelink Tessel Bogaard a Universiteit Gent",
+      "Belgiumb Vrije",
+      "Universiteit Amsterdam",
+      "Amsterdam, the Netherlandsc Newspaper NRC",
+      "Mediahuis, the Netherlands"
+    ],
+    "title_en": "Time Well Spent? Exploring Emotional Engagement with News Through Native Experience Sampling",
+    "title_zh": "Time Well Spent? Exploring Emotional Engagement with News Through Native Experience Sampling",
+    "keywords_en": [
+      "Experience sampling method",
+      "Sampling (signal processing)",
+      "Sample (material)",
+      "Social media",
+      "Journalism",
+      "Sensemaking"
+    ],
+    "keywords_zh": [
+      "Experience sampling method",
+      "Sampling (signal processing)",
+      "Sample (material)",
+      "Social media",
+      "Journalism",
+      "Sensemaking"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Time Well Spent? Exploring Emotional Engagement with News Through Native Experience Sampling. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Experience sampling method, Sampling (signal processing), Sample (material), Social media. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Time Well Spent? Exploring Emotional Engagement with News Through Native Experience Sampling. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Experience sampling method, Sampling (signal processing), Sample (material), Social media. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Experience sampling method, Sampling (signal processing), Sample (material), Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Experience sampling method, Sampling (signal processing), Sample (material), Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "survey"
+    ],
+    "method_tags_en": [
+      "survey"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-07-30T22:57:43.267Z"
   },
   {
     "id": "digital-journalism-a988947db22f",
@@ -834,6 +2194,51 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-07-03T22:55:40.407Z"
+  },
+  {
+    "id": "social-media-and-society-2d8a8d618a57",
+    "doi": "10.1177/20563051261472347",
+    "url": "https://doi.org/10.1177/20563051261472347",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "authors": [
+      "Qingyue Sun",
+      "Runze Ding"
+    ],
+    "title_en": "When Herstory Goes Viral: Popular Resistance in the State-Platform Nexus in China",
+    "title_zh": "When Herstory Goes Viral: Popular Resistance in the State-Platform Nexus in China",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "Resistance",
+      "And",
+      "Popular",
+      "Within",
+      "Popularity"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "Resistance",
+      "And",
+      "Popular",
+      "Within",
+      "Popularity"
+    ],
+    "plain_summary_zh": "This paper studies When Herstory Goes Viral: Popular Resistance in the State-Platform Nexus in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Resistance, And, Popular. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies When Herstory Goes Viral: Popular Resistance in the State-Platform Nexus in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Resistance, And, Popular. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, Resistance, And, Popular, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, Resistance, And, Popular, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-07-30T22:58:03.181Z"
   },
   {
     "id": "social-media-and-society-3960bcd8df4b",

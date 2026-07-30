@@ -1,0 +1,71 @@
+{
+  "id": "digital-journalism-bd7c96fbd652",
+  "doi": "10.1080/21670811.2026.2703599",
+  "url": "https://doi.org/10.1080/21670811.2026.2703599",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-07-25T06:38:05.000Z",
+  "authors": [
+    "Nicolas Mattis",
+    "Kimon Kieslich",
+    "Claes Holger",
+    "de Vreese",
+    "Nicolas Mattis Kimon Kieslich Claes Holger de Vreese a Amsterdam",
+    "Amsterdam",
+    "The Netherlandsb AI",
+    "Media & Democracy",
+    "The Netherlands"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:48.444Z",
+  "language": "en",
+  "raw_title": "Feeling Iffy About Generative AI: Investigating Audiences’ Trustworthiness Perceptions of Task-Specific AI Disclosures",
+  "raw_abstract": "News organisations are experimenting with how to best integrate generative AI into their journalistic workflows. This raises questions about how AI use should be disclosed and how such disclosures affect readers. Prior research shows predominantly negative effects on perceived trustworthiness and credibility, but says little about how AI disclosures for different use cases compare to each other. In this study, we report the results of a conjoint experiment (N = 683) on the effects of task-specific AI disclosures on the perceived trustworthiness of news. While the magnitude of effects varies, we consistently find negative effects across all task-specific AI disclosures. However, moderation and cluster analyses suggest that these effects are not universal, but depend on individual-level characteristics that co-determine AI disclosure effects. By (1) highlighting important individual-level moderators such as respondents’ political position and their knowledge of journalistic AI, and (2) describing five distinctive preference profiles and their predictors, our results inform future research and help practitioners cater AI disclosures to particular groups of readers. To this end, we also situate our work within broader debates about what meaningful transparency should look like.",
+  "raw_keywords": [
+    "Trustworthiness",
+    "Perception",
+    "Moderation",
+    "Transparency (behavior)",
+    "Affect (linguistics)",
+    "Feeling",
+    "Preference",
+    "Generative grammar"
+  ],
+  "title_en": "Feeling Iffy About Generative AI: Investigating Audiences’ Trustworthiness Perceptions of Task-Specific AI Disclosures",
+  "title_zh": "Feeling Iffy About Generative AI: Investigating Audiences’ Trustworthiness Perceptions of Task-Specific AI Disclosures",
+  "abstract_en": "News organisations are experimenting with how to best integrate generative AI into their journalistic workflows. This raises questions about how AI use should be disclosed and how such disclosures affect readers. Prior research shows predominantly negative effects on perceived trustworthiness and credibility, but says little about how AI disclosures for different use cases compare to each other. In this study, we report the results of a conjoint experiment (N = 683) on the effects of task-specific AI disclosures on the perceived trustworthiness of news. While the magnitude of effects varies, we consistently find negative effects across all task-specific AI disclosures. However, moderation and cluster analyses suggest that these effects are not universal, but depend on individual-level characteristics that co-determine AI disclosure effects. By (1) highlighting important individual-level moderators such as respondents’ political position and their knowledge of journalistic AI, and (2) describing five distinctive preference profiles and their predictors, our results inform future research and help practitioners cater AI disclosures to particular groups of readers. To this end, we also situate our work within broader debates about what meaningful transparency should look like.",
+  "abstract_zh": "News organisations are experimenting with how to best integrate generative AI into their journalistic workflows. This raises questions about how AI use should be disclosed and how such disclosures affect readers. Prior research shows predominantly negative effects on perceived trustworthiness and credibility, but says little about how AI disclosures for different use cases compare to each other. In this study, we report the results of a conjoint experiment (N = 683) on the effects of task-specific AI disclosures on the perceived trustworthiness of news. While the magnitude of effects varies, we consistently find negative effects across all task-specific AI disclosures. However, moderation and cluster analyses suggest that these effects are not universal, but depend on individual-level characteristics that co-determine AI disclosure effects. By (1) highlighting important individual-level moderators such as respondents’ political position and their knowledge of journalistic AI, and (2) describing five distinctive preference profiles and their predictors, our results inform future research and help practitioners cater AI disclosures to particular groups of readers. To this end, we also situate our work within broader debates about what meaningful transparency should look like.",
+  "keywords_en": [
+    "Trustworthiness",
+    "Perception",
+    "Moderation",
+    "Transparency (behavior)",
+    "Affect (linguistics)",
+    "Feeling",
+    "Preference",
+    "Generative grammar"
+  ],
+  "keywords_zh": [
+    "Trustworthiness",
+    "Perception",
+    "Moderation",
+    "Transparency (behavior)",
+    "Affect (linguistics)",
+    "Feeling",
+    "Preference",
+    "Generative grammar"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Feeling Iffy About Generative AI: Investigating Audiences’ Trustworthiness Perceptions of Task-Specific AI Disclosures. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Trustworthiness, Perception, Moderation, Transparency (behavior). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Feeling Iffy About Generative AI: Investigating Audiences’ Trustworthiness Perceptions of Task-Specific AI Disclosures. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Trustworthiness, Perception, Moderation, Transparency (behavior). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Trustworthiness, Perception, Moderation, Transparency (behavior), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Trustworthiness, Perception, Moderation, Transparency (behavior), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "experiment"
+  ],
+  "method_tags_en": [
+    "experiment"
+  ]
+}

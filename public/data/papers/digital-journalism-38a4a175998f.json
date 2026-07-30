@@ -1,0 +1,64 @@
+{
+  "id": "digital-journalism-38a4a175998f",
+  "doi": "10.1080/21670811.2026.2700586",
+  "url": "https://doi.org/10.1080/21670811.2026.2700586",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-07-13T04:15:55.000Z",
+  "authors": [
+    "Kenza Lamot",
+    "Tim Groot Kormelink",
+    "Tessel Bogaard",
+    "Kenza Lamot Tim Groot Kormelink Tessel Bogaard a Universiteit Gent",
+    "Belgiumb Vrije",
+    "Universiteit Amsterdam",
+    "Amsterdam, the Netherlandsc Newspaper NRC",
+    "Mediahuis, the Netherlands"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:43.267Z",
+  "language": "en",
+  "raw_title": "Time Well Spent? Exploring Emotional Engagement with News Through Native Experience Sampling",
+  "raw_abstract": "Audience analytics have become ubiquitous in contemporary newsrooms, yet metrics alone may offer a limited understanding of engagement. In response to calls to complement metrics with alternative methods, this study develops an innovative native experience sampling method (NESM) that simultaneously assesses the behavioral, emotional, and evaluative dimensions of engagement. Using pop-up questionnaires on the websites of Dutch and Belgian news brands NRC, Noordhollands Dagblad, and De Standaard (N = 1,241), we measured readers' emotional responses and perceptions of worthwhileness as they read an article. Our findings argue that for an article to be considered “Time Well Spent,” it must not only be consumed but also felt and valued: it should move readers (provoke an emotional response, whether positive or negative) and be purposeful and rewarding, addressing a distinct user need.",
+  "raw_keywords": [
+    "Experience sampling method",
+    "Sampling (signal processing)",
+    "Sample (material)",
+    "Social media",
+    "Journalism",
+    "Sensemaking"
+  ],
+  "title_en": "Time Well Spent? Exploring Emotional Engagement with News Through Native Experience Sampling",
+  "title_zh": "Time Well Spent? Exploring Emotional Engagement with News Through Native Experience Sampling",
+  "abstract_en": "Audience analytics have become ubiquitous in contemporary newsrooms, yet metrics alone may offer a limited understanding of engagement. In response to calls to complement metrics with alternative methods, this study develops an innovative native experience sampling method (NESM) that simultaneously assesses the behavioral, emotional, and evaluative dimensions of engagement. Using pop-up questionnaires on the websites of Dutch and Belgian news brands NRC, Noordhollands Dagblad, and De Standaard (N = 1,241), we measured readers' emotional responses and perceptions of worthwhileness as they read an article. Our findings argue that for an article to be considered “Time Well Spent,” it must not only be consumed but also felt and valued: it should move readers (provoke an emotional response, whether positive or negative) and be purposeful and rewarding, addressing a distinct user need.",
+  "abstract_zh": "Audience analytics have become ubiquitous in contemporary newsrooms, yet metrics alone may offer a limited understanding of engagement. In response to calls to complement metrics with alternative methods, this study develops an innovative native experience sampling method (NESM) that simultaneously assesses the behavioral, emotional, and evaluative dimensions of engagement. Using pop-up questionnaires on the websites of Dutch and Belgian news brands NRC, Noordhollands Dagblad, and De Standaard (N = 1,241), we measured readers' emotional responses and perceptions of worthwhileness as they read an article. Our findings argue that for an article to be considered “Time Well Spent,” it must not only be consumed but also felt and valued: it should move readers (provoke an emotional response, whether positive or negative) and be purposeful and rewarding, addressing a distinct user need.",
+  "keywords_en": [
+    "Experience sampling method",
+    "Sampling (signal processing)",
+    "Sample (material)",
+    "Social media",
+    "Journalism",
+    "Sensemaking"
+  ],
+  "keywords_zh": [
+    "Experience sampling method",
+    "Sampling (signal processing)",
+    "Sample (material)",
+    "Social media",
+    "Journalism",
+    "Sensemaking"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Time Well Spent? Exploring Emotional Engagement with News Through Native Experience Sampling. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Experience sampling method, Sampling (signal processing), Sample (material), Social media. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Time Well Spent? Exploring Emotional Engagement with News Through Native Experience Sampling. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Experience sampling method, Sampling (signal processing), Sample (material), Social media. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Experience sampling method, Sampling (signal processing), Sample (material), Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Experience sampling method, Sampling (signal processing), Sample (material), Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "survey"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

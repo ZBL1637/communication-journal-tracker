@@ -1,0 +1,78 @@
+{
+  "id": "political-communication-acf9a44a8bef",
+  "doi": "10.1080/10584609.2026.2704891",
+  "url": "https://doi.org/10.1080/10584609.2026.2704891",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-07-22T10:45:51.000Z",
+  "authors": [
+    "Sungwon Jung",
+    "Zhi Lin",
+    "Joseph Michael Stepniewski",
+    "Jennifer Castillo Cortes",
+    "Yuzhe Lei",
+    "Joseph M Stepniewski",
+    "Sungwon Jung Zhi Lin Joseph M Stepniewski Jennifer Castillo Cortes Yuzhe Lei",
+    "The",
+    "Austin",
+    "Texas",
+    "USAb Annenberg",
+    "Philadelphia",
+    "Pennsylvania"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-07-30T22:57:31.323Z",
+  "language": "en",
+  "raw_title": "Affective Publics in the YouTube Live Chat: Multimodal Emotional Contagion During the 2024 U.S. Presidential Debate",
+  "raw_abstract": "Televised debates between political candidates have become dynamic, interactive events on live-streaming platforms where audiences form affective publics through real-time interactions and emotional expressions in live chat. In this study, we focused on real-time emotional contagion on a right-wing YouTube channel during the live-streamed 2024 U.S. presidential debate between Donald Trump and Kamala Harris. Examining how multimodal emotional expressions from candidates influence audience responses in live chats (N = 53,095), this study introduces a novel, multi-dimensional approach combining computational techniques, including face emotion recognition, speech emotion analysis, text emotion classification, and time series analysis, to analyze multimodal emotional cues across audio, video, and chat data. Results revealed that Harris’ vocal fear Granger-caused an increase in joy in the live chat, and that emotional contagion patterns varied by user engagement level and political leaning: low-engagement users were primarily influenced by the candidates, whereas higher-engagement users were more influenced by peer emotions. Pro-Trump audiences’ joy was amplified by Harris’s vocal sadness; among pro-Harris audiences, anger increased in response to Harris’s vocal sadness and the moderators’ facial sadness, while joy increased in response to Trump’s facial sadness. Negative public emotions including sadness and anger also reinforced joy in the live chat. These findings offer new insights into the role of emotional contagion in mobilizing online affective publics during live-streamed political events.",
+  "raw_keywords": [
+    "Sadness",
+    "Anger",
+    "Emotional contagion",
+    "Publics",
+    "Emotional expression",
+    "Facial expression",
+    "Presidential system",
+    "Politics",
+    "Conversation"
+  ],
+  "title_en": "Affective Publics in the YouTube Live Chat: Multimodal Emotional Contagion During the 2024 U.S. Presidential Debate",
+  "title_zh": "Affective Publics in the YouTube Live Chat: Multimodal Emotional Contagion During the 2024 U.S. Presidential Debate",
+  "abstract_en": "Televised debates between political candidates have become dynamic, interactive events on live-streaming platforms where audiences form affective publics through real-time interactions and emotional expressions in live chat. In this study, we focused on real-time emotional contagion on a right-wing YouTube channel during the live-streamed 2024 U.S. presidential debate between Donald Trump and Kamala Harris. Examining how multimodal emotional expressions from candidates influence audience responses in live chats (N = 53,095), this study introduces a novel, multi-dimensional approach combining computational techniques, including face emotion recognition, speech emotion analysis, text emotion classification, and time series analysis, to analyze multimodal emotional cues across audio, video, and chat data. Results revealed that Harris’ vocal fear Granger-caused an increase in joy in the live chat, and that emotional contagion patterns varied by user engagement level and political leaning: low-engagement users were primarily influenced by the candidates, whereas higher-engagement users were more influenced by peer emotions. Pro-Trump audiences’ joy was amplified by Harris’s vocal sadness; among pro-Harris audiences, anger increased in response to Harris’s vocal sadness and the moderators’ facial sadness, while joy increased in response to Trump’s facial sadness. Negative public emotions including sadness and anger also reinforced joy in the live chat. These findings offer new insights into the role of emotional contagion in mobilizing online affective publics during live-streamed political events.",
+  "abstract_zh": "Televised debates between political candidates have become dynamic, interactive events on live-streaming platforms where audiences form affective publics through real-time interactions and emotional expressions in live chat. In this study, we focused on real-time emotional contagion on a right-wing YouTube channel during the live-streamed 2024 U.S. presidential debate between Donald Trump and Kamala Harris. Examining how multimodal emotional expressions from candidates influence audience responses in live chats (N = 53,095), this study introduces a novel, multi-dimensional approach combining computational techniques, including face emotion recognition, speech emotion analysis, text emotion classification, and time series analysis, to analyze multimodal emotional cues across audio, video, and chat data. Results revealed that Harris’ vocal fear Granger-caused an increase in joy in the live chat, and that emotional contagion patterns varied by user engagement level and political leaning: low-engagement users were primarily influenced by the candidates, whereas higher-engagement users were more influenced by peer emotions. Pro-Trump audiences’ joy was amplified by Harris’s vocal sadness; among pro-Harris audiences, anger increased in response to Harris’s vocal sadness and the moderators’ facial sadness, while joy increased in response to Trump’s facial sadness. Negative public emotions including sadness and anger also reinforced joy in the live chat. These findings offer new insights into the role of emotional contagion in mobilizing online affective publics during live-streamed political events.",
+  "keywords_en": [
+    "Sadness",
+    "Anger",
+    "Emotional contagion",
+    "Publics",
+    "Emotional expression",
+    "Facial expression",
+    "Presidential system",
+    "Politics",
+    "Conversation"
+  ],
+  "keywords_zh": [
+    "Sadness",
+    "Anger",
+    "Emotional contagion",
+    "Publics",
+    "Emotional expression",
+    "Facial expression",
+    "Presidential system",
+    "Politics",
+    "Conversation"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Affective Publics in the YouTube Live Chat: Multimodal Emotional Contagion During the 2024 U.S. Presidential Debate. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Sadness, Anger, Emotional contagion, Publics. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Affective Publics in the YouTube Live Chat: Multimodal Emotional Contagion During the 2024 U.S. Presidential Debate. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Sadness, Anger, Emotional contagion, Publics. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Sadness, Anger, Emotional contagion, Publics, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Sadness, Anger, Emotional contagion, Publics, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "computational analysis"
+  ]
+}
