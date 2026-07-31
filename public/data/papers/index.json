@@ -1,5 +1,53 @@
 [
   {
+    "id": "policy-and-internet-5c1fb1996118",
+    "doi": "10.1002/poi3.70056",
+    "url": "https://doi.org/10.1002/poi3.70056",
+    "journalName": "Policy & Internet",
+    "journalSlug": "policy-and-internet",
+    "issn": "1944-2866",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "authors": [
+      "Xiaotian Hou",
+      "Xiaohan Liu",
+      "Mingyu Liu"
+    ],
+    "title_en": "Framing Extremist Narratives: A Multi‐Stage Computational Analysis of Discourse Structures, Emotional Mobilization, and Cross‐Platform Migration",
+    "title_zh": "Framing Extremist Narratives: A Multi‐Stage Computational Analysis of Discourse Structures, Emotional Mobilization, and Cross‐Platform Migration",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "And",
+      "The",
+      "Extremist",
+      "Narratives",
+      "Computational",
+      "Framing"
+    ],
+    "inferred_keywords_zh": [
+      "And",
+      "The",
+      "Extremist",
+      "Narratives",
+      "Computational",
+      "Framing"
+    ],
+    "plain_summary_zh": "This paper studies Framing Extremist Narratives: A Multi‐Stage Computational Analysis of Discourse Structures, Emotional Mobilization, and Cross‐Platform Migration. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, The, Extremist, Narratives. The abstract suggests a computational analysis, discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Framing Extremist Narratives: A Multi‐Stage Computational Analysis of Discourse Structures, Emotional Mobilization, and Cross‐Platform Migration. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, The, Extremist, Narratives. The abstract suggests a computational analysis, discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around And, The, Extremist, Narratives, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around And, The, Extremist, Narratives, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis",
+      "discourse analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis",
+      "discourse analysis"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-07-31T22:53:07.374Z"
+  },
+  {
     "id": "policy-and-internet-1ebb2bed7196",
     "doi": "10.1002/poi3.70054",
     "url": "https://doi.org/10.1002/poi3.70054",
