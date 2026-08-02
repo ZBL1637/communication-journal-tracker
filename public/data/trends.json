@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-01T22:45:56.904Z",
+  "generatedAt": "2026-08-02T22:47:20.903Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 15,
-      "overview_en": "Across 15 papers, the most visible themes are And, The, Framing. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 15 papers, the most visible themes are And, The, Framing. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "paperCount": 14,
+      "overview_en": "Across 14 papers, the most visible themes are And, The, Framing. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 14 papers, the most visible themes are And, The, Framing. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -64,13 +64,13 @@
           "count": 2
         },
         {
-          "label_en": "Transparency (behavior)",
-          "label_zh": "Transparency (behavior)",
-          "count": 2
-        },
-        {
           "label_en": "Extremist",
           "label_zh": "Extremist",
+          "count": 1
+        },
+        {
+          "label_en": "Narratives",
+          "label_zh": "Narratives",
           "count": 1
         }
       ],
@@ -81,11 +81,6 @@
           "count": 6
         },
         {
-          "label_en": "experiment",
-          "label_zh": "experiment",
-          "count": 3
-        },
-        {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
           "count": 2
@@ -93,6 +88,11 @@
         {
           "label_en": "survey",
           "label_zh": "survey",
+          "count": 2
+        },
+        {
+          "label_en": "experiment",
+          "label_zh": "experiment",
           "count": 2
         },
         {
@@ -247,9 +247,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 198,
-      "overview_en": "Across 198 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 198 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 197,
+      "overview_en": "Across 197 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 197 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -283,7 +283,7 @@
         {
           "label_en": "Politics",
           "label_zh": "Politics",
-          "count": 20
+          "count": 19
         },
         {
           "label_en": "Journalism",
@@ -303,7 +303,7 @@
         {
           "label_en": "Misinformation",
           "label_zh": "Misinformation",
-          "count": 10
+          "count": 9
         },
         {
           "label_en": "digital journalism",
@@ -345,7 +345,7 @@
         {
           "label_en": "experiment",
           "label_zh": "experiment",
-          "count": 21
+          "count": 20
         },
         {
           "label_en": "computational analysis",
@@ -403,7 +403,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 34,
+      "paperCount": 33,
       "topic_bias_en": [
         "Political communication",
         "Politics",
@@ -623,7 +623,7 @@
     {
       "label_en": "Politics",
       "label_zh": "Politics",
-      "count": 20
+      "count": 19
     },
     {
       "label_en": "Journalism",
@@ -643,7 +643,7 @@
     {
       "label_en": "Misinformation",
       "label_zh": "Misinformation",
-      "count": 10
+      "count": 9
     },
     {
       "label_en": "digital journalism",
@@ -695,7 +695,7 @@
     {
       "label_en": "experiment",
       "label_zh": "experiment",
-      "count": 21
+      "count": 20
     },
     {
       "label_en": "computational analysis",
