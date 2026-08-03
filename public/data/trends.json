@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-02T22:47:20.903Z",
+  "generatedAt": "2026-08-03T22:53:59.601Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 14,
-      "overview_en": "Across 14 papers, the most visible themes are And, The, Framing. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 14 papers, the most visible themes are And, The, Framing. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 13,
+      "overview_en": "Across 13 papers, the most visible themes are And, The, Framing. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 13 papers, the most visible themes are And, The, Framing. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -26,12 +26,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 9
+          "count": 8
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 8
+          "count": 7
         },
         {
           "label_en": "Framing",
@@ -86,11 +86,6 @@
           "count": 2
         },
         {
-          "label_en": "survey",
-          "label_zh": "survey",
-          "count": 2
-        },
-        {
           "label_en": "experiment",
           "label_zh": "experiment",
           "count": 2
@@ -98,6 +93,11 @@
         {
           "label_en": "discourse analysis",
           "label_zh": "discourse analysis",
+          "count": 1
+        },
+        {
+          "label_en": "survey",
+          "label_zh": "survey",
           "count": 1
         },
         {
@@ -121,9 +121,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 44,
-      "overview_en": "Across 44 papers, the most visible themes are And, The, Journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 44 papers, the most visible themes are And, The, Journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 43,
+      "overview_en": "Across 43 papers, the most visible themes are And, The, Journalism. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 43 papers, the most visible themes are And, The, Journalism. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -142,7 +142,7 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 13
+          "count": 12
         },
         {
           "label_en": "The",
@@ -197,14 +197,14 @@
           "count": 22
         },
         {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 6
-        },
-        {
           "label_en": "survey",
           "label_zh": "survey",
           "count": 6
+        },
+        {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 5
         },
         {
           "label_en": "experiment",
@@ -247,9 +247,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 197,
-      "overview_en": "Across 197 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 197 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 198,
+      "overview_en": "Across 198 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 198 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -268,12 +268,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 48
+          "count": 49
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 42
+          "count": 43
         },
         {
           "label_en": "Social media",
@@ -320,7 +320,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 35
+          "count": 36
         },
         {
           "label_en": "survey",
@@ -490,7 +490,7 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 33,
+      "paperCount": 34,
       "topic_bias_en": [
         "And",
         "The",
@@ -608,12 +608,12 @@
     {
       "label_en": "And",
       "label_zh": "And",
-      "count": 48
+      "count": 49
     },
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 42
+      "count": 43
     },
     {
       "label_en": "Social media",
@@ -670,7 +670,7 @@
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 35
+      "count": 36
     },
     {
       "label_en": "survey",
