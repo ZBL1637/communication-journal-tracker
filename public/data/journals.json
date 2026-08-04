@@ -12,21 +12,21 @@
       "a[href*='/article-abstract/']",
       "a[href*='/doi/']"
     ],
-    "paperCount": 20,
-    "latestPublishedAt": "2026-08-01T00:00:00.000Z",
+    "paperCount": 21,
+    "latestPublishedAt": "2026-08-04T00:00:00.000Z",
     "topKeywordsEn": [
-      "Capture",
-      "Academia",
-      "Rising",
-      "Authoritarianism",
-      "And"
+      "And",
+      "Pov",
+      "Editing",
+      "Character",
+      "The"
     ],
     "topKeywordsZh": [
-      "Capture",
-      "Academia",
-      "Rising",
-      "Authoritarianism",
-      "And"
+      "And",
+      "Pov",
+      "Editing",
+      "Character",
+      "The"
     ]
   },
   {
@@ -136,21 +136,21 @@
       ".issue-item__title a",
       ".articleEntry a"
     ],
-    "paperCount": 62,
+    "paperCount": 63,
     "latestPublishedAt": "2026-07-01T00:00:00.000Z",
     "topKeywordsEn": [
-      "And",
-      "Human",
       "The",
-      "Perceptions",
-      "Generative"
+      "And",
+      "Misinformation",
+      "Cmm",
+      "Temporal"
     ],
     "topKeywordsZh": [
-      "And",
-      "Human",
       "The",
-      "Perceptions",
-      "Generative"
+      "And",
+      "Misinformation",
+      "Cmm",
+      "Temporal"
     ]
   },
   {

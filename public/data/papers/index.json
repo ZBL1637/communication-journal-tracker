@@ -317,6 +317,62 @@
     "fetchedAt": "2026-07-10T22:53:25.269Z"
   },
   {
+    "id": "journal-of-communication-ecb92362a208",
+    "doi": "10.1093/joc/jqag011",
+    "url": "https://doi.org/10.1093/joc/jqag011",
+    "journalName": "JOURNAL OF COMMUNICATION",
+    "journalSlug": "journal-of-communication",
+    "issn": "0021-9916",
+    "publishedAt": "2026-08-04T00:00:00.000Z",
+    "authors": [
+      "Moran Ovadia",
+      "Shiri Davidovitch",
+      "Romi Sion",
+      "Naama Shoham",
+      "Nimrod Keren",
+      "Sergei Freedman",
+      "Cynthia Cabañas",
+      "Dov Rubinstein",
+      "Mark A Thornton",
+      "Jonathan Frome",
+      "Liad Mudrik",
+      "Tim J Smith",
+      "Gal Raz"
+    ],
+    "title_en": "Through their eyes: neural and behavioral evidence for enhanced immersion via point-of-view editing",
+    "title_zh": "Through their eyes: neural and behavioral evidence for enhanced immersion via point-of-view editing",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "And",
+      "Pov",
+      "Editing",
+      "Character",
+      "The",
+      "Gaze"
+    ],
+    "inferred_keywords_zh": [
+      "And",
+      "Pov",
+      "Editing",
+      "Character",
+      "The",
+      "Gaze"
+    ],
+    "plain_summary_zh": "This paper studies Through their eyes: neural and behavioral evidence for enhanced immersion via point-of-view editing. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, Pov, Editing, Character. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Through their eyes: neural and behavioral evidence for enhanced immersion via point-of-view editing. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, Pov, Editing, Character. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around And, Pov, Editing, Character, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around And, Pov, Editing, Character, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-08-04T22:54:29.653Z"
+  },
+  {
     "id": "journal-of-communication-5370a96cf9b3",
     "doi": "10.1093/joc/jqag008",
     "url": "https://doi.org/10.1093/joc/jqag008",
@@ -2242,6 +2298,52 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-07-03T22:55:40.407Z"
+  },
+  {
+    "id": "social-media-and-society-46b895aa9674",
+    "doi": "10.1177/20563051261463368",
+    "url": "https://doi.org/10.1177/20563051261463368",
+    "journalName": "Social Media + Society",
+    "journalSlug": "social-media-and-society",
+    "issn": "2056-3051",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "authors": [
+      "Liang Chen",
+      "Xiaoming Liu",
+      "Lunrui Fu"
+    ],
+    "title_en": "Revisiting the Communication Mediation Model in the Age of Social Media: Longitudinal Evidence From Climate Misinformation Responses in China",
+    "title_zh": "Revisiting the Communication Mediation Model in the Age of Social Media: Longitudinal Evidence From Climate Misinformation Responses in China",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "And",
+      "Misinformation",
+      "Cmm",
+      "Temporal",
+      "Mediation"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "And",
+      "Misinformation",
+      "Cmm",
+      "Temporal",
+      "Mediation"
+    ],
+    "plain_summary_zh": "This paper studies Revisiting the Communication Mediation Model in the Age of Social Media: Longitudinal Evidence From Climate Misinformation Responses in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Misinformation, Cmm. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Revisiting the Communication Mediation Model in the Age of Social Media: Longitudinal Evidence From Climate Misinformation Responses in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Misinformation, Cmm. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, And, Misinformation, Cmm, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, And, Misinformation, Cmm, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "survey"
+    ],
+    "method_tags_en": [
+      "survey"
+    ],
+    "source": "crossref",
+    "fetchedAt": "2026-08-04T22:54:37.938Z"
   },
   {
     "id": "social-media-and-society-e9f47b00073a",
