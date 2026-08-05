@@ -1,0 +1,57 @@
+{
+  "id": "social-media-and-society-1b74c3a4a916",
+  "doi": "10.1177/20563051261470740",
+  "url": "https://doi.org/10.1177/20563051261470740",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "authors": [
+    "Teresa Correa",
+    "Sebastián Valenzuela",
+    "Ingrid Bachmann",
+    "Nicolás Tobar Jorquera",
+    "Natalia Solís-Valdés",
+    "Isabel Pavez"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-08-05T22:50:27.797Z",
+  "language": "en",
+  "raw_title": "Unpacking the Relationship Between Algorithmic Literacy and Misinformation: A Multidimensional Approach Using Two Sequential Studies",
+  "raw_abstract": "Digital literacy is often proposed as a remedy for misinformation, yet empirical evidence regarding its effectiveness remains mixed. One reason for these inconsistencies lies in the multidimensional nature of both literacy and misinformation. This article focuses on algorithmic literacy, a distinct and increasingly central form of digital literacy in platform-mediated communication, and examines how its cognitive and behavioral dimensions relate to multiple facets of misinformation engagement. Drawing on two probabilistic survey studies conducted in Chile—a nationally representative face-to-face survey ( N = 1,200) and a random-digit-dial telephone survey of urban adults ( N = 2,265)—we analyze how cognitive (algorithmic awareness and knowledge) and behavioral (strategic actions to navigate algorithmic systems) dimensions of algorithmic literacy relate to perceived misinformation exposure, misinformation sharing, objective and subjective news knowledge, and knowledge miscalibration. Across both studies, a consistent pattern emerges: algorithmic literacy is more strongly associated with cognitive outcomes—especially perceived misinformation exposure and knowledge—than with behavioral outcomes like sharing. Higher algorithmic awareness consistently predicts greater perceived exposure, suggesting heightened recognition, while its link to sharing behavior is less consistent. These studies highlight the relevance of distinguishing cognitive from behavioral dimensions of literacy across different stages of misinformation engagement.",
+  "raw_keywords": [],
+  "title_en": "Unpacking the Relationship Between Algorithmic Literacy and Misinformation: A Multidimensional Approach Using Two Sequential Studies",
+  "title_zh": "Unpacking the Relationship Between Algorithmic Literacy and Misinformation: A Multidimensional Approach Using Two Sequential Studies",
+  "abstract_en": "Digital literacy is often proposed as a remedy for misinformation, yet empirical evidence regarding its effectiveness remains mixed. One reason for these inconsistencies lies in the multidimensional nature of both literacy and misinformation. This article focuses on algorithmic literacy, a distinct and increasingly central form of digital literacy in platform-mediated communication, and examines how its cognitive and behavioral dimensions relate to multiple facets of misinformation engagement. Drawing on two probabilistic survey studies conducted in Chile—a nationally representative face-to-face survey ( N = 1,200) and a random-digit-dial telephone survey of urban adults ( N = 2,265)—we analyze how cognitive (algorithmic awareness and knowledge) and behavioral (strategic actions to navigate algorithmic systems) dimensions of algorithmic literacy relate to perceived misinformation exposure, misinformation sharing, objective and subjective news knowledge, and knowledge miscalibration. Across both studies, a consistent pattern emerges: algorithmic literacy is more strongly associated with cognitive outcomes—especially perceived misinformation exposure and knowledge—than with behavioral outcomes like sharing. Higher algorithmic awareness consistently predicts greater perceived exposure, suggesting heightened recognition, while its link to sharing behavior is less consistent. These studies highlight the relevance of distinguishing cognitive from behavioral dimensions of literacy across different stages of misinformation engagement.",
+  "abstract_zh": "Digital literacy is often proposed as a remedy for misinformation, yet empirical evidence regarding its effectiveness remains mixed. One reason for these inconsistencies lies in the multidimensional nature of both literacy and misinformation. This article focuses on algorithmic literacy, a distinct and increasingly central form of digital literacy in platform-mediated communication, and examines how its cognitive and behavioral dimensions relate to multiple facets of misinformation engagement. Drawing on two probabilistic survey studies conducted in Chile—a nationally representative face-to-face survey ( N = 1,200) and a random-digit-dial telephone survey of urban adults ( N = 2,265)—we analyze how cognitive (algorithmic awareness and knowledge) and behavioral (strategic actions to navigate algorithmic systems) dimensions of algorithmic literacy relate to perceived misinformation exposure, misinformation sharing, objective and subjective news knowledge, and knowledge miscalibration. Across both studies, a consistent pattern emerges: algorithmic literacy is more strongly associated with cognitive outcomes—especially perceived misinformation exposure and knowledge—than with behavioral outcomes like sharing. Higher algorithmic awareness consistently predicts greater perceived exposure, suggesting heightened recognition, while its link to sharing behavior is less consistent. These studies highlight the relevance of distinguishing cognitive from behavioral dimensions of literacy across different stages of misinformation engagement.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "And",
+    "Literacy",
+    "Misinformation",
+    "Algorithmic",
+    "Studies",
+    "Cognitive"
+  ],
+  "inferred_keywords_zh": [
+    "And",
+    "Literacy",
+    "Misinformation",
+    "Algorithmic",
+    "Studies",
+    "Cognitive"
+  ],
+  "plain_summary_en": "This paper studies Unpacking the Relationship Between Algorithmic Literacy and Misinformation: A Multidimensional Approach Using Two Sequential Studies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, Literacy, Misinformation, Algorithmic. The abstract suggests a survey, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Unpacking the Relationship Between Algorithmic Literacy and Misinformation: A Multidimensional Approach Using Two Sequential Studies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, Literacy, Misinformation, Algorithmic. The abstract suggests a survey, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around And, Literacy, Misinformation, Algorithmic, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around And, Literacy, Misinformation, Algorithmic, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "survey",
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "survey",
+    "computational analysis"
+  ]
+}

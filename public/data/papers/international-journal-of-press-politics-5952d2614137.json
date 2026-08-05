@@ -1,0 +1,50 @@
+{
+  "id": "international-journal-of-press-politics-5952d2614137",
+  "doi": "10.1177/19401612261468863",
+  "url": "https://doi.org/10.1177/19401612261468863",
+  "journalName": "International Journal of Press/Politics",
+  "journalSlug": "international-journal-of-press-politics",
+  "issn": "1940-1612",
+  "publishedAt": "2026-08-04T00:00:00.000Z",
+  "authors": [
+    "Lukas Erhard"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-08-05T22:50:34.760Z",
+  "language": "en",
+  "raw_title": "Anti-Elitism Gets the Views: Populist Communication and Popularity on German Political YouTube",
+  "raw_abstract": "YouTube has become a central venue for political communication, but systematic evidence of how parties employ the platform remains limited. This article examines how German political parties use YouTube and how populist rhetoric shapes engagement. We distinguish between anti-elitism and people-centrism and analyze their prevalence in party videos alongside their effects on video performance. We compile a dataset of official YouTube channels from all major German parties (2017–2025), apply automated transcription, and use a transformer-based model (PopBERT) to detect populist language. Video performance is assessed primarily through views, modeled with quantile regression and hurdle approaches to capture the likelihood of videos reaching the top tier and conditional effects among successful content. Our results show that the Alternative for Germany (AfD) far surpasses other parties in subscribers, video production, and engagement. Content analysis reveals that AfD channels contain markedly higher levels of anti-elitist rhetoric, while people-centrism appears more evenly distributed across the party spectrum. Quantile regression models show that anti-elitism is positively associated with engagement in the upper tail of the view distribution for all parties except the Free Democratic Party (FDP). Hurdle models further indicate that anti-elitism is associated with a higher probability of entering the top performance tier not only for the AfD but also for the Christian Democratic Union / Christian Social Union (CDU/CSU), Left, and the Social Democratic Party (SPD). Results for people-centrism are weaker and less consistent. The study contributes to research on digital populism by showing that anti-elitist rhetoric, more than people-centrism, is associated with video success on YouTube across populist and nonpopulist parties.",
+  "raw_keywords": [],
+  "title_en": "Anti-Elitism Gets the Views: Populist Communication and Popularity on German Political YouTube",
+  "title_zh": "Anti-Elitism Gets the Views: Populist Communication and Popularity on German Political YouTube",
+  "abstract_en": "YouTube has become a central venue for political communication, but systematic evidence of how parties employ the platform remains limited. This article examines how German political parties use YouTube and how populist rhetoric shapes engagement. We distinguish between anti-elitism and people-centrism and analyze their prevalence in party videos alongside their effects on video performance. We compile a dataset of official YouTube channels from all major German parties (2017–2025), apply automated transcription, and use a transformer-based model (PopBERT) to detect populist language. Video performance is assessed primarily through views, modeled with quantile regression and hurdle approaches to capture the likelihood of videos reaching the top tier and conditional effects among successful content. Our results show that the Alternative for Germany (AfD) far surpasses other parties in subscribers, video production, and engagement. Content analysis reveals that AfD channels contain markedly higher levels of anti-elitist rhetoric, while people-centrism appears more evenly distributed across the party spectrum. Quantile regression models show that anti-elitism is positively associated with engagement in the upper tail of the view distribution for all parties except the Free Democratic Party (FDP). Hurdle models further indicate that anti-elitism is associated with a higher probability of entering the top performance tier not only for the AfD but also for the Christian Democratic Union / Christian Social Union (CDU/CSU), Left, and the Social Democratic Party (SPD). Results for people-centrism are weaker and less consistent. The study contributes to research on digital populism by showing that anti-elitist rhetoric, more than people-centrism, is associated with video success on YouTube across populist and nonpopulist parties.",
+  "abstract_zh": "YouTube has become a central venue for political communication, but systematic evidence of how parties employ the platform remains limited. This article examines how German political parties use YouTube and how populist rhetoric shapes engagement. We distinguish between anti-elitism and people-centrism and analyze their prevalence in party videos alongside their effects on video performance. We compile a dataset of official YouTube channels from all major German parties (2017–2025), apply automated transcription, and use a transformer-based model (PopBERT) to detect populist language. Video performance is assessed primarily through views, modeled with quantile regression and hurdle approaches to capture the likelihood of videos reaching the top tier and conditional effects among successful content. Our results show that the Alternative for Germany (AfD) far surpasses other parties in subscribers, video production, and engagement. Content analysis reveals that AfD channels contain markedly higher levels of anti-elitist rhetoric, while people-centrism appears more evenly distributed across the party spectrum. Quantile regression models show that anti-elitism is positively associated with engagement in the upper tail of the view distribution for all parties except the Free Democratic Party (FDP). Hurdle models further indicate that anti-elitism is associated with a higher probability of entering the top performance tier not only for the AfD but also for the Christian Democratic Union / Christian Social Union (CDU/CSU), Left, and the Social Democratic Party (SPD). Results for people-centrism are weaker and less consistent. The study contributes to research on digital populism by showing that anti-elitist rhetoric, more than people-centrism, is associated with video success on YouTube across populist and nonpopulist parties.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "The",
+    "And",
+    "Anti",
+    "For",
+    "Parties",
+    "Youtube"
+  ],
+  "inferred_keywords_zh": [
+    "The",
+    "And",
+    "Anti",
+    "For",
+    "Parties",
+    "Youtube"
+  ],
+  "plain_summary_en": "This paper studies Anti-Elitism Gets the Views: Populist Communication and Popularity on German Political YouTube. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Anti, For. The abstract suggests a content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Anti-Elitism Gets the Views: Populist Communication and Popularity on German Political YouTube. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, And, Anti, For. The abstract suggests a content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around The, And, Anti, For, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around The, And, Anti, For, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "content analysis"
+  ],
+  "method_tags_en": [
+    "content analysis"
+  ]
+}
