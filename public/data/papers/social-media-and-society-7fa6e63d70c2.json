@@ -1,0 +1,52 @@
+{
+  "id": "social-media-and-society-7fa6e63d70c2",
+  "doi": "10.1177/20563051261472313",
+  "url": "https://doi.org/10.1177/20563051261472313",
+  "journalName": "Social Media + Society",
+  "journalSlug": "social-media-and-society",
+  "issn": "2056-3051",
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "authors": [
+    "Cristopher Cepernich",
+    "Alice Fubini",
+    "Antonio Martella"
+  ],
+  "source": "crossref",
+  "fetchedAt": "2026-08-10T22:28:05.180Z",
+  "language": "en",
+  "raw_title": "Make Campaigns Dance Again: The Trumpdance and the Memeaesthetic Logic of TikTok",
+  "raw_abstract": "TikTok’s mimesis-oriented affordances invite users to ‘perform’ politics through embodied, replicable templates. This article examines the Trumpdance – Donald Trump’s recurrent YMCA dance at campaign rallies – as a case of how offline events become a platform-native trend. Using the TikTok Research API, we collected 6799 Trumpdance-related videos posted during the final month of the 2024 U.S. presidential campaign. We extracted a stratified sample of the top 20% most-viewed videos per day and content-analyzed 1130 posts. Through Multiple Correspondence Analysis and hierarchical clustering, we identified six participation modes and modeled views and comments with negative binomial regression. Findings show that TikTok visibility concentrates on event-based remediation: clips of Trump dancing at rallies generate the highest expected views and comments, while supporter reenactments and playful appropriations circulate more narrowly. Discursive reframing and satirical remediation attract comparatively fewer views but can elicit intensive commenting, underscoring a split between algorithmic visibility and conversational engagement. We argue that ‘imitation publics’ support meaning-making and production but do not automatically translate into algorithmic visibility. Overall, the Trumpdance exemplifies what we label memeaesthetic: a communicative logic in which political performance becomes a shared aesthetic template for production and participation on TikTok.",
+  "raw_keywords": [],
+  "title_en": "Make Campaigns Dance Again: The Trumpdance and the Memeaesthetic Logic of TikTok",
+  "title_zh": "Make Campaigns Dance Again: The Trumpdance and the Memeaesthetic Logic of TikTok",
+  "abstract_en": "TikTok’s mimesis-oriented affordances invite users to ‘perform’ politics through embodied, replicable templates. This article examines the Trumpdance – Donald Trump’s recurrent YMCA dance at campaign rallies – as a case of how offline events become a platform-native trend. Using the TikTok Research API, we collected 6799 Trumpdance-related videos posted during the final month of the 2024 U.S. presidential campaign. We extracted a stratified sample of the top 20% most-viewed videos per day and content-analyzed 1130 posts. Through Multiple Correspondence Analysis and hierarchical clustering, we identified six participation modes and modeled views and comments with negative binomial regression. Findings show that TikTok visibility concentrates on event-based remediation: clips of Trump dancing at rallies generate the highest expected views and comments, while supporter reenactments and playful appropriations circulate more narrowly. Discursive reframing and satirical remediation attract comparatively fewer views but can elicit intensive commenting, underscoring a split between algorithmic visibility and conversational engagement. We argue that ‘imitation publics’ support meaning-making and production but do not automatically translate into algorithmic visibility. Overall, the Trumpdance exemplifies what we label memeaesthetic: a communicative logic in which political performance becomes a shared aesthetic template for production and participation on TikTok.",
+  "abstract_zh": "TikTok’s mimesis-oriented affordances invite users to ‘perform’ politics through embodied, replicable templates. This article examines the Trumpdance – Donald Trump’s recurrent YMCA dance at campaign rallies – as a case of how offline events become a platform-native trend. Using the TikTok Research API, we collected 6799 Trumpdance-related videos posted during the final month of the 2024 U.S. presidential campaign. We extracted a stratified sample of the top 20% most-viewed videos per day and content-analyzed 1130 posts. Through Multiple Correspondence Analysis and hierarchical clustering, we identified six participation modes and modeled views and comments with negative binomial regression. Findings show that TikTok visibility concentrates on event-based remediation: clips of Trump dancing at rallies generate the highest expected views and comments, while supporter reenactments and playful appropriations circulate more narrowly. Discursive reframing and satirical remediation attract comparatively fewer views but can elicit intensive commenting, underscoring a split between algorithmic visibility and conversational engagement. We argue that ‘imitation publics’ support meaning-making and production but do not automatically translate into algorithmic visibility. Overall, the Trumpdance exemplifies what we label memeaesthetic: a communicative logic in which political performance becomes a shared aesthetic template for production and participation on TikTok.",
+  "keywords_en": [],
+  "keywords_zh": [],
+  "inferred_keywords_en": [
+    "And",
+    "The",
+    "Tiktok",
+    "Trumpdance",
+    "Views",
+    "Visibility"
+  ],
+  "inferred_keywords_zh": [
+    "And",
+    "The",
+    "Tiktok",
+    "Trumpdance",
+    "Views",
+    "Visibility"
+  ],
+  "plain_summary_en": "This paper studies Make Campaigns Dance Again: The Trumpdance and the Memeaesthetic Logic of TikTok. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, The, Tiktok, Trumpdance. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Make Campaigns Dance Again: The Trumpdance and the Memeaesthetic Logic of TikTok. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is And, The, Tiktok, Trumpdance. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around And, The, Tiktok, Trumpdance, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around And, The, Tiktok, Trumpdance, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "computational analysis"
+  ]
+}
