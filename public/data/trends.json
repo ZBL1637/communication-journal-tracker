@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T22:28:11.141Z",
+  "generatedAt": "2026-08-11T22:33:28.600Z",
   "snapshots": [
     {
       "key": "7d",
@@ -242,9 +242,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 203,
-      "overview_en": "Across 203 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 203 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 204,
+      "overview_en": "Across 204 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 204 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -268,7 +268,7 @@
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 49
+          "count": 50
         },
         {
           "label_en": "Social media",
@@ -335,7 +335,7 @@
         {
           "label_en": "interview",
           "label_zh": "interview",
-          "count": 21
+          "count": 22
         },
         {
           "label_en": "experiment",
@@ -485,7 +485,7 @@
     {
       "journalName": "Social Media + Society",
       "journalSlug": "social-media-and-society",
-      "paperCount": 39,
+      "paperCount": 40,
       "topic_bias_en": [
         "And",
         "The",
@@ -500,15 +500,15 @@
       ],
       "method_bias_en": [
         "computational analysis",
+        "interview",
         "survey",
-        "experiment",
-        "interview"
+        "experiment"
       ],
       "method_bias_zh": [
         "computational analysis",
+        "interview",
         "survey",
-        "experiment",
-        "interview"
+        "experiment"
       ]
     },
     {
@@ -608,7 +608,7 @@
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 49
+      "count": 50
     },
     {
       "label_en": "Social media",
@@ -685,7 +685,7 @@
     {
       "label_en": "interview",
       "label_zh": "interview",
-      "count": 21
+      "count": 22
     },
     {
       "label_en": "experiment",
