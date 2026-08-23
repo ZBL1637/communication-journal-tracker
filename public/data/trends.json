@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22T22:13:22.051Z",
+  "generatedAt": "2026-08-23T22:13:21.936Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 12,
-      "overview_en": "Across 12 papers, the most visible themes are And, The, Digital. Researchers most often rely on mixed methods, discourse analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 12 papers, the most visible themes are And, The, Digital. Researchers most often rely on mixed methods, discourse analysis to explain what these changes mean for communication.",
+      "paperCount": 11,
+      "overview_en": "Across 11 papers, the most visible themes are And, The, Digital. Researchers most often rely on mixed methods, discourse analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 11 papers, the most visible themes are And, The, Digital. Researchers most often rely on mixed methods, discourse analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -26,12 +26,12 @@
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 11
+          "count": 10
         },
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 11
+          "count": 10
         },
         {
           "label_en": "Digital",
@@ -41,7 +41,7 @@
         {
           "label_en": "Governance",
           "label_zh": "Governance",
-          "count": 4
+          "count": 3
         },
         {
           "label_en": "Futures",
@@ -49,18 +49,8 @@
           "count": 2
         },
         {
-          "label_en": "Narratives",
-          "label_zh": "Narratives",
-          "count": 2
-        },
-        {
           "label_en": "Framing",
           "label_zh": "Framing",
-          "count": 2
-        },
-        {
-          "label_en": "Policy",
-          "label_zh": "Policy",
           "count": 2
         },
         {
@@ -72,13 +62,23 @@
           "label_en": "Society",
           "label_zh": "Society",
           "count": 1
+        },
+        {
+          "label_en": "Platforms",
+          "label_zh": "Platforms",
+          "count": 1
+        },
+        {
+          "label_en": "How",
+          "label_zh": "How",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "discourse analysis",
