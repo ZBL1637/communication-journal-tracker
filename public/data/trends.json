@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T22:17:11.271Z",
+  "generatedAt": "2026-08-25T22:17:54.137Z",
   "snapshots": [
     {
       "key": "7d",
@@ -116,9 +116,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 23,
-      "overview_en": "Across 23 papers, the most visible themes are And, The, Digital. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 23 papers, the most visible themes are And, The, Digital. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 22,
+      "overview_en": "Across 22 papers, the most visible themes are And, The, Digital. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 22 papers, the most visible themes are And, The, Digital. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -197,11 +197,6 @@
           "count": 3
         },
         {
-          "label_en": "experiment",
-          "label_zh": "experiment",
-          "count": 3
-        },
-        {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
           "count": 2
@@ -214,6 +209,11 @@
         {
           "label_en": "content analysis",
           "label_zh": "content analysis",
+          "count": 2
+        },
+        {
+          "label_en": "experiment",
+          "label_zh": "experiment",
           "count": 2
         },
         {
