@@ -1,0 +1,71 @@
+{
+  "id": "political-communication-c100d366d441",
+  "doi": "10.1080/10584609.2026.2701201",
+  "url": "https://doi.org/10.1080/10584609.2026.2701201",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-08-13T01:35:21.000Z",
+  "authors": [
+    "Hanzhang Liu",
+    "Linan Yao",
+    "Florida State",
+    "Tallahassee",
+    "USAb",
+    "Vanderbilt",
+    "Nashville"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-08-27T02:28:11.412Z",
+  "language": "en",
+  "raw_title": "Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China",
+  "raw_abstract": "For authoritarian propaganda to change hearts and minds, it must first reach the masses and capture their attention. In an era of media proliferation, what can an authoritarian regime do to make ordinary citizens consume pro-regime propaganda voluntarily? How can it lower citizens’ resistance to being indoctrinated? In this article, we answer these questions by studying a new generation of propaganda movies in contemporary China. Leveraging observational data and a pre-registered survey experiment, we find that entertainment elements in propaganda movies – both personality-based and narrative-based – play a key role in appealing to viewers and increasing consumption; this effect is especially pronounced among groups that are the least inclined to expose themselves to propaganda in the first place. Also, viewers are more receptive to political indoctrination when it is interwoven with entertainment, even when they recognize such content. Combined, these findings highlight the importance of entertainment in authoritarian propaganda: not only does it serve as a vehicle to disseminate political indoctrination, but it also functions as a source of appeal that renders such indoctrination more palatable to the masses.",
+  "raw_keywords": [
+    "Authoritarianism",
+    "Entertainment",
+    "Indoctrination",
+    "Politics",
+    "Censorship",
+    "Appeal",
+    "Disinformation",
+    "Consumption (sociology)"
+  ],
+  "title_en": "Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China",
+  "title_zh": "Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China",
+  "abstract_en": "For authoritarian propaganda to change hearts and minds, it must first reach the masses and capture their attention. In an era of media proliferation, what can an authoritarian regime do to make ordinary citizens consume pro-regime propaganda voluntarily? How can it lower citizens’ resistance to being indoctrinated? In this article, we answer these questions by studying a new generation of propaganda movies in contemporary China. Leveraging observational data and a pre-registered survey experiment, we find that entertainment elements in propaganda movies – both personality-based and narrative-based – play a key role in appealing to viewers and increasing consumption; this effect is especially pronounced among groups that are the least inclined to expose themselves to propaganda in the first place. Also, viewers are more receptive to political indoctrination when it is interwoven with entertainment, even when they recognize such content. Combined, these findings highlight the importance of entertainment in authoritarian propaganda: not only does it serve as a vehicle to disseminate political indoctrination, but it also functions as a source of appeal that renders such indoctrination more palatable to the masses.",
+  "abstract_zh": "For authoritarian propaganda to change hearts and minds, it must first reach the masses and capture their attention. In an era of media proliferation, what can an authoritarian regime do to make ordinary citizens consume pro-regime propaganda voluntarily? How can it lower citizens’ resistance to being indoctrinated? In this article, we answer these questions by studying a new generation of propaganda movies in contemporary China. Leveraging observational data and a pre-registered survey experiment, we find that entertainment elements in propaganda movies – both personality-based and narrative-based – play a key role in appealing to viewers and increasing consumption; this effect is especially pronounced among groups that are the least inclined to expose themselves to propaganda in the first place. Also, viewers are more receptive to political indoctrination when it is interwoven with entertainment, even when they recognize such content. Combined, these findings highlight the importance of entertainment in authoritarian propaganda: not only does it serve as a vehicle to disseminate political indoctrination, but it also functions as a source of appeal that renders such indoctrination more palatable to the masses.",
+  "keywords_en": [
+    "Authoritarianism",
+    "Entertainment",
+    "Indoctrination",
+    "Politics",
+    "Censorship",
+    "Appeal",
+    "Disinformation",
+    "Consumption (sociology)"
+  ],
+  "keywords_zh": [
+    "Authoritarianism",
+    "Entertainment",
+    "Indoctrination",
+    "Politics",
+    "Censorship",
+    "Appeal",
+    "Disinformation",
+    "Consumption (sociology)"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Authoritarianism, Entertainment, Indoctrination, Politics. The abstract suggests a survey, experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Authoritarianism, Entertainment, Indoctrination, Politics. The abstract suggests a survey, experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Authoritarianism, Entertainment, Indoctrination, Politics, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Authoritarianism, Entertainment, Indoctrination, Politics, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "survey",
+    "experiment"
+  ],
+  "method_tags_en": [
+    "survey",
+    "experiment"
+  ]
+}

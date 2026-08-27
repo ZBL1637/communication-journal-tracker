@@ -1,0 +1,64 @@
+{
+  "id": "political-communication-e562abb3edc7",
+  "doi": "10.1080/10584609.2026.2714818",
+  "url": "https://doi.org/10.1080/10584609.2026.2714818",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-08-13T03:18:38.000Z",
+  "authors": [
+    "Antonio Amuza",
+    "Vasile Dîncu",
+    "Bucharest",
+    "Romaniab",
+    "RomaniaAntonio Amuza",
+    "is an",
+    "Assistant Lecturer",
+    "at the"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-08-27T02:28:06.840Z",
+  "language": "en",
+  "raw_title": "Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections",
+  "raw_abstract": "On 6 December 2024, Romania’s Constitutional Court annulled the first round of presidential elections, triggering an exceptional crisis of democratic legitimacy in post-communist Europe. While procedurally justified, the decision sparked intense public reactions, both emotional and political. The findings confirm that populist interpretations of institutional actions proliferate in fragmented and emotionalized digital media environments, where distrust is personalized and intensified. Drawing on a nationally representative survey (N = 964), conducted by IRES shortly after the annulment, the study examines how Romanian citizens perceived the legitimacy of the Court’s decision and identifies the key socio-political and media-related factors shaping these perceptions. Binary logistic regression and mediation models were used to assess the drivers of perceived illegitimacy. TikTok use, negative emotions (anger, disappointment, resentment), political distrust, and anti-establishment party support significantly increase the likelihood of viewing the decision as illegitimate, whereas trust in journalists reduces it. The study contributes to the literature on populism as a communicative style and emotional register, showing how legitimacy itself becomes a contested symbol in digital environments marked by personalization, fragmentation, and affective intensification. We argue that institutional legitimacy is no longer grounded solely in procedural legality but is increasingly shaped by emotionally resonant narratives circulating through digital platforms. We complement the survey with a headline-level media analysis (N = 3,923; Dec 2024 - Aug 2025), to serve as a contextual counterfactual: instead of escalating antagonism, mainstream media gradually stabilize institutional language. A keyness comparison shows that the Early window (first 14 days) is driven by institutional/legal terms (CCR, decision, annulment), while the Late window becomes actor-centric (Simion, Antonescu, Ponta, Bolojan). Over time, lexical entropy declines markedly, signaling a standardization of vocabulary around procedural frames rather than escalating antagonism. Taken together, the results point to a decoupling between media normalization and individual affect, suggesting that democratic legitimacy in platformized communication environments is increasingly produced through affective legitimacy rather than procedural authority.",
+  "raw_keywords": [
+    "Presidential system",
+    "Legitimacy",
+    "Affect (linguistics)",
+    "Public opinion",
+    "Political psychology",
+    "Presidential election"
+  ],
+  "title_en": "Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections",
+  "title_zh": "Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections",
+  "abstract_en": "On 6 December 2024, Romania’s Constitutional Court annulled the first round of presidential elections, triggering an exceptional crisis of democratic legitimacy in post-communist Europe. While procedurally justified, the decision sparked intense public reactions, both emotional and political. The findings confirm that populist interpretations of institutional actions proliferate in fragmented and emotionalized digital media environments, where distrust is personalized and intensified. Drawing on a nationally representative survey (N = 964), conducted by IRES shortly after the annulment, the study examines how Romanian citizens perceived the legitimacy of the Court’s decision and identifies the key socio-political and media-related factors shaping these perceptions. Binary logistic regression and mediation models were used to assess the drivers of perceived illegitimacy. TikTok use, negative emotions (anger, disappointment, resentment), political distrust, and anti-establishment party support significantly increase the likelihood of viewing the decision as illegitimate, whereas trust in journalists reduces it. The study contributes to the literature on populism as a communicative style and emotional register, showing how legitimacy itself becomes a contested symbol in digital environments marked by personalization, fragmentation, and affective intensification. We argue that institutional legitimacy is no longer grounded solely in procedural legality but is increasingly shaped by emotionally resonant narratives circulating through digital platforms. We complement the survey with a headline-level media analysis (N = 3,923; Dec 2024 - Aug 2025), to serve as a contextual counterfactual: instead of escalating antagonism, mainstream media gradually stabilize institutional language. A keyness comparison shows that the Early window (first 14 days) is driven by institutional/legal terms (CCR, decision, annulment), while the Late window becomes actor-centric (Simion, Antonescu, Ponta, Bolojan). Over time, lexical entropy declines markedly, signaling a standardization of vocabulary around procedural frames rather than escalating antagonism. Taken together, the results point to a decoupling between media normalization and individual affect, suggesting that democratic legitimacy in platformized communication environments is increasingly produced through affective legitimacy rather than procedural authority.",
+  "abstract_zh": "On 6 December 2024, Romania’s Constitutional Court annulled the first round of presidential elections, triggering an exceptional crisis of democratic legitimacy in post-communist Europe. While procedurally justified, the decision sparked intense public reactions, both emotional and political. The findings confirm that populist interpretations of institutional actions proliferate in fragmented and emotionalized digital media environments, where distrust is personalized and intensified. Drawing on a nationally representative survey (N = 964), conducted by IRES shortly after the annulment, the study examines how Romanian citizens perceived the legitimacy of the Court’s decision and identifies the key socio-political and media-related factors shaping these perceptions. Binary logistic regression and mediation models were used to assess the drivers of perceived illegitimacy. TikTok use, negative emotions (anger, disappointment, resentment), political distrust, and anti-establishment party support significantly increase the likelihood of viewing the decision as illegitimate, whereas trust in journalists reduces it. The study contributes to the literature on populism as a communicative style and emotional register, showing how legitimacy itself becomes a contested symbol in digital environments marked by personalization, fragmentation, and affective intensification. We argue that institutional legitimacy is no longer grounded solely in procedural legality but is increasingly shaped by emotionally resonant narratives circulating through digital platforms. We complement the survey with a headline-level media analysis (N = 3,923; Dec 2024 - Aug 2025), to serve as a contextual counterfactual: instead of escalating antagonism, mainstream media gradually stabilize institutional language. A keyness comparison shows that the Early window (first 14 days) is driven by institutional/legal terms (CCR, decision, annulment), while the Late window becomes actor-centric (Simion, Antonescu, Ponta, Bolojan). Over time, lexical entropy declines markedly, signaling a standardization of vocabulary around procedural frames rather than escalating antagonism. Taken together, the results point to a decoupling between media normalization and individual affect, suggesting that democratic legitimacy in platformized communication environments is increasingly produced through affective legitimacy rather than procedural authority.",
+  "keywords_en": [
+    "Presidential system",
+    "Legitimacy",
+    "Affect (linguistics)",
+    "Public opinion",
+    "Political psychology",
+    "Presidential election"
+  ],
+  "keywords_zh": [
+    "Presidential system",
+    "Legitimacy",
+    "Affect (linguistics)",
+    "Public opinion",
+    "Political psychology",
+    "Presidential election"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Presidential system, Legitimacy, Affect (linguistics), Public opinion. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Presidential system, Legitimacy, Affect (linguistics), Public opinion. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Presidential system, Legitimacy, Affect (linguistics), Public opinion, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Presidential system, Legitimacy, Affect (linguistics), Public opinion, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "survey"
+  ],
+  "method_tags_en": [
+    "survey"
+  ]
+}

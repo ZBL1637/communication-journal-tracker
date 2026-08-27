@@ -1,0 +1,66 @@
+{
+  "id": "digital-journalism-6005cc9064f1",
+  "doi": "10.1080/21670811.2026.2703607",
+  "url": "https://doi.org/10.1080/21670811.2026.2703607",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-08-20T06:45:10.000Z",
+  "authors": [
+    "Anton Elias Holt",
+    "DATALAB –",
+    "Aarhus",
+    "Denmark"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-08-27T02:28:18.364Z",
+  "language": "en",
+  "raw_title": "What Facebook Users Flag as False News: A Mixed-Methods Investigation of User-Reported Links",
+  "raw_abstract": "In January 2025 Meta announced the discontinuation of professional fact-checking on Facebook in the US, replacing fact-checkers with a Community Notes system, while simultaneously placing larger emphasis on user-reports for moderation. As earlier research has shown how user-reporting systems can be used strategically to silence opposing political views and minority voices, this raises new questions about how content on Facebook will change as a result of the decision. With a focus specifically on links rather than posts, this article speaks to the ongoing debate on user-driven moderation and Facebook’s 2025 policy change from a distinctive angle. Applying a mixed methods design, the article investigates links that have been reported as “False News” by users, providing a unique insight into an often opaque aspect of platform moderation. To guide the analysis, the article focuses on two critical cases: The 2018 election in Brazil, and links from the BBC.com domain. Results show that users generally report URLs with information about polarized political topics, indicating that users are not necessarily reporting content they think is false, but rather content they disagree with.",
+  "raw_keywords": [
+    "Silence",
+    "Politics",
+    "Moderation",
+    "Focus (optics)",
+    "Content (measure theory)",
+    "The Internet",
+    "Content analysis",
+    "Social media"
+  ],
+  "title_en": "What Facebook Users Flag as False News: A Mixed-Methods Investigation of User-Reported Links",
+  "title_zh": "What Facebook Users Flag as False News: A Mixed-Methods Investigation of User-Reported Links",
+  "abstract_en": "In January 2025 Meta announced the discontinuation of professional fact-checking on Facebook in the US, replacing fact-checkers with a Community Notes system, while simultaneously placing larger emphasis on user-reports for moderation. As earlier research has shown how user-reporting systems can be used strategically to silence opposing political views and minority voices, this raises new questions about how content on Facebook will change as a result of the decision. With a focus specifically on links rather than posts, this article speaks to the ongoing debate on user-driven moderation and Facebook’s 2025 policy change from a distinctive angle. Applying a mixed methods design, the article investigates links that have been reported as “False News” by users, providing a unique insight into an often opaque aspect of platform moderation. To guide the analysis, the article focuses on two critical cases: The 2018 election in Brazil, and links from the BBC.com domain. Results show that users generally report URLs with information about polarized political topics, indicating that users are not necessarily reporting content they think is false, but rather content they disagree with.",
+  "abstract_zh": "In January 2025 Meta announced the discontinuation of professional fact-checking on Facebook in the US, replacing fact-checkers with a Community Notes system, while simultaneously placing larger emphasis on user-reports for moderation. As earlier research has shown how user-reporting systems can be used strategically to silence opposing political views and minority voices, this raises new questions about how content on Facebook will change as a result of the decision. With a focus specifically on links rather than posts, this article speaks to the ongoing debate on user-driven moderation and Facebook’s 2025 policy change from a distinctive angle. Applying a mixed methods design, the article investigates links that have been reported as “False News” by users, providing a unique insight into an often opaque aspect of platform moderation. To guide the analysis, the article focuses on two critical cases: The 2018 election in Brazil, and links from the BBC.com domain. Results show that users generally report URLs with information about polarized political topics, indicating that users are not necessarily reporting content they think is false, but rather content they disagree with.",
+  "keywords_en": [
+    "Silence",
+    "Politics",
+    "Moderation",
+    "Focus (optics)",
+    "Content (measure theory)",
+    "The Internet",
+    "Content analysis",
+    "Social media"
+  ],
+  "keywords_zh": [
+    "Silence",
+    "Politics",
+    "Moderation",
+    "Focus (optics)",
+    "Content (measure theory)",
+    "The Internet",
+    "Content analysis",
+    "Social media"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies What Facebook Users Flag as False News: A Mixed-Methods Investigation of User-Reported Links. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Silence, Politics, Moderation, Focus (optics). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies What Facebook Users Flag as False News: A Mixed-Methods Investigation of User-Reported Links. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Silence, Politics, Moderation, Focus (optics). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Silence, Politics, Moderation, Focus (optics), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Silence, Politics, Moderation, Focus (optics), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "mixed methods"
+  ],
+  "method_tags_en": [
+    "mixed methods"
+  ]
+}

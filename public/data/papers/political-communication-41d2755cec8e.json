@@ -1,0 +1,73 @@
+{
+  "id": "political-communication-41d2755cec8e",
+  "doi": "10.1080/10584609.2026.2716761",
+  "url": "https://doi.org/10.1080/10584609.2026.2716761",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-08-21T12:36:01.000Z",
+  "authors": [
+    "Je Hoon Chae",
+    "Tim Groeling",
+    "Hyunjin Song",
+    "Hyunjin (Jin) Song",
+    "Je Hoon Chae Tim Groeling Hyunjin (Jin) Song",
+    "Los Angeles",
+    "California",
+    "USAb",
+    "USAc",
+    "Yonsei",
+    "Seoul",
+    "South KoreaJe Hoon Chae (M.A.",
+    "San Diego) is a Professor at the",
+    "The Ohio State"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-08-27T02:28:15.246Z",
+  "language": "en",
+  "raw_title": "Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders",
+  "raw_abstract": "Prior evidence suggests that fact-checking can update beliefs regarding factually incorrect information in the short term but its effects often decay rapidly. Such decay raises normative concerns about its sustainability and real-world impact. Here, we examine whether a cognitively efficient, low-cost intervention – called an “accuracy reminder” – can enhance the durability of fact-checking effects. In a large-scale pre-registered panel longitudinal experiment (N = 7,188), participants were randomly assigned to receive fact-checks and, under some conditions, follow-up prompts to reevaluate the same claim at interval-optimized time points. Across topical domains and partisan identities, reminder conditions produced durable belief correction effects lasting up to four weeks, more than doubling the persistence observed without reminders. Effects were robust across reminder frequency and timing, as well as against individual differences, suggesting implementation flexibility and theoretical generalizability. These findings identify retrieval-based reinforcement as a scalable means of sustaining factual belief correction and reinforcing shared factual baselines in spite of cognitive decay and partisan resistance.",
+  "raw_keywords": [
+    "Normative",
+    "Flexibility (engineering)",
+    "Cognition",
+    "Intervention (counseling)",
+    "Term (time)",
+    "Reinforcement",
+    "Durability"
+  ],
+  "title_en": "Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders",
+  "title_zh": "Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders",
+  "abstract_en": "Prior evidence suggests that fact-checking can update beliefs regarding factually incorrect information in the short term but its effects often decay rapidly. Such decay raises normative concerns about its sustainability and real-world impact. Here, we examine whether a cognitively efficient, low-cost intervention – called an “accuracy reminder” – can enhance the durability of fact-checking effects. In a large-scale pre-registered panel longitudinal experiment (N = 7,188), participants were randomly assigned to receive fact-checks and, under some conditions, follow-up prompts to reevaluate the same claim at interval-optimized time points. Across topical domains and partisan identities, reminder conditions produced durable belief correction effects lasting up to four weeks, more than doubling the persistence observed without reminders. Effects were robust across reminder frequency and timing, as well as against individual differences, suggesting implementation flexibility and theoretical generalizability. These findings identify retrieval-based reinforcement as a scalable means of sustaining factual belief correction and reinforcing shared factual baselines in spite of cognitive decay and partisan resistance.",
+  "abstract_zh": "Prior evidence suggests that fact-checking can update beliefs regarding factually incorrect information in the short term but its effects often decay rapidly. Such decay raises normative concerns about its sustainability and real-world impact. Here, we examine whether a cognitively efficient, low-cost intervention – called an “accuracy reminder” – can enhance the durability of fact-checking effects. In a large-scale pre-registered panel longitudinal experiment (N = 7,188), participants were randomly assigned to receive fact-checks and, under some conditions, follow-up prompts to reevaluate the same claim at interval-optimized time points. Across topical domains and partisan identities, reminder conditions produced durable belief correction effects lasting up to four weeks, more than doubling the persistence observed without reminders. Effects were robust across reminder frequency and timing, as well as against individual differences, suggesting implementation flexibility and theoretical generalizability. These findings identify retrieval-based reinforcement as a scalable means of sustaining factual belief correction and reinforcing shared factual baselines in spite of cognitive decay and partisan resistance.",
+  "keywords_en": [
+    "Normative",
+    "Flexibility (engineering)",
+    "Cognition",
+    "Intervention (counseling)",
+    "Term (time)",
+    "Reinforcement",
+    "Durability"
+  ],
+  "keywords_zh": [
+    "Normative",
+    "Flexibility (engineering)",
+    "Cognition",
+    "Intervention (counseling)",
+    "Term (time)",
+    "Reinforcement",
+    "Durability"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Normative, Flexibility (engineering), Cognition, Intervention (counseling). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Normative, Flexibility (engineering), Cognition, Intervention (counseling). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Normative, Flexibility (engineering), Cognition, Intervention (counseling), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Normative, Flexibility (engineering), Cognition, Intervention (counseling), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "experiment"
+  ],
+  "method_tags_en": [
+    "experiment"
+  ]
+}

@@ -456,6 +456,223 @@
     "fetchedAt": "2026-08-22T22:13:21.898Z"
   },
   {
+    "id": "political-communication-41d2755cec8e",
+    "doi": "10.1080/10584609.2026.2716761",
+    "url": "https://doi.org/10.1080/10584609.2026.2716761",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-21T12:36:01.000Z",
+    "authors": [
+      "Je Hoon Chae",
+      "Tim Groeling",
+      "Hyunjin Song",
+      "Hyunjin (Jin) Song",
+      "Je Hoon Chae Tim Groeling Hyunjin (Jin) Song",
+      "Los Angeles",
+      "California",
+      "USAb",
+      "USAc",
+      "Yonsei",
+      "Seoul",
+      "South KoreaJe Hoon Chae (M.A.",
+      "San Diego) is a Professor at the",
+      "The Ohio State"
+    ],
+    "title_en": "Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders",
+    "title_zh": "Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders",
+    "keywords_en": [
+      "Normative",
+      "Flexibility (engineering)",
+      "Cognition",
+      "Intervention (counseling)",
+      "Term (time)",
+      "Reinforcement",
+      "Durability"
+    ],
+    "keywords_zh": [
+      "Normative",
+      "Flexibility (engineering)",
+      "Cognition",
+      "Intervention (counseling)",
+      "Term (time)",
+      "Reinforcement",
+      "Durability"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Normative, Flexibility (engineering), Cognition, Intervention (counseling). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Normative, Flexibility (engineering), Cognition, Intervention (counseling). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Normative, Flexibility (engineering), Cognition, Intervention (counseling), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Normative, Flexibility (engineering), Cognition, Intervention (counseling), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "experiment"
+    ],
+    "method_tags_en": [
+      "experiment"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:15.246Z"
+  },
+  {
+    "id": "political-communication-3ff261e2c4d8",
+    "doi": "10.1080/10584609.2026.2715701",
+    "url": "https://doi.org/10.1080/10584609.2026.2715701",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-21T07:22:49.000Z",
+    "authors": [
+      "Isabella Rebasso",
+      "Yanna Krupnikov",
+      "Austriab"
+    ],
+    "title_en": "Rethinking Assumptions About Moral Content Selection: Moral-Emotional Content May Be Less Appealing Than Assumed",
+    "title_zh": "Rethinking Assumptions About Moral Content Selection: Moral-Emotional Content May Be Less Appealing Than Assumed",
+    "keywords_en": [
+      "Outrage",
+      "Content (measure theory)",
+      "Politics",
+      "Social media",
+      "Motivated reasoning",
+      "Selection (genetic algorithm)",
+      "Political communication",
+      "Work (physics)"
+    ],
+    "keywords_zh": [
+      "Outrage",
+      "Content (measure theory)",
+      "Politics",
+      "Social media",
+      "Motivated reasoning",
+      "Selection (genetic algorithm)",
+      "Political communication",
+      "Work (physics)"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Rethinking Assumptions About Moral Content Selection: Moral-Emotional Content May Be Less Appealing Than Assumed. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Outrage, Content (measure theory), Politics, Social media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Rethinking Assumptions About Moral Content Selection: Moral-Emotional Content May Be Less Appealing Than Assumed. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Outrage, Content (measure theory), Politics, Social media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Outrage, Content (measure theory), Politics, Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Outrage, Content (measure theory), Politics, Social media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:15.009Z"
+  },
+  {
+    "id": "digital-journalism-6005cc9064f1",
+    "doi": "10.1080/21670811.2026.2703607",
+    "url": "https://doi.org/10.1080/21670811.2026.2703607",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-08-20T06:45:10.000Z",
+    "authors": [
+      "Anton Elias Holt",
+      "DATALAB –",
+      "Aarhus",
+      "Denmark"
+    ],
+    "title_en": "What Facebook Users Flag as False News: A Mixed-Methods Investigation of User-Reported Links",
+    "title_zh": "What Facebook Users Flag as False News: A Mixed-Methods Investigation of User-Reported Links",
+    "keywords_en": [
+      "Silence",
+      "Politics",
+      "Moderation",
+      "Focus (optics)",
+      "Content (measure theory)",
+      "The Internet",
+      "Content analysis",
+      "Social media"
+    ],
+    "keywords_zh": [
+      "Silence",
+      "Politics",
+      "Moderation",
+      "Focus (optics)",
+      "Content (measure theory)",
+      "The Internet",
+      "Content analysis",
+      "Social media"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies What Facebook Users Flag as False News: A Mixed-Methods Investigation of User-Reported Links. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Silence, Politics, Moderation, Focus (optics). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies What Facebook Users Flag as False News: A Mixed-Methods Investigation of User-Reported Links. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Silence, Politics, Moderation, Focus (optics). The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Silence, Politics, Moderation, Focus (optics), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Silence, Politics, Moderation, Focus (optics), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:18.364Z"
+  },
+  {
+    "id": "political-communication-5c966d35380a",
+    "doi": "10.1080/10584609.2026.2715698",
+    "url": "https://doi.org/10.1080/10584609.2026.2715698",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-18T10:10:26.000Z",
+    "authors": [
+      "Joshua Darr",
+      "Susan Robinson",
+      "Joshua P. Darr",
+      "Joshua P.",
+      "Darr Susan",
+      "Robinson a",
+      "S.I. Newhouse",
+      "Syracuse",
+      "NY",
+      "USb",
+      "Madison",
+      "Madison. Her"
+    ],
+    "title_en": "Assessing Civic Journalism Training: A Mixed-Method Applied Research Study",
+    "title_zh": "Assessing Civic Journalism Training: A Mixed-Method Applied Research Study",
+    "keywords_en": [
+      "Framing (construction)",
+      "Mainstream",
+      "Journalism",
+      "Counterintuitive",
+      "Focus group",
+      "Technical Journalism"
+    ],
+    "keywords_zh": [
+      "Framing (construction)",
+      "Mainstream",
+      "Journalism",
+      "Counterintuitive",
+      "Focus group",
+      "Technical Journalism"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Assessing Civic Journalism Training: A Mixed-Method Applied Research Study. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Framing (construction), Mainstream, Journalism, Counterintuitive. The abstract suggests a survey, experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Assessing Civic Journalism Training: A Mixed-Method Applied Research Study. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Framing (construction), Mainstream, Journalism, Counterintuitive. The abstract suggests a survey, experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Framing (construction), Mainstream, Journalism, Counterintuitive, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Framing (construction), Mainstream, Journalism, Counterintuitive, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "survey",
+      "experiment"
+    ],
+    "method_tags_en": [
+      "survey",
+      "experiment"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:13.739Z"
+  },
+  {
     "id": "international-journal-of-press-politics-9c9024a9b8a1",
     "doi": "10.1177/19401612261474289",
     "url": "https://doi.org/10.1177/19401612261474289",
@@ -503,6 +720,119 @@
     "fetchedAt": "2026-08-19T22:16:17.384Z"
   },
   {
+    "id": "political-communication-645b5c4786ad",
+    "doi": "10.1080/10584609.2026.2715694",
+    "url": "https://doi.org/10.1080/10584609.2026.2715694",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-17T05:21:13.000Z",
+    "authors": [
+      "Insyirah Mujtahid",
+      "Nurul Huda Rashid",
+      "Kokil Jaidka",
+      "Nurul Huda",
+      "Rashid Kokil Jaidka",
+      "National",
+      "Singaporeb NUS",
+      "Singaporec Leiden",
+      "The NetherlandsInsyirah",
+      "Mujtahid is a",
+      "Nature Human Behaviour, and Journal of Communication."
+    ],
+    "title_en": "Reclaiming Place Through Symbolic Geographies: Visual Resistance on Palestinian Instagram",
+    "title_zh": "Reclaiming Place Through Symbolic Geographies: Visual Resistance on Palestinian Instagram",
+    "keywords_en": [
+      "Resistance (ecology)",
+      "The Symbolic",
+      "Sociology",
+      "Aesthetics",
+      "Visual arts",
+      "Art",
+      "Media studies",
+      "Psychology",
+      "Psychoanalysis"
+    ],
+    "keywords_zh": [
+      "Resistance (ecology)",
+      "The Symbolic",
+      "Sociology",
+      "Aesthetics",
+      "Visual arts",
+      "Art",
+      "Media studies",
+      "Psychology",
+      "Psychoanalysis"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Reclaiming Place Through Symbolic Geographies: Visual Resistance on Palestinian Instagram. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Resistance (ecology), The Symbolic, Sociology, Aesthetics. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Reclaiming Place Through Symbolic Geographies: Visual Resistance on Palestinian Instagram. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Resistance (ecology), The Symbolic, Sociology, Aesthetics. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Resistance (ecology), The Symbolic, Sociology, Aesthetics, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Resistance (ecology), The Symbolic, Sociology, Aesthetics, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:12.917Z"
+  },
+  {
+    "id": "political-communication-8727a916acbc",
+    "doi": "10.1080/10584609.2026.2714816",
+    "url": "https://doi.org/10.1080/10584609.2026.2714816",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-17T05:20:35.000Z",
+    "authors": [
+      "Siyu Liang",
+      "Los Angeles",
+      "California",
+      "USASiyu Liang received her Ph.D. in Political Science from the"
+    ],
+    "title_en": "Enemies Abroad, Animosity at Home: Media Influence on U.S.-China Policy and Anti-Asian Sentiment",
+    "title_zh": "Enemies Abroad, Animosity at Home: Media Influence on U.S.-China Policy and Anti-Asian Sentiment",
+    "keywords_en": [
+      "Public opinion",
+      "China",
+      "Foreign policy",
+      "Content analysis",
+      "News media",
+      "Survey data collection",
+      "Public policy"
+    ],
+    "keywords_zh": [
+      "Public opinion",
+      "China",
+      "Foreign policy",
+      "Content analysis",
+      "News media",
+      "Survey data collection",
+      "Public policy"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Enemies Abroad, Animosity at Home: Media Influence on U.S.-China Policy and Anti-Asian Sentiment. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Public opinion, China, Foreign policy, Content analysis. The abstract suggests a survey, experiment, content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Enemies Abroad, Animosity at Home: Media Influence on U.S.-China Policy and Anti-Asian Sentiment. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Public opinion, China, Foreign policy, Content analysis. The abstract suggests a survey, experiment, content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Public opinion, China, Foreign policy, Content analysis, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Public opinion, China, Foreign policy, Content analysis, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "survey",
+      "experiment",
+      "content analysis"
+    ],
+    "method_tags_en": [
+      "survey",
+      "experiment",
+      "content analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:12.695Z"
+  },
+  {
     "id": "international-journal-of-press-politics-d591e34afcff",
     "doi": "10.1177/19401612261474295",
     "url": "https://doi.org/10.1177/19401612261474295",
@@ -546,6 +876,381 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-08-15T22:12:10.872Z"
+  },
+  {
+    "id": "political-communication-193c8e8a8a63",
+    "doi": "10.1080/10584609.2026.2715697",
+    "url": "https://doi.org/10.1080/10584609.2026.2715697",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-13T06:10:57.000Z",
+    "authors": [
+      "Laura Cervi",
+      "Sarah J. Jackson",
+      "Autonomous",
+      "Barcelona",
+      "Spainb Annenberg",
+      "Pennsylvania",
+      "Inequality, & Change"
+    ],
+    "title_en": "Kamala is Brat: TikTok and the Affective Politics of Memes",
+    "title_zh": "Kamala is Brat: TikTok and the Affective Politics of Memes",
+    "keywords_en": [
+      "Narrative",
+      "Intertextuality",
+      "Politics",
+      "Ambiguity",
+      "Vernacular",
+      "Appeal",
+      "The Symbolic",
+      "Symbolic communication",
+      "Citizen journalism"
+    ],
+    "keywords_zh": [
+      "Narrative",
+      "Intertextuality",
+      "Politics",
+      "Ambiguity",
+      "Vernacular",
+      "Appeal",
+      "The Symbolic",
+      "Symbolic communication",
+      "Citizen journalism"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Kamala is Brat: TikTok and the Affective Politics of Memes. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Narrative, Intertextuality, Politics, Ambiguity. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Kamala is Brat: TikTok and the Affective Politics of Memes. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Narrative, Intertextuality, Politics, Ambiguity. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Narrative, Intertextuality, Politics, Ambiguity, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Narrative, Intertextuality, Politics, Ambiguity, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:10.391Z"
+  },
+  {
+    "id": "political-communication-e562abb3edc7",
+    "doi": "10.1080/10584609.2026.2714818",
+    "url": "https://doi.org/10.1080/10584609.2026.2714818",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-13T03:18:38.000Z",
+    "authors": [
+      "Antonio Amuza",
+      "Vasile Dîncu",
+      "Bucharest",
+      "Romaniab",
+      "RomaniaAntonio Amuza",
+      "is an",
+      "Assistant Lecturer",
+      "at the"
+    ],
+    "title_en": "Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections",
+    "title_zh": "Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections",
+    "keywords_en": [
+      "Presidential system",
+      "Legitimacy",
+      "Affect (linguistics)",
+      "Public opinion",
+      "Political psychology",
+      "Presidential election"
+    ],
+    "keywords_zh": [
+      "Presidential system",
+      "Legitimacy",
+      "Affect (linguistics)",
+      "Public opinion",
+      "Political psychology",
+      "Presidential election"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Presidential system, Legitimacy, Affect (linguistics), Public opinion. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Presidential system, Legitimacy, Affect (linguistics), Public opinion. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Presidential system, Legitimacy, Affect (linguistics), Public opinion, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Presidential system, Legitimacy, Affect (linguistics), Public opinion, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "survey"
+    ],
+    "method_tags_en": [
+      "survey"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:06.840Z"
+  },
+  {
+    "id": "political-communication-c100d366d441",
+    "doi": "10.1080/10584609.2026.2701201",
+    "url": "https://doi.org/10.1080/10584609.2026.2701201",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-13T01:35:21.000Z",
+    "authors": [
+      "Hanzhang Liu",
+      "Linan Yao",
+      "Florida State",
+      "Tallahassee",
+      "USAb",
+      "Vanderbilt",
+      "Nashville"
+    ],
+    "title_en": "Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China",
+    "title_zh": "Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China",
+    "keywords_en": [
+      "Authoritarianism",
+      "Entertainment",
+      "Indoctrination",
+      "Politics",
+      "Censorship",
+      "Appeal",
+      "Disinformation",
+      "Consumption (sociology)"
+    ],
+    "keywords_zh": [
+      "Authoritarianism",
+      "Entertainment",
+      "Indoctrination",
+      "Politics",
+      "Censorship",
+      "Appeal",
+      "Disinformation",
+      "Consumption (sociology)"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Authoritarianism, Entertainment, Indoctrination, Politics. The abstract suggests a survey, experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Authoritarianism, Entertainment, Indoctrination, Politics. The abstract suggests a survey, experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Authoritarianism, Entertainment, Indoctrination, Politics, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Authoritarianism, Entertainment, Indoctrination, Politics, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "survey",
+      "experiment"
+    ],
+    "method_tags_en": [
+      "survey",
+      "experiment"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:11.412Z"
+  },
+  {
+    "id": "political-communication-02fbe3318ee1",
+    "doi": "10.1080/10584609.2026.2715700",
+    "url": "https://doi.org/10.1080/10584609.2026.2715700",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-12T10:36:34.000Z",
+    "authors": [
+      "Elliott Edsall",
+      "Elliott Edsall Hubbard",
+      "Minneapolis",
+      "Minnesota"
+    ],
+    "title_en": "Policing the Political Boundary: How the r/BarstoolSports Audience Confronts Politicization",
+    "title_zh": "Policing the Political Boundary: How the r/BarstoolSports Audience Confronts Politicization",
+    "keywords_en": [
+      "Politics",
+      "Reactionary",
+      "Scholarship",
+      "Criticism",
+      "Public sphere",
+      "Demonstrative",
+      "Relevance (law)",
+      "News media",
+      "Social movement",
+      "Cultural studies"
+    ],
+    "keywords_zh": [
+      "Politics",
+      "Reactionary",
+      "Scholarship",
+      "Criticism",
+      "Public sphere",
+      "Demonstrative",
+      "Relevance (law)",
+      "News media",
+      "Social movement",
+      "Cultural studies"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Policing the Political Boundary: How the r/BarstoolSports Audience Confronts Politicization. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Reactionary, Scholarship, Criticism. The abstract suggests a discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Policing the Political Boundary: How the r/BarstoolSports Audience Confronts Politicization. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Politics, Reactionary, Scholarship, Criticism. The abstract suggests a discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Politics, Reactionary, Scholarship, Criticism, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Politics, Reactionary, Scholarship, Criticism, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "discourse analysis"
+    ],
+    "method_tags_en": [
+      "discourse analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:06.711Z"
+  },
+  {
+    "id": "political-communication-28eb894d4b37",
+    "doi": "10.1080/10584609.2026.2708127",
+    "url": "https://doi.org/10.1080/10584609.2026.2708127",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-11T06:13:34.000Z",
+    "authors": [
+      "Margot Lissens",
+      "Cato Waeterloos",
+      "Laura Vandenbosch",
+      "Desirée Schmuck",
+      "KU Leuven",
+      "Leuven",
+      "Belgiumb",
+      "Vienna",
+      "AustriaMargot Lissens is a PhD candidate at the Media Psychology"
+    ],
+    "title_en": "Trending Topics, Growing Knowledge? How Curating Actors’ Political Social Media Content Affects Youth’s Political Knowledge",
+    "title_zh": "Trending Topics, Growing Knowledge? How Curating Actors’ Political Social Media Content Affects Youth’s Political Knowledge",
+    "keywords_en": [
+      "Influencer marketing",
+      "Politics",
+      "Political communication",
+      "Opinion leadership",
+      "Social media",
+      "Content (measure theory)",
+      "Uses and gratifications theory",
+      "Political socialization"
+    ],
+    "keywords_zh": [
+      "Influencer marketing",
+      "Politics",
+      "Political communication",
+      "Opinion leadership",
+      "Social media",
+      "Content (measure theory)",
+      "Uses and gratifications theory",
+      "Political socialization"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Trending Topics, Growing Knowledge? How Curating Actors’ Political Social Media Content Affects Youth’s Political Knowledge. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Influencer marketing, Politics, Political communication, Opinion leadership. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Trending Topics, Growing Knowledge? How Curating Actors’ Political Social Media Content Affects Youth’s Political Knowledge. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Influencer marketing, Politics, Political communication, Opinion leadership. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Influencer marketing, Politics, Political communication, Opinion leadership, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Influencer marketing, Politics, Political communication, Opinion leadership, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:09.108Z"
+  },
+  {
+    "id": "political-communication-bd5900b8c1e3",
+    "doi": "10.1080/10584609.2026.2716378",
+    "url": "https://doi.org/10.1080/10584609.2026.2716378",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-10T08:13:15.000Z",
+    "authors": [
+      "Marcy Shieh",
+      "Marcy Shieh Politics",
+      "Government, and Law",
+      "Whitewater",
+      "Wisconsin",
+      "USAMarcy Shieh",
+      "is an",
+      "assistant professor",
+      "at the",
+      "Government, and Law at the"
+    ],
+    "title_en": "Examining the Influence of Media Coverage on Information-Seeking of Judicial Candidates",
+    "title_zh": "Examining the Influence of Media Coverage on Information-Seeking of Judicial Candidates",
+    "keywords_en": [
+      "Media coverage",
+      "News media",
+      "Public opinion",
+      "Content analysis",
+      "Political communication"
+    ],
+    "keywords_zh": [
+      "Media coverage",
+      "News media",
+      "Public opinion",
+      "Content analysis",
+      "Political communication"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Examining the Influence of Media Coverage on Information-Seeking of Judicial Candidates. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Media coverage, News media, Public opinion, Content analysis. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Examining the Influence of Media Coverage on Information-Seeking of Judicial Candidates. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Media coverage, News media, Public opinion, Content analysis. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Media coverage, News media, Public opinion, Content analysis, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Media coverage, News media, Public opinion, Content analysis, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:10.375Z"
+  },
+  {
+    "id": "political-communication-1bff779bc28d",
+    "doi": "10.1080/10584609.2026.2708131",
+    "url": "https://doi.org/10.1080/10584609.2026.2708131",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-06T08:29:49.000Z",
+    "authors": [
+      "Roberto Ulloa",
+      "Leonard Tiedemann",
+      "Peter Selb",
+      "Celina Kacperski",
+      "Konstanz",
+      "Germanyb Humboldt",
+      "Germanyc",
+      "Germanyd Cluster of Excellence “Collective Behaviour”",
+      "Germanye Seeburg Castle"
+    ],
+    "title_en": "The Knowledge Gap in a High-Choice Media Environment: Experimental Evidence from Online Search",
+    "title_zh": "The Knowledge Gap in a High-Choice Media Environment: Experimental Evidence from Online Search",
+    "keywords_en": [
+      "Social media",
+      "The Internet",
+      "Politics",
+      "Public opinion",
+      "Online participation"
+    ],
+    "keywords_zh": [
+      "Social media",
+      "The Internet",
+      "Politics",
+      "Public opinion",
+      "Online participation"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies The Knowledge Gap in a High-Choice Media Environment: Experimental Evidence from Online Search. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, The Internet, Politics, Public opinion. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies The Knowledge Gap in a High-Choice Media Environment: Experimental Evidence from Online Search. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, The Internet, Politics, Public opinion. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Social media, The Internet, Politics, Public opinion, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Social media, The Internet, Politics, Public opinion, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "experiment"
+    ],
+    "method_tags_en": [
+      "experiment"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:08.068Z"
   },
   {
     "id": "journal-of-communication-e47e0f9fa187",
@@ -691,6 +1396,112 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-08-04T22:54:29.653Z"
+  },
+  {
+    "id": "digital-journalism-cfe1009b4a5f",
+    "doi": "10.1080/21670811.2026.2709228",
+    "url": "https://doi.org/10.1080/21670811.2026.2709228",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-08-01T01:35:10.000Z",
+    "authors": [
+      "Yang Tian",
+      "Tian Yang",
+      "The Chinese",
+      "Hong Kong",
+      "China"
+    ],
+    "title_en": "More Inclusive, Less Attentive: How Digital Intermediaries Expand News Audiences but Facilitate Inequalities in News Attentiveness",
+    "title_zh": "More Inclusive, Less Attentive: How Digital Intermediaries Expand News Audiences but Facilitate Inequalities in News Attentiveness",
+    "keywords_en": [
+      "Inequality",
+      "Intermediary",
+      "Journalism",
+      "Digital media",
+      "News media"
+    ],
+    "keywords_zh": [
+      "Inequality",
+      "Intermediary",
+      "Journalism",
+      "Digital media",
+      "News media"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies More Inclusive, Less Attentive: How Digital Intermediaries Expand News Audiences but Facilitate Inequalities in News Attentiveness. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Inequality, Intermediary, Journalism, Digital media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies More Inclusive, Less Attentive: How Digital Intermediaries Expand News Audiences but Facilitate Inequalities in News Attentiveness. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Inequality, Intermediary, Journalism, Digital media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Inequality, Intermediary, Journalism, Digital media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Inequality, Intermediary, Journalism, Digital media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:19.527Z"
+  },
+  {
+    "id": "digital-journalism-6e543dad656c",
+    "doi": "10.1080/21670811.2026.2700592",
+    "url": "https://doi.org/10.1080/21670811.2026.2700592",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-08-01T01:29:12.000Z",
+    "authors": [
+      "Hannes Cools",
+      "Sophie Morosoli",
+      "Laurens Naudts",
+      "Karthikeya Venkatraj",
+      "Claes de Vreese",
+      "Natali Helberger",
+      "ASCoR",
+      "Amsterdam",
+      "The Netherlandsb",
+      "Postdoctoral Researcher",
+      "The Netherlandsc",
+      "IViR",
+      "The Netherlands",
+      "KU Leuven CiTiP",
+      "Leuven",
+      "Belgiumd",
+      "CWI",
+      "The Netherlandse",
+      "The Netherlandsf"
+    ],
+    "title_en": "“Transparency is More Than a Label”: Audiences’ Information Needs for AI Use Disclosures in News",
+    "title_zh": "“Transparency is More Than a Label”: Audiences’ Information Needs for AI Use Disclosures in News",
+    "keywords_en": [
+      "Information needs",
+      "Work (physics)",
+      "User needs",
+      "Needs assessment",
+      "Context (archaeology)"
+    ],
+    "keywords_zh": [
+      "Information needs",
+      "Work (physics)",
+      "User needs",
+      "Needs assessment",
+      "Context (archaeology)"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies “Transparency is More Than a Label”: Audiences’ Information Needs for AI Use Disclosures in News. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Information needs, Work (physics), User needs, Needs assessment. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies “Transparency is More Than a Label”: Audiences’ Information Needs for AI Use Disclosures in News. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Information needs, Work (physics), User needs, Needs assessment. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Information needs, Work (physics), User needs, Needs assessment, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Information needs, Work (physics), User needs, Needs assessment, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-08-27T02:28:19.955Z"
   },
   {
     "id": "journal-of-communication-5370a96cf9b3",
