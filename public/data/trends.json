@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T23:43:30.839Z",
+  "generatedAt": "2026-09-03T23:44:35.798Z",
   "snapshots": [
     {
       "key": "7d",
@@ -227,9 +227,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 194,
-      "overview_en": "Across 194 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 194 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 193,
+      "overview_en": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -258,7 +258,7 @@
         {
           "label_en": "Social media",
           "label_zh": "Social media",
-          "count": 28
+          "count": 27
         },
         {
           "label_en": "Politics",
@@ -268,7 +268,7 @@
         {
           "label_en": "Journalism",
           "label_zh": "Journalism",
-          "count": 14
+          "count": 13
         },
         {
           "label_en": "Political communication",
@@ -283,7 +283,7 @@
         {
           "label_en": "News media",
           "label_zh": "News media",
-          "count": 11
+          "count": 10
         },
         {
           "label_en": "Misinformation",
@@ -305,7 +305,7 @@
         {
           "label_en": "survey",
           "label_zh": "survey",
-          "count": 27
+          "count": 26
         },
         {
           "label_en": "experiment",
@@ -412,7 +412,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 36,
+      "paperCount": 35,
       "topic_bias_en": [
         "Journalism",
         "Social media",
@@ -427,15 +427,15 @@
       ],
       "method_bias_en": [
         "mixed methods",
-        "survey",
         "case study",
-        "interview"
+        "interview",
+        "survey"
       ],
       "method_bias_zh": [
         "mixed methods",
-        "survey",
         "case study",
-        "interview"
+        "interview",
+        "survey"
       ]
     },
     {
@@ -598,7 +598,7 @@
     {
       "label_en": "Social media",
       "label_zh": "Social media",
-      "count": 28
+      "count": 27
     },
     {
       "label_en": "Politics",
@@ -608,7 +608,7 @@
     {
       "label_en": "Journalism",
       "label_zh": "Journalism",
-      "count": 14
+      "count": 13
     },
     {
       "label_en": "Political communication",
@@ -623,7 +623,7 @@
     {
       "label_en": "News media",
       "label_zh": "News media",
-      "count": 11
+      "count": 10
     },
     {
       "label_en": "Misinformation",
@@ -655,7 +655,7 @@
     {
       "label_en": "survey",
       "label_zh": "survey",
-      "count": 27
+      "count": 26
     },
     {
       "label_en": "experiment",
