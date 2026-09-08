@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T23:52:26.466Z",
+  "generatedAt": "2026-09-08T23:46:16.969Z",
   "snapshots": [
     {
       "key": "7d",
@@ -227,9 +227,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 193,
-      "overview_en": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 192,
+      "overview_en": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -278,7 +278,7 @@
         {
           "label_en": "Work (physics)",
           "label_zh": "Work (physics)",
-          "count": 11
+          "count": 10
         },
         {
           "label_en": "News media",
@@ -315,12 +315,7 @@
         {
           "label_en": "case study",
           "label_zh": "case study",
-          "count": 22
-        },
-        {
-          "label_en": "content analysis",
-          "label_zh": "content analysis",
-          "count": 20
+          "count": 21
         },
         {
           "label_en": "computational analysis",
@@ -328,9 +323,14 @@
           "count": 19
         },
         {
+          "label_en": "content analysis",
+          "label_zh": "content analysis",
+          "count": 19
+        },
+        {
           "label_en": "interview",
           "label_zh": "interview",
-          "count": 18
+          "count": 17
         },
         {
           "label_en": "review",
@@ -412,7 +412,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 35,
+      "paperCount": 34,
       "topic_bias_en": [
         "Journalism",
         "Social media",
@@ -427,15 +427,15 @@
       ],
       "method_bias_en": [
         "mixed methods",
+        "survey",
         "case study",
-        "interview",
-        "survey"
+        "experiment"
       ],
       "method_bias_zh": [
         "mixed methods",
+        "survey",
         "case study",
-        "interview",
-        "survey"
+        "experiment"
       ]
     },
     {
@@ -618,7 +618,7 @@
     {
       "label_en": "Work (physics)",
       "label_zh": "Work (physics)",
-      "count": 11
+      "count": 10
     },
     {
       "label_en": "News media",
@@ -665,12 +665,7 @@
     {
       "label_en": "case study",
       "label_zh": "case study",
-      "count": 22
-    },
-    {
-      "label_en": "content analysis",
-      "label_zh": "content analysis",
-      "count": 20
+      "count": 21
     },
     {
       "label_en": "computational analysis",
@@ -678,9 +673,14 @@
       "count": 19
     },
     {
+      "label_en": "content analysis",
+      "label_zh": "content analysis",
+      "count": 19
+    },
+    {
       "label_en": "interview",
       "label_zh": "interview",
-      "count": 18
+      "count": 17
     },
     {
       "label_en": "review",
