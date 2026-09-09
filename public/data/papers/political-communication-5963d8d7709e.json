@@ -1,0 +1,74 @@
+{
+  "id": "political-communication-5963d8d7709e",
+  "doi": "10.1080/10584609.2026.2721665",
+  "url": "https://doi.org/10.1080/10584609.2026.2721665",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-08-31T03:15:35.000Z",
+  "authors": [
+    "Woo Chang Kang",
+    "Sunkyoung Park",
+    "Osbern Huang",
+    "Koh IWABUCHI",
+    "Tetsuro Kobayashi",
+    "Koh Iwabuchi",
+    "Woo Chang Kang Sunkyoung Park Osbern Huang Koh Iwabuchi Tetsuro Kobayashi",
+    "Korea",
+    "Seoul",
+    "South Koreab",
+    "Division of",
+    "Global Korean Studies",
+    "South Koreac",
+    "Griffith",
+    "Brisbane",
+    "Australiad",
+    "Waseda",
+    "Tokyo"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-09-09T23:42:36.330Z",
+  "language": "en",
+  "raw_title": "Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations",
+  "raw_abstract": "Existing research shows that voters in established democracies often fail to penalize politicians who violate democratic norms, as many are willing to trade democratic principles for partisan interests in polarized environments. Yet such partisan double standards remain underexplored in East Asia, where countries share authoritarian legacies, face ongoing risks of democratic backsliding, and operate under the geopolitical shadow of powerful authoritarian neighbors. Using a large-scale vignette experiment conducted in Japan, South Korea, Taiwan, and the United States (N = 10,194), this study examines whether voters sanction politicians who engage in democratic norm violations. We focus on reactions to three types of undemocratic statements: election denial, protest suppression, and attacks on the judiciary. The results show that voters in East Asian democracies impose stronger penalties than their American counterparts, though the degree and pattern of accountability differ across cases. Election denial consistently generates the strongest sanctions, while Japan and Taiwan show robust reactions across all scenarios. South Korea displays comparatively modest responses to protest suppression, and the United States shows the weakest effects overall. These findings highlight both the resilience and the heterogeneity of democratic accountability in East Asia and underscore the need to understand regional variation when assessing the prospects for democratic stability.",
+  "raw_keywords": [
+    "Accountability",
+    "Democracy",
+    "Norm (philosophy)",
+    "Voting",
+    "Political psychology",
+    "Voting behavior"
+  ],
+  "title_en": "Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations",
+  "title_zh": "Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations",
+  "abstract_en": "Existing research shows that voters in established democracies often fail to penalize politicians who violate democratic norms, as many are willing to trade democratic principles for partisan interests in polarized environments. Yet such partisan double standards remain underexplored in East Asia, where countries share authoritarian legacies, face ongoing risks of democratic backsliding, and operate under the geopolitical shadow of powerful authoritarian neighbors. Using a large-scale vignette experiment conducted in Japan, South Korea, Taiwan, and the United States (N = 10,194), this study examines whether voters sanction politicians who engage in democratic norm violations. We focus on reactions to three types of undemocratic statements: election denial, protest suppression, and attacks on the judiciary. The results show that voters in East Asian democracies impose stronger penalties than their American counterparts, though the degree and pattern of accountability differ across cases. Election denial consistently generates the strongest sanctions, while Japan and Taiwan show robust reactions across all scenarios. South Korea displays comparatively modest responses to protest suppression, and the United States shows the weakest effects overall. These findings highlight both the resilience and the heterogeneity of democratic accountability in East Asia and underscore the need to understand regional variation when assessing the prospects for democratic stability.",
+  "abstract_zh": "Existing research shows that voters in established democracies often fail to penalize politicians who violate democratic norms, as many are willing to trade democratic principles for partisan interests in polarized environments. Yet such partisan double standards remain underexplored in East Asia, where countries share authoritarian legacies, face ongoing risks of democratic backsliding, and operate under the geopolitical shadow of powerful authoritarian neighbors. Using a large-scale vignette experiment conducted in Japan, South Korea, Taiwan, and the United States (N = 10,194), this study examines whether voters sanction politicians who engage in democratic norm violations. We focus on reactions to three types of undemocratic statements: election denial, protest suppression, and attacks on the judiciary. The results show that voters in East Asian democracies impose stronger penalties than their American counterparts, though the degree and pattern of accountability differ across cases. Election denial consistently generates the strongest sanctions, while Japan and Taiwan show robust reactions across all scenarios. South Korea displays comparatively modest responses to protest suppression, and the United States shows the weakest effects overall. These findings highlight both the resilience and the heterogeneity of democratic accountability in East Asia and underscore the need to understand regional variation when assessing the prospects for democratic stability.",
+  "keywords_en": [
+    "Accountability",
+    "Democracy",
+    "Norm (philosophy)",
+    "Voting",
+    "Political psychology",
+    "Voting behavior"
+  ],
+  "keywords_zh": [
+    "Accountability",
+    "Democracy",
+    "Norm (philosophy)",
+    "Voting",
+    "Political psychology",
+    "Voting behavior"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Accountability, Democracy, Norm (philosophy), Voting. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Accountability, Democracy, Norm (philosophy), Voting. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Accountability, Democracy, Norm (philosophy), Voting, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Accountability, Democracy, Norm (philosophy), Voting, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "experiment"
+  ],
+  "method_tags_en": [
+    "experiment"
+  ]
+}

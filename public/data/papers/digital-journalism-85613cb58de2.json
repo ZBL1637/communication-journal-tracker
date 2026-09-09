@@ -1,0 +1,65 @@
+{
+  "id": "digital-journalism-85613cb58de2",
+  "doi": "10.1080/21670811.2026.2722003",
+  "url": "https://doi.org/10.1080/21670811.2026.2722003",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-09-05T04:30:31.000Z",
+  "authors": [
+    "Matthew S. Weber",
+    "Allie Kosterich",
+    "Matthew S.",
+    "Weber Allie Kosterich",
+    "Rutgers",
+    "New Brunswick",
+    "NJ",
+    "USAb Gabelli",
+    "Fordham",
+    "New York",
+    "NY",
+    "USA"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-09-09T23:42:48.554Z",
+  "language": "en",
+  "raw_title": "Adaptation Through Hiring: A Reconfiguration of Journalists’ Skills and Roles",
+  "raw_abstract": "The rapid advancement of artificial intelligence and information communication technologies has profoundly disrupted traditional professional structures, transforming how journalistic work is organized and understood. This study examines how journalism has adapted to these technological shifts through the emergence of new job roles and skills. Drawing from a communicative perspective, the research frames job advertisements as organizational artifacts that signal adaptation and reconfiguration of professional boundaries. Using a longitudinal dataset from 2010 through 2020 encompassing more than 400,000 job postings across the U.S. media sector, this study employs computational text analysis and clustering to trace evolving patterns in job titles and skill requirements. Findings reveal a significant rise in computational and data-driven competencies including analytics, programming, and data science within journalism roles, suggesting the integration of technological expertise into the profession’s core identity. Results highlight how organizations discursively construct new professions and communicate adaptation in response to ongoing change. By analyzing job roles as sites of organizational meaning-making, this work contributes to understanding the adaptation of new skills into existing professions and offers insight into the broader dynamics of transformation in the digital age.",
+  "raw_keywords": [
+    "Control reconfiguration",
+    "Adaptation (eye)",
+    "Context (archaeology)",
+    "Work (physics)",
+    "Process (computing)"
+  ],
+  "title_en": "Adaptation Through Hiring: A Reconfiguration of Journalists’ Skills and Roles",
+  "title_zh": "Adaptation Through Hiring: A Reconfiguration of Journalists’ Skills and Roles",
+  "abstract_en": "The rapid advancement of artificial intelligence and information communication technologies has profoundly disrupted traditional professional structures, transforming how journalistic work is organized and understood. This study examines how journalism has adapted to these technological shifts through the emergence of new job roles and skills. Drawing from a communicative perspective, the research frames job advertisements as organizational artifacts that signal adaptation and reconfiguration of professional boundaries. Using a longitudinal dataset from 2010 through 2020 encompassing more than 400,000 job postings across the U.S. media sector, this study employs computational text analysis and clustering to trace evolving patterns in job titles and skill requirements. Findings reveal a significant rise in computational and data-driven competencies including analytics, programming, and data science within journalism roles, suggesting the integration of technological expertise into the profession’s core identity. Results highlight how organizations discursively construct new professions and communicate adaptation in response to ongoing change. By analyzing job roles as sites of organizational meaning-making, this work contributes to understanding the adaptation of new skills into existing professions and offers insight into the broader dynamics of transformation in the digital age.",
+  "abstract_zh": "The rapid advancement of artificial intelligence and information communication technologies has profoundly disrupted traditional professional structures, transforming how journalistic work is organized and understood. This study examines how journalism has adapted to these technological shifts through the emergence of new job roles and skills. Drawing from a communicative perspective, the research frames job advertisements as organizational artifacts that signal adaptation and reconfiguration of professional boundaries. Using a longitudinal dataset from 2010 through 2020 encompassing more than 400,000 job postings across the U.S. media sector, this study employs computational text analysis and clustering to trace evolving patterns in job titles and skill requirements. Findings reveal a significant rise in computational and data-driven competencies including analytics, programming, and data science within journalism roles, suggesting the integration of technological expertise into the profession’s core identity. Results highlight how organizations discursively construct new professions and communicate adaptation in response to ongoing change. By analyzing job roles as sites of organizational meaning-making, this work contributes to understanding the adaptation of new skills into existing professions and offers insight into the broader dynamics of transformation in the digital age.",
+  "keywords_en": [
+    "Control reconfiguration",
+    "Adaptation (eye)",
+    "Context (archaeology)",
+    "Work (physics)",
+    "Process (computing)"
+  ],
+  "keywords_zh": [
+    "Control reconfiguration",
+    "Adaptation (eye)",
+    "Context (archaeology)",
+    "Work (physics)",
+    "Process (computing)"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Adaptation Through Hiring: A Reconfiguration of Journalists’ Skills and Roles. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Control reconfiguration, Adaptation (eye), Context (archaeology), Work (physics). The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Adaptation Through Hiring: A Reconfiguration of Journalists’ Skills and Roles. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Control reconfiguration, Adaptation (eye), Context (archaeology), Work (physics). The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Control reconfiguration, Adaptation (eye), Context (archaeology), Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Control reconfiguration, Adaptation (eye), Context (archaeology), Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "computational analysis"
+  ]
+}

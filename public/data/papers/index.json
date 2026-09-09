@@ -1,5 +1,277 @@
 [
   {
+    "id": "political-communication-5489e4bbd07b",
+    "doi": "10.1080/10584609.2026.2726266",
+    "url": "https://doi.org/10.1080/10584609.2026.2726266",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-09-09T01:05:01.000Z",
+    "authors": [
+      "John Murphy",
+      "Alexander Coppock",
+      "Seth J. Hill",
+      "Lynn Vavreck",
+      "John Murphy Alexander Coppock Seth J. Hill Lynn Vavreck a Political Science",
+      "Los Angeles",
+      "USAb Political Science",
+      "Northwestern",
+      "Evanston",
+      "USAc Political Science",
+      "San Diego",
+      "La Jolla",
+      "USAJohn Murphy",
+      "is a",
+      "doctoral student",
+      "at the",
+      "Los Angeles.Alexander",
+      "Coppock is",
+      "Associate Professor",
+      "at Northwestern",
+      "Los Angeles."
+    ],
+    "title_en": "Do Emotional Ads Persuade? Evidence from Real-Time Campaign Advertising Experiments",
+    "title_zh": "Do Emotional Ads Persuade? Evidence from Real-Time Campaign Advertising Experiments",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Emotional",
+      "Ads",
+      "Persuade",
+      "Evidence",
+      "Real",
+      "Time"
+    ],
+    "inferred_keywords_zh": [
+      "Emotional",
+      "Ads",
+      "Persuade",
+      "Evidence",
+      "Real",
+      "Time"
+    ],
+    "plain_summary_zh": "This paper studies Do Emotional Ads Persuade? Evidence from Real-Time Campaign Advertising Experiments. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Emotional, Ads, Persuade, Evidence. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Do Emotional Ads Persuade? Evidence from Real-Time Campaign Advertising Experiments. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Emotional, Ads, Persuade, Evidence. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Emotional, Ads, Persuade, Evidence, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Emotional, Ads, Persuade, Evidence, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "experiment"
+    ],
+    "method_tags_en": [
+      "experiment"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-09-09T23:42:39.557Z"
+  },
+  {
+    "id": "digital-journalism-3f72ba1bdf06",
+    "doi": "10.1080/21670811.2026.2726970",
+    "url": "https://doi.org/10.1080/21670811.2026.2726970",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-05T04:33:03.000Z",
+    "authors": [
+      "Stephen Ssenkaaba",
+      "Eugene",
+      "Oregon",
+      "USA"
+    ],
+    "title_en": "“When You Do Journalism in Uganda, You Instinctively Avoid Covering Certain Stories.” Journalistic Tales of Fear in an Era of Digital Authoritarianism",
+    "title_zh": "“When You Do Journalism in Uganda, You Instinctively Avoid Covering Certain Stories.” Journalistic Tales of Fear in an Era of Digital Authoritarianism",
+    "keywords_en": [
+      "Journalism",
+      "Authoritarianism",
+      "Power (physics)",
+      "Disinformation",
+      "Digital era",
+      "Fake news",
+      "Democracy"
+    ],
+    "keywords_zh": [
+      "Journalism",
+      "Authoritarianism",
+      "Power (physics)",
+      "Disinformation",
+      "Digital era",
+      "Fake news",
+      "Democracy"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies “When You Do Journalism in Uganda, You Instinctively Avoid Covering Certain Stories.” Journalistic Tales of Fear in an Era of Digital Authoritarianism. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Authoritarianism, Power (physics), Disinformation. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies “When You Do Journalism in Uganda, You Instinctively Avoid Covering Certain Stories.” Journalistic Tales of Fear in an Era of Digital Authoritarianism. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Journalism, Authoritarianism, Power (physics), Disinformation. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Journalism, Authoritarianism, Power (physics), Disinformation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Journalism, Authoritarianism, Power (physics), Disinformation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "interview"
+    ],
+    "method_tags_en": [
+      "interview"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-09-09T23:42:50.860Z"
+  },
+  {
+    "id": "digital-journalism-85613cb58de2",
+    "doi": "10.1080/21670811.2026.2722003",
+    "url": "https://doi.org/10.1080/21670811.2026.2722003",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-05T04:30:31.000Z",
+    "authors": [
+      "Matthew S. Weber",
+      "Allie Kosterich",
+      "Matthew S.",
+      "Weber Allie Kosterich",
+      "Rutgers",
+      "New Brunswick",
+      "NJ",
+      "USAb Gabelli",
+      "Fordham",
+      "New York",
+      "NY",
+      "USA"
+    ],
+    "title_en": "Adaptation Through Hiring: A Reconfiguration of Journalists’ Skills and Roles",
+    "title_zh": "Adaptation Through Hiring: A Reconfiguration of Journalists’ Skills and Roles",
+    "keywords_en": [
+      "Control reconfiguration",
+      "Adaptation (eye)",
+      "Context (archaeology)",
+      "Work (physics)",
+      "Process (computing)"
+    ],
+    "keywords_zh": [
+      "Control reconfiguration",
+      "Adaptation (eye)",
+      "Context (archaeology)",
+      "Work (physics)",
+      "Process (computing)"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Adaptation Through Hiring: A Reconfiguration of Journalists’ Skills and Roles. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Control reconfiguration, Adaptation (eye), Context (archaeology), Work (physics). The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Adaptation Through Hiring: A Reconfiguration of Journalists’ Skills and Roles. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Control reconfiguration, Adaptation (eye), Context (archaeology), Work (physics). The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Control reconfiguration, Adaptation (eye), Context (archaeology), Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Control reconfiguration, Adaptation (eye), Context (archaeology), Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-09-09T23:42:48.554Z"
+  },
+  {
+    "id": "digital-journalism-da5f961289f5",
+    "doi": "10.1080/21670811.2026.2725694",
+    "url": "https://doi.org/10.1080/21670811.2026.2725694",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-02T10:20:37.000Z",
+    "authors": [
+      "Jinjin Zhou",
+      "Jingjun Wang",
+      "Ye Wu",
+      "Jinan",
+      "Guangzhou",
+      "Chinab",
+      "Wuhan Donghu",
+      "Wuhan",
+      "Chinac",
+      "Beijing Normal",
+      "Beijing",
+      "China"
+    ],
+    "title_en": "The Evolution of Mainstream Media Clickbait on WeChat (2015–2024): A Longitudinal Analysis of Issue Distribution, Intermedia Homogenization, and Engagement Efficacy",
+    "title_zh": "The Evolution of Mainstream Media Clickbait on WeChat (2015–2024): A Longitudinal Analysis of Issue Distribution, Intermedia Homogenization, and Engagement Efficacy",
+    "keywords_en": [
+      "Mainstream",
+      "Journalism",
+      "Work (physics)",
+      "Mass media",
+      "Discourse analysis",
+      "News media"
+    ],
+    "keywords_zh": [
+      "Mainstream",
+      "Journalism",
+      "Work (physics)",
+      "Mass media",
+      "Discourse analysis",
+      "News media"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies The Evolution of Mainstream Media Clickbait on WeChat (2015–2024): A Longitudinal Analysis of Issue Distribution, Intermedia Homogenization, and Engagement Efficacy. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Mainstream, Journalism, Work (physics), Mass media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies The Evolution of Mainstream Media Clickbait on WeChat (2015–2024): A Longitudinal Analysis of Issue Distribution, Intermedia Homogenization, and Engagement Efficacy. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Mainstream, Journalism, Work (physics), Mass media. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Mainstream, Journalism, Work (physics), Mass media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Mainstream, Journalism, Work (physics), Mass media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-09-09T23:42:49.910Z"
+  },
+  {
+    "id": "digital-journalism-d25019397435",
+    "doi": "10.1080/21670811.2026.2725691",
+    "url": "https://doi.org/10.1080/21670811.2026.2725691",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-02T10:18:21.000Z",
+    "authors": [
+      "Marína Urbániková",
+      "Lenka Waschková Císařová",
+      "Iveta Jansová",
+      "Melanie Haberl",
+      "Folker Hanusch",
+      "Sophie Lecheler",
+      "Brno",
+      "Czechiab",
+      "Vienna",
+      "Austria"
+    ],
+    "title_en": "Double Adaptation: Negotiating Closeness and Managing Boundaries in Journalist–Politician Relations",
+    "title_zh": "Double Adaptation: Negotiating Closeness and Managing Boundaries in Journalist–Politician Relations",
+    "keywords_en": [
+      "Negotiation",
+      "Closeness",
+      "Identity (music)",
+      "Work (physics)",
+      "Key (lock)"
+    ],
+    "keywords_zh": [
+      "Negotiation",
+      "Closeness",
+      "Identity (music)",
+      "Work (physics)",
+      "Key (lock)"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Double Adaptation: Negotiating Closeness and Managing Boundaries in Journalist–Politician Relations. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Negotiation, Closeness, Identity (music), Work (physics). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Double Adaptation: Negotiating Closeness and Managing Boundaries in Journalist–Politician Relations. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Negotiation, Closeness, Identity (music), Work (physics). The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Negotiation, Closeness, Identity (music), Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Negotiation, Closeness, Identity (music), Work (physics), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "interview"
+    ],
+    "method_tags_en": [
+      "interview"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-09-09T23:42:52.342Z"
+  },
+  {
     "id": "policy-and-internet-bc8191367c24",
     "doi": "10.1002/poi3.70055",
     "url": "https://doi.org/10.1002/poi3.70055",
@@ -405,6 +677,662 @@
     ],
     "source": "crossref",
     "fetchedAt": "2026-07-10T22:53:25.269Z"
+  },
+  {
+    "id": "political-communication-76b77c3af577",
+    "doi": "10.1080/10584609.2026.2717428",
+    "url": "https://doi.org/10.1080/10584609.2026.2717428",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-31T09:53:04.000Z",
+    "authors": [
+      "Sara Holland Levin",
+      "Rui Wang",
+      "J. Mira Seo",
+      "Yi Yin Leong",
+      "Emma Bennett",
+      "Dongdong Yang",
+      "Zhuohui Yang",
+      "Matt Chen",
+      "Yini Zhang",
+      "Jiyoun Suk",
+      "Junwan Seo",
+      "Storrs",
+      "USAb",
+      "Buffalo",
+      "Fudan",
+      "M.A.",
+      "State"
+    ],
+    "title_en": "From #StayWoke to “Culture Wars”: How Social Justice Discourse is Separately and Synergistically Politicized on Twitter and YouTube",
+    "title_zh": "From #StayWoke to “Culture Wars”: How Social Justice Discourse is Separately and Synergistically Politicized on Twitter and YouTube",
+    "keywords_en": [
+      "Social media",
+      "Narrative",
+      "Politics",
+      "Polarization (electrochemistry)",
+      "Social justice",
+      "Discourse analysis",
+      "Identity politics",
+      "News media"
+    ],
+    "keywords_zh": [
+      "Social media",
+      "Narrative",
+      "Politics",
+      "Polarization (electrochemistry)",
+      "Social justice",
+      "Discourse analysis",
+      "Identity politics",
+      "News media"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies From #StayWoke to “Culture Wars”: How Social Justice Discourse is Separately and Synergistically Politicized on Twitter and YouTube. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, Narrative, Politics, Polarization (electrochemistry). The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies From #StayWoke to “Culture Wars”: How Social Justice Discourse is Separately and Synergistically Politicized on Twitter and YouTube. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, Narrative, Politics, Polarization (electrochemistry). The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Social media, Narrative, Politics, Polarization (electrochemistry), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Social media, Narrative, Politics, Polarization (electrochemistry), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-09-09T23:42:34.209Z"
+  },
+  {
+    "id": "political-communication-5963d8d7709e",
+    "doi": "10.1080/10584609.2026.2721665",
+    "url": "https://doi.org/10.1080/10584609.2026.2721665",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-31T03:15:35.000Z",
+    "authors": [
+      "Woo Chang Kang",
+      "Sunkyoung Park",
+      "Osbern Huang",
+      "Koh IWABUCHI",
+      "Tetsuro Kobayashi",
+      "Koh Iwabuchi",
+      "Woo Chang Kang Sunkyoung Park Osbern Huang Koh Iwabuchi Tetsuro Kobayashi",
+      "Korea",
+      "Seoul",
+      "South Koreab",
+      "Division of",
+      "Global Korean Studies",
+      "South Koreac",
+      "Griffith",
+      "Brisbane",
+      "Australiad",
+      "Waseda",
+      "Tokyo"
+    ],
+    "title_en": "Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations",
+    "title_zh": "Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations",
+    "keywords_en": [
+      "Accountability",
+      "Democracy",
+      "Norm (philosophy)",
+      "Voting",
+      "Political psychology",
+      "Voting behavior"
+    ],
+    "keywords_zh": [
+      "Accountability",
+      "Democracy",
+      "Norm (philosophy)",
+      "Voting",
+      "Political psychology",
+      "Voting behavior"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Accountability, Democracy, Norm (philosophy), Voting. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Accountability, Democracy, Norm (philosophy), Voting. The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Accountability, Democracy, Norm (philosophy), Voting, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Accountability, Democracy, Norm (philosophy), Voting, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "experiment"
+    ],
+    "method_tags_en": [
+      "experiment"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-09-09T23:42:36.330Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-9dca5a70a5a5",
+    "doi": "10.1080/08351813.2026.2615620",
+    "url": "https://doi.org/10.1080/08351813.2026.2615620",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-08-31T01:24:04.000Z",
+    "authors": [
+      "Arnulf Deppermann",
+      "Pentti Haddington",
+      "Leibniz-Institut für",
+      "Deutsche Sprache",
+      "Germanyb",
+      "English",
+      "Finland"
+    ],
+    "title_en": "Interactional histories: Introduction to a special issue",
+    "title_zh": "Interactional histories: Introduction to a special issue",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Interactional",
+      "Histories",
+      "Introduction",
+      "Special",
+      "Issue"
+    ],
+    "inferred_keywords_zh": [
+      "Interactional",
+      "Histories",
+      "Introduction",
+      "Special",
+      "Issue"
+    ],
+    "plain_summary_zh": "This paper studies Interactional histories: Introduction to a special issue. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Interactional, Histories, Introduction, Special. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Interactional histories: Introduction to a special issue. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Interactional, Histories, Introduction, Special. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Interactional, Histories, Introduction, Special, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Interactional, Histories, Introduction, Special, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-09-09T23:43:03.503Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-b234d091c637",
+    "doi": "10.1080/08351813.2026.2616201",
+    "url": "https://doi.org/10.1080/08351813.2026.2616201",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-08-31T01:24:04.000Z",
+    "authors": [
+      "Simona Pekarek Doehler",
+      "Klara Skogmyr Marian",
+      "Simona Pekarek Doehler Klara Skogmyr Marian a Institut des Sciences du Langage",
+      "Neuchâtel",
+      "Switzerlandb",
+      "Stockholm",
+      "Sweden"
+    ],
+    "title_en": "How Shared Interactional Histories Shape Local Practices: Mutual Adaptation of Participants’ Stance and Affect Displays in Assessment Activities",
+    "title_zh": "How Shared Interactional Histories Shape Local Practices: Mutual Adaptation of Participants’ Stance and Affect Displays in Assessment Activities",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "How",
+      "Shared",
+      "Interactional",
+      "Histories",
+      "Shape",
+      "Local"
+    ],
+    "inferred_keywords_zh": [
+      "How",
+      "Shared",
+      "Interactional",
+      "Histories",
+      "Shape",
+      "Local"
+    ],
+    "plain_summary_zh": "This paper studies How Shared Interactional Histories Shape Local Practices: Mutual Adaptation of Participants’ Stance and Affect Displays in Assessment Activities. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is How, Shared, Interactional, Histories. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies How Shared Interactional Histories Shape Local Practices: Mutual Adaptation of Participants’ Stance and Affect Displays in Assessment Activities. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is How, Shared, Interactional, Histories. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around How, Shared, Interactional, Histories, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around How, Shared, Interactional, Histories, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-09-09T23:43:00.052Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-47482f9d13a5",
+    "doi": "10.1080/08351813.2026.2616200",
+    "url": "https://doi.org/10.1080/08351813.2026.2616200",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-08-31T01:24:04.000Z",
+    "authors": [
+      "Arnulf Deppermann",
+      "Axel Schmidt",
+      "Leibniz-Institut für",
+      "Deutsche Sprache",
+      "Germany"
+    ],
+    "title_en": "An interactional history of categorization and reference to an embodied action: How changing references are used to develop the referent itself in a series of theater rehearsals",
+    "title_zh": "An interactional history of categorization and reference to an embodied action: How changing references are used to develop the referent itself in a series of theater rehearsals",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Interactional",
+      "History",
+      "Categorization",
+      "And",
+      "Reference",
+      "Embodied"
+    ],
+    "inferred_keywords_zh": [
+      "Interactional",
+      "History",
+      "Categorization",
+      "And",
+      "Reference",
+      "Embodied"
+    ],
+    "plain_summary_zh": "This paper studies An interactional history of categorization and reference to an embodied action: How changing references are used to develop the referent itself in a series of theater rehearsals. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Interactional, History, Categorization, And. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies An interactional history of categorization and reference to an embodied action: How changing references are used to develop the referent itself in a series of theater rehearsals. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Interactional, History, Categorization, And. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Interactional, History, Categorization, And, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Interactional, History, Categorization, And, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-09-09T23:42:59.807Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-a71df96b6b9d",
+    "doi": "10.1080/08351813.2026.2616199",
+    "url": "https://doi.org/10.1080/08351813.2026.2616199",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-08-31T01:24:04.000Z",
+    "authors": [
+      "Bernadetta Janusz",
+      "Anssi Peräkylä",
+      "Jagiellonian",
+      "Kraków",
+      "Polandb",
+      "Finland"
+    ],
+    "title_en": "Guilt becomes thinkable: Interactional history of therapy after ambiguous loss",
+    "title_zh": "Guilt becomes thinkable: Interactional history of therapy after ambiguous loss",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Guilt",
+      "Becomes",
+      "Thinkable",
+      "Interactional",
+      "History",
+      "Therapy"
+    ],
+    "inferred_keywords_zh": [
+      "Guilt",
+      "Becomes",
+      "Thinkable",
+      "Interactional",
+      "History",
+      "Therapy"
+    ],
+    "plain_summary_zh": "This paper studies Guilt becomes thinkable: Interactional history of therapy after ambiguous loss. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Guilt, Becomes, Thinkable, Interactional. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Guilt becomes thinkable: Interactional history of therapy after ambiguous loss. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Guilt, Becomes, Thinkable, Interactional. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Guilt, Becomes, Thinkable, Interactional, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Guilt, Becomes, Thinkable, Interactional, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-09-09T23:42:59.782Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-ea824eecae25",
+    "doi": "10.1080/08351813.2026.2615626",
+    "url": "https://doi.org/10.1080/08351813.2026.2615626",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-08-31T01:24:04.000Z",
+    "authors": [
+      "Arnulf Deppermann",
+      "Alexandra Gubina",
+      "Leibniz-Institut für",
+      "Deutsche Sprache",
+      "Mannheim",
+      "Germany"
+    ],
+    "title_en": "Therapeutic change and the emergence of common ground over interactional history",
+    "title_zh": "Therapeutic change and the emergence of common ground over interactional history",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Therapeutic",
+      "Change",
+      "And",
+      "The",
+      "Emergence",
+      "Common"
+    ],
+    "inferred_keywords_zh": [
+      "Therapeutic",
+      "Change",
+      "And",
+      "The",
+      "Emergence",
+      "Common"
+    ],
+    "plain_summary_zh": "This paper studies Therapeutic change and the emergence of common ground over interactional history. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Therapeutic, Change, And, The. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Therapeutic change and the emergence of common ground over interactional history. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Therapeutic, Change, And, The. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Therapeutic, Change, And, The, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Therapeutic, Change, And, The, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-09-09T23:42:56.390Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-b057746d76fe",
+    "doi": "10.1080/08351813.2026.2615623",
+    "url": "https://doi.org/10.1080/08351813.2026.2615623",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-08-31T01:24:04.000Z",
+    "authors": [
+      "Pentti Haddington",
+      "Antti Kamunen",
+      "Tuire Oittinen",
+      "Iira Rautiainen",
+      "Pentti Haddington Antti Kamunen Tuire Oittinen Iira Rautiainen a",
+      "Oulu",
+      "Finlandb",
+      "Jyväskylä",
+      "Finland"
+    ],
+    "title_en": "The development of a team’s professional vision in UN military observer training: Evidence from interactional history",
+    "title_zh": "The development of a team’s professional vision in UN military observer training: Evidence from interactional history",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "The",
+      "Development",
+      "Team",
+      "Professional",
+      "Vision",
+      "Military"
+    ],
+    "inferred_keywords_zh": [
+      "The",
+      "Development",
+      "Team",
+      "Professional",
+      "Vision",
+      "Military"
+    ],
+    "plain_summary_zh": "This paper studies The development of a team’s professional vision in UN military observer training: Evidence from interactional history. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Development, Team, Professional. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies The development of a team’s professional vision in UN military observer training: Evidence from interactional history. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is The, Development, Team, Professional. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around The, Development, Team, Professional, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around The, Development, Team, Professional, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-09-09T23:42:56.241Z"
+  },
+  {
+    "id": "research-on-language-and-social-interaction-ec838376c49b",
+    "doi": "10.1080/08351813.2026.2615625",
+    "url": "https://doi.org/10.1080/08351813.2026.2615625",
+    "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
+    "journalSlug": "research-on-language-and-social-interaction",
+    "issn": "0835-1813",
+    "publishedAt": "2026-08-31T01:24:04.000Z",
+    "authors": [
+      "Iira Rautiainen",
+      "Tuire Oittinen",
+      "Tuire Oittinen a",
+      "Oulu",
+      "Finlandb",
+      "Jyväskylä",
+      "Finland"
+    ],
+    "title_en": "Change in joint coordination of action during radio transmissions in military observer training: Orientation to emerging competence",
+    "title_zh": "Change in joint coordination of action during radio transmissions in military observer training: Orientation to emerging competence",
+    "keywords_en": [],
+    "keywords_zh": [],
+    "inferred_keywords_en": [
+      "Change",
+      "Joint",
+      "Coordination",
+      "Action",
+      "During",
+      "Radio"
+    ],
+    "inferred_keywords_zh": [
+      "Change",
+      "Joint",
+      "Coordination",
+      "Action",
+      "During",
+      "Radio"
+    ],
+    "plain_summary_zh": "This paper studies Change in joint coordination of action during radio transmissions in military observer training: Orientation to emerging competence. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Change, Joint, Coordination, Action. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Change in joint coordination of action during radio transmissions in military observer training: Orientation to emerging competence. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Change, Joint, Coordination, Action. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Change, Joint, Coordination, Action, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Change, Joint, Coordination, Action, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss",
+    "fetchedAt": "2026-09-09T23:42:56.121Z"
+  },
+  {
+    "id": "digital-journalism-8df46ea250cb",
+    "doi": "10.1080/21670811.2026.2723426",
+    "url": "https://doi.org/10.1080/21670811.2026.2723426",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-08-29T04:11:19.000Z",
+    "authors": [
+      "Teresa Weikmann",
+      "Marina Tulin",
+      "Michael Hameleers",
+      "Claes H.",
+      "de Vreese",
+      "Claes de Vreese",
+      "Teresa Weikmann Marina Tulin Michael Hameleers Claes de Vreese Amsterdam",
+      "Amsterdam",
+      "The Netherlands"
+    ],
+    "title_en": "No Easy Fix to Countering AI-Generated Visual Disinformation: The (in)Effectiveness of AI-Labels, Fact-Check Labels and Community Notes",
+    "title_zh": "No Easy Fix to Countering AI-Generated Visual Disinformation: The (in)Effectiveness of AI-Labels, Fact-Check Labels and Community Notes",
+    "keywords_en": [
+      "Disinformation",
+      "Credibility",
+      "Pooling",
+      "Context (archaeology)",
+      "Psychological intervention",
+      "Computer science",
+      "Immigration",
+      "Psychology",
+      "Internet privacy",
+      "Artificial intelligence",
+      "Social psychology",
+      "Social media",
+      "Political science",
+      "World Wide Web",
+      "History",
+      "Law"
+    ],
+    "keywords_zh": [
+      "Disinformation",
+      "Credibility",
+      "Pooling",
+      "Context (archaeology)",
+      "Psychological intervention",
+      "Computer science",
+      "Immigration",
+      "Psychology",
+      "Internet privacy",
+      "Artificial intelligence",
+      "Social psychology",
+      "Social media",
+      "Political science",
+      "World Wide Web",
+      "History",
+      "Law"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies No Easy Fix to Countering AI-Generated Visual Disinformation: The (in)Effectiveness of AI-Labels, Fact-Check Labels and Community Notes. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Disinformation, Credibility, Pooling, Context (archaeology). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies No Easy Fix to Countering AI-Generated Visual Disinformation: The (in)Effectiveness of AI-Labels, Fact-Check Labels and Community Notes. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Disinformation, Credibility, Pooling, Context (archaeology). The abstract suggests a experiment approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Disinformation, Credibility, Pooling, Context (archaeology), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Disinformation, Credibility, Pooling, Context (archaeology), especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "experiment"
+    ],
+    "method_tags_en": [
+      "experiment"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-09-09T23:42:51.061Z"
+  },
+  {
+    "id": "digital-journalism-25044b04f531",
+    "doi": "10.1080/21670811.2026.2722015",
+    "url": "https://doi.org/10.1080/21670811.2026.2722015",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-08-27T12:19:58.000Z",
+    "authors": [
+      "Ruth Palmer",
+      "Vincent Doyle",
+      "Vincent Doyle IE",
+      "Madrid",
+      "Spain"
+    ],
+    "title_en": "Folk Theories of Journalistic Authority in the Wake of the 2024 Valencia Floods",
+    "title_zh": "Folk Theories of Journalistic Authority in the Wake of the 2024 Valencia Floods",
+    "keywords_en": [
+      "Mainstream",
+      "Journalism",
+      "Duty",
+      "Criticism",
+      "Politics",
+      "Social media",
+      "News media"
+    ],
+    "keywords_zh": [
+      "Mainstream",
+      "Journalism",
+      "Duty",
+      "Criticism",
+      "Politics",
+      "Social media",
+      "News media"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Folk Theories of Journalistic Authority in the Wake of the 2024 Valencia Floods. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Mainstream, Journalism, Duty, Criticism. The abstract suggests a discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Folk Theories of Journalistic Authority in the Wake of the 2024 Valencia Floods. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Mainstream, Journalism, Duty, Criticism. The abstract suggests a discourse analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Mainstream, Journalism, Duty, Criticism, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Mainstream, Journalism, Duty, Criticism, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "discourse analysis"
+    ],
+    "method_tags_en": [
+      "discourse analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-09-09T23:42:48.567Z"
+  },
+  {
+    "id": "political-communication-24b8b4b6e524",
+    "doi": "10.1080/10584609.2026.2715702",
+    "url": "https://doi.org/10.1080/10584609.2026.2715702",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-08-26T01:43:22.000Z",
+    "authors": [
+      "Christoph Ivanusch",
+      "Simon M. Luebke",
+      "Anna-Katharina Wurst",
+      "Jörg Haßler",
+      "Ludwig-Maximilians-Universität München",
+      "Munich",
+      "Germanyb",
+      "Leipzig",
+      "Germanyc",
+      "Germanyd",
+      "Oslo",
+      "Germany. His"
+    ],
+    "title_en": "Social Media Savvy? The Use and Effectiveness of Political Parties’ Issue Strategies Across Platforms in the German Federal Election Campaign 2025",
+    "title_zh": "Social Media Savvy? The Use and Effectiveness of Political Parties’ Issue Strategies Across Platforms in the German Federal Election Campaign 2025",
+    "keywords_en": [
+      "Social media",
+      "Politics",
+      "German",
+      "Salient",
+      "Federal election",
+      "Relevance (law)",
+      "Democracy",
+      "Political communication",
+      "Competition (biology)"
+    ],
+    "keywords_zh": [
+      "Social media",
+      "Politics",
+      "German",
+      "Salient",
+      "Federal election",
+      "Relevance (law)",
+      "Democracy",
+      "Political communication",
+      "Competition (biology)"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Social Media Savvy? The Use and Effectiveness of Political Parties’ Issue Strategies Across Platforms in the German Federal Election Campaign 2025. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, Politics, German, Salient. The abstract suggests a survey, content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Social Media Savvy? The Use and Effectiveness of Political Parties’ Issue Strategies Across Platforms in the German Federal Election Campaign 2025. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Social media, Politics, German, Salient. The abstract suggests a survey, content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Social media, Politics, German, Salient, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Social media, Politics, German, Salient, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "survey",
+      "content analysis"
+    ],
+    "method_tags_en": [
+      "survey",
+      "content analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-09-09T23:42:34.532Z"
   },
   {
     "id": "international-journal-of-press-politics-df0a6ec19673",
