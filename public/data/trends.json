@@ -1,91 +1,17 @@
 {
-  "generatedAt": "2026-09-18T23:46:25.508Z",
+  "generatedAt": "2026-09-19T23:48:31.654Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 2,
-      "overview_en": "Across 2 papers, the most visible themes are Dynamic, News, Visibility. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 2 papers, the most visible themes are Dynamic, News, Visibility. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
-      "hot_topics_en": [
-        "Dynamic",
-        "News",
-        "Visibility",
-        "Across",
-        "Sources"
-      ],
-      "hot_topics_zh": [
-        "Dynamic",
-        "News",
-        "Visibility",
-        "Across",
-        "Sources"
-      ],
-      "high_frequency_keywords": [
-        {
-          "label_en": "Dynamic",
-          "label_zh": "Dynamic",
-          "count": 1
-        },
-        {
-          "label_en": "News",
-          "label_zh": "News",
-          "count": 1
-        },
-        {
-          "label_en": "Visibility",
-          "label_zh": "Visibility",
-          "count": 1
-        },
-        {
-          "label_en": "Across",
-          "label_zh": "Across",
-          "count": 1
-        },
-        {
-          "label_en": "Sources",
-          "label_zh": "Sources",
-          "count": 1
-        },
-        {
-          "label_en": "Evidence",
-          "label_zh": "Evidence",
-          "count": 1
-        },
-        {
-          "label_en": "And",
-          "label_zh": "And",
-          "count": 1
-        },
-        {
-          "label_en": "The",
-          "label_zh": "The",
-          "count": 1
-        },
-        {
-          "label_en": "Language",
-          "label_zh": "Language",
-          "count": 1
-        },
-        {
-          "label_en": "Democratic",
-          "label_zh": "Democratic",
-          "count": 1
-        }
-      ],
-      "high_frequency_methods": [
-        {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 1
-        },
-        {
-          "label_en": "mixed methods",
-          "label_zh": "mixed methods",
-          "count": 1
-        }
-      ]
+      "paperCount": 0,
+      "overview_en": "Across 0 papers, the most visible themes are platforms, news, and public attention. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 0 papers, the most visible themes are platforms, news, and public attention. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "hot_topics_en": [],
+      "hot_topics_zh": [],
+      "high_frequency_keywords": [],
+      "high_frequency_methods": []
     },
     {
       "key": "30d",
