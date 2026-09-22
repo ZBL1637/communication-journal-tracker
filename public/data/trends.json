@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T23:44:40.913Z",
+  "generatedAt": "2026-09-22T00:26:34.251Z",
   "snapshots": [
     {
       "key": "7d",
@@ -17,38 +17,33 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 31,
-      "overview_en": "Across 31 papers, the most visible themes are The, And, Social media. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 31 papers, the most visible themes are The, And, Social media. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "paperCount": 28,
+      "overview_en": "Across 28 papers, the most visible themes are The, And, Democracy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 28 papers, the most visible themes are The, And, Democracy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
-        "Social media",
         "Democracy",
-        "Work (physics)"
+        "Social media",
+        "Interactional"
       ],
       "hot_topics_zh": [
         "The",
         "And",
-        "Social media",
         "Democracy",
-        "Work (physics)"
+        "Social media",
+        "Interactional"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 13
+          "count": 12
         },
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 12
-        },
-        {
-          "label_en": "Social media",
-          "label_zh": "Social media",
-          "count": 5
+          "count": 11
         },
         {
           "label_en": "Democracy",
@@ -56,13 +51,8 @@
           "count": 4
         },
         {
-          "label_en": "Work (physics)",
-          "label_zh": "Work (physics)",
-          "count": 4
-        },
-        {
-          "label_en": "Politics",
-          "label_zh": "Politics",
+          "label_en": "Social media",
+          "label_zh": "Social media",
           "count": 4
         },
         {
@@ -76,6 +66,11 @@
           "count": 3
         },
         {
+          "label_en": "Work (physics)",
+          "label_zh": "Work (physics)",
+          "count": 3
+        },
+        {
           "label_en": "News media",
           "label_zh": "News media",
           "count": 3
@@ -84,18 +79,23 @@
           "label_en": "Digital",
           "label_zh": "Digital",
           "count": 3
+        },
+        {
+          "label_en": "Governance",
+          "label_zh": "Governance",
+          "count": 3
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 14
+          "count": 13
         },
         {
           "label_en": "experiment",
           "label_zh": "experiment",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "computational analysis",
@@ -110,12 +110,12 @@
         {
           "label_en": "discourse analysis",
           "label_zh": "discourse analysis",
-          "count": 3
+          "count": 2
         },
         {
           "label_en": "survey",
           "label_zh": "survey",
-          "count": 3
+          "count": 2
         },
         {
           "label_en": "content analysis",
