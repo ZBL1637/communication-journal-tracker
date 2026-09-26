@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:11:10.704Z",
+  "generatedAt": "2026-09-26T00:17:30.058Z",
   "snapshots": [
     {
       "key": "7d",
@@ -17,22 +17,22 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 28,
-      "overview_en": "Across 28 papers, the most visible themes are The, And, Democracy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 28 papers, the most visible themes are The, And, Democracy. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "paperCount": 27,
+      "overview_en": "Across 27 papers, the most visible themes are The, And, Interactional. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 27 papers, the most visible themes are The, And, Interactional. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
-        "Democracy",
-        "Social media",
-        "Interactional"
+        "Interactional",
+        "Journalism",
+        "Democracy"
       ],
       "hot_topics_zh": [
         "The",
         "And",
-        "Democracy",
-        "Social media",
-        "Interactional"
+        "Interactional",
+        "Journalism",
+        "Democracy"
       ],
       "high_frequency_keywords": [
         {
@@ -46,16 +46,6 @@
           "count": 11
         },
         {
-          "label_en": "Democracy",
-          "label_zh": "Democracy",
-          "count": 4
-        },
-        {
-          "label_en": "Social media",
-          "label_zh": "Social media",
-          "count": 4
-        },
-        {
           "label_en": "Interactional",
           "label_zh": "Interactional",
           "count": 4
@@ -63,6 +53,11 @@
         {
           "label_en": "Journalism",
           "label_zh": "Journalism",
+          "count": 3
+        },
+        {
+          "label_en": "Democracy",
+          "label_zh": "Democracy",
           "count": 3
         },
         {
@@ -83,6 +78,11 @@
         {
           "label_en": "Governance",
           "label_zh": "Governance",
+          "count": 3
+        },
+        {
+          "label_en": "Social media",
+          "label_zh": "Social media",
           "count": 3
         }
       ],
@@ -115,12 +115,12 @@
         {
           "label_en": "survey",
           "label_zh": "survey",
-          "count": 2
+          "count": 1
         },
         {
           "label_en": "content analysis",
           "label_zh": "content analysis",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -128,9 +128,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 203,
-      "overview_en": "Across 203 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 203 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 202,
+      "overview_en": "Across 202 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 202 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -211,7 +211,7 @@
         {
           "label_en": "experiment",
           "label_zh": "experiment",
-          "count": 26
+          "count": 25
         },
         {
           "label_en": "computational analysis",
@@ -313,7 +313,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 38,
+      "paperCount": 37,
       "topic_bias_en": [
         "Journalism",
         "Social media",
@@ -329,14 +329,14 @@
       "method_bias_en": [
         "mixed methods",
         "interview",
-        "experiment",
-        "survey"
+        "survey",
+        "computational analysis"
       ],
       "method_bias_zh": [
         "mixed methods",
         "interview",
-        "experiment",
-        "survey"
+        "survey",
+        "computational analysis"
       ]
     },
     {
@@ -561,7 +561,7 @@
     {
       "label_en": "experiment",
       "label_zh": "experiment",
-      "count": 26
+      "count": 25
     },
     {
       "label_en": "computational analysis",
