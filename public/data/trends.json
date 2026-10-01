@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:55:58.798Z",
+  "generatedAt": "2026-10-01T00:57:01.448Z",
   "snapshots": [
     {
       "key": "7d",
@@ -17,43 +17,33 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 25,
-      "overview_en": "Across 25 papers, the most visible themes are The, And, Interactional. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 25 papers, the most visible themes are The, And, Interactional. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 16,
+      "overview_en": "Across 16 papers, the most visible themes are The, And, Work (physics). Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 16 papers, the most visible themes are The, And, Work (physics). Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "The",
         "And",
-        "Interactional",
-        "Democracy",
-        "Work (physics)"
+        "Work (physics)",
+        "Digital",
+        "Governance"
       ],
       "hot_topics_zh": [
         "The",
         "And",
-        "Interactional",
-        "Democracy",
-        "Work (physics)"
+        "Work (physics)",
+        "Digital",
+        "Governance"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 12
+          "count": 10
         },
         {
           "label_en": "And",
           "label_zh": "And",
-          "count": 11
-        },
-        {
-          "label_en": "Interactional",
-          "label_zh": "Interactional",
-          "count": 4
-        },
-        {
-          "label_en": "Democracy",
-          "label_zh": "Democracy",
-          "count": 3
+          "count": 9
         },
         {
           "label_en": "Work (physics)",
@@ -81,8 +71,18 @@
           "count": 2
         },
         {
-          "label_en": "Discourse analysis",
-          "label_zh": "Discourse analysis",
+          "label_en": "Democracy",
+          "label_zh": "Democracy",
+          "count": 2
+        },
+        {
+          "label_en": "Futures",
+          "label_zh": "Futures",
+          "count": 2
+        },
+        {
+          "label_en": "Framing",
+          "label_zh": "Framing",
           "count": 2
         }
       ],
@@ -90,17 +90,17 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 13
+          "count": 6
         },
         {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
-          "count": 4
+          "count": 3
         },
         {
           "label_en": "experiment",
           "label_zh": "experiment",
-          "count": 4
+          "count": 3
         },
         {
           "label_en": "interview",
