@@ -1,0 +1,82 @@
+{
+  "id": "digital-journalism-8c1a7e3ba0d0",
+  "doi": "10.1080/21670811.2026.2733615",
+  "url": "https://doi.org/10.1080/21670811.2026.2733615",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-09-17T03:35:44.000Z",
+  "authors": [
+    "Kevin Alexis García",
+    "Javier Díaz-Noci",
+    "Laura Pérez-Altable",
+    "Universidad del Valle",
+    "Cali",
+    "Colombiab Departament",
+    "de Comunicació",
+    "Universitat Pompeu Fabra",
+    "Barcelona",
+    "Spain"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-10-03T00:51:17.785Z",
+  "language": "en",
+  "raw_title": "Interdependent Autonomy: How Digital-Native Media Adapt to Compound Constraints in Flawed Democracies",
+  "raw_abstract": "This study investigates how digital-native media adapt their practices, organizational models, and community relationships when operating under the compound constraints characteristic of flawed democracies. Using a mixed-methods design structured around a case study of La Silla Vacía and Colombiacheck, two Colombian digital-native media outlets, the research integrates a mapping of 46 outlets in the Colombian digital ecosystem, content analysis of 701 articles published by both outlets (189 in depth), and 18 interviews with media ecosystem actors. The analysis identifies four interrelated adaptive dimensions, structural, methodological, territorial-digital, and relational, that respond to specific tensions between immediacy and rigor, digital reach and territorial presence, editorial independence and financial sustainability, and community engagement and journalistic objectivity. These dimensions converge in the concept of interdependent autonomy, the central theoretical contribution: editorial independence is preserved not despite but through the strategic diversification of alliances with other media, academia, civil society, and international cooperation. The findings demonstrate that in flawed democracies adaptation operates as a constitutive process, where compound constraints catalyze innovations that transcend the Colombian context for the understanding of journalism under democratic fragility globally.",
+  "raw_keywords": [
+    "digital native media",
+    "flawed democracy",
+    "editorial independence",
+    "financial sustainability",
+    "news objectivity",
+    "community participation",
+    "media alliances",
+    "Colombian journalism",
+    "democratic fragility",
+    "media adaptation"
+  ],
+  "title_en": "Interdependent Autonomy: How Digital-Native Media Adapt to Compound Constraints in Flawed Democracies",
+  "title_zh": "Interdependent Autonomy: How Digital-Native Media Adapt to Compound Constraints in Flawed Democracies",
+  "abstract_en": "This study investigates how digital-native media adapt their practices, organizational models, and community relationships when operating under the compound constraints characteristic of flawed democracies. Using a mixed-methods design structured around a case study of La Silla Vacía and Colombiacheck, two Colombian digital-native media outlets, the research integrates a mapping of 46 outlets in the Colombian digital ecosystem, content analysis of 701 articles published by both outlets (189 in depth), and 18 interviews with media ecosystem actors. The analysis identifies four interrelated adaptive dimensions, structural, methodological, territorial-digital, and relational, that respond to specific tensions between immediacy and rigor, digital reach and territorial presence, editorial independence and financial sustainability, and community engagement and journalistic objectivity. These dimensions converge in the concept of interdependent autonomy, the central theoretical contribution: editorial independence is preserved not despite but through the strategic diversification of alliances with other media, academia, civil society, and international cooperation. The findings demonstrate that in flawed democracies adaptation operates as a constitutive process, where compound constraints catalyze innovations that transcend the Colombian context for the understanding of journalism under democratic fragility globally.",
+  "abstract_zh": "This study investigates how digital-native media adapt their practices, organizational models, and community relationships when operating under the compound constraints characteristic of flawed democracies. Using a mixed-methods design structured around a case study of La Silla Vacía and Colombiacheck, two Colombian digital-native media outlets, the research integrates a mapping of 46 outlets in the Colombian digital ecosystem, content analysis of 701 articles published by both outlets (189 in depth), and 18 interviews with media ecosystem actors. The analysis identifies four interrelated adaptive dimensions, structural, methodological, territorial-digital, and relational, that respond to specific tensions between immediacy and rigor, digital reach and territorial presence, editorial independence and financial sustainability, and community engagement and journalistic objectivity. These dimensions converge in the concept of interdependent autonomy, the central theoretical contribution: editorial independence is preserved not despite but through the strategic diversification of alliances with other media, academia, civil society, and international cooperation. The findings demonstrate that in flawed democracies adaptation operates as a constitutive process, where compound constraints catalyze innovations that transcend the Colombian context for the understanding of journalism under democratic fragility globally.",
+  "keywords_en": [
+    "digital native media",
+    "flawed democracy",
+    "editorial independence",
+    "financial sustainability",
+    "news objectivity",
+    "community participation",
+    "media alliances",
+    "Colombian journalism",
+    "democratic fragility",
+    "media adaptation"
+  ],
+  "keywords_zh": [
+    "digital native media",
+    "flawed democracy",
+    "editorial independence",
+    "financial sustainability",
+    "news objectivity",
+    "community participation",
+    "media alliances",
+    "Colombian journalism",
+    "democratic fragility",
+    "media adaptation"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Interdependent Autonomy: How Digital-Native Media Adapt to Compound Constraints in Flawed Democracies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is digital native media, flawed democracy, editorial independence, financial sustainability. The abstract suggests a interview, content analysis, case study approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Interdependent Autonomy: How Digital-Native Media Adapt to Compound Constraints in Flawed Democracies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is digital native media, flawed democracy, editorial independence, financial sustainability. The abstract suggests a interview, content analysis, case study approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around digital native media, flawed democracy, editorial independence, financial sustainability, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around digital native media, flawed democracy, editorial independence, financial sustainability, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "interview",
+    "content analysis",
+    "case study"
+  ],
+  "method_tags_en": [
+    "interview",
+    "content analysis",
+    "case study"
+  ]
+}

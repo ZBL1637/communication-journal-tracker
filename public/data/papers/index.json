@@ -1,5 +1,866 @@
 [
   {
+    "id": "political-communication-35e0b7a4b4ab",
+    "doi": "10.1080/10584609.2026.2735922",
+    "url": "https://doi.org/10.1080/10584609.2026.2735922",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-10-01T07:52:34.000Z",
+    "authors": [
+      "Gustavo Luiz Venturelli",
+      "Paolo Ricci",
+      "Guilherme Tiengo",
+      "Raphaela Martins",
+      "Guedes Azevedo Velho",
+      "Gustavo Venturelli",
+      "Stetson",
+      "DeLand",
+      "FL",
+      "USAb",
+      "Sao Paulo",
+      "NY",
+      "USA. She is currently a Performance Marketing Specialist at Beatly in Gothenburg",
+      "Sweden."
+    ],
+    "title_en": "When Populism? Consistent and Opportunistic Populist Communication in the 2022 Brazilian Presidential Elections",
+    "title_zh": "When Populism? Consistent and Opportunistic Populist Communication in the 2022 Brazilian Presidential Elections",
+    "keywords_en": [
+      "Political science",
+      "Presidential system",
+      "Political economy"
+    ],
+    "keywords_zh": [
+      "Political science",
+      "Presidential system",
+      "Political economy"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies When Populism? Consistent and Opportunistic Populist Communication in the 2022 Brazilian Presidential Elections. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Political science, Presidential system, Political economy. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies When Populism? Consistent and Opportunistic Populist Communication in the 2022 Brazilian Presidential Elections. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Political science, Presidential system, Political economy. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Political science, Presidential system, Political economy, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Political science, Presidential system, Political economy, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:07.616Z"
+  },
+  {
+    "id": "digital-journalism-a95206ec9175",
+    "doi": "10.1080/21670811.2026.2735954",
+    "url": "https://doi.org/10.1080/21670811.2026.2735954",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-30T05:20:42.000Z",
+    "authors": [
+      "T.J. Thomson",
+      "Ryan J. Thomas",
+      "Shangyuan Wu",
+      "Iuliia Alieva",
+      "T. J. Thomson"
+    ],
+    "title_en": "Visibility, Power, and the Battle for Truth in an AI Age",
+    "title_zh": "Visibility, Power, and the Battle for Truth in an AI Age",
+    "keywords_en": [
+      "visual journalism",
+      "generative AI",
+      "algorithms",
+      "logocentrism",
+      "epistemic crisis",
+      "visual representation",
+      "visual style",
+      "media trust",
+      "technological change in journalism"
+    ],
+    "keywords_zh": [
+      "visual journalism",
+      "generative AI",
+      "algorithms",
+      "logocentrism",
+      "epistemic crisis",
+      "visual representation",
+      "visual style",
+      "media trust",
+      "technological change in journalism"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Visibility, Power, and the Battle for Truth in an AI Age. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is visual journalism, generative AI, algorithms, logocentrism. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Visibility, Power, and the Battle for Truth in an AI Age. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is visual journalism, generative AI, algorithms, logocentrism. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around visual journalism, generative AI, algorithms, logocentrism, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around visual journalism, generative AI, algorithms, logocentrism, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:11.782Z"
+  },
+  {
+    "id": "digital-journalism-71dba1e01be5",
+    "doi": "10.1080/21670811.2026.2729391",
+    "url": "https://doi.org/10.1080/21670811.2026.2729391",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-23T04:33:46.000Z",
+    "authors": [
+      "Tali Aharoni",
+      "Amy Ross Arguedas",
+      "Sayan Banerjee",
+      "Camila Mont’Alverne",
+      "Benjamin Toff",
+      "Rasmus Kleis Nielsen",
+      "Richard Fletcher",
+      "Hebrew",
+      "Jerusalem",
+      "Israelb Reuters",
+      "Oxford",
+      "UKc",
+      "Texas Tech",
+      "Lubbock",
+      "TX",
+      "USAd",
+      "Glasgow",
+      "UKe Hubbard",
+      "Minnesota Twin Cities",
+      "Minneapolis",
+      "MN",
+      "USAf",
+      "Denmark"
+    ],
+    "title_en": "“Having Fun and Learning Something”: How Users in Four Countries Define What News Is – and Is Not",
+    "title_zh": "“Having Fun and Learning Something”: How Users in Four Countries Define What News Is – and Is Not",
+    "keywords_en": [
+      "definition of news",
+      "news consumption",
+      "cross-cultural comparison"
+    ],
+    "keywords_zh": [
+      "definition of news",
+      "news consumption",
+      "cross-cultural comparison"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies “Having Fun and Learning Something”: How Users in Four Countries Define What News Is – and Is Not. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is definition of news, news consumption, cross-cultural comparison. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies “Having Fun and Learning Something”: How Users in Four Countries Define What News Is – and Is Not. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is definition of news, news consumption, cross-cultural comparison. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around definition of news, news consumption, cross-cultural comparison, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around definition of news, news consumption, cross-cultural comparison, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:21.339Z"
+  },
+  {
+    "id": "digital-journalism-7db524cc7eed",
+    "doi": "10.1080/21670811.2026.2733609",
+    "url": "https://doi.org/10.1080/21670811.2026.2733609",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-22T10:12:38.000Z",
+    "authors": [
+      "Sang Jung Kim",
+      "Iowa City",
+      "IA",
+      "USA"
+    ],
+    "title_en": "Toward Epistemic Resilience: Reimagining Visual Journalism Through Continuity",
+    "title_zh": "Toward Epistemic Resilience: Reimagining Visual Journalism Through Continuity",
+    "keywords_en": [
+      "visual journalism",
+      "epistemic resilience",
+      "continuity",
+      "future of journalism"
+    ],
+    "keywords_zh": [
+      "visual journalism",
+      "epistemic resilience",
+      "continuity",
+      "future of journalism"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Toward Epistemic Resilience: Reimagining Visual Journalism Through Continuity. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is visual journalism, epistemic resilience, continuity, future of journalism. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Toward Epistemic Resilience: Reimagining Visual Journalism Through Continuity. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is visual journalism, epistemic resilience, continuity, future of journalism. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around visual journalism, epistemic resilience, continuity, future of journalism, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around visual journalism, epistemic resilience, continuity, future of journalism, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:11.453Z"
+  },
+  {
+    "id": "political-communication-24a78d1bae68",
+    "doi": "10.1080/10584609.2026.2735919",
+    "url": "https://doi.org/10.1080/10584609.2026.2735919",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-09-22T02:39:21.000Z",
+    "authors": [
+      "Daniel Kreiss",
+      "Kate Wright",
+      "a Hussman",
+      "North Carolina",
+      "Chapel Hillb",
+      "Politics and",
+      "International Relations",
+      "AI, autocratization, and international political economy."
+    ],
+    "title_en": "Political Actors and Their Media Practices: Analyzing the Role of Media Participation in Democratic Backsliding and Resilience",
+    "title_zh": "Political Actors and Their Media Practices: Analyzing the Role of Media Participation in Democratic Backsliding and Resilience",
+    "keywords_en": [
+      "democratic backsliding",
+      "democratic resilience",
+      "false identity",
+      "disinformation",
+      "opposition mobilization",
+      "media infrastructure"
+    ],
+    "keywords_zh": [
+      "democratic backsliding",
+      "democratic resilience",
+      "false identity",
+      "disinformation",
+      "opposition mobilization",
+      "media infrastructure"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Political Actors and Their Media Practices: Analyzing the Role of Media Participation in Democratic Backsliding and Resilience. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is democratic backsliding, democratic resilience, false identity, disinformation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Political Actors and Their Media Practices: Analyzing the Role of Media Participation in Democratic Backsliding and Resilience. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is democratic backsliding, democratic resilience, false identity, disinformation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around democratic backsliding, democratic resilience, false identity, disinformation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around democratic backsliding, democratic resilience, false identity, disinformation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:03.944Z"
+  },
+  {
+    "id": "digital-journalism-d2e1241a4f18",
+    "doi": "10.1080/21670811.2026.2733607",
+    "url": "https://doi.org/10.1080/21670811.2026.2733607",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-21T11:12:47.000Z",
+    "authors": [
+      "Rasmus Schmøkel",
+      "Kim Viborg Andersen",
+      "Morten Skovsgaard",
+      "Rasmus W. Schmøkel",
+      "Kim Andersen",
+      "Rasmus W. Schmøkel Kim Andersen Morten Skovsgaard a Digital Democracy",
+      "Southern Denmark",
+      "Odense M",
+      "Denmarkb",
+      "Denmark"
+    ],
+    "title_en": "The Matthew Effect of Social Media Algorithms: News Avoidance and Polarisation of News Consumption",
+    "title_zh": "The Matthew Effect of Social Media Algorithms: News Avoidance and Polarisation of News Consumption",
+    "keywords_en": [
+      "Matthew effect",
+      "social media algorithms",
+      "news avoidance",
+      "news consumption",
+      "information avoidance",
+      "algorithmic curation",
+      "news recommendation",
+      "information polarization",
+      "entertainment preferences",
+      "information deficit",
+      "hybrid media environment"
+    ],
+    "keywords_zh": [
+      "Matthew effect",
+      "social media algorithms",
+      "news avoidance",
+      "news consumption",
+      "information avoidance",
+      "algorithmic curation",
+      "news recommendation",
+      "information polarization",
+      "entertainment preferences",
+      "information deficit",
+      "hybrid media environment"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies The Matthew Effect of Social Media Algorithms: News Avoidance and Polarisation of News Consumption. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Matthew effect, social media algorithms, news avoidance, news consumption. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies The Matthew Effect of Social Media Algorithms: News Avoidance and Polarisation of News Consumption. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Matthew effect, social media algorithms, news avoidance, news consumption. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Matthew effect, social media algorithms, news avoidance, news consumption, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Matthew effect, social media algorithms, news avoidance, news consumption, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "experiment",
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "experiment",
+      "computational analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:19.750Z"
+  },
+  {
+    "id": "digital-journalism-b65ff9ea7e68",
+    "doi": "10.1080/21670811.2026.2733605",
+    "url": "https://doi.org/10.1080/21670811.2026.2733605",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-20T07:12:15.000Z",
+    "authors": [
+      "Baohua Zhou",
+      "Enze Liu",
+      "Fudan",
+      "Shanghai",
+      "P. R.",
+      "Chinab Journalism",
+      "Chinac MOE",
+      "P. R. China"
+    ],
+    "title_en": "How News Media Adapt to the Logic of WeChat Video Channels: A Multi-Modal Analysis of News Media Short Videos",
+    "title_zh": "How News Media Adapt to the Logic of WeChat Video Channels: A Multi-Modal Analysis of News Media Short Videos",
+    "keywords_en": [
+      "news media",
+      "WeChat",
+      "short-form video",
+      "video adaptation",
+      "multimodal analysis",
+      "social networking sites",
+      "news production",
+      "platform logic"
+    ],
+    "keywords_zh": [
+      "news media",
+      "WeChat",
+      "short-form video",
+      "video adaptation",
+      "multimodal analysis",
+      "social networking sites",
+      "news production",
+      "platform logic"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies How News Media Adapt to the Logic of WeChat Video Channels: A Multi-Modal Analysis of News Media Short Videos. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is news media, WeChat, short-form video, video adaptation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies How News Media Adapt to the Logic of WeChat Video Channels: A Multi-Modal Analysis of News Media Short Videos. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is news media, WeChat, short-form video, video adaptation. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around news media, WeChat, short-form video, video adaptation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around news media, WeChat, short-form video, video adaptation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:17.540Z"
+  },
+  {
+    "id": "digital-journalism-518f6c168e21",
+    "doi": "10.1080/21670811.2026.2730312",
+    "url": "https://doi.org/10.1080/21670811.2026.2730312",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-18T07:36:12.000Z",
+    "authors": [
+      "Yael de Haan",
+      "Rijk van",
+      "den Broek",
+      "Yael de",
+      "Haan Rijk",
+      "van den Broek",
+      "Applied Sciences Utrecht",
+      "Utrecht",
+      "Netherlands"
+    ],
+    "title_en": "The Informed Citizen in Local Communities: A User-Centred Study on How the Public Values Local Journalism",
+    "title_zh": "The Informed Citizen in Local Communities: A User-Centred Study on How the Public Values Local Journalism",
+    "keywords_en": [
+      "local news",
+      "public value",
+      "informed citizens",
+      "user-centered design",
+      "citizen participation"
+    ],
+    "keywords_zh": [
+      "local news",
+      "public value",
+      "informed citizens",
+      "user-centered design",
+      "citizen participation"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies The Informed Citizen in Local Communities: A User-Centred Study on How the Public Values Local Journalism. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is local news, public value, informed citizens, user-centered design. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies The Informed Citizen in Local Communities: A User-Centred Study on How the Public Values Local Journalism. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is local news, public value, informed citizens, user-centered design. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around local news, public value, informed citizens, user-centered design, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around local news, public value, informed citizens, user-centered design, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:15.420Z"
+  },
+  {
+    "id": "political-communication-06408c454036",
+    "doi": "10.1080/10584609.2026.2722250",
+    "url": "https://doi.org/10.1080/10584609.2026.2722250",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-09-18T01:14:05.000Z",
+    "authors": [
+      "Tae Hyun Lim",
+      "Yu Jeong Hwang",
+      "Tae Hyun Lim Yu Jeong Hwang a Data Science/Analysis",
+      "Hamilton",
+      "Clinton",
+      "USAb",
+      "Tucson",
+      "USATae Hyun Lim (Ph.D. in Political Science"
+    ],
+    "title_en": "Does Office Type Determine Gendered Campaign Messages?",
+    "title_zh": "Does Office Type Determine Gendered Campaign Messages?",
+    "keywords_en": [
+      "women candidates",
+      "electoral institutions",
+      "relational language",
+      "women's policy",
+      "parliamentary elections",
+      "executive elections",
+      "subnational elections",
+      "South Korea"
+    ],
+    "keywords_zh": [
+      "women candidates",
+      "electoral institutions",
+      "relational language",
+      "women's policy",
+      "parliamentary elections",
+      "executive elections",
+      "subnational elections",
+      "South Korea"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Does Office Type Determine Gendered Campaign Messages?. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is women candidates, electoral institutions, relational language, women's policy. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Does Office Type Determine Gendered Campaign Messages?. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is women candidates, electoral institutions, relational language, women's policy. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around women candidates, electoral institutions, relational language, women's policy, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around women candidates, electoral institutions, relational language, women's policy, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:03.880Z"
+  },
+  {
+    "id": "digital-journalism-3d65629fdd13",
+    "doi": "10.1080/21670811.2026.2733610",
+    "url": "https://doi.org/10.1080/21670811.2026.2733610",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-17T12:33:35.000Z",
+    "authors": [
+      "Stuart Allan",
+      "Media and",
+      "Culture at Cardiff",
+      "UK"
+    ],
+    "title_en": "Visions of Visual Journalism in AI-Futures",
+    "title_zh": "Visions of Visual Journalism in AI-Futures",
+    "keywords_en": [
+      "visual journalism",
+      "artificial intelligence",
+      "future of journalism",
+      "AI-generated images",
+      "image interpretation"
+    ],
+    "keywords_zh": [
+      "visual journalism",
+      "artificial intelligence",
+      "future of journalism",
+      "AI-generated images",
+      "image interpretation"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Visions of Visual Journalism in AI-Futures. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is visual journalism, artificial intelligence, future of journalism, AI-generated images. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Visions of Visual Journalism in AI-Futures. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is visual journalism, artificial intelligence, future of journalism, AI-generated images. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around visual journalism, artificial intelligence, future of journalism, AI-generated images, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around visual journalism, artificial intelligence, future of journalism, AI-generated images, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:11.386Z"
+  },
+  {
+    "id": "digital-journalism-8c1a7e3ba0d0",
+    "doi": "10.1080/21670811.2026.2733615",
+    "url": "https://doi.org/10.1080/21670811.2026.2733615",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-17T03:35:44.000Z",
+    "authors": [
+      "Kevin Alexis García",
+      "Javier Díaz-Noci",
+      "Laura Pérez-Altable",
+      "Universidad del Valle",
+      "Cali",
+      "Colombiab Departament",
+      "de Comunicació",
+      "Universitat Pompeu Fabra",
+      "Barcelona",
+      "Spain"
+    ],
+    "title_en": "Interdependent Autonomy: How Digital-Native Media Adapt to Compound Constraints in Flawed Democracies",
+    "title_zh": "Interdependent Autonomy: How Digital-Native Media Adapt to Compound Constraints in Flawed Democracies",
+    "keywords_en": [
+      "digital native media",
+      "flawed democracy",
+      "editorial independence",
+      "financial sustainability",
+      "news objectivity",
+      "community participation",
+      "media alliances",
+      "Colombian journalism",
+      "democratic fragility",
+      "media adaptation"
+    ],
+    "keywords_zh": [
+      "digital native media",
+      "flawed democracy",
+      "editorial independence",
+      "financial sustainability",
+      "news objectivity",
+      "community participation",
+      "media alliances",
+      "Colombian journalism",
+      "democratic fragility",
+      "media adaptation"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Interdependent Autonomy: How Digital-Native Media Adapt to Compound Constraints in Flawed Democracies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is digital native media, flawed democracy, editorial independence, financial sustainability. The abstract suggests a interview, content analysis, case study approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Interdependent Autonomy: How Digital-Native Media Adapt to Compound Constraints in Flawed Democracies. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is digital native media, flawed democracy, editorial independence, financial sustainability. The abstract suggests a interview, content analysis, case study approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around digital native media, flawed democracy, editorial independence, financial sustainability, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around digital native media, flawed democracy, editorial independence, financial sustainability, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "interview",
+      "content analysis",
+      "case study"
+    ],
+    "method_tags_en": [
+      "interview",
+      "content analysis",
+      "case study"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:17.785Z"
+  },
+  {
+    "id": "digital-journalism-c1b49ec39195",
+    "doi": "10.1080/21670811.2026.2730335",
+    "url": "https://doi.org/10.1080/21670811.2026.2730335",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-16T06:44:06.000Z",
+    "authors": [
+      "Ximena Orchard",
+      "Bastián González‐Bustamante",
+      "Carla Cisternas",
+      "Bastián González-Bustamante",
+      "a Journalism",
+      "Pontificia Universidad",
+      "Católica de Chile",
+      "Santiago",
+      "Chileb",
+      "Administration and Economics",
+      "Universidad Diego Portales",
+      "Chilec",
+      "Leiden",
+      "Netherlands"
+    ],
+    "title_en": "Amplification, Contestation, and Toxic Interactions with Protest News: How Social Upheaval Reshapes Dynamics between News Organisations and Their Audiences",
+    "title_zh": "Amplification, Contestation, and Toxic Interactions with Protest News: How Social Upheaval Reshapes Dynamics between News Organisations and Their Audiences",
+    "keywords_en": [
+      "social media amplification",
+      "toxic comments",
+      "traditional media",
+      "alternative media",
+      "2019 Chilean protests",
+      "news organizations"
+    ],
+    "keywords_zh": [
+      "social media amplification",
+      "toxic comments",
+      "traditional media",
+      "alternative media",
+      "2019 Chilean protests",
+      "news organizations"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Amplification, Contestation, and Toxic Interactions with Protest News: How Social Upheaval Reshapes Dynamics between News Organisations and Their Audiences. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is social media amplification, toxic comments, traditional media, alternative media. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Amplification, Contestation, and Toxic Interactions with Protest News: How Social Upheaval Reshapes Dynamics between News Organisations and Their Audiences. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is social media amplification, toxic comments, traditional media, alternative media. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around social media amplification, toxic comments, traditional media, alternative media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around social media amplification, toxic comments, traditional media, alternative media, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "computational analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:17.385Z"
+  },
+  {
+    "id": "political-communication-e20d0c8d4765",
+    "doi": "10.1080/10584609.2026.2733316",
+    "url": "https://doi.org/10.1080/10584609.2026.2733316",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-09-16T01:51:30.000Z",
+    "authors": [
+      "André K. Rodarte",
+      "André K.",
+      "Rodarte Digital Democracy",
+      "Southern Denmark",
+      "Odense"
+    ],
+    "title_en": "The Democratic Cost of Pursuing Virality: A Study into Parliamentary Communications",
+    "title_zh": "The Democratic Cost of Pursuing Virality: A Study into Parliamentary Communications",
+    "keywords_en": [
+      "parliamentary communication",
+      "social media engagement",
+      "mediatization of politics",
+      "platform incentives",
+      "political accountability",
+      "Facebook",
+      "Instagram",
+      "Twitter"
+    ],
+    "keywords_zh": [
+      "parliamentary communication",
+      "social media engagement",
+      "mediatization of politics",
+      "platform incentives",
+      "political accountability",
+      "Facebook",
+      "Instagram",
+      "Twitter"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies The Democratic Cost of Pursuing Virality: A Study into Parliamentary Communications. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is parliamentary communication, social media engagement, mediatization of politics, platform incentives. The abstract suggests a interview, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies The Democratic Cost of Pursuing Virality: A Study into Parliamentary Communications. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is parliamentary communication, social media engagement, mediatization of politics, platform incentives. The abstract suggests a interview, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around parliamentary communication, social media engagement, mediatization of politics, platform incentives, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around parliamentary communication, social media engagement, mediatization of politics, platform incentives, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "interview",
+      "computational analysis"
+    ],
+    "method_tags_en": [
+      "interview",
+      "computational analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:06.098Z"
+  },
+  {
+    "id": "digital-journalism-a0c10683debc",
+    "doi": "10.1080/21670811.2026.2730327",
+    "url": "https://doi.org/10.1080/21670811.2026.2730327",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-15T07:38:12.000Z",
+    "authors": [
+      "Diego Gómez-Zará",
+      "Hernan Valdivieso",
+      "Jorge Pérez",
+      "Denis Parra",
+      "Sebastián Valenzuela",
+      "Hernán Valdivieso",
+      "Diego Gómez-Zará Hernán Valdivieso Jorge Pérez Denis Parra Sebastián Valenzuela",
+      "Notre Dame",
+      "Indiana",
+      "USAb",
+      "Pontificia Universidad",
+      "Católica de Chile",
+      "Santiago",
+      "Chilec CERO.AI",
+      "Chiled Millennium",
+      "Chilee",
+      "Chilef Nucleus",
+      "on Digital",
+      "Inequalities and Opportunities",
+      "Chile"
+    ],
+    "title_en": "Revisiting Framing Codebooks with AI: Employing Large Language Models as Analytical Collaborators in Deductive Content Analysis",
+    "title_zh": "Revisiting Framing Codebooks with AI: Employing Large Language Models as Analytical Collaborators in Deductive Content Analysis",
+    "keywords_en": [
+      "large language models",
+      "news framing",
+      "media coverage",
+      "Latin American news",
+      "theoretical framework",
+      "research methodology"
+    ],
+    "keywords_zh": [
+      "large language models",
+      "news framing",
+      "media coverage",
+      "Latin American news",
+      "theoretical framework",
+      "research methodology"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Revisiting Framing Codebooks with AI: Employing Large Language Models as Analytical Collaborators in Deductive Content Analysis. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is large language models, news framing, media coverage, Latin American news. The abstract suggests a content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Revisiting Framing Codebooks with AI: Employing Large Language Models as Analytical Collaborators in Deductive Content Analysis. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is large language models, news framing, media coverage, Latin American news. The abstract suggests a content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around large language models, news framing, media coverage, Latin American news, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around large language models, news framing, media coverage, Latin American news, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "content analysis"
+    ],
+    "method_tags_en": [
+      "content analysis"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:13.769Z"
+  },
+  {
+    "id": "political-communication-bed561083ad8",
+    "doi": "10.1080/10584609.2026.2729428",
+    "url": "https://doi.org/10.1080/10584609.2026.2729428",
+    "journalName": "POLITICAL COMMUNICATION",
+    "journalSlug": "political-communication",
+    "issn": "1058-4609",
+    "publishedAt": "2026-09-14T07:10:32.000Z",
+    "authors": [
+      "Ariel Hasell",
+      "Sedona Chinn",
+      "Ann Arbor",
+      "MI",
+      "USAb",
+      "Madison",
+      "WI"
+    ],
+    "title_en": "Do Your Own Research: What Skepticism of Expertise Means for the News Media in the U.S.",
+    "title_zh": "Do Your Own Research: What Skepticism of Expertise Means for the News Media in the U.S.",
+    "keywords_en": [
+      "2020 US presidential election",
+      "belief accuracy",
+      "information seeking",
+      "misinformation"
+    ],
+    "keywords_zh": [
+      "2020 US presidential election",
+      "belief accuracy",
+      "information seeking",
+      "misinformation"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Do Your Own Research: What Skepticism of Expertise Means for the News Media in the U.S.. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is 2020 US presidential election, belief accuracy, information seeking, misinformation. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Do Your Own Research: What Skepticism of Expertise Means for the News Media in the U.S.. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is 2020 US presidential election, belief accuracy, information seeking, misinformation. The abstract suggests a survey approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around 2020 US presidential election, belief accuracy, information seeking, misinformation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around 2020 US presidential election, belief accuracy, information seeking, misinformation, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "survey"
+    ],
+    "method_tags_en": [
+      "survey"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:05.390Z"
+  },
+  {
+    "id": "digital-journalism-99a07fe63934",
+    "doi": "10.1080/21670811.2026.2730300",
+    "url": "https://doi.org/10.1080/21670811.2026.2730300",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-09-12T12:14:21.000Z",
+    "authors": [
+      "Katharina Schöppl",
+      "Christian Schwarzenegger",
+      "Mannheim",
+      "Germanyb",
+      "Bremen",
+      "Germany"
+    ],
+    "title_en": "In Search of Emotional Comfort Zones: The Role of Exceptionality, Victimhood and Normality for Alternative Media Use",
+    "title_zh": "In Search of Emotional Comfort Zones: The Role of Exceptionality, Victimhood and Normality for Alternative Media Use",
+    "keywords_en": [
+      "exceptionality",
+      "victimhood",
+      "normality",
+      "media use",
+      "emotional well-being"
+    ],
+    "keywords_zh": [
+      "exceptionality",
+      "victimhood",
+      "normality",
+      "media use",
+      "emotional well-being"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies In Search of Emotional Comfort Zones: The Role of Exceptionality, Victimhood and Normality for Alternative Media Use. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is exceptionality, victimhood, normality, media use. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies In Search of Emotional Comfort Zones: The Role of Exceptionality, Victimhood and Normality for Alternative Media Use. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is exceptionality, victimhood, normality, media use. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around exceptionality, victimhood, normality, media use, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around exceptionality, victimhood, normality, media use, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-03T00:51:15.062Z"
+  },
+  {
     "id": "digital-journalism-9f21aa324ba5",
     "doi": "10.1080/21670811.2026.2729388",
     "url": "https://doi.org/10.1080/21670811.2026.2729388",

@@ -1,0 +1,76 @@
+{
+  "id": "digital-journalism-a0c10683debc",
+  "doi": "10.1080/21670811.2026.2730327",
+  "url": "https://doi.org/10.1080/21670811.2026.2730327",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-09-15T07:38:12.000Z",
+  "authors": [
+    "Diego Gómez-Zará",
+    "Hernan Valdivieso",
+    "Jorge Pérez",
+    "Denis Parra",
+    "Sebastián Valenzuela",
+    "Hernán Valdivieso",
+    "Diego Gómez-Zará Hernán Valdivieso Jorge Pérez Denis Parra Sebastián Valenzuela",
+    "Notre Dame",
+    "Indiana",
+    "USAb",
+    "Pontificia Universidad",
+    "Católica de Chile",
+    "Santiago",
+    "Chilec CERO.AI",
+    "Chiled Millennium",
+    "Chilee",
+    "Chilef Nucleus",
+    "on Digital",
+    "Inequalities and Opportunities",
+    "Chile"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-10-03T00:51:13.769Z",
+  "language": "en",
+  "raw_title": "Revisiting Framing Codebooks with AI: Employing Large Language Models as Analytical Collaborators in Deductive Content Analysis",
+  "raw_abstract": "Codebooks are central to framing research, providing theoretically grounded criteria for analyzing news content. While traditionally codebooks are built from theoretical frameworks and researchers' knowledge, applying these codebooks to large news corpora often exposes ambiguities, borderline cases, and underspecified rules that are difficult to resolve through theory alone. Moreover, news corpora evolve over time and differ across cultures, necessitating that researchers revisit the theoretical frameworks underlying these codebooks. In this article, we propose a workflow that uses Large Language Models (LLMs) to augment the creation and refinement of framing codebooks by combining theoretical frameworks with data-driven exploration. Rather than treating LLMs as automated classifiers, this approach positions them as analytic collaborators that help externalize decision rules, surface latent dimensions, and support iterative revisions of codebooks through dialogues between researchers and their data. We illustrate this workflow using a dataset of Latin American news coverage, demonstrating how the application of LLMs' capabilities has led to the surfacing of latent patterns, the generation of frame distinctions, and the adaptation of frameworks to new contexts. This method provides an LLM-assisted strategy that supports methodology creativity while preserving researchers' interpretative authority.",
+  "raw_keywords": [
+    "large language models",
+    "news framing",
+    "media coverage",
+    "Latin American news",
+    "theoretical framework",
+    "research methodology"
+  ],
+  "title_en": "Revisiting Framing Codebooks with AI: Employing Large Language Models as Analytical Collaborators in Deductive Content Analysis",
+  "title_zh": "Revisiting Framing Codebooks with AI: Employing Large Language Models as Analytical Collaborators in Deductive Content Analysis",
+  "abstract_en": "Codebooks are central to framing research, providing theoretically grounded criteria for analyzing news content. While traditionally codebooks are built from theoretical frameworks and researchers' knowledge, applying these codebooks to large news corpora often exposes ambiguities, borderline cases, and underspecified rules that are difficult to resolve through theory alone. Moreover, news corpora evolve over time and differ across cultures, necessitating that researchers revisit the theoretical frameworks underlying these codebooks. In this article, we propose a workflow that uses Large Language Models (LLMs) to augment the creation and refinement of framing codebooks by combining theoretical frameworks with data-driven exploration. Rather than treating LLMs as automated classifiers, this approach positions them as analytic collaborators that help externalize decision rules, surface latent dimensions, and support iterative revisions of codebooks through dialogues between researchers and their data. We illustrate this workflow using a dataset of Latin American news coverage, demonstrating how the application of LLMs' capabilities has led to the surfacing of latent patterns, the generation of frame distinctions, and the adaptation of frameworks to new contexts. This method provides an LLM-assisted strategy that supports methodology creativity while preserving researchers' interpretative authority.",
+  "abstract_zh": "Codebooks are central to framing research, providing theoretically grounded criteria for analyzing news content. While traditionally codebooks are built from theoretical frameworks and researchers' knowledge, applying these codebooks to large news corpora often exposes ambiguities, borderline cases, and underspecified rules that are difficult to resolve through theory alone. Moreover, news corpora evolve over time and differ across cultures, necessitating that researchers revisit the theoretical frameworks underlying these codebooks. In this article, we propose a workflow that uses Large Language Models (LLMs) to augment the creation and refinement of framing codebooks by combining theoretical frameworks with data-driven exploration. Rather than treating LLMs as automated classifiers, this approach positions them as analytic collaborators that help externalize decision rules, surface latent dimensions, and support iterative revisions of codebooks through dialogues between researchers and their data. We illustrate this workflow using a dataset of Latin American news coverage, demonstrating how the application of LLMs' capabilities has led to the surfacing of latent patterns, the generation of frame distinctions, and the adaptation of frameworks to new contexts. This method provides an LLM-assisted strategy that supports methodology creativity while preserving researchers' interpretative authority.",
+  "keywords_en": [
+    "large language models",
+    "news framing",
+    "media coverage",
+    "Latin American news",
+    "theoretical framework",
+    "research methodology"
+  ],
+  "keywords_zh": [
+    "large language models",
+    "news framing",
+    "media coverage",
+    "Latin American news",
+    "theoretical framework",
+    "research methodology"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Revisiting Framing Codebooks with AI: Employing Large Language Models as Analytical Collaborators in Deductive Content Analysis. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is large language models, news framing, media coverage, Latin American news. The abstract suggests a content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Revisiting Framing Codebooks with AI: Employing Large Language Models as Analytical Collaborators in Deductive Content Analysis. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is large language models, news framing, media coverage, Latin American news. The abstract suggests a content analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around large language models, news framing, media coverage, Latin American news, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around large language models, news framing, media coverage, Latin American news, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "content analysis"
+  ],
+  "method_tags_en": [
+    "content analysis"
+  ]
+}

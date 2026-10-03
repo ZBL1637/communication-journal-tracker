@@ -1,0 +1,83 @@
+{
+  "id": "digital-journalism-d2e1241a4f18",
+  "doi": "10.1080/21670811.2026.2733607",
+  "url": "https://doi.org/10.1080/21670811.2026.2733607",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-09-21T11:12:47.000Z",
+  "authors": [
+    "Rasmus Schmøkel",
+    "Kim Viborg Andersen",
+    "Morten Skovsgaard",
+    "Rasmus W. Schmøkel",
+    "Kim Andersen",
+    "Rasmus W. Schmøkel Kim Andersen Morten Skovsgaard a Digital Democracy",
+    "Southern Denmark",
+    "Odense M",
+    "Denmarkb",
+    "Denmark"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-10-03T00:51:19.750Z",
+  "language": "en",
+  "raw_title": "The Matthew Effect of Social Media Algorithms: News Avoidance and Polarisation of News Consumption",
+  "raw_abstract": "This study examines the dynamics of news consumption on social media platforms, focusing on how news avoidance motivations interact with algorithm-driven curation to potentially polarise news consumption. Using a novel experimental platform that mimics a social media news feed with a learning-based recommendation algorithm, we conducted a four-wave field experiment with repeated measures. The findings reveal that the interplay between news avoidance motivations and algorithmic influence results in a widening gap in news consumption between users with high and low levels of unintentional news avoidance, but not between users with high and low levels of intentional news avoidance. These results underline the important role of social media algorithms in generating information deficits among people with higher preference for entertainment than for news. Thereby, the study also demonstrates how experimental social media platforms can illuminate the opaque influence of algorithms, revealing otherwise hidden and inaccessible communication dynamics in today’s hybrid media environment.",
+  "raw_keywords": [
+    "Matthew effect",
+    "social media algorithms",
+    "news avoidance",
+    "news consumption",
+    "information avoidance",
+    "algorithmic curation",
+    "news recommendation",
+    "information polarization",
+    "entertainment preferences",
+    "information deficit",
+    "hybrid media environment"
+  ],
+  "title_en": "The Matthew Effect of Social Media Algorithms: News Avoidance and Polarisation of News Consumption",
+  "title_zh": "The Matthew Effect of Social Media Algorithms: News Avoidance and Polarisation of News Consumption",
+  "abstract_en": "This study examines the dynamics of news consumption on social media platforms, focusing on how news avoidance motivations interact with algorithm-driven curation to potentially polarise news consumption. Using a novel experimental platform that mimics a social media news feed with a learning-based recommendation algorithm, we conducted a four-wave field experiment with repeated measures. The findings reveal that the interplay between news avoidance motivations and algorithmic influence results in a widening gap in news consumption between users with high and low levels of unintentional news avoidance, but not between users with high and low levels of intentional news avoidance. These results underline the important role of social media algorithms in generating information deficits among people with higher preference for entertainment than for news. Thereby, the study also demonstrates how experimental social media platforms can illuminate the opaque influence of algorithms, revealing otherwise hidden and inaccessible communication dynamics in today’s hybrid media environment.",
+  "abstract_zh": "This study examines the dynamics of news consumption on social media platforms, focusing on how news avoidance motivations interact with algorithm-driven curation to potentially polarise news consumption. Using a novel experimental platform that mimics a social media news feed with a learning-based recommendation algorithm, we conducted a four-wave field experiment with repeated measures. The findings reveal that the interplay between news avoidance motivations and algorithmic influence results in a widening gap in news consumption between users with high and low levels of unintentional news avoidance, but not between users with high and low levels of intentional news avoidance. These results underline the important role of social media algorithms in generating information deficits among people with higher preference for entertainment than for news. Thereby, the study also demonstrates how experimental social media platforms can illuminate the opaque influence of algorithms, revealing otherwise hidden and inaccessible communication dynamics in today’s hybrid media environment.",
+  "keywords_en": [
+    "Matthew effect",
+    "social media algorithms",
+    "news avoidance",
+    "news consumption",
+    "information avoidance",
+    "algorithmic curation",
+    "news recommendation",
+    "information polarization",
+    "entertainment preferences",
+    "information deficit",
+    "hybrid media environment"
+  ],
+  "keywords_zh": [
+    "Matthew effect",
+    "social media algorithms",
+    "news avoidance",
+    "news consumption",
+    "information avoidance",
+    "algorithmic curation",
+    "news recommendation",
+    "information polarization",
+    "entertainment preferences",
+    "information deficit",
+    "hybrid media environment"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies The Matthew Effect of Social Media Algorithms: News Avoidance and Polarisation of News Consumption. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Matthew effect, social media algorithms, news avoidance, news consumption. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies The Matthew Effect of Social Media Algorithms: News Avoidance and Polarisation of News Consumption. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Matthew effect, social media algorithms, news avoidance, news consumption. The abstract suggests a experiment, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Matthew effect, social media algorithms, news avoidance, news consumption, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Matthew effect, social media algorithms, news avoidance, news consumption, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "experiment",
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "experiment",
+    "computational analysis"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "digital-journalism-a95206ec9175",
+  "doi": "10.1080/21670811.2026.2735954",
+  "url": "https://doi.org/10.1080/21670811.2026.2735954",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-09-30T05:20:42.000Z",
+  "authors": [
+    "T.J. Thomson",
+    "Ryan J. Thomas",
+    "Shangyuan Wu",
+    "Iuliia Alieva",
+    "T. J. Thomson"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-10-03T00:51:11.782Z",
+  "language": "en",
+  "raw_title": "Visibility, Power, and the Battle for Truth in an AI Age",
+  "raw_abstract": "Visual journalism has always been a subjective practice involving questions of power. Whether conveyed through photographs, videos, illustrations, or as data, visual journalism is the process of making some elements more visible and others less so. The means by which this happens and how certain people, topics, or events are shown and represented carries symbolic and political weight. Hence, the link between visibility and power cannot be overstated. The contributions to this special issue examine how technological change is reshaping the forms, practices, power relations, and epistemic foundations of visual journalism. The special issue pushes back against logocentrism, considers how algorithms and GenAI are expanding the gaze, and reflects on the contours of the scholarly field and on how the changing nature and forms of visuals are affecting visual style and representational patterns. It also centres power as inseparable from the making, use, and manipulation of visuals. Ultimately, this special issue ponders the implications of not being able to trust our eyes, and muses about the epistemic crisis GenAI has created, which might harm our vision of a shared reality, more broadly, and the production and reception of visual news, in particular.",
+  "raw_keywords": [
+    "visual journalism",
+    "generative AI",
+    "algorithms",
+    "logocentrism",
+    "epistemic crisis",
+    "visual representation",
+    "visual style",
+    "media trust",
+    "technological change in journalism"
+  ],
+  "title_en": "Visibility, Power, and the Battle for Truth in an AI Age",
+  "title_zh": "Visibility, Power, and the Battle for Truth in an AI Age",
+  "abstract_en": "Visual journalism has always been a subjective practice involving questions of power. Whether conveyed through photographs, videos, illustrations, or as data, visual journalism is the process of making some elements more visible and others less so. The means by which this happens and how certain people, topics, or events are shown and represented carries symbolic and political weight. Hence, the link between visibility and power cannot be overstated. The contributions to this special issue examine how technological change is reshaping the forms, practices, power relations, and epistemic foundations of visual journalism. The special issue pushes back against logocentrism, considers how algorithms and GenAI are expanding the gaze, and reflects on the contours of the scholarly field and on how the changing nature and forms of visuals are affecting visual style and representational patterns. It also centres power as inseparable from the making, use, and manipulation of visuals. Ultimately, this special issue ponders the implications of not being able to trust our eyes, and muses about the epistemic crisis GenAI has created, which might harm our vision of a shared reality, more broadly, and the production and reception of visual news, in particular.",
+  "abstract_zh": "Visual journalism has always been a subjective practice involving questions of power. Whether conveyed through photographs, videos, illustrations, or as data, visual journalism is the process of making some elements more visible and others less so. The means by which this happens and how certain people, topics, or events are shown and represented carries symbolic and political weight. Hence, the link between visibility and power cannot be overstated. The contributions to this special issue examine how technological change is reshaping the forms, practices, power relations, and epistemic foundations of visual journalism. The special issue pushes back against logocentrism, considers how algorithms and GenAI are expanding the gaze, and reflects on the contours of the scholarly field and on how the changing nature and forms of visuals are affecting visual style and representational patterns. It also centres power as inseparable from the making, use, and manipulation of visuals. Ultimately, this special issue ponders the implications of not being able to trust our eyes, and muses about the epistemic crisis GenAI has created, which might harm our vision of a shared reality, more broadly, and the production and reception of visual news, in particular.",
+  "keywords_en": [
+    "visual journalism",
+    "generative AI",
+    "algorithms",
+    "logocentrism",
+    "epistemic crisis",
+    "visual representation",
+    "visual style",
+    "media trust",
+    "technological change in journalism"
+  ],
+  "keywords_zh": [
+    "visual journalism",
+    "generative AI",
+    "algorithms",
+    "logocentrism",
+    "epistemic crisis",
+    "visual representation",
+    "visual style",
+    "media trust",
+    "technological change in journalism"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Visibility, Power, and the Battle for Truth in an AI Age. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is visual journalism, generative AI, algorithms, logocentrism. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Visibility, Power, and the Battle for Truth in an AI Age. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is visual journalism, generative AI, algorithms, logocentrism. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around visual journalism, generative AI, algorithms, logocentrism, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around visual journalism, generative AI, algorithms, logocentrism, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "computational analysis"
+  ]
+}

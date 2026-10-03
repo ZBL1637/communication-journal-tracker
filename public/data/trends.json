@@ -1,44 +1,133 @@
 {
-  "generatedAt": "2026-10-02T01:12:54.597Z",
+  "generatedAt": "2026-10-03T00:51:28.059Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 0,
-      "overview_en": "Across 0 papers, the most visible themes are platforms, news, and public attention. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 0 papers, the most visible themes are platforms, news, and public attention. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
-      "hot_topics_en": [],
-      "hot_topics_zh": [],
-      "high_frequency_keywords": [],
-      "high_frequency_methods": []
+      "paperCount": 2,
+      "overview_en": "Across 2 papers, the most visible themes are Political science, Presidential system, Political economy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 2 papers, the most visible themes are Political science, Presidential system, Political economy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "hot_topics_en": [
+        "Political science",
+        "Presidential system",
+        "Political economy",
+        "visual journalism",
+        "generative AI"
+      ],
+      "hot_topics_zh": [
+        "Political science",
+        "Presidential system",
+        "Political economy",
+        "visual journalism",
+        "generative AI"
+      ],
+      "high_frequency_keywords": [
+        {
+          "label_en": "Political science",
+          "label_zh": "Political science",
+          "count": 1
+        },
+        {
+          "label_en": "Presidential system",
+          "label_zh": "Presidential system",
+          "count": 1
+        },
+        {
+          "label_en": "Political economy",
+          "label_zh": "Political economy",
+          "count": 1
+        },
+        {
+          "label_en": "visual journalism",
+          "label_zh": "visual journalism",
+          "count": 1
+        },
+        {
+          "label_en": "generative AI",
+          "label_zh": "generative AI",
+          "count": 1
+        },
+        {
+          "label_en": "algorithms",
+          "label_zh": "algorithms",
+          "count": 1
+        },
+        {
+          "label_en": "logocentrism",
+          "label_zh": "logocentrism",
+          "count": 1
+        },
+        {
+          "label_en": "epistemic crisis",
+          "label_zh": "epistemic crisis",
+          "count": 1
+        },
+        {
+          "label_en": "visual representation",
+          "label_zh": "visual representation",
+          "count": 1
+        },
+        {
+          "label_en": "visual style",
+          "label_zh": "visual style",
+          "count": 1
+        }
+      ],
+      "high_frequency_methods": [
+        {
+          "label_en": "mixed methods",
+          "label_zh": "mixed methods",
+          "count": 1
+        },
+        {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 1
+        }
+      ]
     },
     {
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 7,
-      "overview_en": "Across 7 papers, the most visible themes are Work (physics), Evidence, Journalism. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 7 papers, the most visible themes are Work (physics), Evidence, Journalism. Researchers most often rely on computational analysis, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 21,
+      "overview_en": "Across 21 papers, the most visible themes are visual journalism, news consumption, future of journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 21 papers, the most visible themes are visual journalism, news consumption, future of journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Work (physics)",
-        "Evidence",
-        "Journalism",
-        "Dynamic",
-        "News"
+        "visual journalism",
+        "news consumption",
+        "future of journalism",
+        "disinformation",
+        "Evidence"
       ],
       "hot_topics_zh": [
-        "Work (physics)",
-        "Evidence",
-        "Journalism",
-        "Dynamic",
-        "News"
+        "visual journalism",
+        "news consumption",
+        "future of journalism",
+        "disinformation",
+        "Evidence"
       ],
       "high_frequency_keywords": [
         {
-          "label_en": "Work (physics)",
-          "label_zh": "Work (physics)",
+          "label_en": "visual journalism",
+          "label_zh": "visual journalism",
           "count": 3
+        },
+        {
+          "label_en": "news consumption",
+          "label_zh": "news consumption",
+          "count": 2
+        },
+        {
+          "label_en": "future of journalism",
+          "label_zh": "future of journalism",
+          "count": 2
+        },
+        {
+          "label_en": "disinformation",
+          "label_zh": "disinformation",
+          "count": 2
         },
         {
           "label_en": "Evidence",
@@ -46,65 +135,65 @@
           "count": 2
         },
         {
-          "label_en": "Journalism",
-          "label_zh": "Journalism",
-          "count": 2
-        },
-        {
-          "label_en": "Dynamic",
-          "label_zh": "Dynamic",
+          "label_en": "Political science",
+          "label_zh": "Political science",
           "count": 1
         },
         {
-          "label_en": "News",
-          "label_zh": "News",
+          "label_en": "Presidential system",
+          "label_zh": "Presidential system",
           "count": 1
         },
         {
-          "label_en": "Visibility",
-          "label_zh": "Visibility",
+          "label_en": "Political economy",
+          "label_zh": "Political economy",
           "count": 1
         },
         {
-          "label_en": "Across",
-          "label_zh": "Across",
+          "label_en": "generative AI",
+          "label_zh": "generative AI",
           "count": 1
         },
         {
-          "label_en": "Sources",
-          "label_zh": "Sources",
-          "count": 1
-        },
-        {
-          "label_en": "And",
-          "label_zh": "And",
-          "count": 1
-        },
-        {
-          "label_en": "The",
-          "label_zh": "The",
+          "label_en": "algorithms",
+          "label_zh": "algorithms",
           "count": 1
         }
       ],
       "high_frequency_methods": [
         {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 2
-        },
-        {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 2
+          "count": 10
+        },
+        {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
+          "count": 6
         },
         {
           "label_en": "interview",
           "label_zh": "interview",
-          "count": 2
+          "count": 3
         },
         {
           "label_en": "experiment",
           "label_zh": "experiment",
+          "count": 2
+        },
+        {
+          "label_en": "content analysis",
+          "label_zh": "content analysis",
+          "count": 2
+        },
+        {
+          "label_en": "case study",
+          "label_zh": "case study",
+          "count": 1
+        },
+        {
+          "label_en": "survey",
+          "label_zh": "survey",
           "count": 1
         }
       ]
@@ -113,9 +202,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 177,
-      "overview_en": "Across 177 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 177 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 193,
+      "overview_en": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -157,6 +246,11 @@
           "count": 15
         },
         {
+          "label_en": "news media",
+          "label_zh": "news media",
+          "count": 13
+        },
+        {
           "label_en": "Political communication",
           "label_zh": "Political communication",
           "count": 13
@@ -167,18 +261,13 @@
           "count": 12
         },
         {
-          "label_en": "News media",
-          "label_zh": "News media",
-          "count": 12
+          "label_en": "misinformation",
+          "label_zh": "misinformation",
+          "count": 8
         },
         {
           "label_en": "Democracy",
           "label_zh": "Democracy",
-          "count": 8
-        },
-        {
-          "label_en": "conversation analysis",
-          "label_zh": "会话分析",
           "count": 8
         }
       ],
@@ -186,37 +275,37 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 52
+          "count": 61
         },
         {
           "label_en": "survey",
           "label_zh": "survey",
+          "count": 25
+        },
+        {
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
           "count": 24
         },
         {
           "label_en": "experiment",
           "label_zh": "experiment",
-          "count": 22
-        },
-        {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 20
+          "count": 23
         },
         {
           "label_en": "interview",
           "label_zh": "interview",
-          "count": 18
+          "count": 20
         },
         {
           "label_en": "case study",
           "label_zh": "case study",
-          "count": 16
+          "count": 17
         },
         {
           "label_en": "content analysis",
           "label_zh": "content analysis",
-          "count": 14
+          "count": 16
         },
         {
           "label_en": "review",
@@ -269,7 +358,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 43,
+      "paperCount": 48,
       "topic_bias_en": [
         "Politics",
         "Social media",
@@ -298,30 +387,30 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 37,
+      "paperCount": 48,
       "topic_bias_en": [
         "Journalism",
         "Social media",
         "Work (physics)",
-        "News media"
+        "news media"
       ],
       "topic_bias_zh": [
         "Journalism",
         "Social media",
         "Work (physics)",
-        "News media"
+        "news media"
       ],
       "method_bias_en": [
         "mixed methods",
+        "computational analysis",
         "interview",
-        "survey",
-        "computational analysis"
+        "experiment"
       ],
       "method_bias_zh": [
         "mixed methods",
+        "computational analysis",
         "interview",
-        "survey",
-        "computational analysis"
+        "experiment"
       ]
     },
     {
@@ -497,6 +586,11 @@
       "count": 15
     },
     {
+      "label_en": "news media",
+      "label_zh": "news media",
+      "count": 13
+    },
+    {
       "label_en": "Political communication",
       "label_zh": "Political communication",
       "count": 13
@@ -507,9 +601,9 @@
       "count": 12
     },
     {
-      "label_en": "News media",
-      "label_zh": "News media",
-      "count": 12
+      "label_en": "misinformation",
+      "label_zh": "misinformation",
+      "count": 8
     },
     {
       "label_en": "Democracy",
@@ -522,51 +616,46 @@
       "count": 8
     },
     {
-      "label_en": "Misinformation",
-      "label_zh": "Misinformation",
+      "label_en": "disinformation",
+      "label_zh": "disinformation",
       "count": 7
-    },
-    {
-      "label_en": "Disinformation",
-      "label_zh": "Disinformation",
-      "count": 6
     }
   ],
   "high_frequency_methods": [
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 52
+      "count": 61
     },
     {
       "label_en": "survey",
       "label_zh": "survey",
+      "count": 25
+    },
+    {
+      "label_en": "computational analysis",
+      "label_zh": "computational analysis",
       "count": 24
     },
     {
       "label_en": "experiment",
       "label_zh": "experiment",
-      "count": 22
-    },
-    {
-      "label_en": "computational analysis",
-      "label_zh": "computational analysis",
-      "count": 20
+      "count": 23
     },
     {
       "label_en": "interview",
       "label_zh": "interview",
-      "count": 18
+      "count": 20
     },
     {
       "label_en": "case study",
       "label_zh": "case study",
-      "count": 16
+      "count": 17
     },
     {
       "label_en": "content analysis",
       "label_zh": "content analysis",
-      "count": 14
+      "count": 16
     },
     {
       "label_en": "review",

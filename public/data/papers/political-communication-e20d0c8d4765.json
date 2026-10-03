@@ -1,0 +1,69 @@
+{
+  "id": "political-communication-e20d0c8d4765",
+  "doi": "10.1080/10584609.2026.2733316",
+  "url": "https://doi.org/10.1080/10584609.2026.2733316",
+  "journalName": "POLITICAL COMMUNICATION",
+  "journalSlug": "political-communication",
+  "issn": "1058-4609",
+  "publishedAt": "2026-09-16T01:51:30.000Z",
+  "authors": [
+    "André K. Rodarte",
+    "André K.",
+    "Rodarte Digital Democracy",
+    "Southern Denmark",
+    "Odense"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-10-03T00:51:06.098Z",
+  "language": "en",
+  "raw_title": "The Democratic Cost of Pursuing Virality: A Study into Parliamentary Communications",
+  "raw_abstract": "The transformation of parliamentarians into media producers has heightened concerns about emerging forms of political communication. This mixed-methods paper examines the strategies they employ to enhance their digital presence. Based on in-depth interviews, it shows that Brazilian parliamentarians believe that social media penalize them for posting about congressional matters, reporting that content about legislative work and constituency services receives little engagement online. Conversely, they view the production of antagonistic content and alignment with news cycles as essential to maintaining an engaging social media presence. A computational analysis of 4,5 million posts on Facebook, Instagram, and Twitter supports these evaluations: posts about congressional matters are associated with lower engagement metrics, while the use of antagonistic language increases them. The analysis further discusses pathways through which visibility is sustained at the intersection of platform incentives and communicative practices. In sum, this mixed-methods study demonstrates that the mediatization of politics has created perverse incentives for parliamentarians to downplay congressional activity and prioritize confrontations on social media, weakening accountability in ways that may resonate far beyond Brazil.",
+  "raw_keywords": [
+    "parliamentary communication",
+    "social media engagement",
+    "mediatization of politics",
+    "platform incentives",
+    "political accountability",
+    "Facebook",
+    "Instagram",
+    "Twitter"
+  ],
+  "title_en": "The Democratic Cost of Pursuing Virality: A Study into Parliamentary Communications",
+  "title_zh": "The Democratic Cost of Pursuing Virality: A Study into Parliamentary Communications",
+  "abstract_en": "The transformation of parliamentarians into media producers has heightened concerns about emerging forms of political communication. This mixed-methods paper examines the strategies they employ to enhance their digital presence. Based on in-depth interviews, it shows that Brazilian parliamentarians believe that social media penalize them for posting about congressional matters, reporting that content about legislative work and constituency services receives little engagement online. Conversely, they view the production of antagonistic content and alignment with news cycles as essential to maintaining an engaging social media presence. A computational analysis of 4,5 million posts on Facebook, Instagram, and Twitter supports these evaluations: posts about congressional matters are associated with lower engagement metrics, while the use of antagonistic language increases them. The analysis further discusses pathways through which visibility is sustained at the intersection of platform incentives and communicative practices. In sum, this mixed-methods study demonstrates that the mediatization of politics has created perverse incentives for parliamentarians to downplay congressional activity and prioritize confrontations on social media, weakening accountability in ways that may resonate far beyond Brazil.",
+  "abstract_zh": "The transformation of parliamentarians into media producers has heightened concerns about emerging forms of political communication. This mixed-methods paper examines the strategies they employ to enhance their digital presence. Based on in-depth interviews, it shows that Brazilian parliamentarians believe that social media penalize them for posting about congressional matters, reporting that content about legislative work and constituency services receives little engagement online. Conversely, they view the production of antagonistic content and alignment with news cycles as essential to maintaining an engaging social media presence. A computational analysis of 4,5 million posts on Facebook, Instagram, and Twitter supports these evaluations: posts about congressional matters are associated with lower engagement metrics, while the use of antagonistic language increases them. The analysis further discusses pathways through which visibility is sustained at the intersection of platform incentives and communicative practices. In sum, this mixed-methods study demonstrates that the mediatization of politics has created perverse incentives for parliamentarians to downplay congressional activity and prioritize confrontations on social media, weakening accountability in ways that may resonate far beyond Brazil.",
+  "keywords_en": [
+    "parliamentary communication",
+    "social media engagement",
+    "mediatization of politics",
+    "platform incentives",
+    "political accountability",
+    "Facebook",
+    "Instagram",
+    "Twitter"
+  ],
+  "keywords_zh": [
+    "parliamentary communication",
+    "social media engagement",
+    "mediatization of politics",
+    "platform incentives",
+    "political accountability",
+    "Facebook",
+    "Instagram",
+    "Twitter"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies The Democratic Cost of Pursuing Virality: A Study into Parliamentary Communications. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is parliamentary communication, social media engagement, mediatization of politics, platform incentives. The abstract suggests a interview, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies The Democratic Cost of Pursuing Virality: A Study into Parliamentary Communications. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is parliamentary communication, social media engagement, mediatization of politics, platform incentives. The abstract suggests a interview, computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around parliamentary communication, social media engagement, mediatization of politics, platform incentives, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around parliamentary communication, social media engagement, mediatization of politics, platform incentives, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "interview",
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "interview",
+    "computational analysis"
+  ]
+}

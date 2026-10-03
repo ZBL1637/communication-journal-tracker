@@ -1,0 +1,70 @@
+{
+  "id": "digital-journalism-c1b49ec39195",
+  "doi": "10.1080/21670811.2026.2730335",
+  "url": "https://doi.org/10.1080/21670811.2026.2730335",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-09-16T06:44:06.000Z",
+  "authors": [
+    "Ximena Orchard",
+    "Bastián González‐Bustamante",
+    "Carla Cisternas",
+    "Bastián González-Bustamante",
+    "a Journalism",
+    "Pontificia Universidad",
+    "Católica de Chile",
+    "Santiago",
+    "Chileb",
+    "Administration and Economics",
+    "Universidad Diego Portales",
+    "Chilec",
+    "Leiden",
+    "Netherlands"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-10-03T00:51:17.385Z",
+  "language": "en",
+  "raw_title": "Amplification, Contestation, and Toxic Interactions with Protest News: How Social Upheaval Reshapes Dynamics between News Organisations and Their Audiences",
+  "raw_abstract": "This study examines audience-media relations in the context of protest coverage, testing how dynamics of news media amplification and contestation in social media compare between legacy and alternative media. Empirically, we use difference-in-differences models to analyse the effects of the 2019 Chilean protests and a subsequent political agreement on audience-media interactions. Additionally, we probe such interactions as spaces for the expression of negative emotions, directed to media outlets as toxic replies. To this end, we apply pre-trained machine learning models to identify toxicity in user comments. Our dataset includes over 21 million posts mentioning 22 Chilean news organisations during a six-month period spanning three months before and after the protests. The findings show overall increased interactions with both media types after the outbreak of the protests, with distinct patterns of response: alternative media was more amplified while legacy media was more contested, reflecting on broader patterns of public media criticism. These results underscore the audience-media dynamic as a foundational element in how protests are portrayed and collectively interpreted.",
+  "raw_keywords": [
+    "social media amplification",
+    "toxic comments",
+    "traditional media",
+    "alternative media",
+    "2019 Chilean protests",
+    "news organizations"
+  ],
+  "title_en": "Amplification, Contestation, and Toxic Interactions with Protest News: How Social Upheaval Reshapes Dynamics between News Organisations and Their Audiences",
+  "title_zh": "Amplification, Contestation, and Toxic Interactions with Protest News: How Social Upheaval Reshapes Dynamics between News Organisations and Their Audiences",
+  "abstract_en": "This study examines audience-media relations in the context of protest coverage, testing how dynamics of news media amplification and contestation in social media compare between legacy and alternative media. Empirically, we use difference-in-differences models to analyse the effects of the 2019 Chilean protests and a subsequent political agreement on audience-media interactions. Additionally, we probe such interactions as spaces for the expression of negative emotions, directed to media outlets as toxic replies. To this end, we apply pre-trained machine learning models to identify toxicity in user comments. Our dataset includes over 21 million posts mentioning 22 Chilean news organisations during a six-month period spanning three months before and after the protests. The findings show overall increased interactions with both media types after the outbreak of the protests, with distinct patterns of response: alternative media was more amplified while legacy media was more contested, reflecting on broader patterns of public media criticism. These results underscore the audience-media dynamic as a foundational element in how protests are portrayed and collectively interpreted.",
+  "abstract_zh": "This study examines audience-media relations in the context of protest coverage, testing how dynamics of news media amplification and contestation in social media compare between legacy and alternative media. Empirically, we use difference-in-differences models to analyse the effects of the 2019 Chilean protests and a subsequent political agreement on audience-media interactions. Additionally, we probe such interactions as spaces for the expression of negative emotions, directed to media outlets as toxic replies. To this end, we apply pre-trained machine learning models to identify toxicity in user comments. Our dataset includes over 21 million posts mentioning 22 Chilean news organisations during a six-month period spanning three months before and after the protests. The findings show overall increased interactions with both media types after the outbreak of the protests, with distinct patterns of response: alternative media was more amplified while legacy media was more contested, reflecting on broader patterns of public media criticism. These results underscore the audience-media dynamic as a foundational element in how protests are portrayed and collectively interpreted.",
+  "keywords_en": [
+    "social media amplification",
+    "toxic comments",
+    "traditional media",
+    "alternative media",
+    "2019 Chilean protests",
+    "news organizations"
+  ],
+  "keywords_zh": [
+    "social media amplification",
+    "toxic comments",
+    "traditional media",
+    "alternative media",
+    "2019 Chilean protests",
+    "news organizations"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Amplification, Contestation, and Toxic Interactions with Protest News: How Social Upheaval Reshapes Dynamics between News Organisations and Their Audiences. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is social media amplification, toxic comments, traditional media, alternative media. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Amplification, Contestation, and Toxic Interactions with Protest News: How Social Upheaval Reshapes Dynamics between News Organisations and Their Audiences. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is social media amplification, toxic comments, traditional media, alternative media. The abstract suggests a computational analysis approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around social media amplification, toxic comments, traditional media, alternative media, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around social media amplification, toxic comments, traditional media, alternative media, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "computational analysis"
+  ],
+  "method_tags_en": [
+    "computational analysis"
+  ]
+}
