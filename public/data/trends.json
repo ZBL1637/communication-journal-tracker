@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:51:28.059Z",
+  "generatedAt": "2026-10-04T00:17:06.560Z",
   "snapshots": [
     {
       "key": "7d",
@@ -202,9 +202,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 193,
-      "overview_en": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 192,
+      "overview_en": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -233,7 +233,7 @@
         {
           "label_en": "Social media",
           "label_zh": "Social media",
-          "count": 25
+          "count": 24
         },
         {
           "label_en": "Politics",
@@ -261,13 +261,13 @@
           "count": 12
         },
         {
-          "label_en": "misinformation",
-          "label_zh": "misinformation",
+          "label_en": "Democracy",
+          "label_zh": "Democracy",
           "count": 8
         },
         {
-          "label_en": "Democracy",
-          "label_zh": "Democracy",
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
           "count": 8
         }
       ],
@@ -298,13 +298,13 @@
           "count": 20
         },
         {
-          "label_en": "case study",
-          "label_zh": "case study",
-          "count": 17
-        },
-        {
           "label_en": "content analysis",
           "label_zh": "content analysis",
+          "count": 16
+        },
+        {
+          "label_en": "case study",
+          "label_zh": "case study",
           "count": 16
         },
         {
@@ -313,13 +313,13 @@
           "count": 7
         },
         {
-          "label_en": "discourse analysis",
-          "label_zh": "discourse analysis",
+          "label_en": "theoretical analysis",
+          "label_zh": "理论分析",
           "count": 6
         },
         {
-          "label_en": "theoretical analysis",
-          "label_zh": "理论分析",
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
           "count": 6
         }
       ]
@@ -358,17 +358,17 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 48,
+      "paperCount": 47,
       "topic_bias_en": [
         "Politics",
-        "Social media",
         "Political communication",
+        "Social media",
         "Public opinion"
       ],
       "topic_bias_zh": [
         "Politics",
-        "Social media",
         "Political communication",
+        "Social media",
         "Public opinion"
       ],
       "method_bias_en": [
@@ -573,7 +573,7 @@
     {
       "label_en": "Social media",
       "label_zh": "Social media",
-      "count": 25
+      "count": 24
     },
     {
       "label_en": "Politics",
@@ -601,11 +601,6 @@
       "count": 12
     },
     {
-      "label_en": "misinformation",
-      "label_zh": "misinformation",
-      "count": 8
-    },
-    {
       "label_en": "Democracy",
       "label_zh": "Democracy",
       "count": 8
@@ -616,9 +611,14 @@
       "count": 8
     },
     {
+      "label_en": "misinformation",
+      "label_zh": "misinformation",
+      "count": 7
+    },
+    {
       "label_en": "disinformation",
       "label_zh": "disinformation",
-      "count": 7
+      "count": 6
     }
   ],
   "high_frequency_methods": [
@@ -648,24 +648,19 @@
       "count": 20
     },
     {
-      "label_en": "case study",
-      "label_zh": "case study",
-      "count": 17
-    },
-    {
       "label_en": "content analysis",
       "label_zh": "content analysis",
+      "count": 16
+    },
+    {
+      "label_en": "case study",
+      "label_zh": "case study",
       "count": 16
     },
     {
       "label_en": "review",
       "label_zh": "review",
       "count": 7
-    },
-    {
-      "label_en": "discourse analysis",
-      "label_zh": "discourse analysis",
-      "count": 6
     },
     {
       "label_en": "theoretical analysis",
@@ -676,6 +671,11 @@
       "label_en": "conversation analysis",
       "label_zh": "会话分析",
       "count": 6
+    },
+    {
+      "label_en": "discourse analysis",
+      "label_zh": "discourse analysis",
+      "count": 5
     },
     {
       "label_en": "literature review",
