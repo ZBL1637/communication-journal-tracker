@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T00:20:39.343Z",
+  "generatedAt": "2026-10-06T01:59:43.270Z",
   "snapshots": [
     {
       "key": "7d",
@@ -91,22 +91,22 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 21,
-      "overview_en": "Across 21 papers, the most visible themes are visual journalism, news consumption, future of journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 21 papers, the most visible themes are visual journalism, news consumption, future of journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 19,
+      "overview_en": "Across 19 papers, the most visible themes are visual journalism, news consumption, future of journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 19 papers, the most visible themes are visual journalism, news consumption, future of journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "visual journalism",
         "news consumption",
         "future of journalism",
-        "disinformation",
-        "Evidence"
+        "Evidence",
+        "Political science"
       ],
       "hot_topics_zh": [
         "visual journalism",
         "news consumption",
         "future of journalism",
-        "disinformation",
-        "Evidence"
+        "Evidence",
+        "Political science"
       ],
       "high_frequency_keywords": [
         {
@@ -122,11 +122,6 @@
         {
           "label_en": "future of journalism",
           "label_zh": "future of journalism",
-          "count": 2
-        },
-        {
-          "label_en": "disinformation",
-          "label_zh": "disinformation",
           "count": 2
         },
         {
@@ -158,6 +153,11 @@
           "label_en": "algorithms",
           "label_zh": "algorithms",
           "count": 1
+        },
+        {
+          "label_en": "logocentrism",
+          "label_zh": "logocentrism",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
@@ -169,16 +169,16 @@
         {
           "label_en": "computational analysis",
           "label_zh": "computational analysis",
-          "count": 6
-        },
-        {
-          "label_en": "interview",
-          "label_zh": "interview",
-          "count": 3
+          "count": 5
         },
         {
           "label_en": "experiment",
           "label_zh": "experiment",
+          "count": 2
+        },
+        {
+          "label_en": "interview",
+          "label_zh": "interview",
           "count": 2
         },
         {
