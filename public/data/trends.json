@@ -1,31 +1,66 @@
 {
-  "generatedAt": "2026-10-06T01:59:43.270Z",
+  "generatedAt": "2026-10-07T01:09:24.712Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 2,
-      "overview_en": "Across 2 papers, the most visible themes are Political science, Presidential system, Political economy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 2 papers, the most visible themes are Political science, Presidential system, Political economy. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 3,
+      "overview_en": "Across 3 papers, the most visible themes are Political science, Politics, Audit. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 3 papers, the most visible themes are Political science, Politics, Audit. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Political science",
-        "Presidential system",
-        "Political economy",
-        "visual journalism",
-        "generative AI"
+        "Politics",
+        "Audit",
+        "Content analysis",
+        "Content (measure theory)"
       ],
       "hot_topics_zh": [
         "Political science",
-        "Presidential system",
-        "Political economy",
-        "visual journalism",
-        "generative AI"
+        "Politics",
+        "Audit",
+        "Content analysis",
+        "Content (measure theory)"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "Political science",
           "label_zh": "Political science",
+          "count": 2
+        },
+        {
+          "label_en": "Politics",
+          "label_zh": "Politics",
+          "count": 1
+        },
+        {
+          "label_en": "Audit",
+          "label_zh": "Audit",
+          "count": 1
+        },
+        {
+          "label_en": "Content analysis",
+          "label_zh": "Content analysis",
+          "count": 1
+        },
+        {
+          "label_en": "Content (measure theory)",
+          "label_zh": "Content (measure theory)",
+          "count": 1
+        },
+        {
+          "label_en": "User-generated content",
+          "label_zh": "User-generated content",
+          "count": 1
+        },
+        {
+          "label_en": "Advertising",
+          "label_zh": "Advertising",
+          "count": 1
+        },
+        {
+          "label_en": "Business",
+          "label_zh": "Business",
           "count": 1
         },
         {
@@ -37,48 +72,13 @@
           "label_en": "Political economy",
           "label_zh": "Political economy",
           "count": 1
-        },
-        {
-          "label_en": "visual journalism",
-          "label_zh": "visual journalism",
-          "count": 1
-        },
-        {
-          "label_en": "generative AI",
-          "label_zh": "generative AI",
-          "count": 1
-        },
-        {
-          "label_en": "algorithms",
-          "label_zh": "algorithms",
-          "count": 1
-        },
-        {
-          "label_en": "logocentrism",
-          "label_zh": "logocentrism",
-          "count": 1
-        },
-        {
-          "label_en": "epistemic crisis",
-          "label_zh": "epistemic crisis",
-          "count": 1
-        },
-        {
-          "label_en": "visual representation",
-          "label_zh": "visual representation",
-          "count": 1
-        },
-        {
-          "label_en": "visual style",
-          "label_zh": "visual style",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 1
+          "count": 2
         },
         {
           "label_en": "computational analysis",
@@ -91,28 +91,33 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 19,
-      "overview_en": "Across 19 papers, the most visible themes are visual journalism, news consumption, future of journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 19 papers, the most visible themes are visual journalism, news consumption, future of journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 20,
+      "overview_en": "Across 20 papers, the most visible themes are visual journalism, Political science, news consumption. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 20 papers, the most visible themes are visual journalism, Political science, news consumption. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "visual journalism",
+        "Political science",
         "news consumption",
         "future of journalism",
-        "Evidence",
-        "Political science"
+        "Evidence"
       ],
       "hot_topics_zh": [
         "visual journalism",
+        "Political science",
         "news consumption",
         "future of journalism",
-        "Evidence",
-        "Political science"
+        "Evidence"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "visual journalism",
           "label_zh": "visual journalism",
           "count": 3
+        },
+        {
+          "label_en": "Political science",
+          "label_zh": "Political science",
+          "count": 2
         },
         {
           "label_en": "news consumption",
@@ -130,33 +135,28 @@
           "count": 2
         },
         {
-          "label_en": "Political science",
-          "label_zh": "Political science",
+          "label_en": "Politics",
+          "label_zh": "Politics",
           "count": 1
         },
         {
-          "label_en": "Presidential system",
-          "label_zh": "Presidential system",
+          "label_en": "Audit",
+          "label_zh": "Audit",
           "count": 1
         },
         {
-          "label_en": "Political economy",
-          "label_zh": "Political economy",
+          "label_en": "Content analysis",
+          "label_zh": "Content analysis",
           "count": 1
         },
         {
-          "label_en": "generative AI",
-          "label_zh": "generative AI",
+          "label_en": "Content (measure theory)",
+          "label_zh": "Content (measure theory)",
           "count": 1
         },
         {
-          "label_en": "algorithms",
-          "label_zh": "algorithms",
-          "count": 1
-        },
-        {
-          "label_en": "logocentrism",
-          "label_zh": "logocentrism",
+          "label_en": "User-generated content",
+          "label_zh": "User-generated content",
           "count": 1
         }
       ],
@@ -164,7 +164,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 10
+          "count": 11
         },
         {
           "label_en": "computational analysis",
@@ -202,9 +202,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 190,
-      "overview_en": "Across 190 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 190 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 191,
+      "overview_en": "Across 191 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 191 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -238,7 +238,7 @@
         {
           "label_en": "Politics",
           "label_zh": "Politics",
-          "count": 22
+          "count": 23
         },
         {
           "label_en": "Journalism",
@@ -275,7 +275,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 61
+          "count": 62
         },
         {
           "label_en": "survey",
@@ -358,7 +358,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 47,
+      "paperCount": 48,
       "topic_bias_en": [
         "Politics",
         "Political communication",
@@ -578,7 +578,7 @@
     {
       "label_en": "Politics",
       "label_zh": "Politics",
-      "count": 22
+      "count": 23
     },
     {
       "label_en": "Journalism",
@@ -616,8 +616,8 @@
       "count": 7
     },
     {
-      "label_en": "disinformation",
-      "label_zh": "disinformation",
+      "label_en": "Content analysis",
+      "label_zh": "Content analysis",
       "count": 6
     }
   ],
@@ -625,7 +625,7 @@
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 61
+      "count": 62
     },
     {
       "label_en": "survey",
