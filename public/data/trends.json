@@ -1,32 +1,67 @@
 {
-  "generatedAt": "2026-10-08T01:27:23.252Z",
+  "generatedAt": "2026-10-09T01:35:46.567Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
       "paperCount": 2,
-      "overview_en": "Across 2 papers, the most visible themes are Political science, Politics, Audit. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 2 papers, the most visible themes are Political science, Politics, Audit. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "overview_en": "Across 2 papers, the most visible themes are Objectivity (philosophy), Journalism, Perception. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 2 papers, the most visible themes are Objectivity (philosophy), Journalism, Perception. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Political science",
-        "Politics",
-        "Audit",
-        "Content analysis",
-        "Content (measure theory)"
+        "Objectivity (philosophy)",
+        "Journalism",
+        "Perception",
+        "Immersion (mathematics)",
+        "Psychology"
       ],
       "hot_topics_zh": [
-        "Political science",
-        "Politics",
-        "Audit",
-        "Content analysis",
-        "Content (measure theory)"
+        "Objectivity (philosophy)",
+        "Journalism",
+        "Perception",
+        "Immersion (mathematics)",
+        "Psychology"
       ],
       "high_frequency_keywords": [
         {
-          "label_en": "Political science",
-          "label_zh": "Political science",
-          "count": 2
+          "label_en": "Objectivity (philosophy)",
+          "label_zh": "Objectivity (philosophy)",
+          "count": 1
+        },
+        {
+          "label_en": "Journalism",
+          "label_zh": "Journalism",
+          "count": 1
+        },
+        {
+          "label_en": "Perception",
+          "label_zh": "Perception",
+          "count": 1
+        },
+        {
+          "label_en": "Immersion (mathematics)",
+          "label_zh": "Immersion (mathematics)",
+          "count": 1
+        },
+        {
+          "label_en": "Psychology",
+          "label_zh": "Psychology",
+          "count": 1
+        },
+        {
+          "label_en": "Social psychology",
+          "label_zh": "Social psychology",
+          "count": 1
+        },
+        {
+          "label_en": "Citizen journalism",
+          "label_zh": "Citizen journalism",
+          "count": 1
+        },
+        {
+          "label_en": "Sociology",
+          "label_zh": "Sociology",
+          "count": 1
         },
         {
           "label_en": "Politics",
@@ -36,41 +71,6 @@
         {
           "label_en": "Audit",
           "label_zh": "Audit",
-          "count": 1
-        },
-        {
-          "label_en": "Content analysis",
-          "label_zh": "Content analysis",
-          "count": 1
-        },
-        {
-          "label_en": "Content (measure theory)",
-          "label_zh": "Content (measure theory)",
-          "count": 1
-        },
-        {
-          "label_en": "User-generated content",
-          "label_zh": "User-generated content",
-          "count": 1
-        },
-        {
-          "label_en": "Advertising",
-          "label_zh": "Advertising",
-          "count": 1
-        },
-        {
-          "label_en": "Business",
-          "label_zh": "Business",
-          "count": 1
-        },
-        {
-          "label_en": "Presidential system",
-          "label_zh": "Presidential system",
-          "count": 1
-        },
-        {
-          "label_en": "Political economy",
-          "label_zh": "Political economy",
           "count": 1
         }
       ],
@@ -86,9 +86,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 20,
-      "overview_en": "Across 20 papers, the most visible themes are visual journalism, Political science, news consumption. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 20 papers, the most visible themes are visual journalism, Political science, news consumption. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 21,
+      "overview_en": "Across 21 papers, the most visible themes are visual journalism, Political science, news consumption. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 21 papers, the most visible themes are visual journalism, Political science, news consumption. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "visual journalism",
         "Political science",
@@ -130,28 +130,28 @@
           "count": 2
         },
         {
-          "label_en": "Politics",
-          "label_zh": "Politics",
+          "label_en": "Objectivity (philosophy)",
+          "label_zh": "Objectivity (philosophy)",
           "count": 1
         },
         {
-          "label_en": "Audit",
-          "label_zh": "Audit",
+          "label_en": "Journalism",
+          "label_zh": "Journalism",
           "count": 1
         },
         {
-          "label_en": "Content analysis",
-          "label_zh": "Content analysis",
+          "label_en": "Perception",
+          "label_zh": "Perception",
           "count": 1
         },
         {
-          "label_en": "Content (measure theory)",
-          "label_zh": "Content (measure theory)",
+          "label_en": "Immersion (mathematics)",
+          "label_zh": "Immersion (mathematics)",
           "count": 1
         },
         {
-          "label_en": "User-generated content",
-          "label_zh": "User-generated content",
+          "label_en": "Psychology",
+          "label_zh": "Psychology",
           "count": 1
         }
       ],
@@ -159,7 +159,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 11
+          "count": 12
         },
         {
           "label_en": "computational analysis",
@@ -197,9 +197,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 190,
-      "overview_en": "Across 190 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 190 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 191,
+      "overview_en": "Across 191 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 191 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -238,7 +238,7 @@
         {
           "label_en": "Journalism",
           "label_zh": "Journalism",
-          "count": 14
+          "count": 15
         },
         {
           "label_en": "Political communication",
@@ -270,7 +270,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 62
+          "count": 63
         },
         {
           "label_en": "survey",
@@ -382,7 +382,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 47,
+      "paperCount": 48,
       "topic_bias_en": [
         "Journalism",
         "Work (physics)",
@@ -578,7 +578,7 @@
     {
       "label_en": "Journalism",
       "label_zh": "Journalism",
-      "count": 14
+      "count": 15
     },
     {
       "label_en": "Political communication",
@@ -620,7 +620,7 @@
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 62
+      "count": 63
     },
     {
       "label_en": "survey",
