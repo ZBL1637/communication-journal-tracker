@@ -1,28 +1,53 @@
 {
-  "generatedAt": "2026-10-09T01:35:46.567Z",
+  "generatedAt": "2026-10-10T01:25:02.601Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 2,
-      "overview_en": "Across 2 papers, the most visible themes are Objectivity (philosophy), Journalism, Perception. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 2 papers, the most visible themes are Objectivity (philosophy), Journalism, Perception. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "paperCount": 3,
+      "overview_en": "Across 3 papers, the most visible themes are Politics, Sociology, Political science. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
+      "overview_zh": "Across 3 papers, the most visible themes are Politics, Sociology, Political science. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Objectivity (philosophy)",
-        "Journalism",
-        "Perception",
-        "Immersion (mathematics)",
-        "Psychology"
+        "Politics",
+        "Sociology",
+        "Political science",
+        "Epistemology",
+        "Social science"
       ],
       "hot_topics_zh": [
-        "Objectivity (philosophy)",
-        "Journalism",
-        "Perception",
-        "Immersion (mathematics)",
-        "Psychology"
+        "Politics",
+        "Sociology",
+        "Political science",
+        "Epistemology",
+        "Social science"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "Politics",
+          "label_zh": "Politics",
+          "count": 2
+        },
+        {
+          "label_en": "Sociology",
+          "label_zh": "Sociology",
+          "count": 2
+        },
+        {
+          "label_en": "Political science",
+          "label_zh": "Political science",
+          "count": 2
+        },
+        {
+          "label_en": "Epistemology",
+          "label_zh": "Epistemology",
+          "count": 1
+        },
+        {
+          "label_en": "Social science",
+          "label_zh": "Social science",
+          "count": 1
+        },
         {
           "label_en": "Objectivity (philosophy)",
           "label_zh": "Objectivity (philosophy)",
@@ -47,31 +72,6 @@
           "label_en": "Psychology",
           "label_zh": "Psychology",
           "count": 1
-        },
-        {
-          "label_en": "Social psychology",
-          "label_zh": "Social psychology",
-          "count": 1
-        },
-        {
-          "label_en": "Citizen journalism",
-          "label_zh": "Citizen journalism",
-          "count": 1
-        },
-        {
-          "label_en": "Sociology",
-          "label_zh": "Sociology",
-          "count": 1
-        },
-        {
-          "label_en": "Politics",
-          "label_zh": "Politics",
-          "count": 1
-        },
-        {
-          "label_en": "Audit",
-          "label_zh": "Audit",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
@@ -79,6 +79,11 @@
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
           "count": 2
+        },
+        {
+          "label_en": "review",
+          "label_zh": "review",
+          "count": 1
         }
       ]
     },
@@ -87,31 +92,41 @@
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
       "paperCount": 21,
-      "overview_en": "Across 21 papers, the most visible themes are visual journalism, Political science, news consumption. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 21 papers, the most visible themes are visual journalism, Political science, news consumption. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_en": "Across 21 papers, the most visible themes are Political science, visual journalism, Politics. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 21 papers, the most visible themes are Political science, visual journalism, Politics. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "visual journalism",
         "Political science",
-        "news consumption",
-        "future of journalism",
-        "Evidence"
+        "visual journalism",
+        "Politics",
+        "Sociology",
+        "news consumption"
       ],
       "hot_topics_zh": [
-        "visual journalism",
         "Political science",
-        "news consumption",
-        "future of journalism",
-        "Evidence"
+        "visual journalism",
+        "Politics",
+        "Sociology",
+        "news consumption"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "Political science",
+          "label_zh": "Political science",
+          "count": 3
+        },
         {
           "label_en": "visual journalism",
           "label_zh": "visual journalism",
           "count": 3
         },
         {
-          "label_en": "Political science",
-          "label_zh": "Political science",
+          "label_en": "Politics",
+          "label_zh": "Politics",
+          "count": 2
+        },
+        {
+          "label_en": "Sociology",
+          "label_zh": "Sociology",
           "count": 2
         },
         {
@@ -125,9 +140,14 @@
           "count": 2
         },
         {
-          "label_en": "Evidence",
-          "label_zh": "Evidence",
-          "count": 2
+          "label_en": "Epistemology",
+          "label_zh": "Epistemology",
+          "count": 1
+        },
+        {
+          "label_en": "Social science",
+          "label_zh": "Social science",
+          "count": 1
         },
         {
           "label_en": "Objectivity (philosophy)",
@@ -137,21 +157,6 @@
         {
           "label_en": "Journalism",
           "label_zh": "Journalism",
-          "count": 1
-        },
-        {
-          "label_en": "Perception",
-          "label_zh": "Perception",
-          "count": 1
-        },
-        {
-          "label_en": "Immersion (mathematics)",
-          "label_zh": "Immersion (mathematics)",
-          "count": 1
-        },
-        {
-          "label_en": "Psychology",
-          "label_zh": "Psychology",
           "count": 1
         }
       ],
@@ -167,11 +172,6 @@
           "count": 5
         },
         {
-          "label_en": "experiment",
-          "label_zh": "experiment",
-          "count": 2
-        },
-        {
           "label_en": "interview",
           "label_zh": "interview",
           "count": 2
@@ -180,6 +180,16 @@
           "label_en": "content analysis",
           "label_zh": "content analysis",
           "count": 2
+        },
+        {
+          "label_en": "review",
+          "label_zh": "review",
+          "count": 1
+        },
+        {
+          "label_en": "experiment",
+          "label_zh": "experiment",
+          "count": 1
         },
         {
           "label_en": "case study",
@@ -197,9 +207,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 191,
-      "overview_en": "Across 191 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 191 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 192,
+      "overview_en": "Across 192 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 192 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -228,7 +238,7 @@
         {
           "label_en": "Politics",
           "label_zh": "Politics",
-          "count": 23
+          "count": 24
         },
         {
           "label_en": "Social media",
@@ -303,6 +313,11 @@
           "count": 15
         },
         {
+          "label_en": "review",
+          "label_zh": "review",
+          "count": 6
+        },
+        {
           "label_en": "theoretical analysis",
           "label_zh": "理论分析",
           "count": 6
@@ -311,11 +326,6 @@
           "label_en": "conversation analysis",
           "label_zh": "会话分析",
           "count": 6
-        },
-        {
-          "label_en": "discourse analysis",
-          "label_zh": "discourse analysis",
-          "count": 5
         }
       ]
     }
@@ -353,7 +363,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 48,
+      "paperCount": 49,
       "topic_bias_en": [
         "Politics",
         "Political communication",
@@ -568,7 +578,7 @@
     {
       "label_en": "Politics",
       "label_zh": "Politics",
-      "count": 23
+      "count": 24
     },
     {
       "label_en": "Social media",
@@ -653,6 +663,11 @@
       "count": 15
     },
     {
+      "label_en": "review",
+      "label_zh": "review",
+      "count": 6
+    },
+    {
       "label_en": "theoretical analysis",
       "label_zh": "理论分析",
       "count": 6
@@ -665,11 +680,6 @@
     {
       "label_en": "discourse analysis",
       "label_zh": "discourse analysis",
-      "count": 5
-    },
-    {
-      "label_en": "review",
-      "label_zh": "review",
       "count": 5
     },
     {
