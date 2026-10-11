@@ -1,76 +1,76 @@
 {
-  "generatedAt": "2026-10-10T01:25:02.601Z",
+  "generatedAt": "2026-10-11T00:35:51.608Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 3,
-      "overview_en": "Across 3 papers, the most visible themes are Politics, Sociology, Political science. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
-      "overview_zh": "Across 3 papers, the most visible themes are Politics, Sociology, Political science. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
+      "paperCount": 4,
+      "overview_en": "Across 4 papers, the most visible themes are Sociology, Political science, Politics. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 4 papers, the most visible themes are Sociology, Political science, Politics. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Politics",
         "Sociology",
         "Political science",
-        "Epistemology",
-        "Social science"
+        "Politics",
+        "Discipline",
+        "Scholarship"
       ],
       "hot_topics_zh": [
-        "Politics",
         "Sociology",
         "Political science",
-        "Epistemology",
-        "Social science"
+        "Politics",
+        "Discipline",
+        "Scholarship"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "Sociology",
+          "label_zh": "Sociology",
+          "count": 3
+        },
+        {
+          "label_en": "Political science",
+          "label_zh": "Political science",
+          "count": 3
+        },
         {
           "label_en": "Politics",
           "label_zh": "Politics",
           "count": 2
         },
         {
-          "label_en": "Sociology",
-          "label_zh": "Sociology",
-          "count": 2
+          "label_en": "Discipline",
+          "label_zh": "Discipline",
+          "count": 1
         },
         {
-          "label_en": "Political science",
-          "label_zh": "Political science",
-          "count": 2
+          "label_en": "Scholarship",
+          "label_zh": "Scholarship",
+          "count": 1
+        },
+        {
+          "label_en": "Accountability",
+          "label_zh": "Accountability",
+          "count": 1
+        },
+        {
+          "label_en": "Economic Justice",
+          "label_zh": "Economic Justice",
+          "count": 1
+        },
+        {
+          "label_en": "Engineering ethics",
+          "label_zh": "Engineering ethics",
+          "count": 1
+        },
+        {
+          "label_en": "Public relations",
+          "label_zh": "Public relations",
+          "count": 1
         },
         {
           "label_en": "Epistemology",
           "label_zh": "Epistemology",
-          "count": 1
-        },
-        {
-          "label_en": "Social science",
-          "label_zh": "Social science",
-          "count": 1
-        },
-        {
-          "label_en": "Objectivity (philosophy)",
-          "label_zh": "Objectivity (philosophy)",
-          "count": 1
-        },
-        {
-          "label_en": "Journalism",
-          "label_zh": "Journalism",
-          "count": 1
-        },
-        {
-          "label_en": "Perception",
-          "label_zh": "Perception",
-          "count": 1
-        },
-        {
-          "label_en": "Immersion (mathematics)",
-          "label_zh": "Immersion (mathematics)",
-          "count": 1
-        },
-        {
-          "label_en": "Psychology",
-          "label_zh": "Psychology",
           "count": 1
         }
       ],
@@ -79,6 +79,11 @@
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
           "count": 2
+        },
+        {
+          "label_en": "interview",
+          "label_zh": "interview",
+          "count": 1
         },
         {
           "label_en": "review",
@@ -91,27 +96,32 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 21,
-      "overview_en": "Across 21 papers, the most visible themes are Political science, visual journalism, Politics. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 21 papers, the most visible themes are Political science, visual journalism, Politics. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 22,
+      "overview_en": "Across 22 papers, the most visible themes are Political science, Sociology, visual journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "overview_zh": "Across 22 papers, the most visible themes are Political science, Sociology, visual journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Political science",
+        "Sociology",
         "visual journalism",
         "Politics",
-        "Sociology",
         "news consumption"
       ],
       "hot_topics_zh": [
         "Political science",
+        "Sociology",
         "visual journalism",
         "Politics",
-        "Sociology",
         "news consumption"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "Political science",
           "label_zh": "Political science",
+          "count": 4
+        },
+        {
+          "label_en": "Sociology",
+          "label_zh": "Sociology",
           "count": 3
         },
         {
@@ -125,11 +135,6 @@
           "count": 2
         },
         {
-          "label_en": "Sociology",
-          "label_zh": "Sociology",
-          "count": 2
-        },
-        {
           "label_en": "news consumption",
           "label_zh": "news consumption",
           "count": 2
@@ -140,23 +145,23 @@
           "count": 2
         },
         {
-          "label_en": "Epistemology",
-          "label_zh": "Epistemology",
+          "label_en": "Discipline",
+          "label_zh": "Discipline",
           "count": 1
         },
         {
-          "label_en": "Social science",
-          "label_zh": "Social science",
+          "label_en": "Scholarship",
+          "label_zh": "Scholarship",
           "count": 1
         },
         {
-          "label_en": "Objectivity (philosophy)",
-          "label_zh": "Objectivity (philosophy)",
+          "label_en": "Accountability",
+          "label_zh": "Accountability",
           "count": 1
         },
         {
-          "label_en": "Journalism",
-          "label_zh": "Journalism",
+          "label_en": "Economic Justice",
+          "label_zh": "Economic Justice",
           "count": 1
         }
       ],
@@ -174,7 +179,7 @@
         {
           "label_en": "interview",
           "label_zh": "interview",
-          "count": 2
+          "count": 3
         },
         {
           "label_en": "content analysis",
@@ -207,9 +212,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 192,
-      "overview_en": "Across 192 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 192 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 191,
+      "overview_en": "Across 191 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 191 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -300,7 +305,7 @@
         {
           "label_en": "interview",
           "label_zh": "interview",
-          "count": 20
+          "count": 21
         },
         {
           "label_en": "content analysis",
@@ -313,11 +318,6 @@
           "count": 15
         },
         {
-          "label_en": "review",
-          "label_zh": "review",
-          "count": 6
-        },
-        {
           "label_en": "theoretical analysis",
           "label_zh": "理论分析",
           "count": 6
@@ -326,6 +326,11 @@
           "label_en": "conversation analysis",
           "label_zh": "会话分析",
           "count": 6
+        },
+        {
+          "label_en": "review",
+          "label_zh": "review",
+          "count": 5
         }
       ]
     }
@@ -392,7 +397,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 48,
+      "paperCount": 49,
       "topic_bias_en": [
         "Journalism",
         "Work (physics)",
@@ -407,14 +412,14 @@
       ],
       "method_bias_en": [
         "mixed methods",
-        "computational analysis",
         "interview",
+        "computational analysis",
         "experiment"
       ],
       "method_bias_zh": [
         "mixed methods",
-        "computational analysis",
         "interview",
+        "computational analysis",
         "experiment"
       ]
     },
@@ -537,7 +542,7 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 8,
+      "paperCount": 6,
       "topic_bias_en": [
         "Systematic Review",
         "Climate Change",
@@ -551,14 +556,14 @@
         "Media Research"
       ],
       "method_bias_en": [
-        "review",
         "systematic literature review",
+        "review",
         "bioinformatics analysis",
         "animal experiment"
       ],
       "method_bias_zh": [
-        "review",
         "系统文献综述",
+        "review",
         "生物信息学分析",
         "动物实验"
       ]
@@ -621,8 +626,8 @@
       "count": 7
     },
     {
-      "label_en": "Content analysis",
-      "label_zh": "Content analysis",
+      "label_en": "Political science",
+      "label_zh": "Political science",
       "count": 6
     }
   ],
@@ -650,7 +655,7 @@
     {
       "label_en": "interview",
       "label_zh": "interview",
-      "count": 20
+      "count": 21
     },
     {
       "label_en": "content analysis",
@@ -663,11 +668,6 @@
       "count": 15
     },
     {
-      "label_en": "review",
-      "label_zh": "review",
-      "count": 6
-    },
-    {
       "label_en": "theoretical analysis",
       "label_zh": "理论分析",
       "count": 6
@@ -676,6 +676,11 @@
       "label_en": "conversation analysis",
       "label_zh": "会话分析",
       "count": 6
+    },
+    {
+      "label_en": "review",
+      "label_zh": "review",
+      "count": 5
     },
     {
       "label_en": "discourse analysis",
