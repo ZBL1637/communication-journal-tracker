@@ -1,41 +1,56 @@
 {
-  "generatedAt": "2026-10-12T00:52:32.694Z",
+  "generatedAt": "2026-10-13T02:47:11.403Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 5,
-      "overview_en": "Across 5 papers, the most visible themes are Sociology, Political science, Journalism. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 5 papers, the most visible themes are Sociology, Political science, Journalism. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 6,
+      "overview_en": "Across 6 papers, the most visible themes are Sociology, Journalism, Political science. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 6 papers, the most visible themes are Sociology, Journalism, Political science. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Sociology",
-        "Political science",
         "Journalism",
-        "Epistemology",
-        "Politics"
+        "Political science",
+        "Field (mathematics)",
+        "Social psychology"
       ],
       "hot_topics_zh": [
         "Sociology",
-        "Political science",
         "Journalism",
-        "Epistemology",
-        "Politics"
+        "Political science",
+        "Field (mathematics)",
+        "Social psychology"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "Sociology",
           "label_zh": "Sociology",
-          "count": 4
-        },
-        {
-          "label_en": "Political science",
-          "label_zh": "Political science",
-          "count": 4
+          "count": 5
         },
         {
           "label_en": "Journalism",
           "label_zh": "Journalism",
+          "count": 3
+        },
+        {
+          "label_en": "Political science",
+          "label_zh": "Political science",
+          "count": 3
+        },
+        {
+          "label_en": "Field (mathematics)",
+          "label_zh": "Field (mathematics)",
+          "count": 2
+        },
+        {
+          "label_en": "Social psychology",
+          "label_zh": "Social psychology",
+          "count": 2
+        },
+        {
+          "label_en": "Public relations",
+          "label_zh": "Public relations",
           "count": 2
         },
         {
@@ -44,45 +59,35 @@
           "count": 2
         },
         {
-          "label_en": "Politics",
-          "label_zh": "Politics",
-          "count": 2
-        },
-        {
-          "label_en": "Legitimation",
-          "label_zh": "Legitimation",
+          "label_en": "Context (archaeology)",
+          "label_zh": "Context (archaeology)",
           "count": 1
         },
         {
-          "label_en": "Grassroots",
-          "label_zh": "Grassroots",
+          "label_en": "Digital media",
+          "label_zh": "Digital media",
           "count": 1
         },
         {
-          "label_en": "Repertoire",
-          "label_zh": "Repertoire",
-          "count": 1
-        },
-        {
-          "label_en": "Field (mathematics)",
-          "label_zh": "Field (mathematics)",
-          "count": 1
-        },
-        {
-          "label_en": "Discipline",
-          "label_zh": "Discipline",
+          "label_en": "Praxis",
+          "label_zh": "Praxis",
           "count": 1
         }
       ],
       "high_frequency_methods": [
         {
-          "label_en": "mixed methods",
-          "label_zh": "mixed methods",
-          "count": 3
-        },
-        {
           "label_en": "interview",
           "label_zh": "interview",
+          "count": 2
+        },
+        {
+          "label_en": "mixed methods",
+          "label_zh": "mixed methods",
+          "count": 2
+        },
+        {
+          "label_en": "case study",
+          "label_zh": "case study",
           "count": 1
         },
         {
@@ -96,33 +101,38 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 21,
-      "overview_en": "Across 21 papers, the most visible themes are Political science, Sociology, visual journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
-      "overview_zh": "Across 21 papers, the most visible themes are Political science, Sociology, visual journalism. Researchers most often rely on mixed methods, computational analysis to explain what these changes mean for communication.",
+      "paperCount": 22,
+      "overview_en": "Across 22 papers, the most visible themes are Sociology, Political science, Journalism. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 22 papers, the most visible themes are Sociology, Political science, Journalism. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Political science",
         "Sociology",
-        "visual journalism",
+        "Political science",
         "Journalism",
-        "Epistemology"
+        "visual journalism",
+        "Presidential system"
       ],
       "hot_topics_zh": [
-        "Political science",
         "Sociology",
-        "visual journalism",
+        "Political science",
         "Journalism",
-        "Epistemology"
+        "visual journalism",
+        "Presidential system"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "Sociology",
+          "label_zh": "Sociology",
+          "count": 5
+        },
         {
           "label_en": "Political science",
           "label_zh": "Political science",
           "count": 5
         },
         {
-          "label_en": "Sociology",
-          "label_zh": "Sociology",
-          "count": 4
+          "label_en": "Journalism",
+          "label_zh": "Journalism",
+          "count": 3
         },
         {
           "label_en": "visual journalism",
@@ -130,8 +140,23 @@
           "count": 3
         },
         {
-          "label_en": "Journalism",
-          "label_zh": "Journalism",
+          "label_en": "Presidential system",
+          "label_zh": "Presidential system",
+          "count": 2
+        },
+        {
+          "label_en": "Field (mathematics)",
+          "label_zh": "Field (mathematics)",
+          "count": 2
+        },
+        {
+          "label_en": "Social psychology",
+          "label_zh": "Social psychology",
+          "count": 2
+        },
+        {
+          "label_en": "Public relations",
+          "label_zh": "Public relations",
           "count": 2
         },
         {
@@ -143,33 +168,18 @@
           "label_en": "Politics",
           "label_zh": "Politics",
           "count": 2
-        },
-        {
-          "label_en": "news consumption",
-          "label_zh": "news consumption",
-          "count": 2
-        },
-        {
-          "label_en": "future of journalism",
-          "label_zh": "future of journalism",
-          "count": 2
-        },
-        {
-          "label_en": "Legitimation",
-          "label_zh": "Legitimation",
-          "count": 1
-        },
-        {
-          "label_en": "Grassroots",
-          "label_zh": "Grassroots",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 12
+          "count": 11
+        },
+        {
+          "label_en": "interview",
+          "label_zh": "interview",
+          "count": 4
         },
         {
           "label_en": "computational analysis",
@@ -177,9 +187,9 @@
           "count": 4
         },
         {
-          "label_en": "interview",
-          "label_zh": "interview",
-          "count": 3
+          "label_en": "case study",
+          "label_zh": "case study",
+          "count": 2
         },
         {
           "label_en": "content analysis",
@@ -197,11 +207,6 @@
           "count": 1
         },
         {
-          "label_en": "case study",
-          "label_zh": "case study",
-          "count": 1
-        },
-        {
           "label_en": "survey",
           "label_zh": "survey",
           "count": 1
@@ -212,21 +217,21 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 191,
-      "overview_en": "Across 191 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 191 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 192,
+      "overview_en": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
-        "Politics",
         "Social media",
+        "Politics",
         "Journalism"
       ],
       "hot_topics_zh": [
         "And",
         "The",
-        "Politics",
         "Social media",
+        "Politics",
         "Journalism"
       ],
       "high_frequency_keywords": [
@@ -241,19 +246,19 @@
           "count": 38
         },
         {
+          "label_en": "Social media",
+          "label_zh": "Social media",
+          "count": 24
+        },
+        {
           "label_en": "Politics",
           "label_zh": "Politics",
           "count": 24
         },
         {
-          "label_en": "Social media",
-          "label_zh": "Social media",
-          "count": 23
-        },
-        {
           "label_en": "Journalism",
           "label_zh": "Journalism",
-          "count": 16
+          "count": 17
         },
         {
           "label_en": "Political communication",
@@ -268,17 +273,17 @@
         {
           "label_en": "Work (physics)",
           "label_zh": "Work (physics)",
-          "count": 12
-        },
-        {
-          "label_en": "Democracy",
-          "label_zh": "Democracy",
-          "count": 8
+          "count": 11
         },
         {
           "label_en": "conversation analysis",
           "label_zh": "会话分析",
           "count": 8
+        },
+        {
+          "label_en": "Political science",
+          "label_zh": "Political science",
+          "count": 7
         }
       ],
       "high_frequency_methods": [
@@ -305,7 +310,7 @@
         {
           "label_en": "interview",
           "label_zh": "interview",
-          "count": 21
+          "count": 22
         },
         {
           "label_en": "content analysis",
@@ -318,11 +323,6 @@
           "count": 15
         },
         {
-          "label_en": "theoretical analysis",
-          "label_zh": "理论分析",
-          "count": 6
-        },
-        {
           "label_en": "conversation analysis",
           "label_zh": "会话分析",
           "count": 6
@@ -330,6 +330,11 @@
         {
           "label_en": "review",
           "label_zh": "review",
+          "count": 5
+        },
+        {
+          "label_en": "discourse analysis",
+          "label_zh": "discourse analysis",
           "count": 5
         }
       ]
@@ -368,17 +373,17 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 49,
+      "paperCount": 50,
       "topic_bias_en": [
         "Politics",
-        "Political communication",
         "Social media",
+        "Political communication",
         "Public opinion"
       ],
       "topic_bias_zh": [
         "Politics",
-        "Political communication",
         "Social media",
+        "Political communication",
         "Public opinion"
       ],
       "method_bias_en": [
@@ -400,14 +405,14 @@
       "paperCount": 50,
       "topic_bias_en": [
         "Journalism",
-        "Work (physics)",
         "Social media",
+        "Work (physics)",
         "news media"
       ],
       "topic_bias_zh": [
         "Journalism",
-        "Work (physics)",
         "Social media",
+        "Work (physics)",
         "news media"
       ],
       "method_bias_en": [
@@ -581,19 +586,19 @@
       "count": 38
     },
     {
+      "label_en": "Social media",
+      "label_zh": "Social media",
+      "count": 24
+    },
+    {
       "label_en": "Politics",
       "label_zh": "Politics",
       "count": 24
     },
     {
-      "label_en": "Social media",
-      "label_zh": "Social media",
-      "count": 23
-    },
-    {
       "label_en": "Journalism",
       "label_zh": "Journalism",
-      "count": 16
+      "count": 17
     },
     {
       "label_en": "Political communication",
@@ -608,12 +613,7 @@
     {
       "label_en": "Work (physics)",
       "label_zh": "Work (physics)",
-      "count": 12
-    },
-    {
-      "label_en": "Democracy",
-      "label_zh": "Democracy",
-      "count": 8
+      "count": 11
     },
     {
       "label_en": "conversation analysis",
@@ -628,6 +628,11 @@
     {
       "label_en": "misinformation",
       "label_zh": "misinformation",
+      "count": 7
+    },
+    {
+      "label_en": "Democracy",
+      "label_zh": "Democracy",
       "count": 7
     }
   ],
@@ -655,7 +660,7 @@
     {
       "label_en": "interview",
       "label_zh": "interview",
-      "count": 21
+      "count": 22
     },
     {
       "label_en": "content analysis",
@@ -666,11 +671,6 @@
       "label_en": "case study",
       "label_zh": "case study",
       "count": 15
-    },
-    {
-      "label_en": "theoretical analysis",
-      "label_zh": "理论分析",
-      "count": 6
     },
     {
       "label_en": "conversation analysis",
@@ -685,6 +685,11 @@
     {
       "label_en": "discourse analysis",
       "label_zh": "discourse analysis",
+      "count": 5
+    },
+    {
+      "label_en": "theoretical analysis",
+      "label_zh": "理论分析",
       "count": 5
     },
     {
