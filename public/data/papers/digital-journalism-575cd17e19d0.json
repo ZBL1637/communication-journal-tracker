@@ -1,0 +1,74 @@
+{
+  "id": "digital-journalism-575cd17e19d0",
+  "doi": "10.1080/21670811.2026.2744347",
+  "url": "https://doi.org/10.1080/21670811.2026.2744347",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-10-13T11:43:54.000Z",
+  "authors": [
+    "Rasa Jämsen",
+    "Ward van Zoonen",
+    "Mikko Villi",
+    "Ward van",
+    "Zoonen Mikko Villi",
+    "Jyväskylä",
+    "Finlandb Jyväskylä",
+    "Finlandc",
+    "VU",
+    "Amsterdam, the Netherlands"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-10-15T00:12:06.276Z",
+  "language": "en",
+  "raw_title": "From Institutionalized Data to Inconsistent Practices: The Dynamics of Datafied Employee Evaluation in Journalistic Work",
+  "raw_abstract": "Organizations are increasingly relying on data to evaluate work, yet the role of data in shaping managerial practices remains uneven. The quantitative turn, referred to as datafication, has been an integral part of journalistic organizations for decades, while continuing to raise fundamental challenges for management. This paper examines how datafication is perceived when evaluating and being evaluated through data. Drawing on 25 interviews and 61 open-ended survey responses from a public-service media organization, we show how data becomes institutionalized in everyday work through organizational routines, technologies, and discourses that render data ‘taken-for-granted’. At the same time, its enactment in managerial practices remains uneven. Despite shared access to analytics, managers diverge in how they incorporate data into evaluation and feedback, resulting in inconsistent practices in the same organization. These findings refine research on datafication by demonstrating that institutionalization is selective rather than uniform, and by showing that data-related relational activities within organizations are central to how analytics are interpreted, negotiated, and enacted in practice.",
+  "raw_keywords": [
+    "Dynamics (music)",
+    "Work (physics)",
+    "Public relations",
+    "Institutionalisation",
+    "Sociology",
+    "Survey data collection",
+    "Organizational dynamics",
+    "Analytics"
+  ],
+  "title_en": "From Institutionalized Data to Inconsistent Practices: The Dynamics of Datafied Employee Evaluation in Journalistic Work",
+  "title_zh": "From Institutionalized Data to Inconsistent Practices: The Dynamics of Datafied Employee Evaluation in Journalistic Work",
+  "abstract_en": "Organizations are increasingly relying on data to evaluate work, yet the role of data in shaping managerial practices remains uneven. The quantitative turn, referred to as datafication, has been an integral part of journalistic organizations for decades, while continuing to raise fundamental challenges for management. This paper examines how datafication is perceived when evaluating and being evaluated through data. Drawing on 25 interviews and 61 open-ended survey responses from a public-service media organization, we show how data becomes institutionalized in everyday work through organizational routines, technologies, and discourses that render data ‘taken-for-granted’. At the same time, its enactment in managerial practices remains uneven. Despite shared access to analytics, managers diverge in how they incorporate data into evaluation and feedback, resulting in inconsistent practices in the same organization. These findings refine research on datafication by demonstrating that institutionalization is selective rather than uniform, and by showing that data-related relational activities within organizations are central to how analytics are interpreted, negotiated, and enacted in practice.",
+  "abstract_zh": "Organizations are increasingly relying on data to evaluate work, yet the role of data in shaping managerial practices remains uneven. The quantitative turn, referred to as datafication, has been an integral part of journalistic organizations for decades, while continuing to raise fundamental challenges for management. This paper examines how datafication is perceived when evaluating and being evaluated through data. Drawing on 25 interviews and 61 open-ended survey responses from a public-service media organization, we show how data becomes institutionalized in everyday work through organizational routines, technologies, and discourses that render data ‘taken-for-granted’. At the same time, its enactment in managerial practices remains uneven. Despite shared access to analytics, managers diverge in how they incorporate data into evaluation and feedback, resulting in inconsistent practices in the same organization. These findings refine research on datafication by demonstrating that institutionalization is selective rather than uniform, and by showing that data-related relational activities within organizations are central to how analytics are interpreted, negotiated, and enacted in practice.",
+  "keywords_en": [
+    "Dynamics (music)",
+    "Work (physics)",
+    "Public relations",
+    "Institutionalisation",
+    "Sociology",
+    "Survey data collection",
+    "Organizational dynamics",
+    "Analytics"
+  ],
+  "keywords_zh": [
+    "Dynamics (music)",
+    "Work (physics)",
+    "Public relations",
+    "Institutionalisation",
+    "Sociology",
+    "Survey data collection",
+    "Organizational dynamics",
+    "Analytics"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies From Institutionalized Data to Inconsistent Practices: The Dynamics of Datafied Employee Evaluation in Journalistic Work. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Dynamics (music), Work (physics), Public relations, Institutionalisation. The abstract suggests a survey, interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies From Institutionalized Data to Inconsistent Practices: The Dynamics of Datafied Employee Evaluation in Journalistic Work. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Dynamics (music), Work (physics), Public relations, Institutionalisation. The abstract suggests a survey, interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Dynamics (music), Work (physics), Public relations, Institutionalisation, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Dynamics (music), Work (physics), Public relations, Institutionalisation, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "survey",
+    "interview"
+  ],
+  "method_tags_en": [
+    "survey",
+    "interview"
+  ]
+}

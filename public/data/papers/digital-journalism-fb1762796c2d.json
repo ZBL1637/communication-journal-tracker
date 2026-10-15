@@ -1,0 +1,79 @@
+{
+  "id": "digital-journalism-fb1762796c2d",
+  "doi": "10.1080/21670811.2026.2746375",
+  "url": "https://doi.org/10.1080/21670811.2026.2746375",
+  "journalName": "Digital Journalism",
+  "journalSlug": "digital-journalism",
+  "issn": "2167-0811",
+  "publishedAt": "2026-10-13T12:04:07.000Z",
+  "authors": [
+    "Kevin C. Mudavadi",
+    "Bingbing Zhang",
+    "Melissa Tully",
+    "Brian Ekdale",
+    "Jonas Nyabor",
+    "Nur Hossain",
+    "Shitemi Khamadi",
+    "Georgia State",
+    "Atlanta",
+    "Georgia",
+    "USAb",
+    "Iowa City",
+    "Iowa",
+    "USAc The Media",
+    "Indiana",
+    "Bloomington",
+    "USA"
+  ],
+  "source": "rss+openalex",
+  "fetchedAt": "2026-10-15T00:12:05.928Z",
+  "language": "en",
+  "raw_title": "Negotiated Adaptability: How Peripheral Actors’ Perceptions of Generative Artificial Intelligence (GenAI) Shape Journalistic Practice",
+  "raw_abstract": "While Generative Artificial Intelligence (GenAI) is rapidly transforming newsroom practices globally, studies often examine journalists and peripheral actors in isolation, overlooking the reciprocal influence these actors exert on journalism. This study addresses this gap by drawing on 94 semi-structured, in-depth interviews with journalists and peripheral actors in Kenya’s urban and rural areas. Specifically, we examine how Kenyan journalists and peripheral actors engage with GenAI, how they believe it should be used in newsrooms, and how their practices and perspectives shape journalistic adaptation. Our findings show that the adoption of and resistance to GenAI by Kenyan journalists illustrate “negotiated adaptability”—a form of technological adaptation in which journalists’ decisions about whether, where, and how to use GenAI are shaped through ongoing negotiations, including with actors located at the periphery of the newsroom ecosystem.",
+  "raw_keywords": [
+    "Kenya",
+    "Perception",
+    "Generative grammar",
+    "Reciprocal",
+    "Public relations",
+    "Resistance (ecology)",
+    "Journalism",
+    "Adaptation (eye)"
+  ],
+  "title_en": "Negotiated Adaptability: How Peripheral Actors’ Perceptions of Generative Artificial Intelligence (GenAI) Shape Journalistic Practice",
+  "title_zh": "Negotiated Adaptability: How Peripheral Actors’ Perceptions of Generative Artificial Intelligence (GenAI) Shape Journalistic Practice",
+  "abstract_en": "While Generative Artificial Intelligence (GenAI) is rapidly transforming newsroom practices globally, studies often examine journalists and peripheral actors in isolation, overlooking the reciprocal influence these actors exert on journalism. This study addresses this gap by drawing on 94 semi-structured, in-depth interviews with journalists and peripheral actors in Kenya’s urban and rural areas. Specifically, we examine how Kenyan journalists and peripheral actors engage with GenAI, how they believe it should be used in newsrooms, and how their practices and perspectives shape journalistic adaptation. Our findings show that the adoption of and resistance to GenAI by Kenyan journalists illustrate “negotiated adaptability”—a form of technological adaptation in which journalists’ decisions about whether, where, and how to use GenAI are shaped through ongoing negotiations, including with actors located at the periphery of the newsroom ecosystem.",
+  "abstract_zh": "While Generative Artificial Intelligence (GenAI) is rapidly transforming newsroom practices globally, studies often examine journalists and peripheral actors in isolation, overlooking the reciprocal influence these actors exert on journalism. This study addresses this gap by drawing on 94 semi-structured, in-depth interviews with journalists and peripheral actors in Kenya’s urban and rural areas. Specifically, we examine how Kenyan journalists and peripheral actors engage with GenAI, how they believe it should be used in newsrooms, and how their practices and perspectives shape journalistic adaptation. Our findings show that the adoption of and resistance to GenAI by Kenyan journalists illustrate “negotiated adaptability”—a form of technological adaptation in which journalists’ decisions about whether, where, and how to use GenAI are shaped through ongoing negotiations, including with actors located at the periphery of the newsroom ecosystem.",
+  "keywords_en": [
+    "Kenya",
+    "Perception",
+    "Generative grammar",
+    "Reciprocal",
+    "Public relations",
+    "Resistance (ecology)",
+    "Journalism",
+    "Adaptation (eye)"
+  ],
+  "keywords_zh": [
+    "Kenya",
+    "Perception",
+    "Generative grammar",
+    "Reciprocal",
+    "Public relations",
+    "Resistance (ecology)",
+    "Journalism",
+    "Adaptation (eye)"
+  ],
+  "inferred_keywords_en": [],
+  "inferred_keywords_zh": [],
+  "plain_summary_en": "This paper studies Negotiated Adaptability: How Peripheral Actors’ Perceptions of Generative Artificial Intelligence (GenAI) Shape Journalistic Practice. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Kenya, Perception, Generative grammar, Reciprocal. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "plain_summary_zh": "This paper studies Negotiated Adaptability: How Peripheral Actors’ Perceptions of Generative Artificial Intelligence (GenAI) Shape Journalistic Practice. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Kenya, Perception, Generative grammar, Reciprocal. The abstract suggests a interview approach, which makes the work useful for understanding how communication changes in everyday life.",
+  "research_direction_en": "The paper points to an active research direction around Kenya, Perception, Generative grammar, Reciprocal, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "research_direction_zh": "The paper points to an active research direction around Kenya, Perception, Generative grammar, Reciprocal, especially how institutions, platforms, and audiences shape communication outcomes.",
+  "method_tags_zh": [
+    "interview"
+  ],
+  "method_tags_en": [
+    "interview"
+  ]
+}
