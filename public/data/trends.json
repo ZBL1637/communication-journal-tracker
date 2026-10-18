@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-17T23:40:20.297Z",
+  "generatedAt": "2026-10-18T23:49:17.506Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 5,
-      "overview_en": "Across 5 papers, the most visible themes are Public relations, Journalism, Sociology. Researchers most often rely on interview, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 5 papers, the most visible themes are Public relations, Journalism, Sociology. Researchers most often rely on interview, survey to explain what these changes mean for communication.",
+      "paperCount": 4,
+      "overview_en": "Across 4 papers, the most visible themes are Public relations, Journalism, Sociology. Researchers most often rely on interview, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 4 papers, the most visible themes are Public relations, Journalism, Sociology. Researchers most often rely on interview, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Public relations",
         "Journalism",
         "Sociology",
-        "Field (mathematics)",
-        "Kenya"
+        "Kenya",
+        "Perception"
       ],
       "hot_topics_zh": [
         "Public relations",
         "Journalism",
         "Sociology",
-        "Field (mathematics)",
-        "Kenya"
+        "Kenya",
+        "Perception"
       ],
       "high_frequency_keywords": [
         {
@@ -31,16 +31,11 @@
         {
           "label_en": "Journalism",
           "label_zh": "Journalism",
-          "count": 3
+          "count": 2
         },
         {
           "label_en": "Sociology",
           "label_zh": "Sociology",
-          "count": 3
-        },
-        {
-          "label_en": "Field (mathematics)",
-          "label_zh": "Field (mathematics)",
           "count": 2
         },
         {
@@ -72,6 +67,11 @@
           "label_en": "Adaptation (eye)",
           "label_zh": "Adaptation (eye)",
           "count": 1
+        },
+        {
+          "label_en": "Dynamics (music)",
+          "label_zh": "Dynamics (music)",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
@@ -89,11 +89,6 @@
           "label_en": "case study",
           "label_zh": "case study",
           "count": 1
-        },
-        {
-          "label_en": "mixed methods",
-          "label_zh": "mixed methods",
-          "count": 1
         }
       ]
     },
@@ -101,22 +96,22 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 20,
-      "overview_en": "Across 20 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 20 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 18,
+      "overview_en": "Across 18 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 18 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Sociology",
         "Political science",
         "Public relations",
         "Journalism",
-        "visual journalism"
+        "Perception"
       ],
       "hot_topics_zh": [
         "Sociology",
         "Political science",
         "Public relations",
         "Journalism",
-        "visual journalism"
+        "Perception"
       ],
       "high_frequency_keywords": [
         {
@@ -138,11 +133,6 @@
           "label_en": "Journalism",
           "label_zh": "Journalism",
           "count": 4
-        },
-        {
-          "label_en": "visual journalism",
-          "label_zh": "visual journalism",
-          "count": 3
         },
         {
           "label_en": "Perception",
@@ -168,23 +158,23 @@
           "label_en": "Epistemology",
           "label_zh": "Epistemology",
           "count": 2
+        },
+        {
+          "label_en": "Politics",
+          "label_zh": "Politics",
+          "count": 2
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 11
+          "count": 10
         },
         {
           "label_en": "interview",
           "label_zh": "interview",
-          "count": 5
-        },
-        {
-          "label_en": "case study",
-          "label_zh": "case study",
-          "count": 2
+          "count": 4
         },
         {
           "label_en": "computational analysis",
@@ -197,6 +187,11 @@
           "count": 1
         },
         {
+          "label_en": "case study",
+          "label_zh": "case study",
+          "count": 1
+        },
+        {
           "label_en": "review",
           "label_zh": "review",
           "count": 1
@@ -204,11 +199,6 @@
         {
           "label_en": "experiment",
           "label_zh": "experiment",
-          "count": 1
-        },
-        {
-          "label_en": "content analysis",
-          "label_zh": "content analysis",
           "count": 1
         }
       ]
