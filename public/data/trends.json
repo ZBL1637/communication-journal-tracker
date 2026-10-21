@@ -1,38 +1,28 @@
 {
-  "generatedAt": "2026-10-20T00:50:52.250Z",
+  "generatedAt": "2026-10-21T00:16:14.210Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 3,
-      "overview_en": "Across 3 papers, the most visible themes are Public relations, Sociology, Political science. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 3 papers, the most visible themes are Public relations, Sociology, Political science. Researchers most often rely on interview, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 1,
+      "overview_en": "Across 1 papers, the most visible themes are Political science, Ukrainian, Core (optical fiber). Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 1 papers, the most visible themes are Political science, Ukrainian, Core (optical fiber). Researchers most often rely on mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Public relations",
-        "Sociology",
         "Political science",
         "Ukrainian",
-        "Core (optical fiber)"
+        "Core (optical fiber)",
+        "Public relations",
+        "International relations"
       ],
       "hot_topics_zh": [
-        "Public relations",
-        "Sociology",
         "Political science",
         "Ukrainian",
-        "Core (optical fiber)"
+        "Core (optical fiber)",
+        "Public relations",
+        "International relations"
       ],
       "high_frequency_keywords": [
-        {
-          "label_en": "Public relations",
-          "label_zh": "Public relations",
-          "count": 3
-        },
-        {
-          "label_en": "Sociology",
-          "label_zh": "Sociology",
-          "count": 2
-        },
         {
           "label_en": "Political science",
           "label_zh": "Political science",
@@ -49,45 +39,25 @@
           "count": 1
         },
         {
+          "label_en": "Public relations",
+          "label_zh": "Public relations",
+          "count": 1
+        },
+        {
           "label_en": "International relations",
           "label_zh": "International relations",
           "count": 1
         },
         {
-          "label_en": "Kenya",
-          "label_zh": "Kenya",
-          "count": 1
-        },
-        {
-          "label_en": "Perception",
-          "label_zh": "Perception",
-          "count": 1
-        },
-        {
-          "label_en": "Generative grammar",
-          "label_zh": "Generative grammar",
-          "count": 1
-        },
-        {
-          "label_en": "Reciprocal",
-          "label_zh": "Reciprocal",
+          "label_en": "Sociology",
+          "label_zh": "Sociology",
           "count": 1
         }
       ],
       "high_frequency_methods": [
         {
-          "label_en": "interview",
-          "label_zh": "interview",
-          "count": 2
-        },
-        {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 1
-        },
-        {
-          "label_en": "survey",
-          "label_zh": "survey",
           "count": 1
         }
       ]
@@ -96,9 +66,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 17,
-      "overview_en": "Across 17 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 17 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 16,
+      "overview_en": "Across 16 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 16 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Sociology",
         "Political science",
@@ -169,7 +139,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 9
+          "count": 8
         },
         {
           "label_en": "interview",
@@ -207,9 +177,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 194,
-      "overview_en": "Across 194 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 194 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 192,
+      "overview_en": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -263,7 +233,7 @@
         {
           "label_en": "Political communication",
           "label_zh": "Political communication",
-          "count": 12
+          "count": 11
         },
         {
           "label_en": "Political science",
@@ -363,7 +333,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 49,
+      "paperCount": 48,
       "topic_bias_en": [
         "Politics",
         "Social media",
@@ -537,7 +507,7 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 6,
+      "paperCount": 5,
       "topic_bias_en": [
         "Systematic Review",
         "Climate Change",
@@ -551,14 +521,14 @@
         "Media Research"
       ],
       "method_bias_en": [
-        "systematic literature review",
         "review",
+        "systematic literature review",
         "bioinformatics analysis",
         "animal experiment"
       ],
       "method_bias_zh": [
-        "系统文献综述",
         "review",
+        "系统文献综述",
         "生物信息学分析",
         "动物实验"
       ]
@@ -603,7 +573,7 @@
     {
       "label_en": "Political communication",
       "label_zh": "Political communication",
-      "count": 12
+      "count": 11
     },
     {
       "label_en": "Political science",
@@ -685,7 +655,7 @@
     {
       "label_en": "literature review",
       "label_zh": "文献综述",
-      "count": 4
+      "count": 3
     }
   ]
 }
