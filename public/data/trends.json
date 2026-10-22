@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:16:14.210Z",
+  "generatedAt": "2026-10-22T00:20:03.591Z",
   "snapshots": [
     {
       "key": "7d",
@@ -66,9 +66,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 16,
-      "overview_en": "Across 16 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 16 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 15,
+      "overview_en": "Across 15 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 15 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Sociology",
         "Political science",
@@ -147,11 +147,6 @@
           "count": 4
         },
         {
-          "label_en": "computational analysis",
-          "label_zh": "computational analysis",
-          "count": 2
-        },
-        {
           "label_en": "survey",
           "label_zh": "survey",
           "count": 1
@@ -167,8 +162,8 @@
           "count": 1
         },
         {
-          "label_en": "experiment",
-          "label_zh": "experiment",
+          "label_en": "computational analysis",
+          "label_zh": "computational analysis",
           "count": 1
         }
       ]
@@ -177,9 +172,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 192,
-      "overview_en": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 192 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 191,
+      "overview_en": "Across 191 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 191 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -280,7 +275,7 @@
         {
           "label_en": "case study",
           "label_zh": "case study",
-          "count": 14
+          "count": 13
         },
         {
           "label_en": "conversation analysis",
@@ -333,7 +328,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 48,
+      "paperCount": 47,
       "topic_bias_en": [
         "Politics",
         "Social media",
@@ -630,7 +625,7 @@
     {
       "label_en": "case study",
       "label_zh": "case study",
-      "count": 14
+      "count": 13
     },
     {
       "label_en": "conversation analysis",
