@@ -1,5 +1,105 @@
 [
   {
+    "id": "digital-journalism-baba5a7acf5d",
+    "doi": "10.1080/21670811.2026.2751595",
+    "url": "https://doi.org/10.1080/21670811.2026.2751595",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-10-22T04:00:13.000Z",
+    "authors": [
+      "Anna Ryzhova",
+      "Eunike Piwoni",
+      "Florian Toepfl",
+      "Florian Töpfl",
+      "Germany"
+    ],
+    "title_en": "War, Feelings of Belonging, and News Diets: How Russia’s Full-Scale Invasion of Ukraine Did (Not) Change the News Repertoires of Russian Speakers in Germany",
+    "title_zh": "War, Feelings of Belonging, and News Diets: How Russia’s Full-Scale Invasion of Ukraine Did (Not) Change the News Repertoires of Russian Speakers in Germany",
+    "keywords_en": [
+      "Feeling",
+      "Political science",
+      "Journalism",
+      "Media studies",
+      "Public relations"
+    ],
+    "keywords_zh": [
+      "Feeling",
+      "Political science",
+      "Journalism",
+      "Media studies",
+      "Public relations"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies War, Feelings of Belonging, and News Diets: How Russia’s Full-Scale Invasion of Ukraine Did (Not) Change the News Repertoires of Russian Speakers in Germany. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Feeling, Political science, Journalism, Media studies. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies War, Feelings of Belonging, and News Diets: How Russia’s Full-Scale Invasion of Ukraine Did (Not) Change the News Repertoires of Russian Speakers in Germany. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Feeling, Political science, Journalism, Media studies. The abstract suggests a mixed methods approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Feeling, Political science, Journalism, Media studies, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Feeling, Political science, Journalism, Media studies, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "mixed methods"
+    ],
+    "method_tags_en": [
+      "mixed methods"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-24T00:10:01.476Z"
+  },
+  {
+    "id": "digital-journalism-b0f117ac5c8a",
+    "doi": "10.1080/21670811.2026.2751081",
+    "url": "https://doi.org/10.1080/21670811.2026.2751081",
+    "journalName": "Digital Journalism",
+    "journalSlug": "digital-journalism",
+    "issn": "2167-0811",
+    "publishedAt": "2026-10-22T03:24:52.000Z",
+    "authors": [
+      "Agustin Ferrari Braun",
+      "Fernando van",
+      "der Vlist",
+      "Thomas Poell",
+      "Agustin Ferrari Braun Fernando van der Vlist Thomas Poell",
+      "Amsterdam",
+      "Netherlands"
+    ],
+    "title_en": "Negotiating Infrastructural Integration: Cloud Services and the Evolution of News Website Ecosystems in France and the Netherlands",
+    "title_zh": "Negotiating Infrastructural Integration: Cloud Services and the Evolution of News Website Ecosystems in France and the Netherlands",
+    "keywords_en": [
+      "Negotiation",
+      "Cloud computing",
+      "Service (business)",
+      "Business",
+      "Digital media",
+      "Independence (probability theory)",
+      "Digital ecosystem",
+      "Service provider"
+    ],
+    "keywords_zh": [
+      "Negotiation",
+      "Cloud computing",
+      "Service (business)",
+      "Business",
+      "Digital media",
+      "Independence (probability theory)",
+      "Digital ecosystem",
+      "Service provider"
+    ],
+    "inferred_keywords_en": [],
+    "inferred_keywords_zh": [],
+    "plain_summary_zh": "This paper studies Negotiating Infrastructural Integration: Cloud Services and the Evolution of News Website Ecosystems in France and the Netherlands. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Negotiation, Cloud computing, Service (business), Business. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "plain_summary_en": "This paper studies Negotiating Infrastructural Integration: Cloud Services and the Evolution of News Website Ecosystems in France and the Netherlands. In plain terms, it asks what is happening, why it matters for public communication, and what evidence the authors use. The likely focus is Negotiation, Cloud computing, Service (business), Business. The abstract suggests a review approach, which makes the work useful for understanding how communication changes in everyday life.",
+    "research_direction_zh": "The paper points to an active research direction around Negotiation, Cloud computing, Service (business), Business, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "research_direction_en": "The paper points to an active research direction around Negotiation, Cloud computing, Service (business), Business, especially how institutions, platforms, and audiences shape communication outcomes.",
+    "method_tags_zh": [
+      "review"
+    ],
+    "method_tags_en": [
+      "review"
+    ],
+    "source": "rss+openalex",
+    "fetchedAt": "2026-10-24T00:09:59.947Z"
+  },
+  {
     "id": "digital-journalism-d6c22b9c89bc",
     "doi": "10.1080/21670811.2026.2742982",
     "url": "https://doi.org/10.1080/21670811.2026.2742982",

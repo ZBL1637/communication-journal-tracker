@@ -1,56 +1,76 @@
 {
-  "generatedAt": "2026-10-23T00:16:55.093Z",
+  "generatedAt": "2026-10-24T00:10:06.635Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 1,
-      "overview_en": "Across 1 papers, the most visible themes are Political science, Ukrainian, Core (optical fiber). Researchers most often rely on mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 1 papers, the most visible themes are Political science, Ukrainian, Core (optical fiber). Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "paperCount": 3,
+      "overview_en": "Across 3 papers, the most visible themes are Political science, Public relations, Feeling. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
+      "overview_zh": "Across 3 papers, the most visible themes are Political science, Public relations, Feeling. Researchers most often rely on mixed methods, review to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Political science",
-        "Ukrainian",
-        "Core (optical fiber)",
         "Public relations",
-        "International relations"
+        "Feeling",
+        "Journalism",
+        "Media studies"
       ],
       "hot_topics_zh": [
         "Political science",
-        "Ukrainian",
-        "Core (optical fiber)",
         "Public relations",
-        "International relations"
+        "Feeling",
+        "Journalism",
+        "Media studies"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "Political science",
           "label_zh": "Political science",
-          "count": 1
-        },
-        {
-          "label_en": "Ukrainian",
-          "label_zh": "Ukrainian",
-          "count": 1
-        },
-        {
-          "label_en": "Core (optical fiber)",
-          "label_zh": "Core (optical fiber)",
-          "count": 1
+          "count": 2
         },
         {
           "label_en": "Public relations",
           "label_zh": "Public relations",
+          "count": 2
+        },
+        {
+          "label_en": "Feeling",
+          "label_zh": "Feeling",
           "count": 1
         },
         {
-          "label_en": "International relations",
-          "label_zh": "International relations",
+          "label_en": "Journalism",
+          "label_zh": "Journalism",
           "count": 1
         },
         {
-          "label_en": "Sociology",
-          "label_zh": "Sociology",
+          "label_en": "Media studies",
+          "label_zh": "Media studies",
+          "count": 1
+        },
+        {
+          "label_en": "Negotiation",
+          "label_zh": "Negotiation",
+          "count": 1
+        },
+        {
+          "label_en": "Cloud computing",
+          "label_zh": "Cloud computing",
+          "count": 1
+        },
+        {
+          "label_en": "Service (business)",
+          "label_zh": "Service (business)",
+          "count": 1
+        },
+        {
+          "label_en": "Business",
+          "label_zh": "Business",
+          "count": 1
+        },
+        {
+          "label_en": "Digital media",
+          "label_zh": "Digital media",
           "count": 1
         }
       ],
@@ -58,6 +78,11 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
+          "count": 2
+        },
+        {
+          "label_en": "review",
+          "label_zh": "review",
           "count": 1
         }
       ]
@@ -66,43 +91,58 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 13,
-      "overview_en": "Across 13 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 13 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 14,
+      "overview_en": "Across 14 papers, the most visible themes are Political science, Sociology, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 14 papers, the most visible themes are Political science, Sociology, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Sociology",
         "Political science",
+        "Sociology",
         "Public relations",
         "Journalism",
-        "Perception"
+        "Media studies"
       ],
       "hot_topics_zh": [
-        "Sociology",
         "Political science",
+        "Sociology",
         "Public relations",
         "Journalism",
-        "Perception"
+        "Media studies"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "Political science",
+          "label_zh": "Political science",
+          "count": 7
+        },
         {
           "label_en": "Sociology",
           "label_zh": "Sociology",
           "count": 7
         },
         {
-          "label_en": "Political science",
-          "label_zh": "Political science",
-          "count": 6
-        },
-        {
           "label_en": "Public relations",
           "label_zh": "Public relations",
-          "count": 5
+          "count": 6
         },
         {
           "label_en": "Journalism",
           "label_zh": "Journalism",
-          "count": 4
+          "count": 5
+        },
+        {
+          "label_en": "Media studies",
+          "label_zh": "Media studies",
+          "count": 2
+        },
+        {
+          "label_en": "Business",
+          "label_zh": "Business",
+          "count": 2
+        },
+        {
+          "label_en": "Digital media",
+          "label_zh": "Digital media",
+          "count": 2
         },
         {
           "label_en": "Perception",
@@ -118,21 +158,6 @@
           "label_en": "Field (mathematics)",
           "label_zh": "Field (mathematics)",
           "count": 2
-        },
-        {
-          "label_en": "Social psychology",
-          "label_zh": "Social psychology",
-          "count": 2
-        },
-        {
-          "label_en": "Epistemology",
-          "label_zh": "Epistemology",
-          "count": 2
-        },
-        {
-          "label_en": "Politics",
-          "label_zh": "Politics",
-          "count": 2
         }
       ],
       "high_frequency_methods": [
@@ -147,6 +172,11 @@
           "count": 4
         },
         {
+          "label_en": "review",
+          "label_zh": "review",
+          "count": 2
+        },
+        {
           "label_en": "survey",
           "label_zh": "survey",
           "count": 1
@@ -154,11 +184,6 @@
         {
           "label_en": "case study",
           "label_zh": "case study",
-          "count": 1
-        },
-        {
-          "label_en": "review",
-          "label_zh": "review",
           "count": 1
         },
         {
@@ -172,9 +197,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 191,
-      "overview_en": "Across 191 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 191 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 193,
+      "overview_en": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 193 papers, the most visible themes are And, The, Social media. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -213,7 +238,7 @@
         {
           "label_en": "Journalism",
           "label_zh": "Journalism",
-          "count": 18
+          "count": 19
         },
         {
           "label_en": "Work (physics)",
@@ -233,7 +258,7 @@
         {
           "label_en": "Political science",
           "label_zh": "Political science",
-          "count": 8
+          "count": 9
         },
         {
           "label_en": "Sociology",
@@ -245,7 +270,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 64
+          "count": 65
         },
         {
           "label_en": "survey",
@@ -278,14 +303,14 @@
           "count": 13
         },
         {
-          "label_en": "conversation analysis",
-          "label_zh": "会话分析",
+          "label_en": "review",
+          "label_zh": "review",
           "count": 6
         },
         {
-          "label_en": "review",
-          "label_zh": "review",
-          "count": 5
+          "label_en": "conversation analysis",
+          "label_zh": "会话分析",
+          "count": 6
         },
         {
           "label_en": "discourse analysis",
@@ -357,7 +382,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 53,
+      "paperCount": 55,
       "topic_bias_en": [
         "Journalism",
         "Work (physics)",
@@ -553,7 +578,7 @@
     {
       "label_en": "Journalism",
       "label_zh": "Journalism",
-      "count": 18
+      "count": 19
     },
     {
       "label_en": "Work (physics)",
@@ -573,7 +598,7 @@
     {
       "label_en": "Political science",
       "label_zh": "Political science",
-      "count": 8
+      "count": 9
     },
     {
       "label_en": "Sociology",
@@ -595,7 +620,7 @@
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 64
+      "count": 65
     },
     {
       "label_en": "survey",
@@ -628,14 +653,14 @@
       "count": 13
     },
     {
-      "label_en": "conversation analysis",
-      "label_zh": "会话分析",
+      "label_en": "review",
+      "label_zh": "review",
       "count": 6
     },
     {
-      "label_en": "review",
-      "label_zh": "review",
-      "count": 5
+      "label_en": "conversation analysis",
+      "label_zh": "会话分析",
+      "count": 6
     },
     {
       "label_en": "discourse analysis",
