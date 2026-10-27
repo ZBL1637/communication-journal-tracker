@@ -1,43 +1,28 @@
 {
-  "generatedAt": "2026-10-25T23:41:40.036Z",
+  "generatedAt": "2026-10-27T01:01:01.232Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 4,
-      "overview_en": "Across 4 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
-      "overview_zh": "Across 4 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "paperCount": 3,
+      "overview_en": "Across 3 papers, the most visible themes are Active listening, Moderation, Democracy. Researchers most often rely on experiment, mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 3 papers, the most visible themes are Active listening, Moderation, Democracy. Researchers most often rely on experiment, mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Sociology",
-        "Political science",
-        "Public relations",
         "Active listening",
-        "Moderation"
+        "Moderation",
+        "Democracy",
+        "Politics",
+        "Social media"
       ],
       "hot_topics_zh": [
-        "Sociology",
-        "Political science",
-        "Public relations",
         "Active listening",
-        "Moderation"
+        "Moderation",
+        "Democracy",
+        "Politics",
+        "Social media"
       ],
       "high_frequency_keywords": [
-        {
-          "label_en": "Sociology",
-          "label_zh": "Sociology",
-          "count": 2
-        },
-        {
-          "label_en": "Political science",
-          "label_zh": "Political science",
-          "count": 2
-        },
-        {
-          "label_en": "Public relations",
-          "label_zh": "Public relations",
-          "count": 2
-        },
         {
           "label_en": "Active listening",
           "label_zh": "Active listening",
@@ -72,17 +57,32 @@
           "label_en": "Psychology",
           "label_zh": "Psychology",
           "count": 1
+        },
+        {
+          "label_en": "Sociology",
+          "label_zh": "Sociology",
+          "count": 1
+        },
+        {
+          "label_en": "Feeling",
+          "label_zh": "Feeling",
+          "count": 1
+        },
+        {
+          "label_en": "Political science",
+          "label_zh": "Political science",
+          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
-          "label_en": "mixed methods",
-          "label_zh": "mixed methods",
-          "count": 2
-        },
-        {
           "label_en": "experiment",
           "label_zh": "experiment",
+          "count": 1
+        },
+        {
+          "label_en": "mixed methods",
+          "label_zh": "mixed methods",
           "count": 1
         },
         {
@@ -207,9 +207,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 194,
-      "overview_en": "Across 194 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 194 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 193,
+      "overview_en": "Across 193 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 193 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -392,7 +392,7 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 55,
+      "paperCount": 54,
       "topic_bias_en": [
         "Journalism",
         "Work (physics)",
