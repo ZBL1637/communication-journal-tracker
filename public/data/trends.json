@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:01:01.232Z",
+  "generatedAt": "2026-10-28T00:50:46.466Z",
   "snapshots": [
     {
       "key": "7d",
@@ -207,9 +207,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 193,
-      "overview_en": "Across 193 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 193 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 189,
+      "overview_en": "Across 189 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 189 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -288,14 +288,14 @@
           "count": 26
         },
         {
-          "label_en": "experiment",
-          "label_zh": "experiment",
-          "count": 24
-        },
-        {
           "label_en": "interview",
           "label_zh": "interview",
           "count": 24
+        },
+        {
+          "label_en": "experiment",
+          "label_zh": "experiment",
+          "count": 23
         },
         {
           "label_en": "computational analysis",
@@ -508,7 +508,7 @@
     {
       "journalName": "International Journal of Press/Politics",
       "journalSlug": "international-journal-of-press-politics",
-      "paperCount": 18,
+      "paperCount": 15,
       "topic_bias_en": [
         "And",
         "The",
@@ -537,7 +537,7 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 5,
+      "paperCount": 4,
       "topic_bias_en": [
         "Systematic Review",
         "Climate Change",
@@ -552,15 +552,15 @@
       ],
       "method_bias_en": [
         "review",
-        "systematic literature review",
         "bioinformatics analysis",
-        "animal experiment"
+        "animal experiment",
+        "qPCR"
       ],
       "method_bias_zh": [
         "review",
-        "系统文献综述",
         "生物信息学分析",
-        "动物实验"
+        "动物实验",
+        "qPCR"
       ]
     }
   ],
@@ -638,14 +638,14 @@
       "count": 26
     },
     {
-      "label_en": "experiment",
-      "label_zh": "experiment",
-      "count": 24
-    },
-    {
       "label_en": "interview",
       "label_zh": "interview",
       "count": 24
+    },
+    {
+      "label_en": "experiment",
+      "label_zh": "experiment",
+      "count": 23
     },
     {
       "label_en": "computational analysis",
