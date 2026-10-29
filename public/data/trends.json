@@ -1,28 +1,58 @@
 {
-  "generatedAt": "2026-10-28T00:50:46.466Z",
+  "generatedAt": "2026-10-29T01:26:56.917Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 3,
-      "overview_en": "Across 3 papers, the most visible themes are Active listening, Moderation, Democracy. Researchers most often rely on experiment, mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 3 papers, the most visible themes are Active listening, Moderation, Democracy. Researchers most often rely on experiment, mixed methods to explain what these changes mean for communication.",
+      "paperCount": 4,
+      "overview_en": "Across 4 papers, the most visible themes are The, Effect, Broadcasting. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
+      "overview_zh": "Across 4 papers, the most visible themes are The, Effect, Broadcasting. Researchers most often rely on mixed methods, experiment to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Active listening",
-        "Moderation",
-        "Democracy",
-        "Politics",
-        "Social media"
+        "The",
+        "Effect",
+        "Broadcasting",
+        "Parliamentary",
+        "Proceedings"
       ],
       "hot_topics_zh": [
-        "Active listening",
-        "Moderation",
-        "Democracy",
-        "Politics",
-        "Social media"
+        "The",
+        "Effect",
+        "Broadcasting",
+        "Parliamentary",
+        "Proceedings"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "The",
+          "label_zh": "The",
+          "count": 1
+        },
+        {
+          "label_en": "Effect",
+          "label_zh": "Effect",
+          "count": 1
+        },
+        {
+          "label_en": "Broadcasting",
+          "label_zh": "Broadcasting",
+          "count": 1
+        },
+        {
+          "label_en": "Parliamentary",
+          "label_zh": "Parliamentary",
+          "count": 1
+        },
+        {
+          "label_en": "Proceedings",
+          "label_zh": "Proceedings",
+          "count": 1
+        },
+        {
+          "label_en": "Legislative",
+          "label_zh": "Legislative",
+          "count": 1
+        },
         {
           "label_en": "Active listening",
           "label_zh": "Active listening",
@@ -42,47 +72,17 @@
           "label_en": "Politics",
           "label_zh": "Politics",
           "count": 1
-        },
-        {
-          "label_en": "Social media",
-          "label_zh": "Social media",
-          "count": 1
-        },
-        {
-          "label_en": "Perception",
-          "label_zh": "Perception",
-          "count": 1
-        },
-        {
-          "label_en": "Psychology",
-          "label_zh": "Psychology",
-          "count": 1
-        },
-        {
-          "label_en": "Sociology",
-          "label_zh": "Sociology",
-          "count": 1
-        },
-        {
-          "label_en": "Feeling",
-          "label_zh": "Feeling",
-          "count": 1
-        },
-        {
-          "label_en": "Political science",
-          "label_zh": "Political science",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
-          "label_en": "experiment",
-          "label_zh": "experiment",
-          "count": 1
-        },
-        {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
+          "count": 2
+        },
+        {
+          "label_en": "experiment",
+          "label_zh": "experiment",
           "count": 1
         },
         {
@@ -96,9 +96,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 15,
-      "overview_en": "Across 15 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 15 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 16,
+      "overview_en": "Across 16 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 16 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Sociology",
         "Political science",
@@ -169,7 +169,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 6
+          "count": 7
         },
         {
           "label_en": "interview",
@@ -207,9 +207,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 189,
-      "overview_en": "Across 189 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 189 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 190,
+      "overview_en": "Across 190 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 190 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -233,7 +233,7 @@
         {
           "label_en": "The",
           "label_zh": "The",
-          "count": 38
+          "count": 39
         },
         {
           "label_en": "Politics",
@@ -280,7 +280,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 65
+          "count": 66
         },
         {
           "label_en": "survey",
@@ -363,7 +363,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 48,
+      "paperCount": 49,
       "topic_bias_en": [
         "Politics",
         "Social media",
@@ -573,7 +573,7 @@
     {
       "label_en": "The",
       "label_zh": "The",
-      "count": 38
+      "count": 39
     },
     {
       "label_en": "Politics",
@@ -630,7 +630,7 @@
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 65
+      "count": 66
     },
     {
       "label_en": "survey",
