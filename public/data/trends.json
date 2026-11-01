@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:17:12.399Z",
+  "generatedAt": "2026-11-01T00:34:37.156Z",
   "snapshots": [
     {
       "key": "7d",
@@ -66,9 +66,9 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 15,
-      "overview_en": "Across 15 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 15 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 14,
+      "overview_en": "Across 14 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 14 papers, the most visible themes are Sociology, Political science, Public relations. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Sociology",
         "Political science",
@@ -92,7 +92,7 @@
         {
           "label_en": "Political science",
           "label_zh": "Political science",
-          "count": 7
+          "count": 6
         },
         {
           "label_en": "Public relations",
@@ -139,7 +139,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 7
+          "count": 6
         },
         {
           "label_en": "interview",
