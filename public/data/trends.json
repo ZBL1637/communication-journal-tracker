@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:34:37.156Z",
+  "generatedAt": "2026-11-02T01:08:58.224Z",
   "snapshots": [
     {
       "key": "7d",
@@ -172,9 +172,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 189,
-      "overview_en": "Across 189 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 189 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 179,
+      "overview_en": "Across 179 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 179 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -208,7 +208,7 @@
         {
           "label_en": "Social media",
           "label_zh": "Social media",
-          "count": 25
+          "count": 24
         },
         {
           "label_en": "Journalism",
@@ -228,7 +228,7 @@
         {
           "label_en": "Political communication",
           "label_zh": "Political communication",
-          "count": 11
+          "count": 10
         },
         {
           "label_en": "Sociology",
@@ -270,12 +270,12 @@
         {
           "label_en": "content analysis",
           "label_zh": "content analysis",
-          "count": 15
+          "count": 14
         },
         {
           "label_en": "case study",
           "label_zh": "case study",
-          "count": 12
+          "count": 8
         },
         {
           "label_en": "review",
@@ -283,14 +283,14 @@
           "count": 6
         },
         {
-          "label_en": "conversation analysis",
-          "label_zh": "会话分析",
-          "count": 6
-        },
-        {
           "label_en": "discourse analysis",
           "label_zh": "discourse analysis",
           "count": 5
+        },
+        {
+          "label_en": "theoretical analysis",
+          "label_zh": "理论分析",
+          "count": 4
         }
       ]
     }
@@ -299,7 +299,7 @@
     {
       "journalName": "JOURNAL OF COMMUNICATION",
       "journalSlug": "journal-of-communication",
-      "paperCount": 10,
+      "paperCount": 9,
       "topic_bias_en": [
         "And",
         "The",
@@ -315,20 +315,20 @@
       "method_bias_en": [
         "mixed methods",
         "theoretical analysis",
-        "longitudinal study",
-        "computational analysis"
+        "computational analysis",
+        "conceptual elaboration"
       ],
       "method_bias_zh": [
         "mixed methods",
         "理论分析",
-        "纵向研究",
-        "computational analysis"
+        "computational analysis",
+        "概念阐释"
       ]
     },
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 48,
+      "paperCount": 47,
       "topic_bias_en": [
         "Politics",
         "Social media",
@@ -386,30 +386,24 @@
     {
       "journalName": "RESEARCH ON LANGUAGE AND SOCIAL INTERACTION",
       "journalSlug": "research-on-language-and-social-interaction",
-      "paperCount": 20,
+      "paperCount": 12,
       "topic_bias_en": [
-        "conversation analysis",
         "Interactional",
-        "social interaction",
-        "And"
+        "And",
+        "Histories",
+        "History"
       ],
       "topic_bias_zh": [
-        "会话分析",
         "Interactional",
-        "社会互动",
-        "And"
+        "And",
+        "Histories",
+        "History"
       ],
       "method_bias_en": [
-        "mixed methods",
-        "conversation analysis",
-        "case study",
-        "literature review"
+        "mixed methods"
       ],
       "method_bias_zh": [
-        "mixed methods",
-        "会话分析",
-        "案例研究",
-        "文献综述"
+        "mixed methods"
       ]
     },
     {
@@ -548,7 +542,7 @@
     {
       "label_en": "Social media",
       "label_zh": "Social media",
-      "count": 25
+      "count": 24
     },
     {
       "label_en": "Journalism",
@@ -568,7 +562,7 @@
     {
       "label_en": "Political communication",
       "label_zh": "Political communication",
-      "count": 11
+      "count": 10
     },
     {
       "label_en": "Sociology",
@@ -586,9 +580,9 @@
       "count": 8
     },
     {
-      "label_en": "conversation analysis",
-      "label_zh": "会话分析",
-      "count": 8
+      "label_en": "Perception",
+      "label_zh": "Perception",
+      "count": 7
     }
   ],
   "high_frequency_methods": [
@@ -620,21 +614,16 @@
     {
       "label_en": "content analysis",
       "label_zh": "content analysis",
-      "count": 15
+      "count": 14
     },
     {
       "label_en": "case study",
       "label_zh": "case study",
-      "count": 12
+      "count": 8
     },
     {
       "label_en": "review",
       "label_zh": "review",
-      "count": 6
-    },
-    {
-      "label_en": "conversation analysis",
-      "label_zh": "会话分析",
       "count": 6
     },
     {
@@ -645,12 +634,17 @@
     {
       "label_en": "theoretical analysis",
       "label_zh": "理论分析",
-      "count": 5
+      "count": 4
     },
     {
-      "label_en": "literature review",
-      "label_zh": "文献综述",
-      "count": 3
+      "label_en": "network analysis",
+      "label_zh": "network analysis",
+      "count": 2
+    },
+    {
+      "label_en": "comparative analysis",
+      "label_zh": "比较分析",
+      "count": 2
     }
   ]
 }
