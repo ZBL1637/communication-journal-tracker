@@ -1,37 +1,67 @@
 {
-  "generatedAt": "2026-11-09T01:19:34.163Z",
+  "generatedAt": "2026-11-10T03:54:10.690Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 5,
-      "overview_en": "Across 5 papers, the most visible themes are Political science, Politics, Presidential election. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 5 papers, the most visible themes are Political science, Politics, Presidential election. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 4,
+      "overview_en": "Across 4 papers, the most visible themes are Political, Morale, Campaigning. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 4 papers, the most visible themes are Political, Morale, Campaigning. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Political science",
-        "Politics",
-        "Presidential election",
-        "Presidential system",
-        "General election"
+        "Political",
+        "Morale",
+        "Campaigning",
+        "Are",
+        "Candidates"
       ],
       "hot_topics_zh": [
-        "Political science",
-        "Politics",
-        "Presidential election",
-        "Presidential system",
-        "General election"
+        "Political",
+        "Morale",
+        "Campaigning",
+        "Are",
+        "Candidates"
       ],
       "high_frequency_keywords": [
         {
+          "label_en": "Political",
+          "label_zh": "Political",
+          "count": 1
+        },
+        {
+          "label_en": "Morale",
+          "label_zh": "Morale",
+          "count": 1
+        },
+        {
+          "label_en": "Campaigning",
+          "label_zh": "Campaigning",
+          "count": 1
+        },
+        {
+          "label_en": "Are",
+          "label_zh": "Are",
+          "count": 1
+        },
+        {
+          "label_en": "Candidates",
+          "label_zh": "Candidates",
+          "count": 1
+        },
+        {
+          "label_en": "Moral",
+          "label_zh": "Moral",
+          "count": 1
+        },
+        {
           "label_en": "Political science",
           "label_zh": "Political science",
-          "count": 3
+          "count": 1
         },
         {
           "label_en": "Politics",
           "label_zh": "Politics",
-          "count": 2
+          "count": 1
         },
         {
           "label_en": "Presidential election",
@@ -42,36 +72,6 @@
           "label_en": "Presidential system",
           "label_zh": "Presidential system",
           "count": 1
-        },
-        {
-          "label_en": "General election",
-          "label_zh": "General election",
-          "count": 1
-        },
-        {
-          "label_en": "Primary election",
-          "label_zh": "Primary election",
-          "count": 1
-        },
-        {
-          "label_en": "Political economy",
-          "label_zh": "Political economy",
-          "count": 1
-        },
-        {
-          "label_en": "Public relations",
-          "label_zh": "Public relations",
-          "count": 1
-        },
-        {
-          "label_en": "The",
-          "label_zh": "The",
-          "count": 1
-        },
-        {
-          "label_en": "Journalism",
-          "label_zh": "Journalism",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
@@ -79,16 +79,6 @@
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
           "count": 4
-        },
-        {
-          "label_en": "survey",
-          "label_zh": "survey",
-          "count": 1
-        },
-        {
-          "label_en": "interview",
-          "label_zh": "interview",
-          "count": 1
         }
       ]
     },
@@ -97,42 +87,42 @@
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
       "paperCount": 15,
-      "overview_en": "Across 15 papers, the most visible themes are Political science, Public relations, Sociology. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 15 papers, the most visible themes are Political science, Public relations, Sociology. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_en": "Across 15 papers, the most visible themes are Public relations, Political science, Sociology. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 15 papers, the most visible themes are Public relations, Political science, Sociology. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Political science",
         "Public relations",
+        "Political science",
         "Sociology",
         "Journalism",
         "Politics"
       ],
       "hot_topics_zh": [
-        "Political science",
         "Public relations",
+        "Political science",
         "Sociology",
         "Journalism",
         "Politics"
       ],
       "high_frequency_keywords": [
         {
-          "label_en": "Political science",
-          "label_zh": "Political science",
-          "count": 6
-        },
-        {
           "label_en": "Public relations",
           "label_zh": "Public relations",
           "count": 6
         },
         {
+          "label_en": "Political science",
+          "label_zh": "Political science",
+          "count": 5
+        },
+        {
           "label_en": "Sociology",
           "label_zh": "Sociology",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "Journalism",
           "label_zh": "Journalism",
-          "count": 5
+          "count": 4
         },
         {
           "label_en": "Politics",
@@ -275,7 +265,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 70
+          "count": 71
         },
         {
           "label_en": "survey",
@@ -295,7 +285,7 @@
         {
           "label_en": "experiment",
           "label_zh": "experiment",
-          "count": 22
+          "count": 21
         },
         {
           "label_en": "content analysis",
@@ -363,13 +353,13 @@
         "Politics",
         "Social media",
         "Political communication",
-        "Public opinion"
+        "Political science"
       ],
       "topic_bias_zh": [
         "Politics",
         "Social media",
         "Political communication",
-        "Public opinion"
+        "Political science"
       ],
       "method_bias_en": [
         "mixed methods",
@@ -619,7 +609,7 @@
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 70
+      "count": 71
     },
     {
       "label_en": "survey",
@@ -639,7 +629,7 @@
     {
       "label_en": "experiment",
       "label_zh": "experiment",
-      "count": 22
+      "count": 21
     },
     {
       "label_en": "content analysis",
