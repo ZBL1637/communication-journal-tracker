@@ -1,28 +1,68 @@
 {
-  "generatedAt": "2026-11-12T02:37:35.656Z",
+  "generatedAt": "2026-11-13T02:17:49.453Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
       "paperCount": 3,
-      "overview_en": "Across 3 papers, the most visible themes are Political, Morale, Campaigning. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 3 papers, the most visible themes are Political, Morale, Campaigning. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "overview_en": "Across 3 papers, the most visible themes are Public relations, Political science, Journalism. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 3 papers, the most visible themes are Public relations, Political science, Journalism. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
-        "Political",
-        "Morale",
-        "Campaigning",
-        "Are",
-        "Candidates"
+        "Public relations",
+        "Political science",
+        "Journalism",
+        "Public service",
+        "Computer science"
       ],
       "hot_topics_zh": [
-        "Political",
-        "Morale",
-        "Campaigning",
-        "Are",
-        "Candidates"
+        "Public relations",
+        "Political science",
+        "Journalism",
+        "Public service",
+        "Computer science"
       ],
       "high_frequency_keywords": [
+        {
+          "label_en": "Public relations",
+          "label_zh": "Public relations",
+          "count": 2
+        },
+        {
+          "label_en": "Political science",
+          "label_zh": "Political science",
+          "count": 2
+        },
+        {
+          "label_en": "Journalism",
+          "label_zh": "Journalism",
+          "count": 1
+        },
+        {
+          "label_en": "Public service",
+          "label_zh": "Public service",
+          "count": 1
+        },
+        {
+          "label_en": "Computer science",
+          "label_zh": "Computer science",
+          "count": 1
+        },
+        {
+          "label_en": "Sociology",
+          "label_zh": "Sociology",
+          "count": 1
+        },
+        {
+          "label_en": "Service (business)",
+          "label_zh": "Service (business)",
+          "count": 1
+        },
+        {
+          "label_en": "News media",
+          "label_zh": "News media",
+          "count": 1
+        },
         {
           "label_en": "Political",
           "label_zh": "Political",
@@ -31,46 +71,6 @@
         {
           "label_en": "Morale",
           "label_zh": "Morale",
-          "count": 1
-        },
-        {
-          "label_en": "Campaigning",
-          "label_zh": "Campaigning",
-          "count": 1
-        },
-        {
-          "label_en": "Are",
-          "label_zh": "Are",
-          "count": 1
-        },
-        {
-          "label_en": "Candidates",
-          "label_zh": "Candidates",
-          "count": 1
-        },
-        {
-          "label_en": "Moral",
-          "label_zh": "Moral",
-          "count": 1
-        },
-        {
-          "label_en": "Political science",
-          "label_zh": "Political science",
-          "count": 1
-        },
-        {
-          "label_en": "Politics",
-          "label_zh": "Politics",
-          "count": 1
-        },
-        {
-          "label_en": "Presidential election",
-          "label_zh": "Presidential election",
-          "count": 1
-        },
-        {
-          "label_en": "Presidential system",
-          "label_zh": "Presidential system",
           "count": 1
         }
       ],
@@ -86,33 +86,33 @@
       "key": "30d",
       "label_en": "Last 30 days",
       "label_zh": "Last 30 days",
-      "paperCount": 13,
-      "overview_en": "Across 13 papers, the most visible themes are Political science, Public relations, Sociology. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 13 papers, the most visible themes are Political science, Public relations, Sociology. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 12,
+      "overview_en": "Across 12 papers, the most visible themes are Political science, Public relations, Sociology. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 12 papers, the most visible themes are Political science, Public relations, Sociology. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Political science",
         "Public relations",
         "Sociology",
-        "Politics",
-        "Journalism"
+        "Journalism",
+        "Politics"
       ],
       "hot_topics_zh": [
         "Political science",
         "Public relations",
         "Sociology",
-        "Politics",
-        "Journalism"
+        "Journalism",
+        "Politics"
       ],
       "high_frequency_keywords": [
         {
           "label_en": "Political science",
           "label_zh": "Political science",
-          "count": 5
+          "count": 6
         },
         {
           "label_en": "Public relations",
           "label_zh": "Public relations",
-          "count": 5
+          "count": 4
         },
         {
           "label_en": "Sociology",
@@ -120,14 +120,24 @@
           "count": 4
         },
         {
+          "label_en": "Journalism",
+          "label_zh": "Journalism",
+          "count": 3
+        },
+        {
           "label_en": "Politics",
           "label_zh": "Politics",
           "count": 3
         },
         {
-          "label_en": "Journalism",
-          "label_zh": "Journalism",
-          "count": 3
+          "label_en": "Computer science",
+          "label_zh": "Computer science",
+          "count": 2
+        },
+        {
+          "label_en": "Service (business)",
+          "label_zh": "Service (business)",
+          "count": 2
         },
         {
           "label_en": "The",
@@ -143,33 +153,23 @@
           "label_en": "Psychology",
           "label_zh": "Psychology",
           "count": 2
-        },
-        {
-          "label_en": "Perception",
-          "label_zh": "Perception",
-          "count": 2
-        },
-        {
-          "label_en": "Political",
-          "label_zh": "Political",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 8
-        },
-        {
-          "label_en": "interview",
-          "label_zh": "interview",
-          "count": 3
+          "count": 9
         },
         {
           "label_en": "survey",
           "label_zh": "survey",
-          "count": 2
+          "count": 1
+        },
+        {
+          "label_en": "interview",
+          "label_zh": "interview",
+          "count": 1
         },
         {
           "label_en": "experiment",
@@ -187,9 +187,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 181,
-      "overview_en": "Across 181 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
-      "overview_zh": "Across 181 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "paperCount": 182,
+      "overview_en": "Across 182 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
+      "overview_zh": "Across 182 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, survey to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -228,22 +228,22 @@
         {
           "label_en": "Journalism",
           "label_zh": "Journalism",
-          "count": 20
+          "count": 21
         },
         {
           "label_en": "Political science",
           "label_zh": "Political science",
-          "count": 12
+          "count": 13
         },
         {
-          "label_en": "news media",
-          "label_zh": "news media",
-          "count": 12
+          "label_en": "News media",
+          "label_zh": "News media",
+          "count": 13
         },
         {
           "label_en": "Sociology",
           "label_zh": "Sociology",
-          "count": 10
+          "count": 11
         },
         {
           "label_en": "Work (physics)",
@@ -260,7 +260,7 @@
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 71
+          "count": 72
         },
         {
           "label_en": "survey",
@@ -372,18 +372,18 @@
     {
       "journalName": "Digital Journalism",
       "journalSlug": "digital-journalism",
-      "paperCount": 55,
+      "paperCount": 56,
       "topic_bias_en": [
         "Journalism",
         "Social media",
-        "Work (physics)",
-        "news media"
+        "News media",
+        "Work (physics)"
       ],
       "topic_bias_zh": [
         "Journalism",
         "Social media",
-        "Work (physics)",
-        "news media"
+        "News media",
+        "Work (physics)"
       ],
       "method_bias_en": [
         "mixed methods",
@@ -562,22 +562,22 @@
     {
       "label_en": "Journalism",
       "label_zh": "Journalism",
-      "count": 20
+      "count": 21
     },
     {
       "label_en": "Political science",
       "label_zh": "Political science",
-      "count": 12
+      "count": 13
     },
     {
-      "label_en": "news media",
-      "label_zh": "news media",
-      "count": 12
+      "label_en": "News media",
+      "label_zh": "News media",
+      "count": 13
     },
     {
       "label_en": "Sociology",
       "label_zh": "Sociology",
-      "count": 10
+      "count": 11
     },
     {
       "label_en": "Work (physics)",
@@ -590,13 +590,13 @@
       "count": 10
     },
     {
-      "label_en": "Misinformation",
-      "label_zh": "Misinformation",
+      "label_en": "Public relations",
+      "label_zh": "Public relations",
       "count": 8
     },
     {
-      "label_en": "Democracy",
-      "label_zh": "Democracy",
+      "label_en": "Misinformation",
+      "label_zh": "Misinformation",
       "count": 8
     }
   ],
@@ -604,7 +604,7 @@
     {
       "label_en": "mixed methods",
       "label_zh": "mixed methods",
-      "count": 71
+      "count": 72
     },
     {
       "label_en": "survey",
