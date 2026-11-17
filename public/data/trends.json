@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-16T01:29:34.673Z",
+  "generatedAt": "2026-11-17T04:15:29.102Z",
   "snapshots": [
     {
       "key": "7d",
       "label_en": "Last 7 days",
       "label_zh": "Last 7 days",
-      "paperCount": 2,
-      "overview_en": "Across 2 papers, the most visible themes are Journalism, Public service, Public relations. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
-      "overview_zh": "Across 2 papers, the most visible themes are Journalism, Public service, Public relations. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "paperCount": 1,
+      "overview_en": "Across 1 papers, the most visible themes are Journalism, Public service, Public relations. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
+      "overview_zh": "Across 1 papers, the most visible themes are Journalism, Public service, Public relations. Researchers most often rely on mixed methods to explain what these changes mean for communication.",
       "hot_topics_en": [
         "Journalism",
         "Public service",
@@ -62,23 +62,13 @@
           "label_en": "News media",
           "label_zh": "News media",
           "count": 1
-        },
-        {
-          "label_en": "Political",
-          "label_zh": "Political",
-          "count": 1
-        },
-        {
-          "label_en": "Morale",
-          "label_zh": "Morale",
-          "count": 1
         }
       ],
       "high_frequency_methods": [
         {
           "label_en": "mixed methods",
           "label_zh": "mixed methods",
-          "count": 2
+          "count": 1
         }
       ]
     },
