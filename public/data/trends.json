@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:41:43.683Z",
+  "generatedAt": "2026-11-25T04:43:04.530Z",
   "snapshots": [
     {
       "key": "7d",
@@ -187,9 +187,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 180,
-      "overview_en": "Across 180 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 180 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 178,
+      "overview_en": "Across 178 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 178 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -251,9 +251,9 @@
           "count": 10
         },
         {
-          "label_en": "Political communication",
-          "label_zh": "Political communication",
-          "count": 9
+          "label_en": "Public relations",
+          "label_zh": "Public relations",
+          "count": 8
         }
       ],
       "high_frequency_methods": [
@@ -285,7 +285,7 @@
         {
           "label_en": "content analysis",
           "label_zh": "content analysis",
-          "count": 12
+          "count": 11
         },
         {
           "label_en": "review",
@@ -343,7 +343,7 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 47,
+      "paperCount": 46,
       "topic_bias_en": [
         "Politics",
         "Social media",
@@ -513,7 +513,7 @@
     {
       "journalName": "Review of Communication Research",
       "journalSlug": "review-of-communication-research",
-      "paperCount": 4,
+      "paperCount": 3,
       "topic_bias_en": [
         "Systematic Review",
         "Climate Change",
@@ -587,11 +587,6 @@
       "count": 10
     },
     {
-      "label_en": "Political communication",
-      "label_zh": "Political communication",
-      "count": 9
-    },
-    {
       "label_en": "Public relations",
       "label_zh": "Public relations",
       "count": 8
@@ -599,6 +594,11 @@
     {
       "label_en": "Democracy",
       "label_zh": "Democracy",
+      "count": 8
+    },
+    {
+      "label_en": "Political communication",
+      "label_zh": "Political communication",
       "count": 8
     }
   ],
@@ -631,7 +631,7 @@
     {
       "label_en": "content analysis",
       "label_zh": "content analysis",
-      "count": 12
+      "count": 11
     },
     {
       "label_en": "review",
