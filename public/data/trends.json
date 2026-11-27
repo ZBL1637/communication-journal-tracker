@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:51:44.125Z",
+  "generatedAt": "2026-11-27T03:53:19.232Z",
   "snapshots": [
     {
       "key": "7d",
@@ -187,9 +187,9 @@
       "key": "180d",
       "label_en": "Last 6 months",
       "label_zh": "Last 6 months",
-      "paperCount": 175,
-      "overview_en": "Across 175 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
-      "overview_zh": "Across 175 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "paperCount": 174,
+      "overview_en": "Across 174 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
+      "overview_zh": "Across 174 papers, the most visible themes are And, The, Politics. Researchers most often rely on mixed methods, interview to explain what these changes mean for communication.",
       "hot_topics_en": [
         "And",
         "The",
@@ -218,12 +218,12 @@
         {
           "label_en": "Politics",
           "label_zh": "Politics",
-          "count": 26
+          "count": 25
         },
         {
           "label_en": "Social media",
           "label_zh": "Social media",
-          "count": 23
+          "count": 22
         },
         {
           "label_en": "Journalism",
@@ -295,7 +295,7 @@
         {
           "label_en": "case study",
           "label_zh": "case study",
-          "count": 6
+          "count": 5
         },
         {
           "label_en": "discourse analysis",
@@ -343,18 +343,18 @@
     {
       "journalName": "POLITICAL COMMUNICATION",
       "journalSlug": "political-communication",
-      "paperCount": 46,
+      "paperCount": 45,
       "topic_bias_en": [
         "Politics",
         "Social media",
-        "Political communication",
-        "Political science"
+        "Political science",
+        "Public opinion"
       ],
       "topic_bias_zh": [
         "Politics",
         "Social media",
-        "Political communication",
-        "Political science"
+        "Political science",
+        "Public opinion"
       ],
       "method_bias_en": [
         "mixed methods",
@@ -554,12 +554,12 @@
     {
       "label_en": "Politics",
       "label_zh": "Politics",
-      "count": 26
+      "count": 25
     },
     {
       "label_en": "Social media",
       "label_zh": "Social media",
-      "count": 23
+      "count": 22
     },
     {
       "label_en": "Journalism",
@@ -597,9 +597,9 @@
       "count": 8
     },
     {
-      "label_en": "Political communication",
-      "label_zh": "Political communication",
-      "count": 8
+      "label_en": "Misinformation",
+      "label_zh": "Misinformation",
+      "count": 7
     }
   ],
   "high_frequency_methods": [
@@ -641,7 +641,7 @@
     {
       "label_en": "case study",
       "label_zh": "case study",
-      "count": 6
+      "count": 5
     },
     {
       "label_en": "discourse analysis",
@@ -654,14 +654,14 @@
       "count": 2
     },
     {
-      "label_en": "commentary",
-      "label_zh": "评论",
-      "count": 2
-    },
-    {
       "label_en": "theoretical analysis",
       "label_zh": "理论分析",
       "count": 2
+    },
+    {
+      "label_en": "cross-country comparison",
+      "label_zh": "跨国比较",
+      "count": 1
     }
   ]
 }
